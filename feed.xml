@@ -6,7 +6,7 @@
 <atom:link href="https://yusuke1090.github.io/english-radio/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en-gb</language>
 <description>A British English radio show for the commute: farming and technology, everyday chat, and IELTS words in context.</description>
-<lastBuildDate>Tue, 17 Nov 2026 22:26:10 +0900</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:30:22 +0900</lastBuildDate>
 <itunes:author>English Radio</itunes:author>
 <itunes:image href="https://yusuke1090.github.io/english-radio/cover.jpg"/>
 <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -16,9 +16,9 @@
 <item>
 <title>1. Smart Collars for Dairy Cows</title>
 <description>A vet from New Zealand explains how sensors on cows spot illness and heat early. Then Sonia and Ryan talk about the daily commute.</description>
-<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep001.mp3?v=7f80095250" length="9786438" type="audio/mpeg"/>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep001.mp3?v=99343eb224" length="9786438" type="audio/mpeg"/>
 <guid isPermaLink="false">english-radio-001</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0900</pubDate>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1631</itunes:duration>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
@@ -26,9 +26,9 @@
 <item>
 <title>2. Milk and Mobile Money in Kenya</title>
 <description>How small dairy farms in Kenya feed their cows, sell their milk and get paid by phone. Then a report on plant-based milk, and a chat about tea.</description>
-<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep002.mp3?v=96103bd650" length="9601544" type="audio/mpeg"/>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep002.mp3?v=caec208f80" length="9601544" type="audio/mpeg"/>
 <guid isPermaLink="false">english-radio-002</guid>
-<pubDate>Thu, 19 Nov 2026 06:00:00 +0900</pubDate>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1600</itunes:duration>
 <itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
@@ -36,9 +36,9 @@
 <item>
 <title>3. Drones on the Farm</title>
 <description>An Australian agronomist on mapping and spraying crops with drones. Then a report on the four-day working week, and a chat about winter weather.</description>
-<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep003.mp3?v=3d16c6eaaa" length="9031004" type="audio/mpeg"/>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep003.mp3?v=c9ee5c25ea" length="9031004" type="audio/mpeg"/>
 <guid isPermaLink="false">english-radio-003</guid>
-<pubDate>Fri, 20 Nov 2026 06:00:00 +0900</pubDate>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1505</itunes:duration>
 <itunes:episode>3</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>

@@ -1,5 +1,5 @@
 title: Milk and Mobile Money in Kenya
-date: 2026-11-19
+date: 2026-11-17
 description: How small dairy farms in Kenya feed their cows, sell their milk and get paid by phone. Then a report on plant-based milk, and a chat about tea.
 guest: WANJIRU=en-KE-AsiliaNeural
 

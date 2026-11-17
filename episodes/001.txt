@@ -1,5 +1,5 @@
 title: Smart Collars for Dairy Cows
-date: 2026-11-18
+date: 2026-11-17
 description: A vet from New Zealand explains how sensors on cows spot illness and heat early. Then Sonia and Ryan talk about the daily commute.
 guest: MOLLY=en-NZ-MollyNeural
 

@@ -1,5 +1,5 @@
 title: Drones on the Farm
-date: 2026-11-20
+date: 2026-11-17
 description: An Australian agronomist on mapping and spraying crops with drones. Then a report on the four-day working week, and a chat about winter weather.
 guest: NATASHA=en-AU-NatashaNeural
 

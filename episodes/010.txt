@@ -1,0 +1,125 @@
+title: Maize, Rain and Resilience
+date: 2026-11-17
+description: A South African agronomist on maize, drought and small farms in Malawi and Zambia. Then a report on Glastonbury, the music festival on a dairy farm, and Sonia and Ryan look back on ten episodes.
+guest: LUKE=en-ZA-LukeNeural
+
+# Farm and Tech
+SONIA: Good morning, and welcome to English Radio. I'm Sonia.
+RYAN: And I'm Ryan. And this is a special one, Sonia. It's our tenth episode.
+SONIA: Ten episodes! [[Time flies|time flies]]. And to celebrate, we're going back to where many of our stories have taken us: the farms of Africa.
+RYAN: This time, we're heading to the south of the continent, to talk about one crop that feeds millions of people: maize.
+SONIA: Our guest is Luke, an agronomist from South Africa who works with small farmers in Malawi and Zambia. Luke, welcome to English Radio.
+LUKE: Thanks, Sonia. Good to be with you both.
+RYAN: Luke, how important is maize in southern Africa?
+LUKE: It's hard to overstate it. In countries like Malawi, Zambia and Zimbabwe, maize is the [[staple food]]. People eat it every day, usually as a thick porridge made from maize flour. In Malawi it's called nsima, in Zimbabwe it's sadza, in South Africa we call it pap, and in East Africa, as your listeners may know, it's ugali.
+SONIA: Imani told us about ugali in our episode on Swahili. You roll it into a ball with your fingers.
+LUKE: Exactly the same idea. And in many homes, if you haven't eaten nsima, you haven't really eaten, even if you've had a big meal of something else.
+RYAN: That's interesting, because maize isn't originally from Africa, is it?
+LUKE: No, it's not. Maize was [[domesticated|domesticate]] in Mexico, thousands of years ago, from a wild grass. It arrived in Africa through Portuguese traders, around the sixteenth century. Over time, it replaced older crops like sorghum and millet in many areas, because it gives high yields when the conditions are good.
+SONIA: When the conditions are good. I sense a but coming.
+LUKE: You're right. The big weakness of maize is water. It's quite sensitive to drought, especially at the moment when the plant is flowering. If it doesn't rain for two or three weeks at that critical time, the harvest can be ruined.
+RYAN: And most farms there depend on rain, rather than [[irrigation]]?
+LUKE: The vast majority, yes. Most farmers in Malawi have small plots, often around one hectare, and they rely completely on the [[rainy season]], which runs roughly from November to April. There's just one main harvest a year. So the whole family's food for the next twelve months depends on a few months of [[rainfall]].
+SONIA: That sounds incredibly [[vulnerable]].
+LUKE: It is. Many families practise what we call [[subsistence farming]]. They grow food mainly to eat themselves, and they sell only a little. If the harvest is poor, there's no savings account to fall back on.
+RYAN: Have there been bad years recently?
+LUKE: Yes. In early twenty twenty-four, southern Africa had one of its worst droughts in decades, linked to a strong El Niño, which is a natural climate pattern in the Pacific Ocean that affects weather around the world. February, which should be one of the wettest months, was extremely dry in many areas. Malawi, Zambia and Zimbabwe all declared national disasters.
+SONIA: That's terrible. What happened to the farmers?
+LUKE: In the worst-hit areas, maize crops simply dried up in the fields. Families lost most of their harvest, and food prices rose sharply. Millions of people needed food aid. And in Zambia and Zimbabwe, which depend on [[hydroelectric]] power from dams, the low water levels also caused long [[power cuts|power cut]].
+RYAN: So the drought hit food and electricity at the same time.
+LUKE: Exactly. That's the thing about [[extreme weather]]. It doesn't just affect one sector. It affects everything.
+SONIA: And climate change is making this more likely?
+LUKE: Scientists expect the region to face more variable rainfall and higher temperatures. Not every year will be a drought, but the extremes are likely to become more frequent. So farmers need to become more resilient, and that's a big part of my work.
+RYAN: What does building [[resilience]] look like on a small farm?
+LUKE: Several things. The first is better seeds. Plant breeders, working with international research centres, have developed drought-tolerant maize varieties. They're not magic, but in a dry year, they can give a much better harvest than older varieties.
+SONIA: Are these [[genetically modified]]?
+LUKE: Most of the ones we use are not. They're developed through conventional breeding, selecting the plants that survive dry conditions best, over many generations. It's slow work, but very effective.
+RYAN: What else?
+LUKE: The second is changing how the soil is managed. We teach something called conservation agriculture. You disturb the soil as little as possible, you cover it with crop residues, like old maize stalks, and you rotate or mix maize with legumes, such as groundnuts, soybeans and pigeon peas.
+SONIA: That sounds very similar to what Liam told us about the Canadian prairies.
+LUKE: It's the same science, just on a much smaller scale. The covering on the soil keeps the moisture in, so the crop can survive a dry spell for longer. And the legumes are wonderful, because they take nitrogen from the air and put it into the soil, which reduces the need for expensive fertiliser. Farmers can also eat or sell the beans and peas, so they're not relying on just one crop.
+RYAN: So diversity is important.
+LUKE: Absolutely. That's the third point. Don't put all your eggs in one basket. Some farmers are going back to traditional crops, like sorghum, millet, cassava and sweet potatoes, which cope much better with drought. A field with five different crops is much safer than a field with only maize.
+SONIA: Are there any new technologies helping?
+LUKE: Quite a few, and most of them run on the mobile phone, like in Kenya. Farmers can receive weather forecasts and planting advice by text message or through local radio programmes. There are apps where you take a photo of a damaged leaf, and the software helps identify the [[pest]] or disease.
+RYAN: What kind of pests are a problem?
+LUKE: The big one in recent years has been the fall armyworm. It's a caterpillar that originally came from the Americas. It was first reported in Africa in twenty sixteen, and within a couple of years it had spread across most of the continent. It loves maize. So catching it early really matters.
+SONIA: You mentioned that families have no savings account to fall back on. Is there anything like insurance for farmers?
+LUKE: Yes, and it's a very interesting idea. It's called index [[insurance]]. Traditional insurance needs someone to visit the farm and inspect the damage, which is far too expensive for millions of tiny farms. With index insurance, the payment is based on data, for example rainfall measurements or satellite images. If the data shows a drought in your area, everyone with a policy gets paid automatically, often through mobile money.
+RYAN: So it's like the cooperative payments in Kenya. Data and phones working together.
+LUKE: Exactly. It's still not widely used, and there are challenges, especially making it [[affordable]]. But it's promising.
+SONIA: What about after the harvest? Is storage an issue?
+LUKE: A big one. A surprising amount of grain is lost after harvest, to insects, rats and mould. One simple and very effective solution is a special airtight bag. You put the dry maize inside, seal it, and the insects run out of oxygen and die. No chemicals needed.
+RYAN: That's beautifully simple.
+LUKE: Often the simplest solutions are the best. A good bag, a good seed, a covered soil, and a phone with a weather forecast. Put those together, and a family can be far more secure.
+RYAN: Luke, you've talked a lot about maize. But is there any farming in Malawi that isn't about maize?
+LUKE: Definitely. For many years, Malawi's most important export has been tobacco. It's a [[cash crop]], which means farmers grow it to sell, not to eat. It has brought in a lot of money, but it's a difficult crop to depend on, because demand for tobacco is falling around the world.
+SONIA: So the country needs to find new crops to sell.
+LUKE: Exactly. People are trying things like macadamia nuts, soybeans, and groundnuts for export. And then there's Lake Malawi, which is enormous. It covers about a fifth of the whole country. Fishing is very important, and the most famous fish is called chambo. It's a kind of tilapia, and grilled chambo with nsima is a classic Malawian meal.
+RYAN: That sounds delicious. Is the lake used for farming too?
+LUKE: More and more. And this is one of the most exciting changes I've seen. Small solar-powered pumps. A farmer near a river or the lake can now pump water onto their fields without paying for diesel. That means they can grow vegetables in the [[dry season]], when prices at the market are high.
+SONIA: So the sun, which causes the drought, can also help solve it.
+LUKE: That's a nice way to put it. Solar pumps aren't cheap, but prices have come down a lot, and some companies let farmers pay in small amounts every month, using mobile money.
+RYAN: Mobile money again! It's been in so many of our stories.
+LUKE: It's one of the most important inventions for African farmers in my lifetime. And young people are getting involved too. I've met young Malawians who run small businesses selling vegetables to hotels and supermarkets in the city, and they're using phones, social media and irrigation to make a real living from farming.
+SONIA: That's very encouraging, after hearing so often that young people are leaving farming.
+LUKE: It's not everywhere, but it's growing. When farming makes money, young people come back.
+SONIA: Luke, what keeps you optimistic?
+LUKE: The farmers themselves. I've met women in Malawi who were growing only maize ten years ago, and now they have groundnuts, pigeon peas, a few goats and a small vegetable garden. When the drought came, they still had something to eat and something to sell. Seeing that change is what gets me out of bed in the morning.
+RYAN: Luke, thank you so much for joining us.
+LUKE: My pleasure. And congratulations on your tenth episode.
+
+# The Report
+RYAN: Now it's time for The Report. Sonia, for our tenth episode, you've chosen a story that brings together two of this show's favourite subjects.
+SONIA: That's right, Ryan: dairy farming and music. Every few summers, one of the most famous music [[festivals|festival]] in the world takes place on a working dairy farm in the south-west of England. It's called Glastonbury.
+SONIA: The festival is held at Worthy Farm, in the village of Pilton, in Somerset, the same county that gave the world cheddar cheese. The farm has been run by the Eavis family for generations. In nineteen seventy, a young dairy farmer called Michael Eavis decided to hold a small music festival on his land. About fifteen hundred people came. The ticket price was one pound, and it included free milk from the farm.
+SONIA: Since then, the festival has grown enormously. Today, around two hundred thousand people attend, making it one of the largest outdoor music festivals in the world. For five days in late June, the fields become a temporary city, with more than a hundred stages, from the famous Pyramid Stage, where the biggest stars perform, to tiny tents for poetry, comedy and theatre. Tickets often sell out within an hour.
+SONIA: Before the festival, the cows are moved off the land. Afterwards, an enormous clean-up begins, and within a few weeks, the cows are back, grazing in the fields where crowds were dancing. Every few years, the organisers take a break, called a fallow year, to let the land recover and to give the village and the farm a rest.
+SONIA: The festival has always had a strong sense of social purpose. It raises millions of pounds for [[charities|charity]], including organisations working on poverty, the environment and clean water. It has also tried to reduce its environmental impact. In twenty nineteen, Glastonbury stopped selling drinks in [[single-use plastic]] bottles, and festival-goers are encouraged to bring reusable bottles and take their tents home with them, rather than leaving them behind.
+SONIA: The weather, of course, is part of the legend. In wet years, the fields turn into a sea of mud, and photos of festival-goers in wellington boots, covered in mud but still smiling, appear in newspapers around the world.
+SONIA: Today, the festival is run by Michael's daughter, Emily Eavis, while Michael, now in his nineties, still lives on the farm. Over fifty years, it has grown from a small gathering in a field into a global event. And yet, at its heart, it is still what it was in nineteen seventy: a farm, a family, and a lot of music. That's the report for today.
+RYAN: Thanks, Sonia. Free milk with your ticket. I love that.
+SONIA: It's the most Somerset thing I've ever heard.
+
+# Daily Talk
+RYAN: So, Sonia, ten episodes. How does it feel?
+SONIA: Honestly, I'm a bit [[nostalgic]] already. Shall we [[look back on]] some of our favourite moments?
+RYAN: Let's do it. What's your [[highlight]]?
+SONIA: Oh, there are so many. But I think my favourite is still the man in the van, from the very first episode.
+RYAN: The man in the van who gave you a round of applause for your car karaoke!
+SONIA: Exactly. I still think about him. If you're listening, sir, thank you for your support.
+RYAN: Mine is probably Natasha and the kangaroo. Walking across a field in Australia to collect a drone, and a kangaroo jumping out of nowhere.
+SONIA: That was brilliant. And Maureen, the bossy cow in Connor's herd.
+RYAN: Maureen! I want to visit Ireland just to meet Maureen.
+SONIA: And Wanjiru's goat, stealing the neighbour's Napier grass.
+RYAN: The goat that started a hundred arguments. And Liam's underwear test, burying cotton underwear in the field to check the soil.
+SONIA: I still can't believe that's a real scientific method.
+RYAN: It is! I've actually buried a pair in my garden. I'll dig them up in January.
+SONIA: You have to tell us the results.
+RYAN: I promise. And then there was Wayne's lettuce nightclub in Singapore.
+SONIA: The pink and purple lights! And his grandmother saying the lettuce was good.
+RYAN: The best review he ever had. What about the food? We've talked about a lot of food.
+SONIA: We have. Cheese, curry, street food, breakfast, Christmas dinner. And tea. So much tea.
+RYAN: I think tea has come up in almost every episode.
+SONIA: Every single one, I think. Milk first or milk last, the tea round, Kenyan chai, a cup of tea with cheddar, the tea tray for sledging…
+RYAN: The tea tray! I'd forgotten about that.
+SONIA: I think tea is the unofficial third presenter of this show.
+RYAN: I agree. What have you learned, Sonia? Anything that surprised you?
+SONIA: I think the biggest surprise for me was how connected everything is. A cow in New Zealand, a cooperative in Kenya, a drone in Australia, a farmer in Malawi. They're all facing similar questions. How do you produce food with less water, less labour, and a changing climate?
+RYAN: And they're using similar tools. Sensors, phones, data, and cooperation.
+SONIA: And also very old wisdom. Making silage, rotating crops, covering the soil. Some of the best solutions are really simple.
+RYAN: That's true. And for me, the surprise was how much music and food tell you about a culture. Afrobeats from Lagos, city pop from Tokyo, the langar in Amritsar. Every one of those stories was really about people and how they live together.
+SONIA: Beautifully put. Now, let's say something to our listeners. If you've been with us for all ten episodes, you've heard a lot of English. Different accents too. New Zealand, Kenya, Australia, Ireland, Nigeria, Canada, Tanzania, Singapore, India and South Africa.
+RYAN: That's ten different accents, which is great practice. In real life, and in exams, you won't only hear British English.
+SONIA: Exactly. And we've given you lots of challenges. Shadowing in the car, describing your breakfast, explaining the British round, singing along to a song.
+RYAN: [[In a nutshell|in a nutshell]], keep listening, keep repeating, and keep talking. Even if it's just to yourself in the car.
+SONIA: Especially in the car. Nobody can hear you.
+RYAN: Except the man in the van.
+SONIA: Except the man in the van. Ryan, what would you like to do in the next ten episodes?
+RYAN: I'd love to visit more places. Maybe South America, or the Middle East. And I'd love to talk about more music.
+SONIA: I'd like to learn more about Japan, since so many of our listeners are there. And maybe some science. Space, or the human brain.
+RYAN: And more cows, obviously.
+SONIA: There will always be more cows.
+RYAN: Well, I'm really [[grateful]] to everyone who's listening. Thank you for spending your mornings with us.
+SONIA: Me too. Ten episodes, and many more to come. Drive carefully, and see you in episode eleven.
+RYAN: And put the kettle on when you get home.

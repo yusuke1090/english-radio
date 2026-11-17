@@ -6,7 +6,7 @@
 <atom:link href="https://yusuke1090.github.io/english-radio/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en-gb</language>
 <description>A British English radio show for the commute: farming and technology, everyday chat, and IELTS words in context.</description>
-<lastBuildDate>Tue, 17 Nov 2026 22:30:22 +0900</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 23:36:42 +0900</lastBuildDate>
 <itunes:author>English Radio</itunes:author>
 <itunes:image href="https://yusuke1090.github.io/english-radio/cover.jpg"/>
 <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -41,6 +41,76 @@
 <pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1505</itunes:duration>
 <itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>4. From Milk to Cheese</title>
+<description>An Irish cheesemaker explains how milk becomes cheese. Then a report on the global rise of Japanese city pop, and a chat about breakfast.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep004.mp3?v=97b269238e" length="8389485" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-004</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1398</itunes:duration>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>5. The Sound of Africa</title>
+<description>A music journalist from Lagos explains how Afrobeats went global. Then a report on the vinyl revival, and a chat about the British pub.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep005.mp3?v=127d7fa270" length="8247213" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-005</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1374</itunes:duration>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>6. The Life Under Our Feet</title>
+<description>A Canadian soil scientist on what soil really is, how farmers protect it, and how to measure soil moisture. Then a report on British allotments, and a chat about Christmas.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep006.mp3?v=e8e6238ea5" length="8643649" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-006</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1441</itunes:duration>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>7. Swahili and the Spice Island</title>
+<description>A teacher from Zanzibar talks about the Swahili language, greetings, food and the history of the Spice Island. Then a report on words English borrowed from other languages, and a chat about street food.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep007.mp3?v=dfec84505f" length="8756550" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-007</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1459</itunes:duration>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>8. Farms in the Sky</title>
+<description>An urban farmer from Singapore explains rooftop farms, vertical farms and food security in a small city. Then a report on the global matcha boom, and a chat about karaoke.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep008.mp3?v=dd92cc01cd" length="8981034" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-008</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1497</itunes:duration>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>9. Food and Faith</title>
+<description>A food writer from Mumbai explains how religion shapes what people eat in India and around the world. Then a report on Britain's love of curry, and a chat about listening to music while you work.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep009.mp3?v=3c57149a09" length="8972104" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-009</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1495</itunes:duration>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>10. Maize, Rain and Resilience</title>
+<description>A South African agronomist on maize, drought and small farms in Malawi and Zambia. Then a report on Glastonbury, the music festival on a dairy farm, and Sonia and Ryan look back on ten episodes.</description>
+<enclosure url="https://github.com/yusuke1090/english-radio/releases/download/audio/ep010.mp3?v=b89b497849" length="8440758" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-010</guid>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1407</itunes:duration>
+<itunes:episode>10</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel>

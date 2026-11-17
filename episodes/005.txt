@@ -1,0 +1,121 @@
+title: The Sound of Africa
+date: 2026-11-17
+description: A music journalist from Lagos explains how Afrobeats went global. Then a report on the vinyl revival, and a chat about the British pub.
+guest: EZINNE=en-NG-EzinneNeural
+
+# Music
+RYAN: Good morning, and welcome to English Radio. I'm Ryan.
+SONIA: And I'm Sonia. Today's show is all about music, so if you'd like to turn the volume up a little, now's the time.
+RYAN: Earlier in the series, we visited dairy farms in Kenya. Today, we're going to the other side of Africa, to Nigeria, and to a sound that has taken over the world.
+SONIA: Afrobeats. If you've been in a shop, a gym or a taxi anywhere in the world in the last few years, you've almost certainly heard it, even if you didn't know what it was.
+RYAN: To explain, we're joined by Ezinne, a music journalist based in Lagos. Ezinne, welcome to English Radio.
+EZINNE: Thank you so much. I'm very happy to be here.
+SONIA: Ezinne, let's start with the basics. What exactly is Afrobeats?
+EZINNE: Afrobeats is a big umbrella term for modern popular music from West Africa, especially Nigeria and Ghana. It mixes local rhythms with hip hop, R and B, dancehall and pop. The songs are usually very danceable, with a relaxed, rolling beat, and they often mix English, Nigerian Pidgin and local languages like Yoruba or Igbo.
+RYAN: Nigerian Pidgin is a kind of simplified English, isn't it?
+EZINNE: It's based on English, but it's really its own language, with its own grammar. Millions of Nigerians use it every day, because Nigeria has hundreds of languages, and Pidgin helps people from different groups understand each other. So when an artist sings in Pidgin, they can reach almost everybody.
+SONIA: I've noticed that people often confuse Afrobeats with Afrobeat, without the s.
+EZINNE: Yes, and that's an important difference. Afrobeat, without the s, was created in the nineteen seventies by a Nigerian musician called Fela Kuti. It mixed jazz, funk and West African highlife music, with long songs, big horn sections, and very political lyrics. Fela [[criticised|criticise]] the military government, and he was arrested many times.
+RYAN: So it was protest music.
+EZINNE: Very much so. Afrobeats, with an s, came much later, in the two thousands, and it's more of a pop sound. But Fela's [[influence]] is still everywhere. Many of today's stars grew up listening to him.
+SONIA: When did Afrobeats start to become popular outside Africa?
+EZINNE: Step by step. In the two thousand and tens, artists like Wizkid and Davido became huge across Africa. Then they started to work with British and American stars. A big turning point was when Wizkid appeared on a global number-one hit with Drake in two thousand and sixteen. After that, the world started paying attention.
+RYAN: And the British connection is important, isn't it?
+EZINNE: Very important. London has a large Nigerian and Ghanaian community. Young people there grew up with Afrobeats at home and British rap on the street, and they mixed the two. So London became a kind of second home for the music. When a song is popular in London, it spreads quickly to the rest of Europe.
+SONIA: And now there are even Grammy awards for African music.
+EZINNE: Yes. Burna Boy won a Grammy for his album Twice as Tall in two thousand and twenty-one. And a few years later, the Grammys created a new category just for African music. That was a big moment for us, a recognition that this music is not a small trend. It's here to stay.
+RYAN: What's driving the success? Why now?
+EZINNE: I would say three things. First, streaming. In the past, an African artist needed a big international record company to get their music into shops abroad. Now, a young producer in Lagos can upload a song, and the next day someone in Tokyo can listen to it. Second, social media. A dance challenge on a short video app can make a song famous in a week. And third, [[demographics|demographic]]. Nigeria has a very young population, over two hundred million people, and a lot of [[creative]] energy.
+SONIA: Can you give us an example of a song that spread like that?
+EZINNE: Calm Down, by Rema, is a perfect example. The original came out in two thousand and twenty-two. Then a remix with the American singer Selena Gomez became a massive global hit. It has been streamed billions of times. People who had never heard of Nigerian music were singing it in their cars.
+RYAN: Possibly some of our listeners right now.
+EZINNE: Possibly! And it's a great song for the car. Very smooth.
+SONIA: You mentioned a dance challenge. How important is dance to the music?
+EZINNE: It's central. In Nigeria, music and dance are never really separate. Every few months there's a new dance move connected to a song, and everybody from children to grandmothers learns it. At a wedding in Lagos, you will see three generations dancing together to the same song.
+RYAN: That's lovely. At British weddings, it's usually just a few uncles dancing badly.
+EZINNE: Then you should come to a Nigerian wedding. You'll learn.
+SONIA: Is Afrobeats the only big African sound right now?
+EZINNE: Not at all. Africa is a huge continent with many music scenes. From South Africa, there's amapiano, which started in the townships around Johannesburg and Pretoria. It's slower, with a deep, bouncing bass sound called the log drum. Amapiano has become hugely popular too. In Tanzania and Kenya, there's Bongo Flava, which is sung mostly in Swahili. And there are so many more.
+RYAN: It sounds like there's a real [[cultural exchange|cultural exchange]] happening, between countries inside Africa and with the rest of the world.
+EZINNE: Exactly. Nigerian artists work with South African producers, Ghanaian artists collaborate with British rappers. The music travels in every direction.
+SONIA: Some people worry about the [[globalisation of culture]], that everything will start to sound the same. Do you think that's a risk?
+EZINNE: It's a fair question. There is some pressure to make songs that sound good to a global [[audience]], maybe with more English and less local language. But I'm optimistic. The most successful artists are the ones who stay true to their roots. People abroad don't want a copy of American pop. They want something that sounds like Lagos.
+RYAN: What about the business side? Are artists in Nigeria making money from all this?
+EZINNE: The top stars, yes, very much. But for smaller artists, it's still difficult. Streaming pays very little per play, and many people in Africa still listen for free. Live shows are important, but organising concerts in Nigeria can be challenging. Power cuts, traffic, security. But the industry is growing fast, and more young people see music as a real career now.
+SONIA: Ezinne, if a listener wants to start exploring African music, where should they start?
+EZINNE: Start with what you like. If you like pop, try Burna Boy, Tems or Wizkid. If you like electronic dance music, try amapiano from South Africa. If you like older music, go back to Fela Kuti, and you'll understand where so much of it comes from. And make a playlist for your commute. Driving in traffic is much more pleasant with a good beat.
+RYAN: That's good advice. Ezinne, thank you so much.
+EZINNE: It's been my pleasure. Thank you.
+
+# The Report
+SONIA: Now it's time for The Report. And we're staying with music today. Ryan?
+RYAN: Thanks, Sonia. In an age when almost any song in the world can be played instantly on a smartphone, a surprising number of people are paying good money for large, [[fragile]] discs made of plastic. The vinyl record is back.
+RYAN: Vinyl was the main way people bought music for decades, from the nineteen fifties to the nineteen eighties. Then came the cassette, the CD, and finally the digital download and streaming. By the mid two thousands, vinyl had almost disappeared. Only a few specialist shops and collectors kept it alive.
+RYAN: But then something unexpected happened. In Britain, vinyl sales have risen every year for well over a [[decade]]. In the United States, records now earn more money than CDs. New record shops have opened on high streets, and supermarkets have started selling records next to the milk and bread.
+RYAN: Who is buying them? Not only older people who are [[nostalgic]] for their youth. Many buyers are in their twenties and thirties, and grew up with streaming. For them, a record is something different from music on a phone. It's a physical object, with large artwork, that you can hold, display on a shelf and give as a present.
+RYAN: Some fans say vinyl sounds warmer and richer than digital music. Scientists and sound engineers argue about whether that's really true. But many listeners agree that the experience is different. You can't skip a song with one tap. You choose an album, put it on, and listen to one side from beginning to end. In a world of endless choice, some people find that very relaxing.
+RYAN: Surveys have found something surprising, too. [[A significant proportion|a significant proportion]] of people who buy records don't own a record player at all. For them, the record is a way of supporting an artist they love, or a piece of art to put on the wall.
+RYAN: Artists and record companies have noticed. Big stars now release special editions in different colours, which fans collect like trading cards. Every year, on Record Store Day, independent shops around the world sell limited editions, and some fans queue outside from the night before.
+RYAN: However, the revival has its critics. Vinyl is made from plastic, which is produced from oil, and the factories that press records use a lot of energy. Some companies are experimenting with recycled and plant-based materials to reduce the [[environmental]] impact. There are also complaints about rising prices. A new album on vinyl can cost more than a year's [[subscription|subscription]] to a streaming service, if you buy the special edition.
+RYAN: Vinyl will probably never replace streaming. It's still a small part of the music business, and most people listen on their phones. But its comeback shows that, even in a digital world, many of us still want something we can touch. That's the report for today.
+SONIA: Thanks, Ryan. I have to confess, I bought a record last month, and I don't have a record player.
+RYAN: You're exactly the person the surveys were talking about.
+SONIA: It's on my wall. It looks lovely.
+
+# Daily Talk
+RYAN: Now, Sonia, for our chat today, I want to talk about one of the most important places in British life.
+SONIA: The record shop?
+RYAN: No. The pub.
+SONIA: Ah, of course. The public house.
+RYAN: For our listeners who've never been to Britain, a pub is a bit like a bar, but it's more than that. It's a meeting place, a living room for the whole [[neighbourhood]]. Especially in villages, the pub is often the heart of the [[community]].
+SONIA: That's true. In my grandparents' village, the pub was where you went to find out everything. Who was ill, who was getting married, whose cows had escaped.
+RYAN: Cows escaping again. This series is full of cows.
+SONIA: We can't escape them. So, Ryan, there's some pub [[etiquette]] that visitors should know about, isn't there?
+RYAN: Definitely. The first thing is that, in most pubs, there's no table service. You go to the bar to order, and you pay straight away.
+SONIA: And you don't need to tip the bar staff, although some people say, and one for yourself, which means they're buying the bartender a drink too.
+RYAN: The second thing is the round. If you go to the pub with friends, you take turns buying drinks for the whole group. I buy the first round, you buy the second, and so on.
+SONIA: It's like the tea round we talked about at work.
+RYAN: Exactly the same idea. And the same rule applies. If you accept a drink in someone's round, you have to buy a round yourself later. Leaving without buying your round is a terrible crime.
+SONIA: Not literally a crime.
+RYAN: Socially, it's a crime. People will remember.
+SONIA: That's true. What else?
+RYAN: Queuing at the bar is interesting. There's no visible line, but everyone knows who arrived first, and a good bartender knows too. If you push in, people will notice. They probably won't say anything, but they'll notice.
+SONIA: That's the British way. Silent judgement.
+RYAN: Silent judgement, and maybe a little tut.
+SONIA: Have you ever noticed the names of British pubs? They're wonderful.
+RYAN: They are. The Red Lion, The Crown, The King's Head, The Rose and Crown. I've read that The Red Lion is the most common pub name in England.
+SONIA: And there are some very strange ones too. The Drunken Duck, The Cat and Fiddle, The Slug and Lettuce.
+RYAN: The Slug and Lettuce! Who would want to drink somewhere called that?
+SONIA: Lots of people, apparently. And every pub has a painted sign hanging outside, with a picture of its name.
+RYAN: There's a reason for that, isn't there? Hundreds of years ago, many people couldn't read, so the picture told them which pub it was. You could say, meet me at the sign of the red lion, and everyone knew where to go.
+SONIA: That's clever. So the signs were a kind of early logo.
+RYAN: Exactly. Early [[advertising]]. And some pubs are incredibly old. There are several pubs that claim to be the oldest in England, some of them supposedly more than eight hundred years old.
+SONIA: Claim being the important word.
+RYAN: Claim being the important word. Nobody can quite prove it, so they all argue about it. Which is very appropriate for a pub.
+SONIA: Something else I love about British pubs is that many of them welcome dogs.
+RYAN: Yes! In lots of country pubs, you'll find a dog asleep by the fire, and a bowl of water by the door. Some pubs even have dog biscuits behind the bar.
+SONIA: That's one thing I'd love to see in Japan. A dog-friendly izakaya.
+RYAN: That would be wonderful. Though maybe the dogs would steal the yakitori.
+SONIA: That's a [[risk]] I'm willing to take.
+SONIA: And of course, pubs aren't just about alcohol. Lots of people go for food. On Sunday, many pubs serve a Sunday roast, with roast beef or chicken, roast potatoes, vegetables, Yorkshire pudding and lots of gravy.
+RYAN: The Sunday roast is one of the best things about Britain. And then there's the pub quiz.
+SONIA: I love a pub quiz. Teams of friends sit together and answer general knowledge questions. History, music, sport, science.
+RYAN: And there's always one team with a very clever name, and one person who's secretly looking at their phone.
+SONIA: Which is cheating!
+RYAN: Which is definitely cheating. And at the end of the night, the bartender rings a bell and shouts, last orders, which means it's your final chance to buy a drink.
+SONIA: And for anyone listening in the car, let's be clear: if you're driving to the pub, you're on soft drinks.
+RYAN: Absolutely. Actually, there's a big trend now towards non-alcoholic drinks. Lots of pubs sell alcohol-free beer, and many young people drink much less than previous generations.
+SONIA: I've read that, yes. Young people seem to prefer going to the gym or meeting for coffee.
+RYAN: And sadly, lots of pubs have closed in recent years, especially in villages. Energy bills, rising costs, and fewer customers. It's a real loss for the community when the last pub in a village closes.
+SONIA: Some villages have actually bought their pub. The local people each put in some money and run it together, as a community pub.
+RYAN: Like the cooperative in Kenya, in a way. People working together to keep something important.
+SONIA: That's a lovely connection. Now, have you been to a pub in Japan? Or the Japanese equivalent?
+RYAN: I've been to an izakaya, which is probably the closest thing. It was fantastic. Lots of small dishes to share, like yakitori, grilled chicken on sticks, and edamame. Everyone orders together, and the food keeps coming.
+SONIA: And you start with a toast, don't you? Kanpai!
+RYAN: Kanpai! Everyone waits until the drinks arrive and then toasts together. In a British pub, people just start drinking whenever they want.
+SONIA: I think the izakaya way is more [[sociable]], actually. Sharing food brings people together.
+RYAN: I agree. Maybe British pubs should learn something from the izakaya. More sharing plates.
+SONIA: And maybe izakayas could learn the pub quiz.
+RYAN: That would be amazing. A pub quiz with yakitori. I'd go every week.
+SONIA: So would I. All right, for our listeners, today's little challenge. Next time you're out with friends or colleagues, try explaining the British idea of a round, in English. See if they think it's a good system.
+RYAN: And remember, always buy your round.

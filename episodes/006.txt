@@ -1,0 +1,133 @@
+title: The Life Under Our Feet
+date: 2026-11-17
+description: A Canadian soil scientist on what soil really is, how farmers protect it, and how to measure soil moisture. Then a report on British allotments, and a chat about Christmas.
+guest: LIAM=en-CA-LiamNeural
+
+# Farm and Tech
+SONIA: Good morning, and welcome to English Radio. I'm Sonia.
+RYAN: And I'm Ryan. Thanks for joining us on your drive this morning.
+SONIA: Ryan, earlier in the series, we looked at farms from the sky, with drones. Today, we're going in the opposite direction. Down.
+RYAN: Down into the ground. We're talking about [[soil]].
+SONIA: Something we walk on every day and almost never think about. Our guest is Liam, a soil scientist from Saskatchewan, in the Canadian prairies. Liam, welcome to the show.
+LIAM: Thanks very much. Happy to be here, even if it's a little early in the morning for me.
+RYAN: Liam, let's start with a simple question that's probably not simple at all. What is soil?
+LIAM: You're right, it's not simple. A lot of people think soil is just dirt, brown stuff that plants happen to grow in. But soil is actually a living system. About half of it is solid material, mostly tiny pieces of rock, which we call sand, silt and clay, plus some organic matter, which comes from dead plants and animals. The other half is empty space, filled with air and water.
+SONIA: Half of it is empty space? I had no idea.
+LIAM: That's right. And those spaces are really important. They're where roots grow, where water is stored, and where countless living things move around.
+RYAN: How many living things are we talking about?
+LIAM: An enormous number. There's a well-known saying that a teaspoon of healthy soil contains more living [[organisms|organism]] than there are people on Earth. Bacteria, fungi, tiny insects, worms. Most of them are far too small to see.
+SONIA: That's amazing. A teaspoon!
+LIAM: And they're not just living there. They're working. They break down dead leaves and roots, they release nutrients that plants need, and they help hold the soil together, so it doesn't wash or blow away.
+RYAN: Earthworms are the famous ones, aren't they?
+LIAM: They are. Charles Darwin was fascinated by earthworms. His very last book, published in eighteen eighty-one, was all about them. He calculated how much soil worms move, and he concluded that they had shaped the whole landscape of England over time.
+SONIA: Darwin wrote a book about worms? I only knew about the evolution one.
+LIAM: Most people don't know about it. But farmers love worms. When you dig a spade of soil and see lots of earthworms, it's usually a sign of healthy soil.
+RYAN: How long does it take to make new soil?
+LIAM: That's the scary part. It's very, very slow. It can take hundreds of years to form just a few centimetres of topsoil. But you can lose that same soil in a single storm, if the ground is bare.
+SONIA: So, in human terms, soil is basically not renewable.
+LIAM: Exactly. That's why protecting it is so important. And where I come from, we learned that lesson the hard way.
+RYAN: You mean the Dust Bowl?
+LIAM: Yes. In the nineteen thirties, a lot of the North American prairies had been ploughed up for wheat. The deep-rooted native grasses that held the soil in place were gone. Then a long [[drought]] came. The dry soil turned to dust, and strong winds carried it away in huge black clouds. Some dust storms were so big that the sky went dark in the middle of the day.
+SONIA: That sounds terrifying.
+LIAM: It was a disaster, both environmental and human. Thousands of farm families lost everything. It's still one of the most famous examples of [[soil erosion]] in history.
+RYAN: And what did farmers learn from it?
+LIAM: Over the following decades, they learned to farm differently. One of the biggest changes, especially here in Saskatchewan, has been something called zero tillage, or no-till.
+SONIA: What does that mean?
+LIAM: Traditionally, farmers ploughed the field before planting, turning the soil over to bury weeds and old crop material. With no-till, you don't plough at all. You leave last year's stubble, the bottom part of the stems, on the surface, and you plant the new seeds straight through it with a special machine.
+RYAN: Why is that better?
+LIAM: For several reasons. The stubble acts like a blanket. It protects the soil from wind and rain, so there's much less erosion. It also keeps moisture in the ground, which is vital on the dry prairies. And because you're not driving a tractor up and down to plough, you save a lot of fuel and time. Today, most farmland on the Canadian prairies is managed with no-till or very little tillage.
+SONIA: So the whole system changed in one generation.
+LIAM: More or less. It was a real revolution, and it was driven by farmers themselves, who saw that their soil was getting better.
+RYAN: Are there other ways to look after soil?
+LIAM: Lots. [[Crop rotation|crop rotation]] is an old one, changing what you grow in a field each year, so pests and diseases don't build up. Cover crops are another. That means planting something, like clover or rye, just to cover the ground between main crops. The roots hold the soil, and when the plants die, they feed the organisms underground. And some farmers add [[compost]] or manure, which builds up organic matter.
+SONIA: And I suppose healthy soil is good for the climate too?
+LIAM: Very much so. Soils store a huge amount of carbon. In fact, the world's soils hold more carbon than the atmosphere and all the plants on Earth combined. When we damage soil, some of that carbon is released as [[carbon dioxide]]. When we look after it, soil can actually [[absorb]] carbon from the air and store it.
+RYAN: So farmers could help to fight climate change through the soil.
+LIAM: They could be part of the solution, yes. Although measuring exactly how much carbon is stored is surprisingly difficult, and scientists are still arguing about it.
+SONIA: Liam, our listeners have heard about sensors on cows and cameras on drones. Are there sensors for soil too?
+LIAM: Absolutely. The most common are soil moisture sensors. You push them into the ground, and they tell you how much water there is near the roots. That helps farmers decide when to water, and how much.
+RYAN: How do they work?
+LIAM: There are a few types. The cheapest ones have two metal prongs, and they measure how easily electricity flows between them. Wet soil conducts electricity better than dry soil. They're fine for a school project, but there's a problem. The metal prongs corrode, sometimes within a few weeks, and the readings drift.
+SONIA: So they rust away in the ground.
+LIAM: Pretty much. Better sensors use a method called capacitance. The electronics are sealed inside, so nothing touches the soil directly, and they last much longer. Professional systems often have sensors at several depths, so you can see the water moving down through the soil after rain.
+RYAN: That sounds like a project some of our listeners might enjoy.
+LIAM: It's a great project. A small board, a sensor, a battery, and a radio to send the data. But here's my advice as a scientist. Don't just trust the number. Every soil is different. A reading of thirty per cent in sandy soil means something very different from thirty per cent in clay. So you need to calibrate the sensor, which means comparing its readings with real [[samples|sample]] that you dry and weigh in a [[laboratory]], or even in your kitchen oven.
+SONIA: In your kitchen oven? I'm not sure my family would be happy about that.
+LIAM: My wife certainly wasn't. But it works.
+RYAN: Before we finish, Liam, is there a simple test that anyone can do to check if their soil is healthy?
+LIAM: There's a fun one that some farmers do. You bury a pair of cotton underwear in the field.
+SONIA: I'm sorry, what?
+LIAM: It's true. You bury plain cotton underwear about fifteen centimetres deep, and you dig it up two months later. If your soil is full of life, the organisms will have eaten most of the cotton, and you'll find just the elastic waistband with a lot of holes. If the underwear comes back almost the same, your soil isn't very active.
+RYAN: That's brilliant. I'm going to try that in my garden.
+LIAM: Just tell your neighbours what you're doing first.
+SONIA: Liam, thank you so much. I'll never look at the ground in the same way again.
+LIAM: That's exactly what I hoped. Thanks for having me.
+
+# The Report
+RYAN: Time for The Report now. Sonia?
+SONIA: Thanks, Ryan. Staying with soil, today's report is about a very British way of growing food. Walk along the edge of almost any British town, and you'll probably see them: rows of small vegetable gardens, with garden sheds, bean poles, and people in old coats digging. These are allotments.
+SONIA: An allotment is a small piece of land that a person rents, usually from the local council, to grow fruit, vegetables and flowers for themselves. The rent is usually fairly low. A traditional full-size plot is about two hundred and fifty square metres, roughly the size of a tennis court.
+SONIA: Allotments have a long history. In the nineteenth century, as people moved from the countryside into crowded industrial towns, land was set aside so that poor working families could grow their own food. During the Second World War, allotments became even more important. With food imports cut off by the war, the government launched a campaign called Dig for Victory, encouraging everyone to grow vegetables. Parks, gardens, and even the moat around the Tower of London were turned into vegetable plots.
+SONIA: After the war, interest gradually fell, and many allotment sites were sold for housing. But in recent years, allotments have become fashionable again. In many cities, the demand is so high that there is a long [[waiting list]]. In some parts of London, people wait for ten years or more to get a plot.
+SONIA: Why are allotments so popular? For many people, it's about food: the taste of a tomato you've grown yourself is hard to beat. For others, it's about [[well-being]]. Doctors increasingly recognise that gardening is good for [[mental health]]. Time outdoors, physical activity and seeing things grow can reduce stress, and some doctors even recommend gardening to patients.
+SONIA: Allotments are also places where different people meet. Retired people work next to young families. And many sites are very [[diverse]]. Gardeners whose families came from the Caribbean, South Asia or Eastern Europe grow vegetables from their own [[heritage]], such as callaloo, bitter gourd or special kinds of beans, and share seeds and advice over the fence.
+SONIA: There are challenges, though. Some councils, short of money, want to sell the land for development, which often leads to protests from local gardeners. Water can be a problem in dry summers. And keeping a plot in good condition takes a lot of time. Many new gardeners give up after the first year, when they discover how fast the weeds grow.
+SONIA: Similar ideas exist around the world. In Germany, there are small garden plots with tiny summer houses, and in Japan, many cities offer rental farm plots for residents. As more people live in cities, the desire to put our hands in the soil seems stronger than ever. That's the report for today.
+RYAN: Thanks, Sonia. My uncle had an allotment for thirty years. He grew the biggest marrows I've ever seen.
+SONIA: There are competitions for that, aren't there? Giant vegetables.
+RYAN: There are. People get very competitive. There are rumours of midnight sabotage.
+
+# Daily Talk
+SONIA: Now, Ryan, I noticed something on my drive in this morning. The Christmas lights are going up.
+RYAN: Already? It's November!
+SONIA: It's the middle of November, Ryan. That's normal now. The shops started selling Christmas things in October.
+RYAN: That's far too early for me. I refuse to think about Christmas until December.
+SONIA: But you love Christmas!
+RYAN: I do love Christmas. In December. So, tell our listeners about a typical British Christmas.
+SONIA: Well, it starts with the advent calendar on the first of December. It's a card or a box with twenty-four little doors, and you open one every day until Christmas Eve. When I was a child, there was a small chocolate behind each door.
+RYAN: And now there are advent calendars with everything. Beauty products, cheese, even socks.
+SONIA: A cheese advent calendar would be perfect for Connor from County Cork.
+RYAN: Ha, it would. Then there's the Christmas jumper. In December, people wear terrible, colourful jumpers with reindeer or snowmen on them. There's even a Christmas Jumper Day, when people wear them to work or school and give money to [[charity]].
+SONIA: I have a jumper with a robin that lights up. It's very tasteful.
+RYAN: Very. And what about Christmas Day itself?
+SONIA: For most families, the big event is Christmas dinner, usually eaten in the early afternoon. Roast turkey, roast potatoes, carrots, parsnips, stuffing, gravy, and of course Brussels sprouts.
+RYAN: The famous Brussels sprouts. The vegetable everyone pretends to like once a year.
+SONIA: I actually like them!
+RYAN: You're in the minority. And before you eat, you pull Christmas crackers.
+SONIA: For our listeners, a cracker isn't the biscuit kind. It's a paper tube that two people pull from each end. It breaks with a small bang, and inside there's a paper crown, a terrible joke, and a small plastic toy.
+RYAN: And everyone wears the paper crown during the meal, even grandad.
+SONIA: Especially grandad. Then for dessert, there's Christmas pudding, a heavy, dark fruit pudding. Some families pour brandy over it and set it on fire before bringing it to the table.
+RYAN: That's the most exciting moment of the day. Followed by everyone falling asleep on the sofa.
+SONIA: And then at three o'clock, many people watch the King's Christmas message on television. It's a [[tradition]] that goes back to the nineteen thirties.
+RYAN: And then the next day is Boxing Day, which is a public holiday too. Lots of people go for a long walk, eat leftover turkey sandwiches, or go to the sales.
+SONIA: And we can't forget the pantomime.
+RYAN: Oh yes, the panto! That's a very strange British tradition to explain to foreigners.
+SONIA: Let me try. A pantomime is a funny family show at the theatre, usually around Christmas. It's based on a fairy tale, like Cinderella or Jack and the Beanstalk. But it's very silly, with lots of jokes, songs and terrible costumes.
+RYAN: And the audience takes part. That's the important thing. When the villain comes on stage, everyone shouts boo. And when the villain is creeping up behind the hero, the children all scream, he's behind you!
+SONIA: And then the actor says, oh no, he isn't! And the whole [[audience]] shouts, oh yes, he is!
+RYAN: Again and again. It's chaos, but it's brilliant.
+SONIA: And there's always the Dame, a big, funny female character who is always played by a man in an enormous dress and lots of make-up.
+RYAN: The Dame is usually the star of the show. Often it's a famous actor or a television personality.
+SONIA: I went every year as a child. My grandfather loved it more than we did. He used to shout louder than any of the children.
+RYAN: That's the secret of panto. It's supposed to be for children, but the adults have just as much fun. There are lots of jokes that go straight over the children's heads.
+SONIA: It's a lovely way for different [[generations|generation]] to enjoy something together.
+SONIA: What about Japan? I've heard that Christmas there is quite different.
+RYAN: Very different, and quite surprising for British people. Christmas isn't a national holiday in Japan, so most people go to work as normal. And the most famous Christmas meal is fried chicken from a fast food chain.
+SONIA: Really? Fried chicken?
+RYAN: Really. It goes back to a very successful advertising campaign in the nineteen seventies. Now millions of families order a special Christmas bucket of chicken, and some people book weeks in advance.
+SONIA: That's incredible. So a [[commercial]] campaign created a new [[custom]].
+RYAN: Exactly. And instead of a heavy fruit pudding, people eat a light Christmas cake, usually a sponge cake with cream and strawberries.
+SONIA: That sounds much nicer than Christmas pudding, to be honest.
+RYAN: I think so too. And Christmas Eve in Japan is often a romantic evening for couples, a bit like Valentine's Day.
+SONIA: So the big family [[celebration]] happens at a different time?
+RYAN: Yes, at New Year. That's when people travel home to see their families, eat special traditional food, and visit a shrine or temple. So in a way, Japan's New Year is like Britain's Christmas, and Japan's Christmas is a bit like Britain's New Year's Eve.
+SONIA: That's a neat way to put it. Do you decorate your house?
+RYAN: A little. But my nephew is the real expert this year. He's fifteen, and he made his own Christmas lights.
+SONIA: He made them? How?
+RYAN: He bought some small LEDs and a tiny computer board, the kind that costs just a few pounds. Then he wrote a program to make the lights twinkle and change patterns. It runs on batteries, and it's in his bedroom window now.
+SONIA: That's brilliant. Much more interesting than buying lights from the shop.
+RYAN: He's very proud of it. Although his mum says it's a bit too bright at night.
+SONIA: Every great invention has its critics. So, Ryan, what are you most [[looking forward to|look forward to]] this Christmas?
+RYAN: Honestly? A few days off, a long walk on Boxing Day, and a turkey sandwich. And seeing my nephew's lights in person.
+SONIA: Mine is seeing my family, and eating too much. And for our listeners, here's today's challenge. Think about how you celebrate the end of the year, and try to explain your favourite tradition in English. What do you eat? Who do you see?
+RYAN: And, if you're feeling brave, what would you put in a Christmas cracker?

@@ -1,0 +1,138 @@
+title: Swahili and the Spice Island
+date: 2026-11-17
+description: A teacher from Zanzibar talks about the Swahili language, greetings, food and the history of the Spice Island. Then a report on words English borrowed from other languages, and a chat about street food.
+guest: IMANI=en-TZ-ImaniNeural
+
+# Language and Culture
+RYAN: Good morning, and welcome to English Radio. I'm Ryan.
+SONIA: And I'm Sonia. Today, we're travelling back to East Africa, but this time, we're not visiting a farm. We're exploring a language.
+RYAN: Swahili. Or, as people who speak it say, Kiswahili. It's one of the most widely spoken languages in Africa, and you probably know a few words already, even if you don't realise it.
+SONIA: Our guest is Imani, who teaches Swahili and works as a guide in Zanzibar, an island off the coast of Tanzania. Imani, karibu, welcome.
+IMANI: Asante sana! Thank you very much. Your pronunciation is very good.
+SONIA: I practised that in the car this morning.
+IMANI: That's the best place to practise.
+RYAN: Imani, let's start with the big picture. Where is Swahili spoken, and by how many people?
+IMANI: Swahili is spoken across East Africa: in Tanzania, Kenya, Uganda, and parts of many other countries, like Rwanda, Burundi, the Democratic Republic of Congo and Mozambique. Estimates of the number of speakers vary a lot, but it's well over a hundred million people. For most of them, it's a second language, not their [[mother tongue]].
+SONIA: So people speak their own local language at home, and Swahili with everyone else?
+IMANI: Exactly. Tanzania alone has more than a hundred and twenty [[ethnic]] groups, each with their own language. Swahili is what connects us. In a market in Dar es Salaam, people from completely different backgrounds can all understand each other because of Swahili.
+RYAN: How did that happen? Why Swahili, rather than one of the other languages?
+IMANI: A lot of the credit goes to our first president, Julius Nyerere. After independence in the nineteen sixties, he made Swahili the national language, and it was used in schools, in government, everywhere. He wanted people to feel Tanzanian first, not just members of one group. He even translated Shakespeare into Swahili himself.
+SONIA: The president translated Shakespeare?
+IMANI: Yes! Julius Caesar and The Merchant of Venice. He was a teacher before he became a [[politician]], so he loved [[literature]].
+RYAN: That's incredible. And now Swahili has international recognition, doesn't it?
+IMANI: Yes. UNESCO declared the seventh of July as World Kiswahili Language Day, and the African Union has adopted Swahili as one of its working languages. We're very proud of that.
+SONIA: Where does the language come from originally?
+IMANI: Swahili is a Bantu language, which means its grammar is related to many languages across central and southern Africa. But it developed on the coast, where African communities traded with merchants from Arabia, Persia and India for centuries. So it has borrowed many words. Lots of words come from Arabic. For example, kitabu, which means book, comes from the Arabic word kitab.
+RYAN: Are there words from European languages too?
+IMANI: Oh, yes. From Portuguese, we have meza, which means table. From English, we have words like baisikeli, which is bicycle, and kompyuta, computer. And here's a fun one. The Swahili word for school is shule.
+SONIA: Shule. That sounds like German!
+IMANI: It is German! In the late nineteenth century, mainland Tanzania was a German colony. They didn't stay very long, but the word shule stayed.
+RYAN: Languages are like [[museums|museum]] of history.
+IMANI: That's a lovely way to say it.
+SONIA: Now, I think our listeners already know a few Swahili words. Safari, for example.
+IMANI: Yes! Safari simply means journey in Swahili. Any journey. If I take the bus to my aunt's house, that's a safari. In English, it came to mean a trip to see wild animals, but for us it's much more general.
+RYAN: And hakuna matata, from the famous film.
+IMANI: Hakuna matata means there are no problems, or no worries. People really do say it, especially on the coast. [[Tourists|tourist]] love it. Although if you say it to a Tanzanian, they might laugh, because they know you learned it from a cartoon lion.
+SONIA: That's fair. What's the most important thing visitors should learn?
+IMANI: Greetings. Greetings are extremely important in Swahili culture. You never start a conversation, or ask a question, without greeting the person first. Even in a shop. If you just walk in and say, how much is this, it's considered rude.
+RYAN: So what's a typical greeting?
+IMANI: In the morning, you can say, habari za asubuhi? It literally means, what's the news of the morning? And the other person usually answers, nzuri, which means good. Even if their morning was terrible, they say nzuri first. Then maybe later they tell you about the problems.
+SONIA: That sounds very British, actually. How are you? Fine, thanks. Then you complain.
+IMANI: Ha! Maybe we're similar. And with older people, there's a special greeting that shows respect. A younger person says shikamoo to an elder, and the elder replies marahaba.
+RYAN: Shikamoo. Marahaba. I like that. It's a sign of respect for older people built into the language.
+IMANI: Exactly. Respect for elders is a very important part of our culture.
+SONIA: Imani, are there any traditional sayings or proverbs in Swahili that people still use?
+IMANI: Many! Proverbs are everywhere in Swahili culture. And one of the most beautiful places you see them is on a kanga.
+RYAN: What's a kanga?
+IMANI: A kanga is a colourful rectangle of printed cotton cloth. Women wear it around the waist or over the shoulders, use it to carry babies, or even as a tablecloth. And every kanga has a short message printed on it, in Swahili. Often it's a proverb, or a piece of advice, or sometimes a little joke.
+SONIA: So the cloth speaks!
+IMANI: Exactly. And people choose their kanga very carefully, because of the message. A woman might give a kanga to a friend with a message of love. Or she might wear one with a slightly cheeky message, if she's annoyed with a neighbour.
+RYAN: That's brilliant. A way of saying something without actually saying it.
+IMANI: Very much so. It's an indirect way of communicating, and that's very typical of coastal culture. We don't always say things directly. We prefer to be polite, and let people understand.
+SONIA: That reminds me of Japan, actually, where people often avoid saying no directly.
+IMANI: Yes, I think we would understand each other very well.
+RYAN: Can you give us an example of a proverb?
+IMANI: A very common one is haba na haba hujaza kibaba. It means little by little fills the measure. In other words, small steps add up to something big.
+SONIA: That's the perfect proverb for language learners.
+IMANI: It's perfect for everyone. Ten minutes of English in the car every day, and after a year, you've made huge progress. Haba na haba.
+RYAN: And what about music? Does Zanzibar have its own music?
+IMANI: Yes, it's called taarab. It mixes African, Arab and Indian influences, with violins, drums and an instrument a bit like a harp. The songs are often poetic love songs, and they're performed at weddings and celebrations. There's also a big music [[festival]] held in Stone Town, with musicians from all over Africa.
+SONIA: What about grammar? Is Swahili difficult to learn?
+IMANI: The pronunciation is easy. It's written in the Latin alphabet, and you read it exactly as it's spelled, a bit like Japanese, actually. Japanese speakers often find Swahili pronunciation very natural, because the vowels are similar.
+RYAN: That's good news for our listeners in Japan.
+IMANI: The grammar is a bit more of a challenge. Swahili nouns are divided into groups, called noun classes. Each class has its own prefix, a small part at the beginning of the word. For example, mtu means person, and watu means people. Kitabu is book, vitabu is books. The beginning of the word changes, not the end.
+SONIA: So instead of adding an s at the end, you change the beginning.
+IMANI: Exactly. And the other words in the sentence change to match. It sounds complicated, but it becomes very [[logical]] once you get used to it.
+RYAN: Let's talk about Zanzibar itself. It's often called the Spice Island, isn't it?
+IMANI: Yes. Zanzibar is actually a group of islands, and they're part of Tanzania, though we have our own government for many local matters. In the nineteenth century, Zanzibar was ruled by sultans from Oman, who planted huge numbers of clove trees. For a time, Zanzibar was the biggest producer of cloves in the world. Today, visitors come on spice tours to see cloves, nutmeg, cinnamon, vanilla and black pepper growing.
+SONIA: That sounds wonderful. The smell must be incredible.
+IMANI: It is. And the old town, Stone Town, is a UNESCO World [[heritage site]]. It has narrow streets, beautiful carved wooden doors, and buildings that mix African, Arab, Indian and European styles.
+RYAN: Zanzibar's history also has a darker side, doesn't it?
+IMANI: It does, and it's important not to forget it. Zanzibar was the centre of a terrible slave trade in East Africa. The slave market in Stone Town was closed in eighteen seventy-three, and a church was built on the site. Today there's a memorial and a museum there, and I always take visitors, because understanding that history is part of understanding Zanzibar.
+SONIA: Thank you for sharing that. And on a lighter note, I've heard that a very famous rock star was born in Zanzibar.
+IMANI: Yes, Freddie Mercury, the singer of Queen, was born in Stone Town in nineteen forty-six. There's a house that tourists like to visit, and a lot of people take selfies there.
+RYAN: That's a great piece of trivia for a pub quiz.
+SONIA: Imani, I can't let you go without asking about food.
+IMANI: Of course! Food is the best part. On the mainland, the [[staple food]] is ugali, a thick porridge made from maize flour. You take a piece with your fingers, roll it into a ball, and use it to scoop up meat stew or vegetables. On the coast and in Zanzibar, rice is more common, especially pilau, rice cooked with spices like cumin, cardamom and cinnamon. We also love chapati, a kind of flatbread, and nyama choma, which is grilled meat.
+SONIA: That all sounds delicious.
+IMANI: And of course, tea. Chai, with milk, sugar and spices like ginger or cardamom.
+RYAN: There's always tea on this show.
+IMANI: Then you are welcome in Tanzania.
+SONIA: Imani, what's one Swahili phrase our listeners should remember?
+IMANI: Pole pole. It means slowly, slowly. In Zanzibar, life moves at a gentle pace. So when you're stuck in traffic this morning, don't get angry. Just say, pole pole.
+RYAN: That's perfect advice for the commute. Imani, asante sana.
+IMANI: Karibu sana! You are very welcome.
+
+# The Report
+SONIA: Time for The Report now. And we're staying with language. Ryan?
+RYAN: Thanks, Sonia. As we just heard, the word safari came into English from Swahili. But it's far from the only one. English is a remarkable collector of words. Over its history, it has borrowed vocabulary from hundreds of languages, and it is still doing so today.
+RYAN: One of the biggest influences came after the year ten sixty-six, when the Normans from France conquered England. For several centuries, the ruling class spoke French, while ordinary people spoke English. You can still see this in the language of farming and food. The animals in the field have English names: cow, pig and sheep. But when the meat arrived on the table of the French-speaking lords, it had French names: beef, pork and mutton.
+RYAN: Before the Normans, Vikings from Scandinavia had settled in large parts of England. They left behind everyday words such as sky, egg, knife and even the word they. The word window comes from an Old Norse expression meaning wind eye, an opening in the wall where the wind came in.
+RYAN: As Britain built a global empire, the language travelled, and it brought back words from around the world. From Hindi and other languages of India, English took shampoo, bungalow, jungle and pyjamas. From Arabic came words such as algebra, sugar and cotton. From Dutch, cookie and yacht.
+RYAN: Japanese has also made its mark. Words like tsunami, karaoke, futon and origami are now part of everyday English. Umami, the savoury fifth taste, has become common in cooking. And one of the newest arrivals is emoji, which many English speakers assume is related to the word emotion. In fact, it comes from the Japanese words for picture and character.
+RYAN: Of course, the borrowing goes in both directions. Japanese has absorbed thousands of English words, though sometimes with surprising changes in meaning. In Japan, a mansion is not a huge house for a millionaire, but an ordinary apartment in a block. And a salaryman, an office worker in a suit, is a word that was created in Japan from English parts.
+RYAN: Linguists say this constant exchange is a sign of healthy, living languages. Some people worry that English is spreading too much, and that smaller languages are [[under threat|threat]]. That is a real concern. Many languages around the world have very few speakers left, and when the last speaker dies, a whole way of seeing the world can disappear.
+RYAN: But the story of borrowing reminds us that no language is pure. English, Japanese and Swahili have all been shaped by trade, travel, war and friendship. Every time you use a borrowed word, you're carrying a small piece of history. That's the report for today.
+SONIA: Thanks, Ryan. I never knew emoji had nothing to do with emotion.
+RYAN: Neither did I, until I researched it. It's a great one to impress people with.
+
+# Daily Talk
+SONIA: Now, Ryan, all that talk about food in Zanzibar has made me hungry. So let's talk about street food.
+RYAN: Excellent idea. Imani mentioned a famous night market in Zanzibar, didn't she? I've read about it. Every evening, in a park by the sea in Stone Town, dozens of stalls set up and sell grilled seafood, skewers of meat, and something called Zanzibar pizza.
+SONIA: Zanzibar pizza? Is it like Italian pizza?
+RYAN: Not really. It's more like a thin, folded pancake, filled with meat, egg, onion and cheese, and cooked on a hot plate. There's a sweet version with banana and chocolate, too.
+SONIA: That sounds amazing. I'd like to try both.
+RYAN: Me too. So what's Britain's most famous street food?
+SONIA: It has to be fish and chips. Fish in crispy batter, deep-fried, with thick chips. And you buy it from a chip shop, which people call the chippy.
+RYAN: And in the past, it was wrapped in old newspaper.
+SONIA: That's right. My grandparents always talked about eating fish and chips out of newspaper. It was stopped decades ago, for [[hygiene]] reasons, because of the ink.
+RYAN: Probably a good idea. Now it's paper or a cardboard box. And you have to add salt and vinegar.
+SONIA: Lots of vinegar. The smell of vinegar on hot chips is one of the best smells in Britain. Especially at the seaside.
+RYAN: Eating fish and chips on the beach, with the seagulls watching you.
+SONIA: And trying to steal your chips! Seagulls in British seaside towns are famous for it. They're very bold.
+RYAN: Very bold. One once took a whole sausage out of my hand.
+SONIA: No!
+RYAN: It's true. I was about nine. I still haven't forgiven seagulls.
+SONIA: Poor you. What else is popular?
+RYAN: Well, in London, there's a very old tradition called pie and mash. A meat pie with mashed potato and a green sauce called liquor, made with parsley. And traditionally, you could also order jellied eels.
+SONIA: I've never been brave enough to try jellied eels.
+RYAN: Neither have I, to be honest. They're cold eels in jelly. Not for everyone.
+SONIA: And these days, British cities have amazing food markets, with food from all over the world. Indian, Vietnamese, Mexican, Ethiopian. You can eat around the world in an afternoon.
+RYAN: That's one of the best things about modern Britain. The food has become so much more [[diverse]].
+SONIA: What about Japan? I imagine the street food is incredible.
+RYAN: It is. The most famous is probably at festivals. At summer festivals, the streets are full of stalls selling yakisoba, which are fried noodles, takoyaki, which are little balls of batter with octopus inside, and taiyaki, which is a fish-shaped cake filled with sweet red bean paste.
+SONIA: A fish-shaped cake! Is there fish in it?
+RYAN: No fish at all, just the shape. And in the city of Fukuoka, in the south of Japan, there are famous street stalls called yatai. In the evening, small wooden stalls appear on the street, each with a few seats around a counter, and they serve ramen, grilled food and drinks.
+SONIA: So you sit right next to the cook?
+RYAN: Right next to the cook, and next to strangers. It's very [[sociable]]. You end up chatting with the people beside you, even if you don't speak much Japanese.
+SONIA: That's the magic of street food, isn't it? It brings people together.
+RYAN: Exactly. In a restaurant, you sit with your own group. At a street stall, you eat elbow to elbow with everyone.
+SONIA: And it's usually cheaper, which helps.
+RYAN: Usually. Though prices have been going up everywhere. A [[portion]] of fish and chips isn't cheap anymore.
+SONIA: That's true. It's become a real treat, rather than an everyday meal.
+RYAN: So, Sonia, if you could eat one street food right now, in the car, what would it be?
+SONIA: Right now? Hot chips with salt and vinegar. Even though my car would smell of vinegar for a week.
+RYAN: Mine would be takoyaki. Although eating takoyaki while driving is a terrible idea. They're extremely hot inside.
+SONIA: Please don't eat takoyaki while driving. That's today's safety message.
+RYAN: And today's challenge for our listeners: think of your favourite street food, and try to describe it in English to someone who has never tried it. What's inside? How does it taste? Where do you buy it?
+SONIA: And if you have a seagull story, we'd love to hear it.

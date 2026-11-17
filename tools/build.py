@@ -139,7 +139,7 @@ async def synth(jobs):
             part = out.with_suffix(".part")
             for i in range(5):
                 try:
-                    await edge_tts.Communicate(text, voice).save(str(part))
+                    await asyncio.wait_for(edge_tts.Communicate(text, voice).save(str(part)), 60)
                     part.rename(out)
                     return
                 except Exception as e:  # 読み上げの通信はときどき切れる

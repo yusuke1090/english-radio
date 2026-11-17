@@ -1,0 +1,151 @@
+title: Smart Collars for Dairy Cows
+date: 2026-11-18
+description: A vet from New Zealand explains how sensors on cows spot illness and heat early. Then Sonia and Ryan talk about the daily commute.
+guest: MOLLY=en-NZ-MollyNeural
+
+# Farm and Tech
+SONIA: Good morning, and welcome to English Radio. I'm Sonia.
+RYAN: And I'm Ryan. Whether you're stuck in traffic or cruising along an empty road, thanks for joining us.
+SONIA: Today, we're starting on the farm. Or, to be more precise, around the neck of a cow.
+RYAN: Around the neck of a cow? That sounds a bit odd.
+SONIA: It does, doesn't it? But more and more dairy farmers are putting smart collars on their cows. These are [[wearable]] devices, a bit like a fitness tracker for animals.
+RYAN: So, a smartwatch for cows.
+SONIA: More or less. And to explain how they work, we're joined by Molly, a vet from New Zealand who works with dairy farms every day. Molly, welcome to the show.
+MOLLY: Thanks, Sonia. Lovely to be here.
+RYAN: Molly, let's start with the basics. What's actually inside one of these collars?
+MOLLY: The most important part is a small [[sensor]] called an accelerometer. It's the same kind of sensor you'd find in your phone. It measures movement, so it knows whether the cow is walking, standing still, lying down, or moving her head up and down.
+RYAN: And why would a farmer want to know that?
+MOLLY: Because the way a cow moves tells you a lot about how she's feeling. Take chewing, for example. Cows spend a huge part of the day ruminating, which basically means chewing the cud. They bring food back up from the stomach and chew it again.
+SONIA: Lovely.
+MOLLY: It's not glamorous, I know. But it's really important. A healthy cow ruminates for something like seven to nine hours a day. If that number suddenly drops, it's often the very first sign that something's wrong.
+RYAN: So the collar is, in a sense, listening to the cow chewing?
+MOLLY: In a way, yes. Some collars pick up the movement of the jaw and the neck. Others use a tiny microphone. Either way, the system counts the minutes of rumination and builds up a picture of what's normal.
+SONIA: Normal for cows in general, or for each individual cow?
+MOLLY: For each cow, and that's the clever part. Every animal is different, so the software compares a cow with her own history rather than with the average of the [[herd]]. If one cow normally chews for nine hours and today it's only five, the farmer gets an alert on their phone.
+RYAN: Before anyone notices anything with their own eyes?
+MOLLY: Often, yes. Cows are actually quite good at hiding pain. It's an [[instinct]] from their wild ancestors, because an animal that looks weak attracts predators. So by the time you see obvious [[symptoms|symptom]], like a cow standing on her own with her head down, the problem may have been developing for a day or two.
+SONIA: That's fascinating. So the cow is basically pretending to be fine.
+MOLLY: Exactly. A bit like some people I know.
+RYAN: I think we all know someone like that.
+SONIA: You mentioned alerts. What other kinds of things can the collar warn the farmer about?
+MOLLY: The big one is heat detection. Heat is the short period when a cow is ready to become pregnant. For a dairy farm, that matters enormously, because a cow only produces milk after she's had a calf.
+RYAN: Right. So no calf, no milk.
+MOLLY: That's it. And the window is short. A cow is only in heat for around twelve to eighteen hours, and if you miss it, you have to wait about three weeks for the next chance. Every missed chance costs the farmer money.
+SONIA: And how does the collar know she's in heat?
+MOLLY: When a cow comes into heat, she becomes restless. She walks a lot more than usual, sometimes two or three times as much. So the collar spots that sudden jump in activity and sends a message, something like, cow number two hundred and fourteen is probably in heat, now's the time.
+RYAN: That's amazing. So how did farmers manage before all this?
+MOLLY: By watching very carefully. Traditionally, farmers would [[monitor]] the cows several times a day, looking for changes in behaviour. Some used tail paint. You put a strip of chalky paint on the top of the cow's tail, and if it's been rubbed off, it's a sign that other cows have been mounting her.
+SONIA: That's wonderfully low-tech.
+MOLLY: It is, and it still works. But on a farm with four hundred cows, you simply can't watch everyone all the time. That's where the technology helps. It doesn't get tired, and it's watching at three in the morning too.
+RYAN: Let's go back to health for a moment. Can the collar actually [[diagnose]] a disease?
+MOLLY: No, and this is a really important point. The collar can tell you that something is unusual. It can't tell you what it is. That's still the job of the farmer and the vet. I always say the collar asks the question, and we answer it.
+SONIA: So it's more like a smoke alarm than a doctor.
+MOLLY: That's a great way to put it. A smoke alarm doesn't know whether it's burnt toast or a real fire. It just tells you to go and have a look.
+RYAN: What sort of problems does it help with most?
+MOLLY: The weeks just after calving are the riskiest time for a dairy cow. Her body is suddenly producing a lot of milk, and she can't always eat enough to keep up. That can lead to problems like ketosis, which is a kind of energy shortage, or mastitis, which is an infection of the udder. With rumination data, we often catch these a day or so earlier. And earlier treatment usually means a faster recovery and fewer antibiotics.
+SONIA: Fewer antibiotics sounds like good news for everyone.
+MOLLY: Definitely. And it's better for [[animal welfare]], too. Nobody wants a cow to suffer for two days before someone notices.
+RYAN: I've also read that some collars can tell you when a cow is about to give birth.
+MOLLY: Yes, some systems do that. Before calving, a cow's behaviour changes. She gets up and lies down more often, and her rumination drops. The system can send a calving alert, so the farmer knows to keep an eye on her. That's especially useful at night.
+SONIA: Molly, you keep mentioning the software. How much of this is really about the data?
+MOLLY: Almost all of it, honestly. The sensor itself is fairly simple. The real value comes from the [[algorithm]], the set of rules that turns millions of tiny movements into a simple message, like eating normally, in heat, or check this cow. Companies develop these algorithms using data from thousands of cows.
+RYAN: And how [[accurate]] are they?
+MOLLY: For heat detection, the good systems are very accurate, often better than a person watching. For health alerts, it varies. You do get false alarms. A cow might eat less because it's a very hot day, or because she's been moved to a new group and she's a bit stressed.
+SONIA: So the farmer might rush out to check a cow that's perfectly fine.
+MOLLY: It happens. And that's one of the main [[drawbacks|drawback]]. If you get too many false alarms, people start ignoring them. It's like the boy who cried wolf.
+RYAN: How does the data actually get from the cow to the farmer's phone?
+MOLLY: Usually there's an antenna on the farm, often on the roof of the milking shed. The collars send their data by radio to the antenna, and from there it goes over the internet to the cloud. In New Zealand, where most cows graze outside on large paddocks, you need antennas that can reach a long way.
+SONIA: I imagine the battery is a problem.
+MOLLY: Less than you'd think. Many collars run for several years on one battery, because they only send small amounts of data. Some newer ones even have a little solar panel.
+RYAN: Speaking of New Zealand, I heard there's something called virtual fencing.
+MOLLY: Yes, it's a fascinating idea. Instead of building a fence, the farmer draws a line on a map on their phone. When a cow gets close to that line, her collar plays a sound, and if she keeps going, it vibrates. The cows learn very quickly to turn around.
+SONIA: So the farmer can move the whole herd from one field to another without leaving the kitchen?
+MOLLY: More or less. It can save a lot of time, especially on hilly farms where building fences is hard work.
+RYAN: That brings us to the people. Does all this technology make farming easier?
+MOLLY: In many ways, yes. Dairy farming has a very heavy [[workload]]. Cows need milking every single day, including Christmas Day. Lots of farms struggle to find staff, so anything that saves time is welcome. A farmer once told me the collars gave him his Sunday mornings back.
+SONIA: That's lovely.
+MOLLY: But there's another side. Some farmers feel they're now staring at a screen instead of looking at their animals. And a phone that buzzes all night can be stressful. You have to set it up so that only the really important alerts wake you up.
+RYAN: And what about the cost? Is this only for big farms?
+MOLLY: At the moment, it's mostly medium and large farms. You pay for each collar, plus the antenna, plus usually a monthly fee for the software. For a small family farm with thirty cows, the numbers can be hard to justify. But prices are coming down, and there are simpler ear tags now that are much more [[affordable]].
+SONIA: Could a small farmer build something themselves?
+MOLLY: People do experiment. I've met young engineers who've built their own sensors with cheap microcontroller boards and a bit of programming. It's a great way to learn, though making something that survives a whole year on a cow is harder than it looks. Cows are very good at breaking things.
+RYAN: I can believe that.
+SONIA: Molly, one last question. If you had one piece of advice for a farmer who's thinking about collars, what would it be?
+MOLLY: Start with the problem, not the gadget. Ask yourself, what am I struggling with? Missed heats? Sick cows after calving? Then choose the technology that solves that problem. And remember, the collar doesn't [[look after]] the cows. You do. It's a tool that helps good farmers become even better.
+RYAN: Molly, thank you so much for joining us.
+MOLLY: My pleasure. Thanks for having me.
+
+# The Report
+SONIA: Next, it's time for The Report, where we take a closer look at one story. Ryan?
+RYAN: Thanks, Sonia. Today's report comes from Japan, where farming faces a quiet but serious challenge. The people who grow the country's food are getting older, and there aren't enough young people to replace them.
+RYAN: According to government figures, Japan now has only around one point one million people whose main job is farming. In the year two thousand, there were more than twice as many. Their average age is close to seventy.
+RYAN: The reasons are familiar to rural areas all over the world. Young people move to the cities for education and better-paid work. Farming is physically hard, the hours are long, and income can be unpredictable. As a result, the countryside is facing a serious [[labour shortage]].
+RYAN: When older farmers retire, their land is often left unused. Fields that were carefully looked after for generations slowly fill with weeds. This matters not only for the [[rural economy]], but for the country as a whole. Japan already imports most of its food. On a calorie basis, its food [[self-sufficiency]] rate is only around thirty-eight per cent, one of the lowest among large developed countries.
+RYAN: So can technology help? The government believes it can. In twenty twenty-four, Japan passed a new law to encourage what it calls smart agriculture: farming that uses robots, sensors and data to do more work with fewer people.
+RYAN: Some of this technology is already familiar. Japan has used remote-controlled helicopters to spray rice fields since the late nineteen eighties, and today small drones do much of that work. Several Japanese manufacturers now sell self-driving tractors that can plough a field while the farmer watches from the edge. On dairy farms, milking robots allow cows to be milked when they choose, rather than at fixed times, which can reduce the farmer's workload considerably.
+RYAN: Supporters say [[automation]] could make farming attractive to a new generation. A young person who grew up with a smartphone may be more interested in a farm that runs on data than in one that runs on long hours and heavy lifting.
+RYAN: But there are doubts. The machines are expensive, and many Japanese farms are small, with fields divided into narrow plots on hillsides. A robot tractor that works perfectly on a large, flat field in Hokkaido may be far less useful on a tiny rice paddy in the mountains. There are also concerns that some older farmers may find the technology difficult to use.
+RYAN: Some experts argue that technology alone is not enough. They say small plots of farmland need to be combined into larger units, and that young farmers need support with land, training and loans. In other words, the robots can help, but only if there are still people who want to farm.
+RYAN: For now, the picture is mixed. In some villages, young farmers with drones and data are breathing new life into old fields. In others, the land is simply going quiet. What happens in the next ten years may decide what Japanese farming looks like for the rest of the century. That's the report for today.
+SONIA: Thanks, Ryan. That was really interesting. I had no idea the average age was that high.
+RYAN: It surprised me too. And it isn't just Japan. Plenty of countries, including Britain, are facing the same problem.
+
+# Daily Talk
+SONIA: Now, Ryan, for today's chat, I want to talk about something that most of our listeners are probably doing right now.
+RYAN: Driving?
+SONIA: Close. The [[commute]]. The journey to work.
+RYAN: Ah, my favourite subject. How long is yours?
+SONIA: On a good day, about thirty minutes. On a bad day, an hour, and I arrive at work in a terrible mood.
+RYAN: What makes it a bad day?
+SONIA: Usually [[heavy traffic]] on the ring road. There's one roundabout near my office where everything just stops. You can sit there for ten minutes and move about fifty metres.
+RYAN: I know the feeling. Although I take the train these days, so I have different problems.
+SONIA: Such as?
+RYAN: Such as leaves on the line.
+SONIA: Ah, the famous British excuse.
+RYAN: For our listeners who aren't in Britain, every autumn, trains are delayed because of leaves on the line. It sounds like a joke, but it's real. The leaves get crushed on the rails and make them slippery, a bit like ice.
+SONIA: It still sounds like a joke to me.
+RYAN: It does, and every year people complain about it. But honestly, I like the train. I can read, I can look out of the window, and I don't have to concentrate on the road.
+SONIA: That's the thing I miss. In the car, I can't do anything except drive. Well, and listen.
+RYAN: So what do you listen to?
+SONIA: It changes. Sometimes the radio, sometimes podcasts, and sometimes, I have to admit, I sing.
+RYAN: Loudly?
+SONIA: Very loudly. Car karaoke is one of life's great pleasures. Nobody can hear you, and the acoustics are surprisingly good.
+RYAN: Except the person in the car next to you at the traffic lights.
+SONIA: Yes, that has happened. A man in a van gave me a round of applause once.
+RYAN: That's brilliant. So, what time do you [[set off]] in the morning?
+SONIA: Around seven fifteen. If I leave at seven thirty, the journey takes twice as long. Those fifteen minutes make a huge difference.
+RYAN: That's the strange thing about rush hour. A tiny change in when you leave can completely change how long it takes.
+SONIA: Exactly. So I've learnt to get up a bit earlier. I'm not happy about it, but it's better than sitting in a queue.
+RYAN: Do you think people will always have to [[put up with]] long commutes?
+SONIA: I'm not sure. A few years ago, lots of companies started allowing [[flexible working]]. Some people work from home two or three days a week now, and they only commute on the other days.
+RYAN: That's what my sister does. She works from home on Mondays and Fridays. She says it's improved her [[work-life balance]] enormously, because she gets back almost two hours on those days.
+SONIA: Two hours is a lot of time. What does she do with it?
+RYAN: She goes for a run in the morning, and she actually has breakfast sitting down, instead of eating toast in the car.
+SONIA: I've definitely eaten toast in the car.
+RYAN: Haven't we all? But here's the interesting thing. She says she sometimes misses the commute.
+SONIA: Really? Why?
+RYAN: Because it gave her time to switch off. When you work from home, you close the laptop and suddenly you're in the kitchen, still thinking about work. The commute was a kind of buffer between work and home.
+SONIA: That makes sense. Some people even go for a short walk around the block before and after work, just to create a fake commute.
+RYAN: A fake commute! I love that.
+SONIA: I think the key is to use the time well. If you have to spend an hour a day in the car, why not [[take advantage of]] it?
+RYAN: Like learning a language.
+SONIA: Exactly. Like what our listeners are doing right now. And here's a tip. If you're alone in the car, try repeating sentences out loud. It's called shadowing. You listen to a sentence and say it straight after the speaker, copying the rhythm and the intonation.
+RYAN: And it doesn't matter how silly you sound, because nobody can hear you.
+SONIA: Apart from the man in the van.
+RYAN: Apart from the man in the van. Now, I have to ask about Japan, because I know many of our listeners are there. Sonia, you've been to Tokyo, haven't you?
+SONIA: I have, a few years ago. And the first thing I noticed was that they drive on the left, just like us. So I felt quite at home.
+RYAN: And the trains?
+SONIA: Incredible. They arrive exactly on time, to the second. And when a train is a few minutes late, they apologise. Sometimes the railway company even gives you a little certificate to show your boss.
+RYAN: A certificate for being late? We need that in Britain. I'd have a whole drawer full of them.
+SONIA: The trains in Tokyo were very crowded, though. In the morning, staff on the platform sometimes help to push people in, so the doors can close.
+RYAN: I've seen videos of that. It looks quite stressful.
+SONIA: It was an experience. But everyone was very calm and polite about it. Nobody was shouting. In London, there would definitely be some shouting.
+RYAN: There would be a lot of sighing, at least. The British commuter's favourite sound is a long, heavy sigh.
+SONIA: That's so true. And a lot of tutting.
+RYAN: For listeners who don't know, tutting is that little clicking sound you make with your tongue when you're annoyed. Very British.
+SONIA: So, Ryan, what's your perfect commute?
+RYAN: My perfect commute? A quiet train, a window seat, a hot cup of coffee, and no leaves on the line.
+SONIA: That's a dream. Mine would be an empty road, a sunny morning, and a really good song on the radio.
+RYAN: And no man in a van.
+SONIA: And no man in a van. Although, to be fair, he was very supportive.
+RYAN: Well, whatever your commute looks like today, we hope it's a smooth one.

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>English Radio</title>
+<link rel="icon" href="cover.jpg">
+<link rel="apple-touch-icon" href="cover.jpg">
+<link rel="alternate" type="application/rss+xml" title="English Radio" href="feed.xml">
+<style>
+:root{--bg:#fff;--fg:#1c2421;--sub:#64736d;--line:#e2e8e5;--accent:#17704f;--card:#f4f7f6}
+@media (prefers-color-scheme:dark){:root{--bg:#111614;--fg:#e4ebe8;--sub:#8fa29a;--line:#27302c;--accent:#5fc79c;--card:#19201d}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 -apple-system,system-ui,"Hiragino Sans",sans-serif}
+main{max-width:680px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;gap:14px;align-items:center}
+header img{width:64px;height:64px;border-radius:12px}
+h1{font-size:1.35rem;margin:0}
+.sub{color:var(--sub);font-size:.85rem}
+.follow{display:block;text-align:center;background:var(--accent);color:#fff;text-decoration:none;padding:12px;border-radius:12px;font-weight:600;margin:18px 0 6px}
+.feed{display:block;width:100%;border:0;background:none;color:var(--sub);font:inherit;font-size:.75rem;text-align:center;word-break:break-all;cursor:pointer;padding:0}
+.ep{border-top:1px solid var(--line);padding:16px 0}
+.ep h2{font-size:1.05rem;margin:0}
+audio{width:100%;margin:10px 0 4px}
+summary{cursor:pointer;color:var(--accent);font-size:.9rem}
+.script h3{font-size:.95rem;margin:1.2em 0 .3em;color:var(--sub)}
+.script p{margin:.35em 0}
+.who{font-weight:600;color:var(--sub);margin-right:.4em}
+.script b{color:var(--accent)}
+.words{display:grid;grid-template-columns:auto 1fr;gap:2px 14px;background:var(--card);border-radius:10px;padding:10px 14px;font-size:.9rem}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <img src="cover.jpg" alt="">
+  <div><h1>English Radio</h1><div class="sub">通勤で聞くイギリス英語のラジオ</div></div>
+</header>
+<a class="follow" id="follow">Podcast アプリで登録</a>
+<button class="feed" id="feed" title="押すとコピー"></button>
+<div id="eps"></div>
+</main>
+<script>
+const FEED = new URL('feed.xml', location.href).href;
+document.getElementById('follow').href = FEED.replace(/^https?:/, 'podcasts:');
+const feedBtn = document.getElementById('feed');
+feedBtn.textContent = FEED;
+feedBtn.onclick = () => navigator.clipboard?.writeText(FEED).then(() => {
+  feedBtn.textContent = 'コピーしました';
+  setTimeout(() => feedBtn.textContent = FEED, 1500);
+});
+
+const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const mark = s => esc(s).replace(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g, '<b>$1</b>');
+const name = s => s[0] + s.slice(1).toLowerCase();
+
+async function script(ep, box) {
+  const txt = await (await fetch(`episodes/${String(ep.n).padStart(3, '0')}.txt`)).text();
+  let html = '';
+  for (const line of txt.split('\n')) {
+    let m;
+    if (line.startsWith('# ')) html += `<h3>${esc(line.slice(2))}</h3>`;
+    else if ((m = line.match(/^([A-Z]+):\s*(.+)/))) html += `<p><span class="who">${name(m[1])}</span>${mark(m[2])}</p>`;
+  }
+  html += '<h3>Words</h3><div class="words">' +
+    ep.words.map(w => `<b>${esc(w.word)}</b><span>${esc(w.ja)}</span>`).join('') + '</div>';
+  box.innerHTML = html;
+}
+
+fetch('episodes.json').then(r => r.json()).then(eps => {
+  const list = document.getElementById('eps');
+  for (const ep of eps) {
+    const el = document.createElement('section');
+    el.className = 'ep';
+    const min = Math.round(ep.seconds / 60);
+    el.innerHTML = `<h2>${ep.n}. ${esc(ep.title)}</h2>
+      <div class="sub">${ep.date.replaceAll('-', '/')} · ${min}分</div>
+      <audio controls preload="none" src="${ep.url}"></audio>
+      <details><summary>台本と単語</summary><div class="script">読み込み中…</div></details>`;
+    const det = el.querySelector('details');
+    det.addEventListener('toggle', () => det.open && !det.dataset.done &&
+      (det.dataset.done = 1, script(ep, det.querySelector('.script'))));
+    list.append(el);
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,138 @@
+title: Milk and Mobile Money in Kenya
+date: 2026-11-19
+description: How small dairy farms in Kenya feed their cows, sell their milk and get paid by phone. Then a report on plant-based milk, and a chat about tea.
+guest: WANJIRU=en-KE-AsiliaNeural
+
+# Farm and Tech
+RYAN: Good morning, and welcome to English Radio. I'm Ryan.
+SONIA: And I'm Sonia. Thanks for joining us on your way to work, or wherever you're going this morning.
+RYAN: Today, we're travelling to East Africa, to the green hills of central Kenya. And we're going to talk about milk.
+SONIA: Kenya and milk. That's not a combination a lot of people would expect.
+RYAN: No, but Kenya actually has one of the biggest dairy sectors in Africa. Kenyans drink a lot of milk, in tea, on its own, and as a kind of fermented sour milk.
+SONIA: And the interesting thing is who produces it. To tell us more, we're joined by Wanjiru, who manages a dairy cooperative in the highlands north of Nairobi. Wanjiru, welcome.
+WANJIRU: Thank you, Sonia. Good morning to you both, and to all your listeners.
+RYAN: Wanjiru, let's start with a picture. What does a typical dairy farm look like where you are?
+WANJIRU: Probably not what your listeners imagine. When people hear dairy farm, they think of hundreds of cows in a big field. In Kenya, most of our milk comes from [[smallholders|smallholder]]. These are families with maybe one, two or three cows, on a small piece of land, often less than one hectare.
+SONIA: Just two or three cows?
+WANJIRU: Yes. And together, these small farms produce most of the milk in the country. For many families, the cow is like a bank account. The milk brings in money every day, and if there's an emergency, like school fees or a hospital bill, you can sell a calf.
+RYAN: So the cow isn't just a farm animal. It's a kind of financial safety net.
+WANJIRU: Exactly. And it's often the women who look after the cows and handle the milk money, so dairy is very important for women's income too.
+SONIA: Where do the cows live? Are they out in the fields?
+WANJIRU: On most small farms, no. We use a system called zero-grazing. The cows stay in a simple shed, and the farmer brings the food to them. This is because land is limited. If you have only half a hectare, you can't let a cow walk around eating everything.
+RYAN: So the farmer goes out and cuts the grass by hand?
+WANJIRU: Yes, that's the daily routine. The most popular [[fodder]] is Napier grass. Some people call it elephant grass, because it grows very tall, taller than a person. It grows quickly in our climate, so farmers plant it along the edges of their land and cut it every few weeks.
+SONIA: That sounds like hard work.
+WANJIRU: It is. Carrying grass, carrying water, cleaning the shed, milking by hand, usually twice a day. But zero-grazing has advantages. The cows don't waste energy walking, you can see exactly how much they eat, and you can collect the manure and put it back on your crops as fertiliser.
+RYAN: That's quite efficient, actually.
+WANJIRU: It can be. The problem is the amount of milk. On many small farms, a cow gives maybe six or seven litres a day. In Europe, a dairy cow might give twenty-five or thirty.
+SONIA: That's a big difference. Why is the [[milk yield]] so much lower?
+WANJIRU: There are a few reasons, but the biggest one is feed. A cow can only make milk from what she eats. If she only gets grass, and the grass is old and dry, she can't produce very much. Good dairy cows need extra protein and energy, from things like dairy meal, which is a kind of concentrated feed. But dairy meal is expensive, and the price has gone up a lot in recent years.
+RYAN: And I suppose the weather plays a part.
+WANJIRU: Very much so. In Kenya, we have two rainy seasons, the long rains around March to May, and the short rains around October to December. When it rains, there's plenty of grass and lots of milk. But in the [[dry season]], the grass stops growing and milk production falls. And when the rains fail completely, during a [[drought]], it can be a disaster for farmers.
+SONIA: So what can a small farmer do to prepare?
+WANJIRU: This is where we work very hard at the cooperative. We teach farmers to make [[silage]]. When there's too much grass in the rainy season, you chop it, pack it tightly in a pit or in a big plastic bag, and seal it so no air can get in. It ferments slowly, a bit like pickles, and it can be kept for months. Then in the dry season, you open it and feed it to the cows.
+RYAN: It's like saving money for a difficult time.
+WANJIRU: That's exactly how we explain it to farmers. Silage is a savings account for your cow.
+SONIA: You mentioned better dairy cows. What kind of cows do Kenyan farmers keep?
+WANJIRU: Traditionally, people kept local zebu cattle. They're strong and they survive heat and disease very well, but they don't give much milk. So for many years, farmers have been crossing them with European dairy breeds, like Friesians, Ayrshires and Jerseys. [[Breeding|breeding]] is mostly done by artificial insemination. A technician comes on a motorbike with the semen in a special container.
+RYAN: On a motorbike?
+WANJIRU: Yes. In Kenya, the motorbike is everything. It carries people, milk, grass, even technicians.
+SONIA: So, Wanjiru, tell us about the cooperative. What does it actually do?
+WANJIRU: A dairy [[cooperative]] is owned by the farmers themselves. Each member is a part-owner. Every morning, farmers bring their milk to a collection point, or a transporter picks it up from them. We test the milk for quality, we measure how many litres each farmer brought, and then we cool it quickly in a big steel tank.
+RYAN: Why is the cooling so important?
+WANJIRU: Because raw milk goes bad very fast in warm weather. If it's not cooled within a few hours, bacteria grow and the milk is spoiled. One small farmer can't afford a big cooler. But a hundred or a thousand farmers together can. That's the power of the cooperative. We collect the milk, we cool it, and we sell it in large amounts to the big processors who make packaged milk, yoghurt and so on. So the farmers get a better and more reliable price.
+SONIA: And this is where the mobile money comes in, I believe.
+WANJIRU: Yes. In the past, farmers were paid in cash, once a month. Someone had to travel from the bank with a bag of money, which was slow and quite dangerous. Now, almost everyone is paid by mobile money, straight to their phone.
+RYAN: For listeners who don't know, Kenya was one of the first countries in the world where paying by phone became completely normal. The best-known service, M-Pesa, started in two thousand and seven.
+WANJIRU: That's right. Today, you can pay for almost anything with M-Pesa. School fees, electricity, a cup of tea at the side of the road. Kenya has become very [[cashless]], even in rural areas.
+SONIA: How does that help the farmers, exactly?
+WANJIRU: In many ways. First, it's safe. Nobody has to carry cash. Second, it's transparent. Every farmer gets a text message after each delivery, saying how many litres they brought that day. So they can check our records and trust us. And third, it creates a history. If a farmer has two years of regular milk payments on their phone, a bank or a lender can see that, and it becomes easier to get a small loan, for example to buy a better cow or a water tank.
+RYAN: That's a clever chain. Better data leads to trust, and trust leads to credit.
+WANJIRU: Yes. And now we're starting to add more digital tools. Some farmers receive advice by text message, like reminders for vaccinations or tips on feeding. Some cooperatives use simple apps to record milk and cow health. And a few of the larger farms are trying sensors, though for a family with two cows, the most important technology is still a good phone and a strong signal.
+SONIA: Wanjiru, I'm curious about the milk itself. Does all the milk in Kenya go through cooperatives like yours?
+WANJIRU: No, not at all. A large share is still sold informally. A farmer might sell milk directly to the neighbours, or to a local trader who goes around on a bicycle or a motorbike with metal cans, selling to homes and small cafés in town.
+RYAN: Is that a problem?
+WANJIRU: It's complicated. The trader often pays a little more per litre, and pays cash immediately, so I understand why farmers do it. But the milk is usually raw, it isn't cooled, and nobody checks the quality. Sometimes water is added to increase the volume.
+SONIA: Water? That's cheating!
+WANJIRU: It happens. That's why, at the cooperative, the first thing we do is test every can. We use a simple tool called a lactometer, which floats in the milk. If someone has added water, the milk is lighter, and the lactometer sinks lower. We also do a quick test to check whether the milk is fresh or starting to go sour.
+RYAN: So the farmers know they can't get away with it.
+WANJIRU: Exactly. And the honest farmers appreciate that, because it means everyone is paid fairly. Quality is everything. If one farmer brings bad milk and it goes into the big tank, the processor can reject the whole tank. Thousands of litres, wasted.
+SONIA: That must be a nightmare.
+WANJIRU: It is, and it has happened to us. That's why we [[place a lot of emphasis on|place emphasis on]] training. We teach farmers to wash their hands and their containers, to use metal cans instead of plastic ones, and to bring the milk to us quickly, especially on hot days.
+RYAN: What does a normal day look like for you, Wanjiru?
+WANJIRU: It starts early. The first milk arrives at the collection point at around six in the morning, so I'm usually there before that. Then it's testing, recording, cooling, and talking to farmers. Every farmer has a question or a problem. A sick cow, a late payment, a neighbour's goat that ate their Napier grass.
+SONIA: A goat stealing the grass!
+WANJIRU: You'd be surprised how many arguments start with a goat. In the afternoon, I check the accounts, plan training sessions, and talk to the processors about prices. It's a busy job, but I love it, because I can see the difference it makes to families.
+SONIA: What would you say is the biggest challenge for Kenyan dairy farmers right now?
+WANJIRU: Feed, feed and feed. If farmers could get good quality feed at a fair price all year round, milk production could double. Climate change is also making the rains less predictable, which makes planning harder. And young people. Like in many countries, our young people don't always see farming as a modern job.
+RYAN: That's interesting, because that's exactly what we heard about Japan last time.
+WANJIRU: It's a global problem. But I'm hopeful. I see more young Kenyans going into dairy as a business. They use social media to learn, they keep records on their phones, and they treat the farm like a company. That gives me a lot of hope.
+SONIA: Wanjiru, thank you so much. This has been fascinating.
+WANJIRU: Thank you. And if your listeners ever visit Kenya, they must try our tea, with plenty of milk.
+RYAN: We'll come back to tea later in the show, I promise.
+
+# The Report
+SONIA: Now it's time for The Report. And today, we're staying with milk, but a very different kind. Here's Ryan.
+RYAN: Walk into any café in London today, and you'll hear the same question again and again. Would you like oat milk with that? Over the past ten years, [[plant-based]] milks have moved from the health food shop to the centre of the supermarket shelf.
+RYAN: The choice is enormous. There's soya milk, almond milk, oat milk, rice milk, coconut milk, and even milk made from peas. Oat milk, in particular, has become a favourite in coffee shops, because it foams well and has a mild, slightly sweet taste.
+RYAN: Who is buying it? Not just vegans. Many customers still eat meat and cheese, but choose plant-based milk some of the time. Some are lactose intolerant, which means their bodies can't easily digest the natural sugar in cow's milk. Others are worried about animal welfare, or about the environment.
+RYAN: The environmental argument is a strong one. According to a widely cited study from the University of Oxford, producing a litre of cow's milk creates roughly three times the [[emissions]] of greenhouse gases of most plant-based milks. A big part of that comes from [[methane]], a powerful greenhouse gas that cows release as they digest grass. Dairy farming also needs much more land.
+RYAN: However, not all plant milks are equal. Almond milk, for example, has a low [[carbon footprint]], but almond trees need a lot of water, and many are grown in dry regions such as California. Rice milk also needs a lot of water.
+RYAN: Nutrition is another question. Cow's milk is a natural source of protein and [[calcium]]. Soya milk contains a similar amount of protein, but oat and almond milks contain much less. Many plant milks have calcium and vitamins added, but some organic brands do not, so experts say it's worth reading the [[label]] carefully, especially for children.
+RYAN: Speaking of labels, there's also a legal battle over words. In the European Union, a court ruled in two thousand and seventeen that plant-based drinks cannot be sold as milk, because that word is reserved for products from animals. That's why many cartons in Europe say oat drink, rather than oat milk, even though everyone calls it milk anyway.
+RYAN: So, is this the end of the dairy industry? Not at all. Cow's milk is still by far the most popular choice in Britain, and in many parts of the world, including Africa and Asia, demand for dairy is growing as people become wealthier. For farmers like the ones we heard about earlier, milk remains a vital source of income and nutrition.
+RYAN: What seems likely is that the two will continue to exist side by side, with [[consumers|consumer]] choosing different milks for different reasons, sometimes on the same day. That's the report for today.
+SONIA: Thanks, Ryan. I have to confess, I use oat milk in my coffee but cow's milk in my tea.
+RYAN: That's exactly the kind of person the report was talking about.
+
+# Daily Talk
+SONIA: And that's the perfect way into our chat today, because we promised Wanjiru we'd talk about tea.
+RYAN: We did. Now, Sonia, this is a serious question. How do you take your tea?
+SONIA: Strong, with a splash of milk, no sugar.
+RYAN: Good answer. Milk in first or milk in last?
+SONIA: Oh no, here we go. Milk last, obviously. You make the tea in the mug, take the bag out, and then add the milk.
+RYAN: I agree, but my grandmother would be very disappointed in us. She always put the milk in first. She said it protected the fine china cups from the hot water.
+SONIA: I've heard that theory. Some people say that's where the tradition came from, but I'm not sure anyone really knows.
+RYAN: Either way, people argue about it for hours. It's a very British argument. Nobody gets hurt, but everyone feels strongly.
+SONIA: For our listeners, what we usually call a cup of tea in Britain is black tea, made with a tea bag, with milk. A strong one is sometimes called builder's tea.
+RYAN: Because builders traditionally drink it very strong, with milk and two sugars, during their tea break.
+SONIA: And here's a nice connection with today's show. A lot of the tea in British tea bags actually comes from Kenya.
+RYAN: That's right. Kenya is one of the biggest exporters of black tea in the world. So there's a good chance that the tea you're drinking in London was grown on a hillside in Kenya.
+SONIA: And in Kenya, they make tea differently, don't they? Wanjiru mentioned plenty of milk.
+RYAN: Yes. In Kenya, people often make chai by boiling the tea leaves, milk, water and sugar all together in a pan. Sometimes with ginger. It's rich and sweet, and very comforting.
+SONIA: That sounds lovely, especially on a cold November morning like this.
+RYAN: So, how many cups do you drink a day?
+SONIA: Honestly? About five. One at breakfast, two at work in the morning, one after lunch, and one in the afternoon.
+RYAN: Five! Have you ever tried to [[cut down on]] caffeine?
+SONIA: I tried once. I switched to herbal tea for a week. I was so tired and grumpy that my colleagues begged me to go back.
+RYAN: I think that's the right decision for everyone.
+SONIA: What about you? You're more of a coffee person, aren't you?
+RYAN: In the morning, yes. I need a coffee before I can have a conversation. But in the afternoon, I [[stick to]] tea. There's something about four o'clock and a cup of tea that just feels right.
+SONIA: With a biscuit.
+RYAN: With a biscuit, of course. And now we come to another great British debate. To dunk or not to dunk?
+SONIA: Dunking means putting your biscuit into your tea for a second to make it soft.
+RYAN: And the risk is that you leave it in too long, and half of it falls into the cup.
+SONIA: The worst feeling in the world. A sad little piece of biscuit at the bottom of your tea.
+RYAN: The worst. And speaking of tea at work, do you have a tea round in your office?
+SONIA: Oh, yes. A tea round is when one person makes tea for everyone. You go around asking, who wants a tea? And then you have to remember how everyone takes it.
+RYAN: That's the hard part. Ten people, ten different orders. One sugar, no sugar, milk, no milk, weak, strong.
+SONIA: And there's always one person who never makes a round, but always says yes when someone else offers.
+RYAN: Every office has one. It's an unwritten rule. If you accept a cup of tea, you're expected to make the next round.
+SONIA: I think it's quite important, actually. When someone new joins the team, offering to make the tea is one of the easiest ways to get to know people. You learn everyone's name, and how they like their tea.
+RYAN: That's true. And the kitchen at work is where you hear all the news. Who's leaving, who's getting married, who's had a baby.
+SONIA: The kettle is the centre of office life. And it isn't just offices. Builders, nurses, farmers. Everyone stops for a tea break at some point.
+RYAN: Talking of farmers, when I visited my uncle's farm as a child, there was always a giant teapot on the kitchen table. The workers would come in from the fields, muddy boots and all, and have a mug of tea and a slice of cake.
+SONIA: That sounds lovely. Very old-fashioned.
+RYAN: It was. Although my aunt was very strict about the muddy boots.
+SONIA: I can imagine. Now, coffee has become huge in Britain too, hasn't it?
+RYAN: Absolutely. When I was a child, coffee usually meant instant coffee from a jar. Now there's a coffee shop on every corner.
+SONIA: Every single corner. And people order very complicated drinks. A large oat milk latte with an extra shot and caramel syrup, please.
+RYAN: But tea is still the drink of comfort. When something bad happens in Britain, the first thing people say is, I'll put the kettle on.
+SONIA: That's so true. Someone's had bad news? Put the kettle on. Someone's moving house? Put the kettle on. The tea doesn't fix the problem, but it gives everyone a moment to sit down and talk.
+RYAN: And in Japan, it's green tea, isn't it?
+SONIA: Mostly, yes. When I was in Japan, I was surprised that green tea was everywhere, even cold, in plastic bottles from vending machines. And it's never served with milk or sugar.
+RYAN: Green tea with milk would be a crime.
+SONIA: Probably. But matcha lattes, which are green tea with milk, have become really popular in British cafés, so maybe the rules are changing.
+RYAN: Everything's changing. Except my grandmother's opinion about milk first.
+SONIA: Some things should never change. So, if you're driving right now, here's a little challenge for you. When you get to work, before you start, make a cup of tea or coffee, and tell a colleague about your perfect cup, in English if you can.
+RYAN: Strong, a splash of milk, and no biscuit at the bottom.

@@ -1,0 +1,135 @@
+title: Drones on the Farm
+date: 2026-11-20
+description: An Australian agronomist on mapping and spraying crops with drones. Then a report on the four-day working week, and a chat about winter weather.
+guest: NATASHA=en-AU-NatashaNeural
+
+# Farm and Tech
+SONIA: Good morning, and welcome to English Radio. I'm Sonia.
+RYAN: And I'm Ryan. Thanks for spending part of your journey with us.
+SONIA: Today, we're looking up at the sky. Because on farms around the world, there's a new kind of worker, and it flies.
+RYAN: The [[drone]]. A few years ago, most people thought of drones as toys, or as something used for filming weddings.
+SONIA: But now they're becoming a serious farming tool. To find out how, we're joined by Natasha, an agronomist from Western Australia. An agronomist is a scientist who helps farmers grow better crops. Natasha, welcome.
+NATASHA: G'day, and thanks for having me. Good to be here.
+RYAN: Natasha, first of all, tell us about the farms where you work.
+NATASHA: Well, they're big. Very big. A typical grain farm in Western Australia might be three or four thousand hectares, growing wheat, barley and canola. Some are much larger. You can drive for half an hour and still be on the same farm.
+SONIA: That's hard to imagine for those of us in Britain, or in Japan.
+NATASHA: It is. And that size is exactly why drones are so useful. You simply can't walk across four thousand hectares to check every field. Even driving around takes days.
+RYAN: So what do the drones actually do?
+NATASHA: There are two main jobs. The first is what I call eyes in the sky. You send a drone up to take pictures of the crop, so you can see problems early. The second is doing the work, which means spraying or spreading things directly onto the field.
+SONIA: Let's start with the eyes. How does a drone take a picture of a whole field?
+NATASHA: It's mostly automatic. On a tablet, you draw the outline of the field on a map. The software then plans a flight path, a bit like mowing a lawn, up and down in straight lines. The drone takes off, flies the whole pattern by itself, takes hundreds of photos, and comes back to land.
+RYAN: And you don't need to control it with a joystick?
+NATASHA: Not usually. The pilot is there to watch and to take control if something goes wrong. The flight itself is handled by the autopilot. In fact, a lot of farm drones run on open-source autopilot software, which was developed by a community of volunteers and engineers around the world.
+SONIA: And then what happens to all those photos?
+NATASHA: The computer stitches them together into one large, very detailed map of the field. But the clever part is the camera. Many farm drones use a special camera that can see light our eyes can't see, especially near-infrared light.
+RYAN: Why does that matter?
+NATASHA: Because healthy plants reflect a lot of near-infrared light, and stressed plants reflect less. So with that camera, you can make a map that shows which parts of the field are growing well and which parts are struggling, often before you can see any difference with your own eyes.
+SONIA: A bit like the cow collars we talked about earlier this week. The technology notices the problem before the human does.
+NATASHA: Yes, that's a great comparison. And once you see a weak patch on the map, you go and look. It might be a [[pest]], like insects eating the leaves. It might be [[weeds|weed]], or the soil might be too wet, or the plants might be short of nitrogen.
+RYAN: And then you fix it.
+NATASHA: Then you fix it, but only where it's needed. That's the idea behind [[precision agriculture]]. Instead of treating the whole field the same, you treat each part according to what it needs. You might put more [[fertiliser]] on one area and less on another.
+SONIA: That must save money.
+NATASHA: It saves money, and it's better for the environment. Fertiliser and chemicals are expensive, and if you use too much, they can wash into rivers. So using less, in the right place, is a win for everyone. And over time, it can improve your [[crop yield]] too.
+RYAN: Now let's talk about the second job, the spraying. How big are these spraying drones?
+NATASHA: Bigger than people expect. A large spraying drone is about the size of a dining table, with a tank that can hold around forty litres or more. It flies just a few metres above the crop and sprays as it goes.
+SONIA: Forty litres doesn't sound like much for a huge farm.
+NATASHA: You're right. On the big wheat farms, tractors with enormous sprayers are still much faster. Drones are best for particular situations. For example, after heavy rain, when the ground is too wet for a tractor to drive on without getting stuck. Or on hilly land. Or for spot spraying, where the drone only sprays individual weeds rather than the whole field.
+RYAN: Can the drone really find individual weeds?
+NATASHA: Increasingly, yes. With mapping and some clever software, the system can identify green weeds on bare ground, mark their positions, and then send the spraying drone straight to those spots. In some trials, that has cut the amount of herbicide by a huge amount, because you're no longer spraying the empty ground in between.
+SONIA: I've heard that in Asia, drones are used a lot on rice farms.
+NATASHA: Absolutely. Japan was a pioneer with remote-controlled helicopters, and now China and Japan use spraying drones on huge areas of rice. Rice paddies are flooded with water, so tractors can't easily go in. A drone just flies over the top. It's a perfect match.
+RYAN: What about the rules? I imagine you can't just fly a big drone wherever you like.
+NATASHA: Definitely not. In Australia, as in Britain and Japan, drones are carefully controlled. For the larger farm drones, you need a pilot licence, and if you're spraying chemicals, you need another licence for that. You have to keep away from airports and people, and usually you must keep the drone within sight. [[Regulations|regulation]] differ between countries, but every country takes safety seriously, and they should.
+SONIA: What are the biggest limitations at the moment?
+NATASHA: Battery life is the main one. A heavy spraying drone might only fly for ten or fifteen minutes before it needs a new battery. So you often see a farmer with a small generator in the back of a truck, charging batteries all day. Wind is another problem. If it's too windy, the spray can drift onto the neighbour's crops, or into a creek, so you have to stop.
+RYAN: And I suppose things can go wrong with the technology itself.
+NATASHA: Oh, of course. A sensor can [[malfunction]], the GPS signal can drop out, a propeller can crack. That's why the pilot is still essential. Machines are great, but you need someone who knows what to do when they're not great.
+RYAN: So who are these pilots? Are they farmers, or specialists?
+NATASHA: Both. Some farmers buy their own drone and get licensed themselves. But a lot of farmers prefer to hire a contractor, a specialist who comes with the drone, the batteries and the know-how, does the job, and leaves. It's a bit like hiring someone to shear your sheep.
+SONIA: Is it a popular job with young people?
+NATASHA: Increasingly, yes, and that's one of the exciting things about it. For years, young people in the country left for the cities because there weren't many interesting jobs. Now you've got young people running drone businesses, [[analysing|analyse]] maps and writing software. They can stay in their home town and still have a high-tech career.
+RYAN: That links nicely with what we heard earlier this week about Japan's farmers getting older.
+NATASHA: It's the same story everywhere. Technology on its own won't save rural communities, but it can make farming look like a job with a future.
+SONIA: How long does it take to learn to fly one?
+NATASHA: The basics, not long. A few days of training and you can fly safely in good conditions. But becoming really good takes much longer. You need to understand the weather, the chemicals, the crops and the law. And you need to stay calm when something unexpected happens, like a flock of birds, or a kangaroo.
+RYAN: A kangaroo?
+NATASHA: They don't attack drones, don't worry. But they do jump out of nowhere when you're walking to collect a drone from the far end of the paddock. Gave me a real fright the first time.
+SONIA: Only in Australia.
+SONIA: You mentioned GPS. How accurate does the positioning need to be?
+NATASHA: For mapping, normal GPS is often fine. But for some jobs, we use a correction system that makes the position accurate to a couple of centimetres. That means the drone can come back next week and fly exactly the same path, and you can compare the maps precisely.
+RYAN: Natasha, do drones work on their own, or with other technology?
+NATASHA: That's a great question, because the drone only sees the surface. It can tell you that a plant looks stressed, but not always why. So we combine it with sensors in the ground. A soil moisture sensor, for example, tells you how much water there is down at the roots. Put the two together, and you can make much better decisions about [[irrigation]], about when and where to water.
+SONIA: So the drone is the eyes, and the soil sensor is a bit like feeling the ground with your hand.
+NATASHA: I like that. And a lot of these soil sensors are surprisingly cheap now. They run on small batteries and send their readings by radio, even from very [[remote]] paddocks, miles from the nearest house.
+RYAN: Last question, Natasha. Where do you think this is heading in the next ten years?
+NATASHA: I think we'll see drones working in teams, several of them covering a field together. I think the software for spotting weeds and diseases will get much smarter. And I think we'll see more small robots on the ground as well. But I'll say what I always say to young farmers. The technology is only as good as the person using it. You still need to understand your soil, your crops and your weather.
+SONIA: Natasha, thank you so much.
+NATASHA: No worries. Thanks, guys.
+
+# The Report
+RYAN: Now it's time for The Report. Sonia, over to you.
+SONIA: Thanks, Ryan. Imagine working four days a week, for the same pay. For many people, it sounds like a dream. But in recent years, it has become a serious experiment for companies around the world, including in Britain and Japan.
+SONIA: The idea is simple. Employees work around thirty-two hours a week instead of forty, and their salary stays the same. In return, they're expected to keep the same level of output. Supporters call it the one hundred, eighty, one hundred model: one hundred per cent of the pay, for eighty per cent of the time, in exchange for one hundred per cent of the [[productivity]].
+SONIA: In twenty twenty-two, one of the largest trials in the world took place in Britain. Sixty-one companies, with nearly three thousand employees, tried a four-day week for six months. They came from a wide range of sectors, including marketing, finance, software, and even a fish and chip shop.
+SONIA: The results attracted a great deal of attention. At the end of the trial, the vast majority of the companies, fifty-six out of sixty-one, decided to continue with the four-day week, and eighteen made it permanent. Researchers reported that the number of sick days fell sharply, and fewer staff left their jobs. Most employees said they felt less stressed, and many reported lower levels of [[burnout]].
+SONIA: How did the companies manage to do the same work in less time? Many of them looked carefully at how time was being spent. They cut down on long meetings, reduced interruptions, and created quiet periods for focused work. Some managers said the trial forced them to get rid of tasks that had never really been necessary.
+SONIA: Interest has spread to Japan as well, a country famous for long working hours. In twenty twenty-five, the Tokyo Metropolitan Government began allowing its staff to choose a four-day week. One of the main reasons it gave was to support parents, and to help people balance work with raising children, in a country where the birth rate is very low.
+SONIA: However, critics say the four-day week isn't suitable for every job. A hospital, a school or a dairy farm can't simply close on Fridays. In these workplaces, a shorter week means hiring more staff, which costs money. Some [[employers|employer]] also worry that the benefits may fade once the excitement of a trial has passed.
+SONIA: There are also different versions of the idea. In some cases, people work the same forty hours, but in four longer days. That is not really a shorter week, and some workers find ten-hour days exhausting.
+SONIA: So, will the five-day working week disappear? Probably not soon. But the debate has made many organisations ask a useful question: are we measuring work by the hours people spend at their desks, or by what they actually achieve? That's the report for today.
+RYAN: Thanks, Sonia. I'd happily try a four-day week, by the way. Just so you know.
+SONIA: I'll pass that on to the boss.
+
+# Daily Talk
+RYAN: Now, Sonia, before we started the show, you were complaining about the cold.
+SONIA: I was. It's freezing this morning! I had to scrape ice off my windscreen before I could drive to work.
+RYAN: The first proper [[frost]] of the year.
+SONIA: Exactly. I went outside in my slippers, in the dark, with a credit card, scraping away at the glass. Not my finest moment.
+RYAN: A credit card? Don't you have an ice scraper?
+SONIA: I do. It's somewhere in the garage. I just couldn't find it at six thirty in the morning.
+RYAN: That's the problem with the first frost. It always comes as a surprise, even though it happens every single year.
+SONIA: Every year. And the darkness is the other thing. Since the clocks went back in October, it's dark when I leave home and nearly dark when I go home.
+RYAN: For listeners outside Britain, we change our clocks twice a year. In spring, they go forward one hour, and in autumn, they go back one hour. So in winter, it gets dark very early. By half past four in the afternoon, it's pretty much night.
+SONIA: It's quite depressing. I think that's why the British talk about the weather so much. It's always changing, and it's usually a bit disappointing.
+RYAN: That's true. Talking about the weather is basically our national sport. If you meet a stranger at a bus stop, you don't talk about politics. You say, cold today, isn't it?
+SONIA: And they say, freezing. Apparently, it's going to rain later.
+RYAN: And then you both feel a little bit better. It's a way of being friendly without getting personal.
+SONIA: So, what's the [[forecast]] for this week?
+RYAN: Cold and bright today, then cloudy, then rain from Thursday. Then a little bit [[milder|mild]] at the weekend.
+SONIA: That's a very British forecast. A bit of everything, and nothing too exciting.
+RYAN: Well, Britain has a [[temperate]] climate. Our winters aren't as cold as places like Canada or northern Japan, and our summers aren't as hot as Spain. But it can rain at any time of the year.
+SONIA: Which is why every British person owns at least three umbrellas, and can never find any of them.
+RYAN: Next to the ice scraper, probably.
+SONIA: Probably. And what about snow? We don't get much in most of Britain, but when we do, the whole country seems to stop.
+RYAN: It's true. Five centimetres of snow, and schools close, trains are cancelled, and it's on the front page of every newspaper.
+SONIA: People in Canada or Hokkaido must laugh at us.
+RYAN: I'm sure they do. But the problem is that we don't get snow often enough to be prepared for it. Most people don't have winter tyres, and many councils only have a few gritters.
+SONIA: A gritter, for our listeners, is a lorry that spreads salt and grit on the roads, so they don't get icy.
+RYAN: And when the forecast says snow, everyone rushes to the supermarket and buys bread and milk, as if we're going to be trapped for a month.
+SONIA: And then it melts by lunchtime.
+RYAN: And then it melts by lunchtime. But I have to say, a snow day was the best thing in the world when I was a child. Waking up, seeing everything white, and hearing on the radio that your school was closed.
+SONIA: Oh, the excitement! Building a snowman, having snowball fights, sliding down the hill on a plastic tray.
+RYAN: A plastic tray? Not a proper sledge?
+SONIA: We didn't have a proper sledge. A tea tray from the kitchen worked surprisingly well.
+RYAN: Back to tea again. Everything on this show comes back to tea.
+SONIA: It always does. Anyway, Ryan, what's your favourite thing about winter?
+RYAN: Honestly? The food. When it's cold outside, I want something warm and heavy. A big shepherd's pie, with minced lamb and mashed potato on top.
+SONIA: Ooh, yes. Or a crumble for dessert. Apple crumble with hot custard.
+RYAN: Now you're talking. Hot custard is one of Britain's greatest gifts to the world.
+SONIA: I'm not sure the rest of the world agrees.
+RYAN: They will one day. What about winter in Japan? You were there in winter, weren't you?
+SONIA: I was there in February, and it was fascinating, because the weather was so different depending on where you were. In Tokyo, it was cold but very sunny and dry. Clear blue skies almost every day. But on the other side of the mountains, facing the Sea of Japan, there was enormous snow. Metres of it.
+RYAN: Metres?
+SONIA: Metres. Some of the snowiest places on earth with large towns are in Japan. I saw houses where people had to climb onto the roof to clear the snow, because it was so heavy.
+RYAN: That's [[severe]] weather. That makes my frosty windscreen sound like nothing.
+SONIA: It really does. But the Japanese have some brilliant ways of staying warm. Have you heard of a kotatsu?
+RYAN: I don't think so.
+SONIA: It's a low table with a heater underneath and a thick blanket around the sides. You sit on the floor with your legs under the blanket, and it's so warm and cosy that you never want to get up again.
+RYAN: That sounds dangerous. I'd never get anything done.
+SONIA: That's the problem. People say the kotatsu is a trap. And then there are hot springs, onsen, where you sit in hot natural water outside while snow is falling around you.
+RYAN: Now that sounds perfect. Much better than a British bus stop in the rain.
+SONIA: Much better. And the food, again. In winter, people eat nabe, which is a hot pot. Everyone sits around one big pot on the table, full of vegetables, tofu, fish or meat, and you cook and eat together.
+RYAN: That sounds wonderful. Warm food, good company, and no ice to scrape.
+SONIA: So for our listeners who are driving this morning, maybe on a cold road, please take it easy. Leave a little extra time, and watch out for ice on the bridges.
+RYAN: And find your ice scraper tonight, not tomorrow morning.
+SONIA: Advice I will definitely be taking.

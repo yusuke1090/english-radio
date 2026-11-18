@@ -6,7 +6,7 @@
 <atom:link href="https://yusuke1090.github.io/english-radio/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en-gb</language>
 <description>A British English radio show for the commute: farming and technology, everyday chat, and IELTS words in context.</description>
-<lastBuildDate>Wed, 18 Nov 2026 20:43:49 +0900</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 21:04:14 +0900</lastBuildDate>
 <itunes:author>English Radio</itunes:author>
 <itunes:image href="https://yusuke1090.github.io/english-radio/cover.jpg"/>
 <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -111,6 +111,16 @@
 <pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1407</itunes:duration>
 <itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>11. Late Night Special: The Queue That Wasn't</title>
+<description>A comedy special. Embarrassing stories, brutal nicknames, silly listener mail, and a crash course in British sarcasm.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep011.mp3?v=0b09d814f3" length="8689029" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-011</guid>
+<pubDate>Wed, 18 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1448</itunes:duration>
+<itunes:episode>11</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel>

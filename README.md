@@ -9,7 +9,7 @@
 
 1. `episodes/NNN.txt` を書く（形は下）
 2. `.venv/bin/python tools/build.py` で、読み上げ（edge-tts）から mp3 を作って Release `audio` に上げ、`episodes.json` と `feed.xml` を書き直す
-3. コミットしてプッシュする（Pages が `feed.xml` を出す）
+3. コミットしてプッシュする（Actions が Release の mp3 と一緒に Pages に出す。Release の URL のままだと iPhone でその場で再生できない）
 
 最初の準備: `python3 -m venv .venv && .venv/bin/pip install edge-tts imageio-ffmpeg mutagen`
 

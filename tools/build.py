@@ -247,7 +247,7 @@ def main():
             "n": n, "title": meta["title"], "description": meta.get("description", ""),
             "date": meta["date"], "hash": e["hash"], "bytes": e["bytes"], "seconds": e["seconds"],
             "uploaded": e.get("uploaded"),
-            "url": f"https://github.com/{REPO}/releases/download/{TAG}/ep{n:03d}.mp3?v={e['hash']}",
+            "url": f"{SITE}/audio/ep{n:03d}.mp3?v={e['hash']}",
             "words": [{"word": w["word"], "ja": w["ja"]} for w in words],
         })
     index.write_text(json.dumps(eps, ensure_ascii=False, indent=1) + "\n")

@@ -1,0 +1,40 @@
+# Pages に出す: ページ・feed.xml・台本と、Release `audio` の mp3（audio/ に置く）
+# mp3 を Pages から出すのは、Release の URL だと iPhone の Podcast アプリがその場で再生できないため
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: サイトをそろえる
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p _site/audio
+          cp -r index.html feed.xml episodes.json cover.jpg episodes _site/
+          gh release download audio -R "$GITHUB_REPOSITORY" -D _site/audio -p 'ep*.mp3'
+          ls -la _site/audio
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

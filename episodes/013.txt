@@ -1,0 +1,154 @@
+title: Pole Pole (3/3)
+date: 2026-11-13
+description: Part 3 – Mzee Joseph, the oldest farmer in Kisima, tells the end of the story. The night the river came, the real rains, and the young man the village named "child of the rain".
+voice: JOSEPH = en-TZ-ElimuNeural -10% -8Hz
+voice: HARUTO = en-HK-SamNeural
+voice: NEEMA = en-TZ-ImaniNeural
+voice: ZAWADI = en-US-AnaNeural
+voice: GRACE = en-KE-AsiliaNeural -4Hz
+voice: LEMA = en-KE-ChilembaNeural
+voice: ISHIDA = ko-KR-HyunsuMultilingualNeural
+
+# Cold open
+[amb night 0.5]
+JOSEPH (calm): I am seventy-four years old. I have seen sixty [[rainy seasons|rainy season]] with my own eyes, and I remember most of them.
+JOSEPH (calm): And in all those years, I have learned one thing for certain.
+JOSEPH (calm): The rain has never once read a newspaper. It has never listened to a [[politician]]. And it has never, ever looked at an app.
+[amb off]
+[music afro.120 16]
+
+# The Rain Gauge
+[bgm acoustic.121 0.12]
+JOSEPH: My name is Joseph Laizer. In Kisima, they call me Mzee Joseph. Mzee means "old man", but in a polite way. The young people say it with respect, because they [[look up to]] the old. My wife says it without.
+JOSEPH: I was born in nineteen fifty-two, in a house made of mud and sticks, not far from where I live now. My father was a farmer, and he kept [[cattle]], and before him, his father kept cattle too. When I was a boy, my job was to take the goats out in the morning, and bring them back before dark, and not lose any. I lost one, once. My father did not speak to me for two days. The goat came back by itself. It had found a better place to eat.
+JOSEPH: My father could not read. But he could read the sky. He taught me the signs. The ants. The wind. The trees. The rain bird. "Joseph," he said, "the land talks all the time. Most people are too busy to listen."
+JOSEPH: In nineteen seventy-nine, when I was twenty-seven, a teacher at the mission school, a kind man called Mr Swai, gave me a gift. A plastic rain gauge. A tube with numbers on the side. He said, "You watch the sky better than anyone in this village. Now, write it down."
+JOSEPH: So I did. Every morning, before my tea, I looked at the gauge, and I wrote the number in a school exercise book. And next to it, I wrote what I saw. When the rain bird came. When the ants moved. When we planted. How the [[harvest]] was. Forty-five years.
+JOSEPH: People thought I was a little bit mad. "Joseph, why do you write numbers about water?" I didn't know why. I only knew that if you [[observe]] something carefully, and you write it down, one day it will be useful. I didn't know it would be useful to a young man from Japan with ugali in his ear.
+[bgm off]
+
+# The Young Man Who Walked Too Fast
+[bgm afro.122 0.12]
+JOSEPH: Neema has told you how he arrived. And he has told you about his mistake. Now I will tell you how he looked to an old man.
+JOSEPH: The first thing I noticed about Haruto was that he walked too fast. Everywhere. From the car to the tree. From one field to another. Like a man who has lost something and thinks he will find it if he hurries. In my experience, a man who walks that fast is usually running away from something, or towards something, and he doesn't know which.
+JOSEPH: The second thing I noticed was that he listened. Not to everybody. Not at first. But when I asked him, "Can your machine smell the rain?", he did not laugh. He did not explain. He thought about it, and he said, "Not long, Mzee." That was an honest answer. I have heard many experts in my life. Honest answers are rare.
+JOSEPH: When his machine told the village to plant, I said wait. Not because I am against machines. I have a mobile phone. Zawadi put games on it. I am very good at the one with the birds. But because the land had not spoken yet. The ants had not moved. The rain bird was silent.
+JOSEPH: And when the first rain came, and then stopped, and the young maize began to die, I did not feel happy that I was right. I felt sick. Those were my neighbours' fields. My nephew's field. Children I had known since they were born would be hungry because of it. Being right is a very small thing, next to that.
+JOSEPH: And then the young man came to my house, in a clean shirt, and bent his body in half, and said, "Mzee, I was wrong."
+JOSEPH: I'll tell you a secret. When he said that, I knew he would stay. A man who can say "I was wrong" is a man who can learn. And a man who can learn can become wise, even if he is young, and even if he cannot eat ugali.
+[bgm off]
+
+# The Night the River Came
+[amb rain]
+[bgm spooky.123 0.12]
+JOSEPH: Now I will tell you about the night of the flood. Because Haruto has told you how it began. A knock at my door, at two o'clock in the morning, in the middle of the biggest storm I had seen in ten years.
+[sfx knock]
+HARUTO (shout): Mzee! Mzee Joseph! Wake up! The river is coming!
+JOSEPH: I opened the door. He was standing there in the rain, soaking wet, with his phone in his hand, and his shoes untied. He showed me the screen. A line going up, up, up. I didn't understand the numbers. But I understood his face.
+HARUTO (fast): The sensor in the dry riverbed. The water is rising very fast. Something big is coming down from the mountain. I don't know how big. I don't know where it will go.
+JOSEPH: And that was the moment, the exact moment, when I understood what the old knowledge and the new knowledge could do together.
+JOSEPH: Because his machine could hear the water coming. But it did not know where the water would go.
+JOSEPH: And I did.
+JOSEPH: You see, when I was a young man, in nineteen sixty-eight, there was a great flood. The river came down from the mountain in the night, and it did not follow the riverbed. It jumped out, at the big bend, below the old baobab tree, and it ran straight across the low fields, towards the place where the land is flattest. Two houses were washed away. A family lost all their cattle.
+JOSEPH: Rivers remember. Every big [[flood]] goes back to an old path. They always go back to their old paths. And last year, three young families had built new houses down there, in those low fields, because the land was cheap and flat. Nobody had told them about nineteen sixty-eight. Nobody had asked the old people.
+JOSEPH (serious): "The low fields," I said. "The new houses. The Mollel family, the Kimaro family, and the young teacher. Go! Now!"
+[bgm off]
+[bgm mystery.124 0.13]
+JOSEPH: I am seventy-four. I cannot run. So I did what an old man can do. I gave orders.
+JOSEPH: I sent Haruto to the low fields, with my grandson's torch, to wake the three families. I sent Zawadi, who had woken up and was standing in the doorway in her pyjamas, to run to the church and tell the caretaker to ring the bell. In Kisima, when the church bell rings in the night, everybody knows something is wrong.
+[sfx churchbell]
+JOSEPH: And I went, as fast as my legs could carry me, to the houses near the edge, banging on doors with my stick. "Get up! Take the children! Take the animals! Go to the school, on the hill!"
+JOSEPH: Within twenty minutes, the whole [[community]] was awake. People carrying children on their backs, in the rain. Men pulling goats. Women with babies wrapped in blankets. Mr Lema, the cooperative chairman, wearing his sunglasses, at three o'clock in the morning, carrying an old woman on his back. I will never laugh at his sunglasses again. Well. Not often.
+JOSEPH: Haruto came back up the hill with the three families. The young teacher was carrying a box of schoolbooks. Mama Mollel had a baby in her arms and two chickens under her coat. Haruto was carrying their grandmother's sewing machine. He was covered in mud from his hair to his feet.
+JOSEPH: And forty minutes after he knocked on my door, we heard it.
+[amb off]
+[sfx thunder]
+JOSEPH (quiet): It's a sound I had not heard for fifty-eight years. A deep, low roar, like a lorry that never stops. The sound of a river that has woken up.
+JOSEPH: From the school on the hill, in the light of the lightning, we watched it come. A wall of brown water, full of mud and branches and stones. It came down the riverbed, and at the big bend, below the old baobab tree, exactly where it went in nineteen sixty-eight, it jumped out. And it ran across the low fields. Right through the place where the three new houses stood.
+JOSEPH: Nobody spoke. Mama Mollel was holding her baby very tight. Haruto was standing next to me. I could feel him shaking. Maybe from the cold.
+[bgm off]
+
+# Morning
+[amb birds 0.6]
+[bgm piano.125 0.12]
+JOSEPH: In the morning, the sun came out, as if nothing had happened. That is what the sun does. He has no shame.
+JOSEPH: Two of the new houses had [[severe]] damage. The third was gone. Just gone. A few walls of mud, and a cooking pot in a tree. Some fields were covered in sand and stones. A few chickens were lost. One goat climbed onto the roof of the church and would not come down for two days.
+JOSEPH: It was a real [[natural disaster]]. But nobody was hurt. Not one person. Not one child. All the cattle were safe.
+JOSEPH: People came to my house that morning to thank me. And I told them what I am telling you. "Don't thank me. Thank him." And they went to thank Haruto. And he said, "Don't thank me. Thank Mzee Joseph." And they went back and forth like that all morning, until Mama Grace told everybody to sit down and eat.
+GRACE (warm): Enough thanking! Eat! Both of you are too thin and too proud.
+JOSEPH: Later, when everyone had gone, Haruto sat with me outside the house. He was very quiet.
+HARUTO (quiet): Mzee. If I hadn't put that sensor in the river, we wouldn't have known. But if you hadn't known where the water would go, we wouldn't have known where to run.
+JOSEPH: Yes. The machine heard the water. The old man knew the way it would go. Neither of us alone would have been enough.
+HARUTO: My grandfather would have known too. In Niigata. He always knew.
+JOSEPH: Then your grandfather was a good farmer. And he would be proud of you today.
+JOSEPH: He didn't say anything. He just looked at the mountain for a long time. I think he was crying a little bit. I pretended not to see. That is what men do here. We are not so different from Japan, maybe.
+[amb off]
+[bgm off]
+
+# The Real Rains
+[amb rain 0.6]
+[bgm afro.126 0.12]
+JOSEPH: After the storm, the real rains came. Not all at once. Not a flood. Soft, [[steady]] rain, every two or three days, for weeks. The good kind. The kind that soaks into the ground instead of running away.
+JOSEPH: The rain bird called every morning. The ants were busy. The trees were green. And Haruto's new machine, the one with my forty-five years inside it, said the same thing. Plant now.
+JOSEPH: This time, everybody planted. The ones who had waited with me. And the ones who had lost their seed the first time, with the new seed that Neema found for them. A special maize that grows quickly, and doesn't die so easily when the rain stops for a few days.
+JOSEPH: I planted on the same day as Mr Lema's brother. He came to my field first, and watched me put my first seed in the ground. Then he went to his own field and did the same. He said, "This year, Mzee, I'm copying you." I said, "Good. Copying is how all of us learned."
+JOSEPH: And the maize grew. Oh, it grew. By January it was taller than Zawadi. By February it was taller than Haruto, which is not difficult. The cobs were fat and heavy.
+JOSEPH: It wasn't the best harvest I've ever seen. The families who planted twice had a smaller [[crop yield]]. The flood had taken some fields. But it was a good harvest. A fair harvest. Nobody in Kisima went hungry that year. And in a village like ours, that is a very great thing. Neema calls it [[food security]]. I call it children with full stomachs.
+[amb off]
+[bgm off]
+
+# Tokyo
+[bgm citypop.127 0.12]
+JOSEPH: In February, Haruto said to me, "Mzee, I need your help. I have to talk to my company. Will you come?"
+JOSEPH: I said, "To Japan? I'm seventy-four. I've never been further than Moshi."
+JOSEPH: He laughed. "No, Mzee. On the computer."
+JOSEPH: So one evening, we sat under the big fig tree. Me, Haruto, Neema, Zawadi, Mr Lema, and about fifty other farmers, who had come to watch, because nothing this interesting had happened in Kisima for years. Haruto put his laptop on a plastic chair, and there, on the screen, in a white room on the other side of the world, were six men and two women in dark suits. And his boss, Mr Ishida.
+ISHIDA (serious): Mori-kun. You have twenty minutes.
+JOSEPH: Haruto told them everything. Honestly. The mistake. The false start. The exercise books. The flood. The harvest. He showed them the new model. And then he said something that I did not expect.
+HARUTO (serious): The old model was built in Tokyo, and sent to Kisima. It failed. The new model was built here, with the people of Kisima, using their data and their knowledge. It works much better. So I [[propose]] that the data belongs to the village. To the farmers' cooperative. Not to us. If we use it, we pay them. And the farmers can report the signs they see, the birds, the ants, the trees, by text message, from any phone. Every farmer becomes a sensor. And every season, the model gets smarter.
+JOSEPH: The people in suits were quiet for a long time. Then one of them, an older woman, asked a question in Japanese, and Haruto translated.
+HARUTO: She asks, "Mr Laizer, do you trust this app now?"
+JOSEPH: I thought about it. Fifty farmers were watching me.
+JOSEPH (calm): Tell her this. I trust it the way I trust a young man who has been to my house many times, and made mistakes, and said sorry, and learned. I trust it a little more every season. That is the only way to trust anything.
+JOSEPH: Haruto translated. The woman smiled. Mr Ishida looked at the others, and nodded very [[slightly]].
+ISHIDA: Mori-kun. The project continues. Ms Lyimo will lead the work in Tanzania. And you... well done.
+JOSEPH: Zawadi told me afterwards that, in Japan, a boss saying "well done" is like another man throwing a party. Haruto had to go and sit behind the church for ten minutes.
+[bgm off]
+
+# The Name
+[amb fire 0.6]
+[bgm acoustic.128 0.12]
+JOSEPH: Haruto left Kisima in March, just before the long rains. Six months after he arrived.
+JOSEPH: On his last night, the whole village had a party. There was goat, and rice, and ugali, of course. He ate it with his hand now, perfectly. Roll, press, dip. Zawadi said he was "almost not embarrassing any more", which from Zawadi is a very great compliment.
+JOSEPH: And then he stood up and made a speech. In Swahili.
+HARUTO (nervous): Habari zenu. Asanteni sana. Nimejifunza... mengi. Hapa Kisima. Pole pole... ndio mwendo.
+JOSEPH: "Good evening, everyone. Thank you very much. I have learned... a lot. Here in Kisima. Slowly, slowly... is the way."
+JOSEPH: His grammar was terrible. His accent was worse. Everybody cheered as if he had won a football match.
+JOSEPH: Then it was my turn. I stood up, with my stick, and everybody went quiet, the way they always do.
+JOSEPH (warm): In our [[tradition]], sometimes a person who has done something important for the village is given a new name. Tonight, I want to give this young man a name.
+JOSEPH (warm): He came here to [[predict]] the rain. He got it wrong. Then he listened, and he got it right. And when the river came in the night, he ran into the storm to wake our children.
+JOSEPH (warm): So from tonight, in Kisima, his name is "Mwana wa Mvua". Child of the Rain.
+[sfx applause 0.6]
+JOSEPH: He bowed. Very low. Japanese style. Ninety degrees. And then, because he's a quick learner, he stood up and shook my hand with both hands, Tanzanian style. And then he hugged me, which is nobody's style, and which I allowed, because he was leaving.
+JOSEPH: He gave Data the chicken to Zawadi. She has taught it to come when she calls. She says it's the smartest chicken in Tanzania. I don't argue.
+[amb off]
+[bgm off]
+
+# Pole Pole
+[amb birds 0.6]
+[bgm piano.129 0.12]
+JOSEPH: It's the long rains again now, as I tell you this. Masika. The rain bird has been calling since last week.
+JOSEPH: Every morning, I still look at my rain gauge, and I still write the number in an exercise book. But now, every evening, Zawadi takes the book and types the numbers into a computer that Haruto's company sent to the school. And then she sends them across the world to a young man in Tokyo, who sends back a message. Usually the message says, "Asante, Mzee. How are the ants?"
+JOSEPH: Zawadi says she will be an engineer. She says she will go to university in Dar es Salaam, and then maybe to Japan, and then she will come back and build a better app than Haruto's. She says this to Haruto on the video calls. He laughs. He believes her. So do I.
+JOSEPH: Neema runs the project now. Farmers from other villages come to see it. The [[local]] radio station did a programme about it. Last month, a woman came all the way from Kenya. She asked to see my exercise books. She held them like they were made of gold.
+JOSEPH: I am an old man, and I don't understand everything about this new world. But I'll tell you what I think, sitting here, at the end of my story.
+JOSEPH (calm): The old people know things. The young people know things. The machines know things. The ants know things. Nobody knows everything. The trouble always starts when one of them thinks they do.
+JOSEPH: Neema says the word for what Kisima learned that year is [[resilience]]. I just call it common sense.
+JOSEPH (calm): We say "pole pole ndio mwendo". Slowly, slowly is the way. And I still believe it. Most of the time, in farming, in life, slowly is the right way. You watch, you wait, you listen.
+JOSEPH (calm): But that young man taught me something too. On that night, when the river was coming, slowly was not the way. That night, we had to run.
+JOSEPH (warm): So maybe wisdom is this. To know which night is which.
+JOSEPH: The rain is starting now. Can you hear it? I must go and check my gauge.
+JOSEPH (warm): Kwa heri. Goodbye. And if you ever come to Kisima... look at the sky first. Then look at your phone.
+[amb off]
+[bgm off]
+[music afro.130 16]

@@ -6,7 +6,7 @@
 <atom:link href="https://yusuke1090.github.io/english-radio/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en</language>
 <description>English for the commute: stories in three parts, talks, vlogs, comedy, radio drama and music shows, with a different voice every time.</description>
-<lastBuildDate>Fri, 20 Nov 2026 22:34:08 +0900</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 02:16:30 +0900</lastBuildDate>
 <itunes:author>English Radio</itunes:author>
 <itunes:image href="https://yusuke1090.github.io/english-radio/cover.jpg"/>
 <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -111,6 +111,36 @@
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1464</itunes:duration>
 <itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>11. Pole Pole (1/3)</title>
+<description>A three-part story from northern Tanzania. Part 1 – agronomist Neema meets Haruto, a young engineer from Tokyo with three suitcases of sensors and an app that says it can predict the rain.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep011.mp3?v=1f76747e61" length="12929323" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-011</guid>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1616</itunes:duration>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>12. Pole Pole (2/3)</title>
+<description>Part 2 – Haruto tells his side. A model that was too confident, an apology to an old farmer, forty-five years of rain written in school exercise books, and a phone that buzzes at two in the morning.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep012.mp3?v=ab3ea14098" length="13609579" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-012</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1701</itunes:duration>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>13. Pole Pole (3/3)</title>
+<description>Part 3 – Mzee Joseph, the oldest farmer in Kisima, tells the end of the story. The night the river came, the real rains, and the young man the village named "child of the rain".</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep013.mp3?v=c8dd661b2e" length="12387595" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-013</guid>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1548</itunes:duration>
+<itunes:episode>13</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel>

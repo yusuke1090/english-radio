@@ -1,0 +1,332 @@
+title: Flatmates: The Inspection (Sitcom)
+date: 2026-11-14
+description: A radio sitcom. Three flatmates in London – an Italian chef, a Brazilian nurse and a French PhD student – have 14 hours to hide a cat, a broken washing machine and a boyfriend before the landlady arrives.
+voice: MARCO = it-IT-GiuseppeMultilingualNeural
+voice: BIA = pt-BR-ThalitaMultilingualNeural
+voice: CHLOE = fr-FR-VivienneMultilingualNeural
+voice: OLLIE = en-GB-ThomasNeural +6% +5Hz
+voice: PEMBERTON = en-CA-ClaraNeural -6% -4Hz
+
+# Theme
+[music comedy.131 14]
+
+# Scene 1: Thursday, 8 p.m.
+[amb sizzle 0.5]
+[bgm comedy.132 0.1]
+MARCO (happy): Okay, everybody! Dinner is served! Tonight, from my grandmother's kitchen in Naples, a very simple, very beautiful pasta. Garlic, olive oil, a little chilli. Nothing else. In Italy, we say, the fewer the [[ingredients|ingredient]], the more you can taste the love.
+CHLOE (dry): Marco, you say this every night. Last night you said it about toast.
+MARCO: The toast had love in it, Chloé. You didn't taste it because you are a cold French woman with no heart.
+CHLOE: I have a heart. I keep it in the fridge, next to my cheese, so nobody steals it.
+BIA (cheerful): Ah, it smells amazing! Marco, you're a genius. Can I have a bit extra? I didn't eat lunch. Twelve-hour shift. Three patients threw up on me.
+MARCO: Of course, Bia. For a nurse, always extra. Sit. Eat.
+CHLOE: By the way, there's a letter for all of us. It was on the mat. It looks official.
+BIA: Official? Like, government official? Is it about my visa?
+CHLOE: No. Worse. It's from Mrs Pemberton.
+[pause 0.5]
+MARCO (scared): The landlady?
+CHLOE (dry): The landlady.
+[sfx swoosh]
+CHLOE (serious): "Dear [[tenants|tenant]]. This is to inform you that I will be [[carrying out|carry out]] an inspection of the [[property]] tomorrow, Friday, at ten o'clock in the morning. I will be checking all rooms and all appliances. Kind regards, Mrs E. Pemberton."
+BIA: Tomorrow? But that's... that's fourteen hours from now!
+MARCO: She can't do that! Is that legal?
+CHLOE: She gave us notice. It's in the [[contract]]. Twenty-four hours.
+MARCO: This is not twenty-four hours! This is fourteen!
+CHLOE: She dated the letter yesterday. Somebody left it under a pizza box.
+MARCO: ...Okay. That was me. But that's not the point.
+[amb off]
+[bgm off]
+
+# Scene 2: The Confessions
+[bgm mystery.133 0.12]
+CHLOE: Okay. Everybody calm down. It's an inspection. She walks around, she looks at the walls, she checks we haven't painted anything purple, she leaves. Nobody has anything to hide. Right?
+[pause 1.0]
+CHLOE: ...Right?
+MARCO (nervous): Well...
+BIA (nervous): Um...
+CHLOE: Oh no. What did you do? Marco, you first.
+MARCO: It's nothing. It's a very small thing. A tiny thing. The washing machine is... how do you say... a little bit broken.
+CHLOE: How broken?
+MARCO: It doesn't turn on. And there's a smell. And a little bit of water on the floor. And a little bit of smoke, sometimes, when you touch it.
+CHLOE: Marco! What did you do to it?
+MARCO: I washed my chef's jackets! As normal! But I forgot that in the pocket, there was... a bag of flour.
+CHLOE: A bag of flour.
+MARCO: A large bag. Two kilos. For the pizza. And the water, and the flour, and the heat... it became bread. There is a loaf of bread inside the washing machine. A very big loaf. It has destroyed the machine from the inside.
+CHLOE (dry): You baked a loaf of bread in our washing machine.
+MARCO (proud): Honestly? It's not my worst bread.
+CHLOE: Okay. Okay. A broken washing machine. That's bad, but we can [[deal with]] it. Bia?
+BIA: Mine's not bad! Mine's actually really nice.
+CHLOE: What is it?
+BIA: Promise you won't be angry.
+CHLOE: I promise nothing. I'm French.
+BIA: Okay. So. You know how the contract says "no pets"?
+CHLOE: Bia.
+BIA: And you know that noise you've been hearing at night? That you said was the pipes?
+CHLOE: Bia, no.
+BIA (excited): Meet Paçoca!
+[pause 0.5]
+MARCO: That's a cat.
+BIA: She's a cat! She's a beautiful, beautiful cat! I found her three months ago, in the rain, behind the hospital. She was so thin, and so sad, and she followed me all the way to the bus stop, and I couldn't leave her! She's been living in my wardrobe!
+CHLOE: For three months?
+BIA: She has a little bed! And a little box! And she's very quiet! Mostly!
+MARCO: Why is she called Paçoca?
+BIA: It's a Brazilian sweet, made of peanuts. She's the same colour. Look at her! Look at her little face!
+MARCO (warm): Oh... she is very beautiful. Ciao, bella. Ciao, Paçoca.
+CHLOE: Marco, don't fall in love with the [[illegal]] cat.
+MARCO: Too late.
+CHLOE: Okay. A broken washing machine, which is full of bread. And a cat, which is not allowed. This is a disaster. But it is a disaster that we can [[sort out|sort out]]. Is that everything?
+MARCO: What about you, Chloé?
+CHLOE: What about me?
+BIA: You've gone a bit red.
+CHLOE: I have not gone red. I'm French. We don't go red. We go pale and then we leave the country.
+[sfx knock]
+OLLIE (cheerful): Chlo? Babe? Is it safe to come out? I'm starving, and I can smell garlic.
+[pause 1.0]
+MARCO: ...Who is that?
+BIA: Is there a man in your room?
+CHLOE (dry): That is Ollie.
+MARCO: Who is Ollie?
+CHLOE: Ollie is my boyfriend.
+BIA: Since when?
+CHLOE: Since June.
+MARCO: And how long has Ollie been in your room?
+CHLOE: ...Since July.
+BIA (shout): He lives here?!
+OLLIE: Hi! Hi, everyone. I'm Ollie. Lovely to finally meet you properly. I've heard you a lot. Through the wall. Marco, you sing in the shower. It's gorgeous, mate. Really.
+MARCO: You have been living in our flat for four months, and we never saw you?
+OLLIE: I'm very quiet. And I go out when you're at work. And I come in when you're asleep. It's like being a ninja, but for rent.
+CHLOE: His [[landlord]] put the rent up by four hundred pounds a month. He couldn't [[afford]] it. He had nowhere to go. What was [[I supposed|I suppose]] to do?
+MARCO: Ask us?
+CHLOE: You would have said no.
+BIA: I would have said yes! I literally have a cat in my wardrobe!
+[bgm off]
+
+# Scene 3: The Plan
+[bgm comedy.134 0.12]
+CHLOE: Okay. Let's think about this logically. We have one broken washing machine full of bread. One illegal cat. And one illegal boyfriend.
+OLLIE: I prefer "undocumented boyfriend".
+CHLOE: Quiet, Ollie. The inspection is at ten. If Mrs Pemberton finds any of this, she will throw us out. All of us. And do you know how hard it is to find a flat in London? Do you know how much the rent is?
+BIA: Last time I looked for a flat, I saw a place in Zone 4 where the shower was in the kitchen. Next to the oven. They called it "open-plan living".
+MARCO: I saw one where the bed was above the toilet. Like a bunk bed. With a toilet.
+OLLIE: I saw one that was actually a boat. Not a houseboat. Just a boat.
+CHLOE: Exactly. So we need a plan. Marco, what about the washing machine?
+MARCO: I will fix it. Tonight. I am very good with my hands.
+CHLOE: You're a chef.
+MARCO: Exactly. Very good with my hands. I will take out the bread, and I will clean everything, and in the morning, the machine will be like new.
+CHLOE: And if you can't fix it?
+MARCO: Then I will push it into my room and put a tablecloth on it, and say it's a table.
+CHLOE: Fine. Bia, the cat.
+BIA: She can stay in my wardrobe. She's very good at hiding. She hides from me all the time.
+CHLOE: What if she makes a noise?
+BIA: Then you all cough. Loudly. At the same time.
+CHLOE: That's a terrible plan.
+BIA: Do you have a better one?
+CHLOE: No. Okay. Coughing. And Ollie...
+OLLIE: I'll go to my mate Dev's for the morning. Easy. He's got a sofa. Well, he's got half a sofa. The other half is a dog.
+CHLOE: Perfect. Then everybody knows what to do. We'll be fine. It's just an inspection. What could possibly go wrong?
+[bgm off]
+[music comedy.135 8]
+
+# Scene 3 and a Half: 1 a.m.
+[amb night 0.4]
+[bgm lofi.143 0.1]
+MARCO (tired): Okay. The bread is moving. Pull, Ollie. Pull!
+OLLIE: I'm pulling! It's stuck! It's like it's grown roots!
+MARCO: It's sourdough. It's very strong.
+[sfx slam 0.5]
+OLLIE: Whoa! It's out! Marco, it's [[enormous]]! It's the size of a car tyre!
+MARCO (proud): Look at that crust. Look at the colour. If this was in a bakery in Naples, people would queue for it.
+OLLIE: It smells like fabric softener.
+MARCO: A little bit. Yes. Lavender sourdough. Very modern.
+[pause 0.8]
+OLLIE: Hey, Marco. Thanks for not being angry. About me. Living here.
+MARCO: I was angry for maybe ten minutes. Then I thought, this guy has been living in a small room for four months, coming in and out like a ghost, never using the kitchen, so we don't notice. That's not a [[criminal]]. That's a sad man.
+OLLIE: It's been a bit sad, [[to be honest]]. I've eaten a lot of cold beans.
+MARCO: Cold beans! In my flat! While I'm cooking pasta for three every night! Tomorrow, you eat with us. All of us. Properly.
+[bgm off]
+[bgm piano.144 0.1]
+BIA: Can't sleep?
+CHLOE: No. You?
+BIA: Paçoca keeps walking on my face. Chloé, can I ask you something? Why didn't you tell us about Ollie?
+CHLOE: Because I was [[embarrassed]]. In Paris, I had a nice apartment. Small, but nice. Here, I'm twenty-nine, I'm doing a PhD, and I share a flat with three people and a secret cat, and my boyfriend lives in my wardrobe.
+BIA: Technically, the cat lives in my wardrobe. Ollie lives in your room.
+CHLOE: You know what I mean. London is so [[expensive]]. Everybody I know is struggling to [[make ends meet]]. The [[cost of living]] is crazy. There's a [[housing shortage]], so landlords can ask for anything they want. Ollie's old landlord put the rent up four hundred pounds, just because he could. And there's nothing you can do.
+BIA: In São Paulo, it's the same. Everybody lives with their family until they're thirty. My cousin is thirty-four and he still sleeps in a bunk bed. Under his brother.
+CHLOE: That's horrible.
+BIA: He likes it. He says it's "[[affordable housing]]".
+CHLOE: Ha. Okay. Bia? Thank you. For not being angry.
+BIA: Chloé. I have a cat in my wardrobe. I'm not in a position to be angry with anybody.
+[amb off]
+[bgm off]
+
+# Scene 4: Friday, 9:55 a.m.
+[bgm sports.136 0.1]
+CHLOE (nervous): Okay. Five minutes. Status report. Marco?
+MARCO (tired): I was up all night. I removed the bread. It came out in one piece. It's like a big round pillow. I put it in the garden.
+CHLOE: And the machine?
+MARCO: The machine is clean. The machine is beautiful. The machine does not work.
+CHLOE: So, tablecloth?
+MARCO: Tablecloth. And I put some flowers on it. And a candle. It's a very romantic washing machine now.
+CHLOE: Bia?
+BIA: Paçoca is in the wardrobe. She's got food, she's got water, she's got her favourite toy, which is a sock. She's very calm.
+CHLOE: Good. And Ollie is at Dev's?
+OLLIE: Ollie is... about to go to Dev's.
+CHLOE (shout): Ollie! Why are you still here?!
+OLLIE: Dev just texted. His dog ate his keys. He's locked out. I've got nowhere to go!
+CHLOE: Go to a café!
+OLLIE: I've got no money! That's literally why I live in your room!
+[sfx doorbell]
+[pause 1.0]
+BIA (whisper): She's here. She's early.
+MARCO (whisper): She's not early, it's ten o'clock. She's English. She's exactly on time.
+CHLOE (whisper): Ollie, hide! Anywhere!
+OLLIE (whisper): Where?
+CHLOE (whisper): I don't know! Be a ninja!
+[bgm off]
+
+# Scene 5: The Inspection
+[bgm mystery.137 0.1]
+PEMBERTON: Good morning. Mrs Pemberton. You're expecting me, I believe.
+CHLOE (cheerful): Mrs Pemberton! What a lovely surprise! I mean, not a surprise. We're expecting you. Please, come in. Would you like a cup of tea?
+PEMBERTON: No, thank you. I won't be long. I simply want to check that my property is in good condition. Shoes off, please.
+MARCO: Of course, of course. Welcome, Mrs Pemberton. You look very elegant today. That's a beautiful coat.
+PEMBERTON: Flattery won't help you, young man. I've owned this house for forty-one years. I've seen everything. Students. Musicians. A man who kept bees in the bathroom. Let's start in the kitchen.
+[sfx steps]
+PEMBERTON: Hmm. Clean. Surprisingly clean. Somebody's been cooking garlic.
+MARCO: That's me, signora. I'm a chef. Can I offer you something? A little biscotti? I made them this morning.
+PEMBERTON: At what time?
+MARCO: At... five o'clock. I couldn't sleep.
+PEMBERTON: I see. And what is this?
+[pause 0.8]
+MARCO: That... is a table.
+PEMBERTON: It has a door.
+MARCO: It's a very modern table. Italian design. From Milan. Inside, you can keep... things.
+PEMBERTON: Young man, I bought that washing machine in two thousand and eleven. I'd know it anywhere. Why is it wearing a tablecloth?
+MARCO (nervous): Because... it was cold?
+PEMBERTON: Remove the tablecloth.
+[sfx swoosh]
+PEMBERTON (dry): And why does my washing machine smell like a bakery?
+MARCO: ...That is a very long story, signora.
+PEMBERTON: I have time. But first, the bedrooms.
+[bgm off]
+[bgm comedy.138 0.1]
+BIA (nervous): Oh, my room is very boring. Very, very boring. Nothing to see in there. Just a bed. And a wardrobe. A normal wardrobe. With clothes in it. Only clothes.
+PEMBERTON: I'll be the judge of that.
+[pause 1.0]
+PEMBERTON: Hmm. Tidy. A little too much pink, but tidy. What's that noise?
+BIA: What noise?
+[pause 0.6]
+PEMBERTON: That noise. A sort of... meow.
+BIA (loud): Cough! Cough cough!
+MARCO (loud): Cough! Cough!
+CHLOE (loud): Cough!
+PEMBERTON: Are you all unwell?
+BIA: It's... flu season. Very bad this year. I'm a nurse, I know these things. You should probably leave, actually. For your health.
+PEMBERTON: It's coming from the wardrobe.
+BIA: No, it isn't.
+PEMBERTON: Open the wardrobe, please.
+BIA (sad): ...Okay.
+[pause 1.0]
+PEMBERTON: That is a cat.
+BIA: She's a very small cat. She's mostly fur. If you took away the fur, she'd be practically nothing.
+PEMBERTON: Young lady, I believe your contract says, quite clearly, "no pets".
+BIA: I know. I'm so sorry. I found her in the rain. I couldn't leave her.
+PEMBERTON: Let me see her. Come here, puss. Come here.
+[pause 1.5]
+PEMBERTON (quiet): ...Oh. Oh, my goodness.
+[bgm off]
+
+# Scene 6: Mr Biscuit
+[bgm piano.139 0.12]
+PEMBERTON (quiet): Where did you find her?
+BIA: Behind the hospital. On Kingsley Road. Three months ago.
+PEMBERTON: Three months ago. In August. In the rain.
+BIA: Yes. How did you know?
+PEMBERTON (sad): Because she's mine.
+[pause 1.0]
+MARCO: She's... yours?
+PEMBERTON: My cat. Mr Biscuit. She disappeared on the fourteenth of August. I live on Kingsley Road, you see. Number forty-two. I put up posters on every lamppost from here to the river. I phoned every vet in south London. I thought she'd been hit by a car. I cried for a week. My late husband gave her to me, you see. The year before he died.
+BIA: She's... Mr Biscuit?
+PEMBERTON: We thought she was a boy, at first. By the time we found out, it was too late to change the name. She'd got used to it.
+BIA: Oh, Mrs Pemberton. I'm so sorry. I didn't see any posters. I was working nights. I just thought she was a stray. She was so thin.
+PEMBERTON: She's not thin now.
+MARCO: That is my fault. I give her prosciutto.
+PEMBERTON: Look at her. She's purring. She hasn't purred like that for... she remembers me. Don't you, darling? Don't you, Mr Biscuit?
+CHLOE (whisper): Is she crying?
+MARCO (whisper): I think so. I think I am crying too.
+[pause 1.0]
+PEMBERTON: Young lady. What's your name?
+BIA: Bia. Beatriz. But everybody calls me Bia.
+PEMBERTON: Bia. You found my cat in the rain, and you fed her, and you gave her a bed, and you kept her safe for three months. In a wardrobe, which is very strange. But safe.
+PEMBERTON: I don't know how to thank you.
+BIA: You don't have to...
+PEMBERTON: I do. Now. About the washing machine.
+MARCO: Ah.
+[bgm off]
+
+# Scene 7: The Bread
+[bgm comedy.140 0.1]
+PEMBERTON: Young man. Tell me the long story. Quickly.
+MARCO: There was flour in my pocket. Two kilos. The machine made bread. I took out the bread. It's in the garden. It's very big.
+PEMBERTON: Hmm. That machine was fifteen years old. It was going to break anyway. I'll buy a new one. But on one condition.
+MARCO: Anything.
+PEMBERTON: You'll cook for me. Sunday lunch. Once a month. I live alone now, and I'm terrible at cooking, and the biscotti were... acceptable.
+MARCO (happy): Signora! It would be an honour! I will make you my grandmother's lasagne. It takes eight hours. You will cry again.
+PEMBERTON: I very much doubt that. Is there anything else I should know about? Anything at all? Now is the time.
+[pause 1.5]
+CHLOE: Well...
+[sfx slam]
+OLLIE (scared): Argh! Sorry! Sorry! The cupboard door! I was leaning on it!
+[pause 1.0]
+PEMBERTON: Who is that?
+OLLIE: Hi. Hello. I'm... the plumber.
+PEMBERTON: The plumber.
+OLLIE: Yes. I've come to fix the... the washing machine.
+PEMBERTON: In the airing cupboard. Behind the towels.
+OLLIE: I was looking for... pipes. Plumbers love pipes. That's sort of our whole thing.
+PEMBERTON: What's your name, plumber?
+OLLIE: Ollie. Ollie... Pipes.
+CHLOE (dry): Oh, my God.
+PEMBERTON: Young lady, is this your boyfriend?
+CHLOE: ...Yes.
+PEMBERTON: And does he live here?
+CHLOE: ...Since July.
+PEMBERTON: Without paying rent.
+OLLIE: My old landlord put the rent up by four hundred pounds. I [[fell behind|fall behind]]. I had nowhere to go. I'm really sorry. I'll leave today.
+[pause 1.5]
+PEMBERTON: Can you fix a washing machine, Mr Pipes?
+OLLIE: Honestly? No. I work in a phone shop.
+PEMBERTON: Can you carry heavy things?
+OLLIE: Yes. Very good at that.
+PEMBERTON: Then this is what will happen. You will carry the old washing machine out to the street, and the new one in. You will clear the garden, including the bread. You will pay one quarter of the rent, starting next month. And you will stop hiding in cupboards. It's very bad for the towels.
+OLLIE (happy): Really? You mean I can stay?
+PEMBERTON: I mean that the rent in this city is a disgrace, and I would rather have four honest tenants than three dishonest ones. Can you be honest, Mr Pipes?
+OLLIE: Starting now. My name's not Pipes. It's Oliver Watson.
+PEMBERTON: I know. I could tell.
+[bgm off]
+
+# Scene 8: Sunday
+[bgm acoustic.141 0.12]
+MARCO: One month later. Sunday lunch. The famous lasagne. Eight hours. Mrs Pemberton, are you ready?
+PEMBERTON: I've been ready since twelve. You said one o'clock. It's ten past.
+MARCO: In Italy, ten minutes late is early.
+PEMBERTON: In England, ten minutes late is a crime. Serve it.
+[pause 1.0]
+PEMBERTON: ...Hmm.
+MARCO: Hmm? What is "hmm"? Is it good "hmm" or bad "hmm"?
+PEMBERTON: It's... not bad.
+MARCO: Not bad? Not bad?! Eight hours, and it's not bad?!
+CHLOE (dry): Marco. She's English. "Not bad" is [[the highest]] score there is.
+BIA: Look, she's having a second plate.
+OLLIE: She's having a third plate.
+PEMBERTON: I am a woman of seventy-six. I'll have as many plates as I like.
+[sfx doorbell]
+CHLOE: Who's that?
+PEMBERTON: Ah. That will be my taxi. With Mr Biscuit.
+BIA: You brought her?
+PEMBERTON: She missed you. She sits by the door every evening. I thought she might like to visit. Just for the afternoon. If you don't mind. It's not a pet, technically. It's a guest.
+BIA (happy): Mrs Pemberton! You're the best landlady in London!
+PEMBERTON (dry): I'm aware of that. Now, Mr Watson, the new washing machine is making a strange noise. Go and look at it.
+OLLIE: Me? I told you, I work in a phone shop!
+PEMBERTON: Then turn it off and on again.
+[bgm off]
+[music comedy.142 14]

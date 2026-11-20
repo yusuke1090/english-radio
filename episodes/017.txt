@@ -1,0 +1,179 @@
+title: The Bell on Gannet Rock (Ghost Story)
+date: 2026-11-17
+description: A ghost story from the coast of Newfoundland. A young lighthouse keeper, a storm in November 1968, three rules he must never break – and a bell that shouldn't exist.
+voice: DANIEL = en-CA-LiamNeural -6% -2Hz
+voice: PAT = en-IE-ConnorNeural +4% +3Hz
+voice: EZRA = en-GB-ThomasNeural -14% -10Hz
+voice: STRANGER = en-US-ChristopherNeural -12% -6Hz
+
+# Tonight
+[amb waves 0.7]
+[music spooky.171 16]
+[bgm spooky.172 0.1]
+DANIEL (quiet): Every family in Newfoundland has a ghost story. Most of them are about the sea.
+DANIEL (quiet): This one is ours. My grandfather told it to me when I was ten years old, on a night a lot like this one. Wind coming in off the water. Fog so thick you couldn't see the end of the garden. He told it to me once, and only once, and he made me promise to tell it exactly the way he told it.
+DANIEL (quiet): So that's what I'm going to do. Turn the lights down a little, if you can. If you're driving, don't. Just... keep your eyes on the road.
+[bgm off]
+
+# The Rock
+[bgm spooky.173 0.1]
+DANIEL: First, you need to know where we are. Newfoundland is a big [[island]], on the far eastern edge of Canada. If you keep going east from here, the next stop is Ireland. And a lot of the people here came from Ireland, a long time ago, and from the south-west of England. You can still hear it in the way we talk. Our [[dialect]] is like nothing else in North America. An old man here won't say "where are you?" He'll say "Where you to, b'y?" It's part of our [[heritage]].
+DANIEL: For hundreds of years, this whole [[coast]] lived on one thing. Cod. The waters off Newfoundland were full of them, so full that the old stories say you could lower a basket into the sea and pull it up full of fish. Little [[coastal]] villages, we call them outports, all along the rocks. Men going out in small boats, every day, in every kind of weather.
+DANIEL: And the weather here is not kind. The cold water from the Arctic meets the warm water from the south, just off our coast. And where they meet, you get fog. Some of the thickest fog in the world. Days of it. Weeks, sometimes. In spring, the icebergs come down from Greenland, floating past like white cathedrals. The Titanic went down not far south of here, in nineteen twelve.
+DANIEL: So for the boats, the lighthouses were everything. Out there, a small boat is very [[vulnerable]]. On a black night in the fog, the light was the only thing between a fishing boat and the rocks.
+DANIEL: And in those days, every lighthouse had a keeper. A real person, living there, day and night, all year, keeping the lamp burning.
+DANIEL: My grandfather, Patrick Kearney, was one of them.
+[bgm off]
+
+# The Keeper
+[bgm piano.174 0.1]
+DANIEL: In nineteen sixty-eight, my grandfather was twenty-three years old. He'd grown up in an outport called Cape Hollow, the son of a fisherman. And that autumn, he got a job as the assistant keeper at the Gannet Rock lighthouse.
+DANIEL: Gannet Rock is an island. If you can call it an island. It's a lump of black stone, about six miles out to sea, with nothing on it but the lighthouse, a small stone house for the keepers, and about ten thousand seabirds. No trees. No grass. No people. Just the rock, and the wind, and the sea all around.
+DANIEL: The supply boat came once every two weeks, if the weather allowed it. Sometimes it didn't, for a month. It was one of the most [[isolated]] places in the whole of Canada.
+DANIEL: The head keeper was a man called Ezra Hollett. He was sixty-five. He'd been on Gannet Rock for thirty-seven years. He'd come to the island in nineteen thirty-one, and he'd never left it for more than a week.
+DANIEL: My grandfather said Ezra was the quietest man he ever met. Not unfriendly. Just [[introverted]]. He didn't talk about the weather. He didn't talk about himself. He read the Bible, and he kept the light, and he smoked his pipe. And on the first night my grandfather arrived, Ezra sat him down at the kitchen table, and he told him the rules.
+[bgm off]
+[bgm spooky.175 0.1]
+EZRA (serious): There are three rules on this rock, boy. You'll learn the rest of the job as you go. But these three, you learn tonight. And you never, ever break them.
+EZRA (serious): One. The light never goes out. Never. Whatever happens. If the house is on fire, the light stays on. If I'm dead on the floor, the light stays on. Understood?
+PAT: Yes, Mr Hollett.
+EZRA (serious): Two. After midnight, you don't open the door. Not the front door, not the back door, not the door to the tower. Whatever you hear. Whoever you hear. Understood?
+PAT: Whoever I hear? But there's nobody on the island but us.
+EZRA (serious): Understood?
+PAT: ...Yes, Mr Hollett.
+EZRA (serious): And three. If you ever hear the bell, you go up to the light. Straight away. You don't wait. You don't put your boots on. You go up.
+PAT: What bell? I didn't see a bell.
+EZRA: No. You didn't.
+DANIEL: And that was all he said. He got up, and went to bed, and left my grandfather sitting alone at the kitchen table, with the wind screaming around the house, wondering what kind of place he had come to.
+[bgm off]
+
+# November
+[amb wind 0.7]
+[bgm spooky.176 0.1]
+DANIEL: For the first few weeks, nothing strange happened. My grandfather learned the job. Every evening, before sunset, you climbed the hundred and twelve steps to the top of the tower. You cleaned the great glass lens, until it was perfect, because a single fingerprint could make the light weaker. You filled the lamp with oil. You trimmed the wick. You lit it. And then, all night, every four hours, someone climbed the stairs again to check it.
+DANIEL: In the daytime, you painted things. On Gannet Rock, the salt and the wind ate everything. On a rock like that, the [[erosion]] never stops. You painted the house, then the tower, then the house again. You fixed the radio. You wrote in the logbook. And you waited for the supply boat.
+DANIEL: My grandfather said the [[loneliness]] was the hardest part. Not the work. The silence. The way the days all looked the same. Ezra hardly spoke. Some evenings, the only conversation they had was "Pass the salt" and "Goodnight".
+DANIEL: But he got used to it. He started to like it, even. The birds. The huge sky. The way the sea changed colour a hundred times a day.
+DANIEL: And then came the night of the nineteenth of November.
+[amb off]
+[bgm off]
+
+# The Storm
+[amb wind]
+[amb waves]
+[sfx thunder 0.7]
+[bgm mystery.177 0.1]
+DANIEL: It had been blowing all day. A [[severe]] storm, coming in from the north-east, the worst direction. By evening, the waves were breaking right over the rocks, and throwing spray as high as the kitchen windows. And then the fog came in on top of it. So you had wind, and rain, and fog, all at once. The kind of night that sinks boats.
+DANIEL: And that night, Ezra was sick. He'd had a fever for two days, and that evening, he couldn't get out of bed. His face was grey. He was shivering under three blankets.
+EZRA (tired): You'll have to keep the light alone tonight, boy. Can you do it?
+PAT: Yes, Mr Hollett. Don't worry. Rest.
+EZRA (tired): Remember the rules.
+PAT: I remember.
+EZRA (whisper): All three of them.
+DANIEL: So my grandfather went up the hundred and twelve steps, and lit the lamp, and checked it at eight, and at ten, and at midnight. Everything was fine. The great light turned and turned, throwing its beam out into the fog, and the fog swallowed it.
+DANIEL: At ten past midnight, he came back down to the kitchen, put the kettle on the stove, and sat down by the fire to warm his hands.
+DANIEL: And that's when he heard the knock.
+[bgm off]
+[sfx knock]
+[pause 2.0]
+
+# The Knock
+[bgm spooky.178 0.1]
+DANIEL: Three knocks. On the front door. Slow and heavy.
+DANIEL: My grandfather sat very still. He told himself it was the wind. Something loose, banging against the house. A bit of wood. A bucket.
+[sfx knock]
+DANIEL: Three more knocks. And then a voice.
+STRANGER (whisper): Hello? Is somebody there? Please. Let me in.
+DANIEL: It was a man's voice. Tired. Wet. Very close to the door.
+STRANGER (whisper): Please, b'y. My boat went down on the rocks. I swam to the island. I'm so cold. I can't feel my hands. Please. Open the door.
+DANIEL: Now. Put yourself in my grandfather's place. He was a fisherman's son. He'd grown up hearing about men lost at sea. Every family in Cape Hollow had lost somebody. And here was a man, on the other side of a door, who had survived a shipwreck, and swum through that terrible sea, and was going to die of cold if nobody let him in.
+DANIEL: And on the other side of that, there was a rule. A strange rule, from a strange old man, who was asleep in the next room with a fever.
+PAT (nervous): Who are you? What's your name? What's the name of your boat?
+[pause 1.5]
+STRANGER (whisper): Please. Open the door. It's so cold out here. Just open the door.
+DANIEL: He didn't answer the question. My grandfather noticed that.
+DANIEL: My grandfather went to the little window by the door, and he wiped the glass with his sleeve, and he looked out.
+DANIEL (quiet): And there was nobody there.
+DANIEL: He could see the step outside the door, in the light from the kitchen. The rain hitting it. The water running across the stone. And nobody. No man. No [[footprints|footprint]]. Nothing.
+[sfx knock]
+DANIEL: And then the knock came again. Right there. Right in front of him. On a door that nobody was standing at.
+STRANGER (whisper): Open the door.
+[sfx heartbeat]
+DANIEL: My grandfather said he stood there for a long time, with his hand on the bolt, and his heart going like a drum. He said that every part of him wanted to open it. Not because he was brave. Because the voice was so sad. It was the saddest voice he'd ever heard.
+DANIEL: But he didn't open it.
+DANIEL: He took his hand off the bolt. And he went and sat down by the stove, and he put his hands over his ears, and he started to pray, the way his mother had taught him.
+DANIEL: The knocking went on for a long time. Then it stopped.
+DANIEL: And the house was very quiet. Just the wind, and the sea.
+[bgm off]
+
+# The Bell
+[bgm spooky.179 0.1]
+DANIEL: He must have fallen asleep in the chair, because the next thing he knew, the clock said ten to two. He'd missed his check at two... no. Not yet. He still had ten minutes.
+DANIEL: And then, from somewhere outside, through the wind and the rain and the fog, he heard it.
+[sfx churchbell]
+DANIEL (whisper): A bell.
+DANIEL: A deep, heavy bell. Ringing slowly. Like a church bell, or a ship's bell. Close. Very close. As if it was right outside the house.
+DANIEL: There was no bell on Gannet Rock. He'd walked every inch of that island in the last six weeks. There was no bell anywhere.
+DANIEL: But he remembered the third rule. "If you ever hear the bell, you go up to the light. Straight away. You don't wait. You don't put your boots on."
+DANIEL: So he ran. In his socks. Up the hundred and twelve steps, round and round, faster than he'd ever climbed them, with the bell still ringing, somewhere in the storm.
+[sfx steps]
+DANIEL: And when he got to the top, he stopped.
+DANIEL (quiet): The light was going out.
+DANIEL: The flame in the lamp was tiny. Blue and weak. Almost nothing. Somehow, the oil had run low. Or the wick had dropped. He never knew which. But the great light of Gannet Rock, the only light for twenty miles of coast, was dying.
+DANIEL: He worked like a madman. He filled the oil. He fixed the wick. His hands were shaking so badly he dropped the matches twice. And then the flame caught, and grew, and the lens filled with light, and the beam swung out across the water again.
+DANIEL: And in that beam, in the fog, not two hundred yards away, he saw a boat.
+[bgm off]
+[bgm mystery.180 0.1]
+DANIEL: A small fishing boat. Lights on. Heading straight for the rocks. Straight for them.
+DANIEL: And as the light hit it, he saw the boat turn. Hard. He could almost hear the engine screaming. It turned, and it leaned over, and for a moment he was sure it would go over, and then it came up again, and it slid past the rocks, so close that a man could have jumped onto them, and it disappeared into the fog, out to sea, safe.
+DANIEL: The bell had stopped.
+DANIEL: My grandfather sat down on the floor of the lamp room, next to the great turning light, and he stayed there until the morning.
+[bgm off]
+
+# Morning
+[amb off]
+[amb waves 0.5]
+[bgm piano.181 0.1]
+DANIEL: In the morning, the storm had passed. The fog lifted. And Ezra Hollett got out of bed for the first time in two days, and came into the kitchen, and found my grandfather sitting at the table, still in his wet socks, staring at nothing.
+DANIEL: My grandfather told him everything. The knock. The voice. The window, and nobody there. The bell. The light. The boat.
+DANIEL: Ezra listened, and didn't say a word, until the end. Then he lit his pipe, very slowly, and he told my grandfather a story.
+EZRA (calm): In nineteen thirty-one, when I first came to this rock, I wasn't alone. I came here with my brother. Michael. He was the assistant keeper. Your age. Same as you. A good, kind boy. Too kind, maybe.
+EZRA (calm): One night in November, there was a storm. A night like last night. And after midnight, somebody knocked on the door. A voice, asking to come in. Saying his boat had gone down. And Michael opened the door.
+EZRA (calm): I was up in the tower. I heard the door bang open. I came down. The door was wide open, and the wind was pouring in, and Michael was gone. Just gone. We never found him. Not a trace.
+EZRA (sad): And while I was searching the rocks for him, in the dark, shouting his name, the light went out. And a schooner called the Mary Ellen hit the rocks, [[a quarter]] of a mile from here. Eleven men. None of them were saved.
+DANIEL: My grandfather couldn't speak.
+EZRA (calm): I've heard the knocking every few years since. On nights like last night. I've never opened the door.
+PAT: And the bell? There's no bell on this island.
+EZRA: No. There isn't. But Michael used to ring the old ship's bell at the bottom of the tower, to call me down for supper. I took it down after he was gone. I couldn't bear to look at it.
+EZRA (quiet): I've heard that bell three times in thirty-seven years. Every time, the light was in trouble. Every time, I went up.
+EZRA (quiet): I think the sea took my brother, that night. But I don't think it took all of him. I think part of him stayed. To make sure it never happens again.
+[bgm off]
+
+# The Boat
+[bgm piano.182 0.1]
+DANIEL: Two weeks later, the supply boat came, and my grandfather went home to Cape Hollow for a few days' leave.
+DANIEL: And his father, my great-grandfather, met him at the wharf. And the first thing he said was:
+DANIEL (quiet): "Patrick. I nearly didn't see you again, b'y."
+DANIEL: He'd been out on the night of the nineteenth. Him and two other men. They'd stayed out too late, hoping for one more catch, and the storm had caught them, and the fog had come in, and they'd lost their way completely. No idea where they were. No idea where the land was.
+DANIEL: And then, he said, out of the fog, they heard a bell. A deep, slow bell, ringing somewhere ahead of them. And they slowed the engine, and they listened. And then, right in front of them, a light came on. The Gannet Rock light. Blazing out of the dark. And in the beam, not two hundred yards ahead, they saw the rocks.
+DANIEL: They turned so hard they nearly went over.
+DANIEL: My great-grandfather said to my grandfather, "Whoever was on that light last night, I owe him my life."
+DANIEL: And my grandfather said... nothing. He just held on to his father, on the wharf, in front of everybody, for a very long time.
+[bgm off]
+
+# Now
+[amb wind 0.5]
+[bgm spooky.183 0.1]
+DANIEL: My grandfather kept the light on Gannet Rock for nineteen more years. Ezra retired in nineteen seventy-five, and died a few years later, in a little house in Cape Hollow, with a view of the sea.
+DANIEL: In the end, all the lighthouses were [[automated|automate]]. Machines took over the lights. The keepers became [[obsolete]]. Today, there's nobody on Gannet Rock at all. Just the light, turning by itself, and the birds.
+DANIEL: And the cod are mostly gone too. By the nineteen nineties, after years of [[overfishing]], there were so few left that the government closed the [[fishery]] completely. Tens of thousands of people lost their jobs, almost overnight. [[Unemployment]] in the outports was terrible. A way of life that had lasted five hundred years ended in a single summer. A lot of the outports are empty now.
+DANIEL: My grandfather died when I was nineteen. He never told the story again, after that one night. But I know he believed every word of it. And so do I.
+DANIEL: Because here's the thing. The fishermen who still go out past Gannet Rock, the few that are left, they say that sometimes, on nights of fog and storm, they hear a bell out there. A deep, slow bell. And when they hear it, they slow down, and they look for the light.
+DANIEL: And the light is always there.
+[pause 1.0]
+DANIEL (whisper): So. If you ever find yourself in a lighthouse, on a stormy night, after midnight... and somebody knocks on the door, and asks you to let them in...
+DANIEL (whisper): Don't open the door.
+DANIEL (whisper): But if you hear a bell... go up.
+[amb off]
+[bgm off]
+[music spooky.184 16]

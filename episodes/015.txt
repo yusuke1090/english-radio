@@ -1,0 +1,190 @@
+title: The Golden Crook (Live Commentary)
+date: 2026-11-15
+description: Live sports commentary from a sheepdog trial final in the Lake District. An American sports commentator who has never seen one, a champion shepherd from New Zealand, and an underdog from Yorkshire.
+voice: GUY = en-US-GuyNeural
+voice: MOLLY = en-NZ-MollyNeural
+voice: ELLIE = en-GB-MaisieNeural
+
+# Welcome
+[amb wind 0.5]
+[music sports.145 12]
+[bgm sports.146 0.12]
+GUY (excited): Hello, and welcome, sports fans, to live [[coverage]] of the final of the Golden Crook International Sheepdog Trial! I'm Guy Patterson, and I have been commentating on sports for twenty-two years. Football, basketball, baseball, ice hockey. I've done the Super Bowl. I've done the World Series. And I have never, ever seen a sheepdog trial in my life.
+MOLLY (dry): And I'm Molly Ferguson. I've been working sheepdogs for forty years, and I've never seen a Super Bowl. So [[I suppose]] that makes us even.
+GUY: Molly is a three-time national champion from New Zealand, and she's here to explain to me, and to you, what on earth is going on. Molly, welcome. I'm so excited. I have no idea what's happening.
+MOLLY: That's the right [[attitude]], Guy. Most of the sheep don't either.
+GUY: Let's set the scene. We are in the Lake District, in the north-west of England, and folks, it is beautiful. Green mountains, a lake like a mirror, stone walls going up the hills, sheep everywhere. It's like a postcard came to life.
+MOLLY: The Lake District is a [[national park]]. It's also a World [[Heritage Site]]. And it's been sheep country for about a thousand years. A lot of the stone walls you can see on those hills were built by shepherds, by hand. So this is a pretty special place to hold a trial.
+GUY: And there are, [[I'd say]], three thousand [[spectators|spectator]] here today, sitting on the grass, with picnics and umbrellas and flasks of tea, and they are so quiet. Molly, why is everybody so quiet? At a basketball game, people would be screaming.
+MOLLY: Because the dog has to hear the handler. If the crowd makes noise, the dog can't hear the commands. So you watch in silence. Like golf. But with more mud.
+[bgm off]
+
+# How It Works
+[bgm acoustic.147 0.1]
+GUY: Okay, Molly. Explain this to me like I'm five years old. What happens in a sheepdog trial?
+MOLLY: Right. You've got one handler, that's the shepherd. One dog. And five sheep. The sheep start right at the far end of the field. About four hundred metres away, up that hill. Can you see them? Those little white dots?
+GUY: I see them. They look like popcorn.
+MOLLY: They do look like popcorn. Now, the handler stands at a post down here, and sends the dog out to get the sheep. And then, using only a whistle and their voice, the handler has to guide the dog, so the dog moves the sheep around a course. Through gates. Around a post. Into a little circle. And finally into a small pen. And they've got fifteen minutes.
+GUY: And the handler can't move?
+MOLLY: Not until the end. They stand at the post the whole time. The dog does all the running. The handler does all the thinking. Well. Most of the thinking. The good dogs do quite a lot of thinking too.
+GUY: How does the dog know where to go?
+MOLLY: Whistles, mostly. Every handler has their own set. One whistle means "go left". One means "go right". One means "stop". One means "walk forward". The dog learns them like words. Some dogs know twenty different whistles.
+GUY: Twenty! I've got a dog at home who doesn't know his own name. He thinks his name is "Get Off The Couch".
+MOLLY: And the scoring is simple. Every run starts with a hundred points. And the judges take points off for every little mistake. If the sheep go off the line, if the dog is too rough, if the sheep miss a gate. [[The highest]] score wins.
+GUY: So it's like gymnastics. With sheep.
+MOLLY: It's exactly like gymnastics with sheep. And the sheep didn't sign up for it.
+[bgm off]
+
+# The Standings
+[bgm sports.148 0.1]
+GUY: So, Molly, we're down to the final three runs of the day, and here's the leaderboard. In first place, with ninety-one points, a score that has the crowd talking, it's the Welsh veteran, Gareth Pryce, and his dog, Meg.
+MOLLY: Gareth's an absolute legend. He's sixty-eight, he's won this [[championship]] four times, and Meg is the best dog he's ever had. Ninety-one is a [[massive]] score. That's nearly perfect.
+GUY: In second place, eighty-seven points, from Norway, Ingrid Solberg and her dog, Storm. And the last run of the day, the final [[competitor]], is... wow, Molly, I've got a note here.
+MOLLY: Read it out.
+GUY: The final run is a fifteen-year-old girl from Yorkshire. Ellie Hartley. This is her first ever international trial. And her dog is... Bess. Age nine. A farm dog from a dairy farm. And the note says, quote, "Bess once barked at a carrot for twenty minutes."
+MOLLY (happy): Ha! I love it. I love this already.
+GUY: Is that bad? For a sheepdog? Barking at vegetables?
+MOLLY: Look, Guy. The big names here, Gareth, Ingrid, these are professionals. Their dogs come from champion bloodlines. They [[train]] every single day. Bess is a farm dog. She moves cows, mostly. She's a working dog, not a trial dog. Nobody expects her to win.
+GUY: So she's the underdog.
+MOLLY: She's literally the underdog, Guy. She's a dog. Under everybody.
+GUY: And I'm told Ellie learned to train Bess from an old farmhand on her family's farm, an Irishman called Walter Dent, who's sitting in the crowd today, with a flask, and, I'm told, a packet of ginger biscuits.
+MOLLY: I can see him. He's the one with the flat cap. And the goat.
+GUY: Is that a goat? At a sheepdog trial?
+MOLLY: He's on a lead. I think they're friends.
+GUY: Well, folks, stay with us, because before Ellie's run, we've got Ingrid and Storm. Let's go.
+[bgm off]
+
+# Ingrid and Storm
+[bgm mystery.149 0.1]
+GUY (whisper): Okay, I'm whispering now, because Molly told me to. Ingrid Solberg is at the post. She's very calm. She's very tall. And she's sending Storm out.
+[sfx whistle.0]
+MOLLY (whisper): Look at that outrun. That's what we call the first part, where the dog runs out to get the sheep. You never run straight at them. You go out wide, in a big curve, like a pear shape, so you come round behind them without scaring them.
+GUY (whisper): Why can't he just run straight at them?
+MOLLY (whisper): Would you stand still if a wolf ran straight at you?
+GUY (whisper): Good point. Good point.
+MOLLY (whisper): Sheep are [[prey]] animals, Guy. Every [[instinct]] in their body says run from a [[predator]]. And a sheepdog is basically a wolf that humans [[domesticated|domesticate]] and taught to work for us. The whole skill is that the dog uses that instinct, that fear, but gently. Just enough pressure to move them. Not so much that they panic.
+GUY (whisper): And Storm is behind the sheep now, and they're... they're moving! The popcorn is moving! They're coming down the hill towards Ingrid!
+MOLLY (whisper): That's the fetch. Straight line, nice and [[steady]]. Lovely. That's lovely.
+[sfx whistle.2]
+MOLLY (whisper): And that whistle, the long one, that's "lie down". See how Storm drops instantly? Flat on the grass. That's control.
+GUY (whisper): Molly, I'm getting chills. I don't know why. It's five sheep and a dog. I'm getting chills.
+MOLLY (whisper): Now they go round the post, behind Ingrid, and away from her. That's the drive. This is the hardest part, because the dog has to push the sheep away from the handler, and dogs don't like that. Every instinct says bring them to the boss.
+GUY (whisper): And they're through the first gate... and the second... oh, no. Oh, no. One sheep is going the wrong way!
+MOLLY (whisper): She's broken off. The one with the black face. There's always one.
+GUY (whisper): Is she okay? Is the sheep okay?
+MOLLY (whisper): The sheep is fine, Guy. The sheep is having the best day of her life. Ingrid is not.
+GUY (whisper): And Storm has brought her back, but that's going to cost points.
+[pause 1.0]
+GUY: And the pen! Ingrid is holding the gate, the sheep are going in... they're in! Time! And the score for Ingrid Solberg and Storm is... eighty-four. Eighty-four points.
+[sfx applause 0.5]
+MOLLY: That black-faced sheep cost her. Still a lovely run. But Gareth and Meg are still in first place, with ninety-one.
+GUY: Which means, folks, that it all comes down to the last run of the day. Ellie Hartley, and Bess. To win, she needs ninety-two points. Molly, is that possible?
+MOLLY: For a farm dog in her first international trial? With a fifteen-year-old handler? Honestly? I'd say it's a long shot.
+GUY: I love a long shot.
+[bgm off]
+
+# Ellie and Bess
+[amb wind 0.4]
+[bgm mystery.150 0.1]
+GUY (whisper): Okay. Ellie Hartley is walking to the post. Molly, she looks so young. She's got a little notebook in her pocket. And Bess is walking next to her. Bess is... a bit grey around the nose.
+MOLLY (whisper): Nine is old for a trial dog. But old dogs are wise. They don't panic. They've seen everything.
+GUY (whisper): Ellie's taking a deep breath. She's looking up the hill. And there it is...
+[sfx whistle.1]
+GUY (whisper): Bess is off! And she's... oh, wow, she's fast. For an old dog, she's fast! She's got [[stamina]]!
+MOLLY (whisper): Look at that outrun. Wide, wide, wider... That's a beautiful shape. Whoever taught that dog knew what they were doing.
+GUY (whisper): I'm looking at the crowd, and Walter, the old Irishman, has stood up. He's holding his flat cap in both hands. And the goat is... eating a programme.
+MOLLY (whisper): Okay, she's behind them. Now the lift. That's the moment the dog first moves the sheep. If the lift goes wrong, the sheep scatter, and the whole run's ruined. Gently, Bess. Gently.
+[pause 1.5]
+MOLLY (whisper): Oh, that's lovely. That's so soft. The sheep barely noticed. They just turned round and started walking, like it was their own idea.
+GUY (whisper): Is that good?
+MOLLY (whisper): Guy, that's the best lift I've seen all day.
+[bgm off]
+[bgm mystery.151 0.1]
+GUY (whisper): And the sheep are coming down the hill. The fetch. Straight towards Ellie. Straight line. Very straight.
+MOLLY (whisper): She's not using many whistles. Have you noticed? Most handlers are whistling every few seconds. Ellie's just letting Bess work. That's trust. That's a dog and a handler who know each other very well.
+ELLIE (calm): Steady, Bess. Steady.
+GUY (whisper): Around the post... and now the drive. The hard bit. Away from the handler.
+MOLLY (whisper): This is where farm dogs usually struggle. On the farm, they always bring the animals to you. Pushing them away doesn't feel natural.
+GUY (whisper): And through the first gate! Clean!
+[sfx whistle.3]
+GUY (whisper): Across the field... and through the second gate! Clean! Molly, she hasn't made a mistake!
+MOLLY (whisper): Shh, shh. Don't jinx it.
+GUY (whisper): Sorry. Sorry. I'm an American. We jinx everything.
+[pause 1.0]
+GUY (whisper): Oh, no. Oh, no, no, no. Molly, what's happening?
+MOLLY (whisper): It's the black-faced one again. She's seen something. A dog in the crowd, maybe. She's turning. She's going to break. She's...
+GUY (fast): She's gone! The black-faced sheep has broken away! She's running up the hill! And the other four are following her! This is a disaster! The popcorn is escaping!
+ELLIE (shout): Bess! Away! Away to me!
+[sfx whistle.0]
+MOLLY (excited): But look at Bess! Look at her go! She didn't wait for the whistle. She saw it happen, and she was already moving!
+GUY (excited): She's flying up the hill! She's got around them! She's in front of them! The sheep have stopped! The sheep have stopped!
+MOLLY: That's not training, Guy. That's nine years of moving cows on a Yorkshire hill in the rain. You can't teach that. That's experience.
+GUY: But that's going to cost points, right?
+MOLLY: It'll cost her a few. The question is how many. The judges will decide whether the dog caused it, or whether the sheep just made a bad decision. And honestly? That sheep has been making bad decisions all day.
+[bgm off]
+
+# The Shed and the Pen
+[bgm spooky.152 0.1]
+GUY (whisper): Okay, the sheep are back on line. Bess has brought them into the circle in the middle of the field. And now, Molly, what's this part?
+MOLLY (whisper): This is the shed. Now, Ellie has to separate the sheep. Split the group, so that two go one way and three go the other. She'll walk into the gap, call Bess through, and Bess has to come in between them, and hold them apart.
+GUY (whisper): That sounds impossible.
+MOLLY (whisper): It's very hard. Sheep want to stay together. It's their whole [[strategy]] for survival. Safety in numbers.
+GUY (whisper): Ellie's walking in. Very slowly. Bess is lying flat, watching. The sheep are moving... there's a gap... a tiny gap...
+ELLIE (calm): Here, Bess. Here, here, here.
+GUY (excited): And Bess is through! She's through the gap! Two sheep on one side, three on the other! She's holding them!
+MOLLY (excited): That's a beautiful shed! Look at that! Clean as a whistle!
+GUY: And now the final part, the pen. Molly, talk me through it.
+MOLLY: The pen's a tiny little square, made of fences, with a gate. Ellie has to hold the gate open with a rope, and she can't let go of the rope, and Bess has to put all five sheep inside. And that black-faced sheep is going to do everything she can to avoid going in.
+GUY (whisper): And there's how much time left?
+MOLLY (whisper): About ninety seconds.
+[sfx tick]
+GUY (whisper): The sheep are at the mouth of the pen. Four are going in. Four are in! And the black-faced one is... standing outside. Looking at Bess. Looking at Ellie. Looking at... me? I swear she's looking at me.
+MOLLY (whisper): She's thinking about it. She's a thinker, that one.
+GUY (whisper): Sixty seconds. Bess is creeping forward. Very slowly. On her belly. Like a cat.
+MOLLY (whisper): Don't rush, Bess. Don't rush. If you rush, she'll run.
+GUY (whisper): Forty seconds.
+[pause 1.5]
+GUY (whisper): Thirty seconds. The sheep takes a step towards the pen. Then a step back. Molly, I can't breathe.
+MOLLY (whisper): Neither can I.
+GUY (whisper): Twenty seconds. Bess moves one more inch...
+[pause 1.5]
+GUY (excited): She's in! She's in! The black-faced sheep is in the pen! Ellie shuts the gate! Time! Time!
+[sfx applause]
+GUY (excited): And the crowd... the crowd is on its feet! Three thousand quiet British people, and they're cheering! They're actually cheering! Molly, a man next to me is hugging a stranger!
+MOLLY (happy): That's the best pen I've seen in years. Look at old Walter! He's thrown his cap in the air! And the goat's eaten it!
+[bgm off]
+
+# The Score
+[bgm sports.153 0.1]
+GUY: Okay, folks, we're waiting for the judges. Ellie needs ninety-two points to win. Molly, what do you think?
+MOLLY: Honestly? I don't know. The outrun was perfect. The lift was the best of the day. The fetch, the drive, the shed, the pen, all beautiful. But that break on the hill... if the judges blame Bess, it's over. If they blame the sheep, it's close.
+GUY: The judges are handing the card to the announcer... The score for Ellie Hartley and Bess is...
+[pause 2.0]
+GUY (excited): Ninety-three! Ninety-three points! She's won! She's won it! A fifteen-year-old girl and a nine-year-old farm dog have won the Golden Crook!
+[sfx applause]
+MOLLY (happy): Oh, that's wonderful. That's absolutely wonderful. The judges must have decided the dog saved that situation. And she did.
+GUY: And look, folks. Gareth Pryce, the four-time champion, who just lost his title by two points, is walking over to Ellie. And he's... he's shaking her hand. And he's taking off his own hat. And he's bowing. He's bowing to a fifteen-year-old girl.
+MOLLY: That's the thing about this sport, Guy. The competition's fierce, but the respect is real. [[Fair play]] matters here. A lot of these people have known each other for fifty years. When somebody has a great run, everybody's happy for them. Even the people they beat.
+GUY: You know what, Molly? I've been to the Super Bowl. I've been to the World Series. And I've never seen [[sportsmanship]] like that.
+[bgm off]
+
+# After
+[bgm acoustic.154 0.12]
+GUY: We managed to grab a quick word with the winner. Ellie, congratulations! How do you feel?
+ELLIE (excited): I don't know! I can't feel my legs! I think I'm going to be sick! In a good way!
+GUY: When the sheep broke away, what were you thinking?
+ELLIE: Honestly? I was thinking, "Oh no, not you again." That black-faced sheep reminded me of a goat I know. But Bess knew what to do. She always knows. I just shouted, and she was already gone.
+GUY: And what are you going to do with the prize money?
+ELLIE: Half for my dad's farm. And half for my university fund. I'm going to be a vet.
+GUY: And Bess? What does Bess get?
+ELLIE: A sausage. A really big sausage. And she can bark at as many carrots as she likes.
+[bgm off]
+[bgm sports.155 0.1]
+GUY: Molly, final thoughts. What have we learned today?
+MOLLY: I think we learned that you can have all the [[professional]] training in the world, the best bloodlines, the best equipment, and sometimes, an old farm dog who knows her job, and a kid who trusts her, will beat all of it.
+GUY: And I learned that sheepdog trials are the most exciting sport on Earth. I'm serious. I came here thinking this would be boring. I have never been so stressed in my entire life. My heart is still going. I'm going to go home and try to teach my dog to herd my children.
+MOLLY: Start with the outrun, Guy. Go wide.
+GUY: Go wide. I'll remember that. That's all from the Lake District, folks. For Molly Ferguson, I'm Guy Patterson. Goodnight!
+[amb off]
+[bgm off]
+[music sports.156 14]

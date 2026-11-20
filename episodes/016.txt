@@ -1,0 +1,185 @@
+title: Cooking with Tita Rosa
+date: 2026-11-16
+description: A cooking show from a kitchen in Manila. Tita Rosa and her son Paolo make her grandmother's chicken adobo – vinegar, garlic, soy sauce, a lot of opinions, and a phone call from New Zealand.
+voice: ROSA = en-PH-RosaNeural
+voice: PAOLO = en-SG-WayneNeural
+voice: JOEL = en-PH-JamesNeural
+
+# Welcome
+[music kitchen.157 12]
+[bgm kitchen.158 0.12]
+ROSA (cheerful): Hello, hello, hello! Welcome to my kitchen! I'm Tita Rosa, and this is "Cooking with Tita Rosa", the only cooking show in the Philippines where the chef is also the cleaner, the producer, and the mother of the cameraman.
+PAOLO: Hi, everyone. I'm the cameraman.
+ROSA: This is my son, Paolo. He's twenty-four, he's studying to be an engineer, and he still can't fry an egg. That's why he's holding the camera. Today, anak, you're going to learn.
+PAOLO: Ma, I can fry an egg.
+ROSA: You can burn an egg. That's different.
+ROSA: So! Today, we're making the most famous dish in the Philippines. Some people say it's our national dish. Every family has their own [[recipe]], and every family thinks their recipe is the best. And they're all wrong, because mine is the best. It's chicken adobo!
+PAOLO: Mama's adobo. The legend.
+ROSA: It's not my recipe, actually. It's my lola's recipe. My grandmother. She taught me in her kitchen in Batangas when I was nine years old, standing on a little wooden box so I could reach the stove. And now I'm teaching you. So this recipe is about a hundred years old. Maybe more. Be respectful.
+[bgm off]
+
+# The Ingredients
+[bgm acoustic.159 0.1]
+ROSA: First, the [[ingredients|ingredient]]. And this is the beautiful thing about adobo. It's simple. You don't need anything fancy. Paolo, show them.
+ROSA: One kilo of chicken. I use thighs and legs, with the bone and the skin. Don't use only breast. Breast is too dry. Breast is for people who are scared of flavour.
+ROSA: Vinegar. Half a cup. Here in the Philippines, we use cane vinegar, made from sugar cane. Or coconut vinegar. If you're overseas and you can't find it, white vinegar is okay. Not balsamic. Never balsamic. If you use balsamic, don't tell me. I don't want to know.
+ROSA: Soy sauce. About [[a third]] of a cup. Garlic. A whole head of garlic. Not one clove. One whole head.
+PAOLO: That's a lot of garlic, Ma.
+ROSA: There's no such thing as a lot of garlic. There's only "not enough garlic" and "almost enough garlic".
+ROSA: Bay leaves, three or four. Whole black peppercorns, one spoon. A little water. A little oil. And, this is my lola's secret, a tiny bit of brown sugar. Just one spoon. Some families don't use sugar. They're wrong, but I respect them.
+ROSA: And of course, rice. White rice. Lots of rice. Adobo without rice is like... like a song without music.
+PAOLO: Like a camera without a cameraman.
+ROSA: No, anak. Like a cameraman without a mother. Useless.
+[bgm off]
+
+# A Little History
+[bgm bossa.160 0.1]
+ROSA: While I peel the garlic, let me tell you a little story. Paolo, zoom in on the garlic. People love garlic.
+[sfx chop]
+ROSA: The word "adobo" is actually Spanish. It comes from a Spanish word that means "to marinate". The Spanish ruled the Philippines for more than three hundred years, so we have lots of Spanish words. When the Spanish arrived, they saw people here cooking meat in vinegar and salt, and they called it "adobo", because it reminded them of their own cooking.
+ROSA: But Filipinos were cooking like this long before the Spanish came. Think about it. It's very hot here. Very [[humid]]. There were no fridges. How do you keep meat from going bad? You cook it in vinegar and salt. The vinegar is a natural [[preservative]]. Adobo could last for days without a fridge. So it's not just a recipe. It's a clever [[solution]] to a problem.
+PAOLO: Like engineering.
+ROSA: Exactly like engineering. So you see? Cooking is engineering. Now you have no excuse.
+ROSA: And the soy sauce came later, from Chinese traders, who have been coming to the Philippines for a thousand years. So in one pot, you have Filipino cooking, a Spanish name, and a Chinese sauce. That's the Philippines. That's our whole history, in a pot.
+[bgm off]
+
+# Marinate
+[bgm kitchen.161 0.1]
+ROSA: Okay. Step one. Put the chicken in a big bowl. Add the soy sauce. Add half of the garlic, crushed. Add the peppercorns. Mix it with your hands. Yes, with your hands. Don't be shy. The chicken isn't shy.
+PAOLO: Ma, people at home might want to use a spoon.
+ROSA: People at home can do what they want. In my kitchen, we use hands. My lola said food made with hands has more love in it.
+PAOLO: That's what an Italian chef said on a radio show I heard.
+ROSA: Then the Italian chef is very wise. Now. Leave it for thirty minutes. Or, if you're a good planner, leave it in the fridge overnight. If you're like Paolo, and you only remember you're hungry when you're already hungry, thirty minutes is fine.
+[bgm off]
+
+# While We Wait
+[bgm lofi.162 0.1]
+ROSA: So, while the chicken is marinating, let's talk. Paolo, put the camera on the table. Come and sit with me. Let's tell the people about rice.
+PAOLO: Mama's favourite subject.
+ROSA: In the Philippines, rice is not a side dish. Rice is the meal. Everything else is just there to help you eat more rice. We eat rice for breakfast, lunch, and dinner. If you have a meal without rice, it doesn't count. You can eat a whole pizza, and a Filipino will say, "Okay, but have you eaten?"
+PAOLO: It's true. I went to a burger restaurant with my friends, and my cousin asked for rice. With his burger.
+ROSA: Of course he did. He's a good boy. Rice is our [[staple food]]. And every Filipino house has a rice cooker. Every single one. When Filipinos move abroad, the rice cooker is the first thing they buy. Before a bed. Before a sofa. Rice cooker first. Then they can survive.
+ROSA: And speaking of moving abroad. Paolo, what time is it in New Zealand?
+PAOLO: It's evening there. About seven.
+ROSA: Then let's call your cousin Joel! He'll be finished with work now.
+[sfx ringtone]
+[bgm off]
+[bgm acoustic.163 0.1]
+JOEL (happy): Tita Rosa! Hello! Ah, I can see you're cooking! Is that adobo?
+ROSA: It's adobo! Lola's adobo! Everybody, this is my nephew, Joel. He works on a [[dairy]] farm in New Zealand. With cows! Four hundred cows!
+JOEL: Four hundred and twenty, Tita.
+ROSA: Four hundred and twenty cows. How are you, anak? Are you eating? Are you warm?
+JOEL (dry): Tita, you sound exactly like my mother.
+ROSA: I am exactly like your mother. I'm her sister. Are you eating?
+JOEL: Yes, Tita. I'm eating. Actually... I made adobo last night. For my boss and his family. They'd never had it.
+ROSA (excited): You made adobo for the Kiwis! What did they say?
+JOEL: My boss ate three plates. His little daughter, Lily, said it was "the best chicken in the whole universe". And then she named one of the calves "Adobo".
+ROSA (happy): A cow called Adobo! That's beautiful! That's [[culture]]! That's [[cultural exchange]]!
+PAOLO: Joel, did you use Lola's recipe? With the sugar?
+JOEL: With the sugar. But I couldn't find cane vinegar, so I used white vinegar.
+ROSA: White vinegar is acceptable. You're forgiven. Did you let it boil before you stirred?
+JOEL: Of course, Tita. I'm not crazy.
+ROSA: Good boy. Okay, go and rest, you work too hard. Say hello to the cows. Say hello to Adobo!
+JOEL: Bye, Tita! Bye, Paolo! Save me some!
+[bgm off]
+[bgm piano.164 0.1]
+ROSA: You know, there are millions of Filipinos working overseas. Nurses in England and America. Seafarers on ships all over the world. Caregivers in Hong Kong and Canada and Italy. Farm workers in New Zealand, like Joel. Lots of families here have someone abroad. My sister's son is in New Zealand. My own brother was a nurse in London for twenty years.
+ROSA: It's hard. It's very hard for the families. The children grow up and their mother or father is on a phone screen. Christmas on a video call. But they send money home, and that money pays for schools, and houses, and hospitals. Many families here depend on it.
+ROSA: And here's something I've noticed. When Filipinos are far away, and they're tired, and they miss home, what do they cook? Adobo. Always adobo. Because it's easy, and the ingredients are everywhere, and when you smell the garlic and the vinegar, you're home again. Just for one meal.
+PAOLO: That's why you're teaching me, isn't it, Ma? In case I go abroad?
+ROSA: I'm teaching you so you can feed yourself. If you go abroad, that's your choice. But wherever you go, you'll have a little piece of Lola's kitchen with you.
+PAOLO: ...Okay, Ma, now you're making me emotional, and I'm holding the camera.
+ROSA: Then put down the camera, and [[pick up]] the pan. The chicken is ready.
+[bgm off]
+
+# Cooking
+[amb sizzle 0.8]
+[bgm kitchen.165 0.1]
+ROSA: Okay! Step two. Heat a little oil in a big pan. Medium-high heat. Take the chicken out of the marinade, but keep the marinade. Don't throw it away! That's flavour!
+ROSA: Now put the chicken in the pan, skin side down. Listen to that. That sound. That's the sound of happiness.
+PAOLO: It's very loud, Ma.
+ROSA: Happiness is loud. Now, don't touch it! Don't move it! Let it get brown. Golden brown, like a beach in Boracay. About five minutes. If you keep moving it, it won't brown, and it will be pale and sad. Patience.
+PAOLO: How do you know when it's ready to turn?
+ROSA: When it lets go of the pan by itself. If you try to turn it, and it's stuck, it's not ready. The chicken will tell you. You just have to listen.
+ROSA: Okay, now turn it. See? Beautiful. Brown on the other side for two minutes. Then take the chicken out, and put it on a plate.
+ROSA: Now, in the same pan, with all that chicken fat, put the rest of the garlic. Chopped. Fry it until it's golden. Not black! Golden. Black garlic is bitter, and bitter garlic is a tragedy.
+PAOLO: It smells incredible.
+ROSA: Of course it does. That's my lola's kitchen. Now, chicken back in the pan. Pour in the marinade. Add the water, half a cup. Add the bay leaves.
+ROSA: And now the most important step. The vinegar. Pour it in. And then...
+[pause 1.0]
+ROSA (serious): Don't stir.
+PAOLO: Don't stir?
+ROSA (serious): Don't stir! Whatever you do, after you add the vinegar, do not stir it until it boils. This is the golden rule of adobo. Every Filipino grandmother will tell you this.
+PAOLO: Why?
+ROSA: Because if you let the vinegar boil first, the sharp taste cooks away, and it becomes soft and round. If you stir it before it boils, it stays sharp, and raw, and it tastes like you're eating a salad dressing.
+PAOLO: Is that actually science, or is it a grandmother thing?
+ROSA: Anak. Grandmother things are science that nobody has explained yet.
+[amb off]
+[amb boil 0.7]
+ROSA: There. It's boiling. Now you can stir. Now cover the pan, turn the heat down low, and let it cook slowly. Thirty minutes. Turn the chicken over once, halfway.
+[bgm off]
+
+# Opinions
+[bgm comedy.166 0.1]
+ROSA: While it cooks, let's talk about something very serious. Something that has divided families. Destroyed friendships. Started fights at weddings.
+PAOLO: Oh no.
+ROSA: Adobo arguments.
+PAOLO: Here we go.
+ROSA: Some people put potatoes in their adobo. Some people put hard-boiled eggs in it. Some people make it with pork instead of chicken. Some people use both. Some people make it with coconut milk, which is called adobo sa gata, and it's delicious, I admit it. Some people make it white, with no soy sauce at all, just salt and vinegar. Some people make it dry, and crispy. Some people make it with lots of sauce.
+PAOLO: And Mama has an opinion about every single one.
+ROSA: I have an opinion about everything. That's my job. I'm a Filipino mother.
+ROSA: But actually, here is my real opinion. They're all adobo. Every family is right. That's the beauty of it. Adobo is not one recipe. It's a method. Meat, vinegar, garlic, slow cooking. After that, it's yours. You make it your own. That's how my lola did it, and her lola before her, and probably they all argued about it too.
+PAOLO: Wait. So you're saying people who don't use sugar aren't wrong?
+ROSA: I'm saying they're adobo. I'm still saying they're wrong.
+[bgm off]
+
+# Something Green
+[bgm bossa.170 0.1]
+PAOLO: Ma, a question from me, not the [[viewers|viewer]]. Is adobo actually healthy? It's chicken skin, and fat, and soy sauce, and sugar, and a mountain of rice.
+ROSA: Anak, it's [[home-cooked]]. That's already healthier than half of what you eat. I've seen your bin. Instant noodles, instant noodles, fried chicken, instant noodles.
+PAOLO: I'm a student. That's the student [[diet]].
+ROSA: That's a cry for help. But okay, it's a fair question. Adobo has lots of [[protein]], from the chicken. Garlic is very good for you. Vinegar too, people say. But it's a heavy dish. So you don't eat a huge [[portion]] of only adobo. You need something fresh on the side. Something green. Something with [[vitamins|vitamin]] and [[fibre]]. That's what makes it a [[balanced diet]].
+PAOLO: So what do we eat with it?
+ROSA: My lola always made a little salad. The simplest salad in the world. Watch. Two tomatoes, chopped. One red onion, chopped very small. And one salted egg.
+[sfx chop]
+PAOLO: A salted egg? In a salad?
+ROSA: A duck egg that's been kept in salt water for a few weeks. It's very salty, and the yolk is bright orange, and a little bit creamy. You cut it into small pieces, and mix it with the tomato and the onion. That's it. No dressing. The egg is the dressing.
+PAOLO: That's actually really good with the adobo. The tomato cuts through the fat.
+ROSA: You see? Fresh and heavy. Sour and salty. That's how a Filipino meal works. Everything balances everything else.
+ROSA: And here's another thing. When I was young, nobody ate [[processed food]]. We didn't have it. Everything was cooked at home, from fresh things from the market. Now, there's [[fast food]] on every corner, and young people eat it every day, because it's cheap and quick. And the doctors are worried. More and more young Filipinos have [[diabetes]], heart problems. It's happening all over the world.
+PAOLO: So, adobo is health food?
+ROSA: Adobo is not health food. But adobo with rice, and a salad, made at home, with your own hands, eaten at a table with your family? That's healthier than a burger in a car. And much, much happier.
+[bgm off]
+
+# The Last Step
+[amb sizzle 0.6]
+[bgm kitchen.167 0.1]
+ROSA: Okay, thirty minutes. Let's look. Lift the lid. Oh. Oh, look at that. Look at that colour. Dark, shiny, beautiful.
+ROSA: Now, here's the last step, and a lot of people skip it. Take the chicken out again. Turn the heat up. And boil the sauce, without the lid, until it gets thick. Like syrup. Five minutes, maybe.
+ROSA: Then, for the crispy skin, my lola's way. Put the chicken back into a hot pan, with a little oil, skin side down, for one or two minutes. Then pour the thick sauce over the top.
+PAOLO: Why do you take the chicken out twice? That's a lot of work.
+ROSA: Because good food is a lot of work, anak. That's why we cook it for the people we love. You don't cook like this for strangers. Well. Except on this show.
+ROSA: Now. A plate. Rice first, a big mountain. Chicken on the side. Sauce over the rice. Lots of sauce. The rice drinks the sauce. That's the best part. And a few pieces of crispy garlic on top.
+[amb off]
+[bgm off]
+
+# Kain Na!
+[bgm acoustic.168 0.1]
+ROSA: And now, the moment of truth. Paolo. Taste.
+PAOLO: With a spoon, or...
+ROSA: With your hands, of course. Like a real Filipino. Rice, chicken, sauce, all together, and push it into your mouth with your thumb.
+[pause 1.5]
+PAOLO (quiet): ...Ma.
+ROSA: Well?
+PAOLO (warm): It tastes like Lola's house. It tastes exactly like Sunday at Lola's house.
+ROSA (warm): That's the right answer. That's the only right answer.
+ROSA: And here's my final tip for you. Adobo is even better the next day. The flavour goes deeper into the meat overnight. So make a big pot, and tomorrow morning, fry yesterday's rice with lots of garlic, and eat it with the leftover adobo, and a fried egg.
+PAOLO: Which I will fry myself.
+ROSA: Which you will burn yourself. But you're learning.
+ROSA: Okay! That's our show for today. If you try this recipe, try it with love, and a lot of garlic, and don't stir the vinegar. And if your lola has a different recipe, make hers too. Then call her and tell her yours is better. She'll love that.
+PAOLO: She really won't.
+ROSA: She will pretend she doesn't. Now, in the Philippines, when the food is ready, we call everybody to the table, and we say: "Kain na!" Let's eat!
+PAOLO (cheerful): Kain na!
+ROSA (cheerful): Kain na! Bye, everybody!
+[bgm off]
+[music kitchen.169 14]

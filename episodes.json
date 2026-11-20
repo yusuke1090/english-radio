@@ -1291,5 +1291,393 @@
     "ja": "回復力、強さ"
    }
   ]
+ },
+ {
+  "n": 14,
+  "title": "Flatmates: The Inspection (Sitcom)",
+  "description": "A radio sitcom. Three flatmates in London – an Italian chef, a Brazilian nurse and a French PhD student – have 14 hours to hide a cat, a broken washing machine and a boyfriend before the landlady arrives.",
+  "date": "2026-11-14",
+  "hash": "361a64be3a",
+  "bytes": 11780798,
+  "seconds": 1473,
+  "uploaded": "361a64be3a",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep014.mp3?v=361a64be3a",
+  "words": [
+   {
+    "word": "ingredient",
+    "ja": "材料"
+   },
+   {
+    "word": "tenant",
+    "ja": "借家人"
+   },
+   {
+    "word": "carry out",
+    "ja": "実行する"
+   },
+   {
+    "word": "property",
+    "ja": "不動産、財産"
+   },
+   {
+    "word": "contract",
+    "ja": "契約"
+   },
+   {
+    "word": "deal with",
+    "ja": "対処する、扱う"
+   },
+   {
+    "word": "illegal",
+    "ja": "違法の"
+   },
+   {
+    "word": "sort out",
+    "ja": "解決する、整理する"
+   },
+   {
+    "word": "landlord",
+    "ja": "家主"
+   },
+   {
+    "word": "afford",
+    "ja": "買う余裕がある"
+   },
+   {
+    "word": "I suppose",
+    "ja": "たぶん〜だと思う"
+   },
+   {
+    "word": "enormous",
+    "ja": "巨大な"
+   },
+   {
+    "word": "criminal",
+    "ja": "犯罪者"
+   },
+   {
+    "word": "to be honest",
+    "ja": "正直に言うと"
+   },
+   {
+    "word": "embarrassed",
+    "ja": "恥ずかしい（気まずい）"
+   },
+   {
+    "word": "expensive",
+    "ja": "高価な"
+   },
+   {
+    "word": "make ends meet",
+    "ja": "何とかやりくりする"
+   },
+   {
+    "word": "cost of living",
+    "ja": "生活費"
+   },
+   {
+    "word": "housing shortage",
+    "ja": "住宅不足"
+   },
+   {
+    "word": "affordable housing",
+    "ja": "手ごろな値段の住宅"
+   },
+   {
+    "word": "fall behind",
+    "ja": "遅れをとる"
+   },
+   {
+    "word": "the highest",
+    "ja": "最も高い"
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "title": "The Golden Crook (Live Commentary)",
+  "description": "Live sports commentary from a sheepdog trial final in the Lake District. An American sports commentator who has never seen one, a champion shepherd from New Zealand, and an underdog from Yorkshire.",
+  "date": "2026-11-15",
+  "hash": "5dc94c249f",
+  "bytes": 12346142,
+  "seconds": 1543,
+  "uploaded": "5dc94c249f",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep015.mp3?v=5dc94c249f",
+  "words": [
+   {
+    "word": "coverage",
+    "ja": "報道（量）"
+   },
+   {
+    "word": "I suppose",
+    "ja": "たぶん〜だと思う"
+   },
+   {
+    "word": "attitude",
+    "ja": "態度、考え方"
+   },
+   {
+    "word": "national park",
+    "ja": "国立公園"
+   },
+   {
+    "word": "heritage site",
+    "ja": "遺産の地"
+   },
+   {
+    "word": "I'd say",
+    "ja": "〜だと思う"
+   },
+   {
+    "word": "spectator",
+    "ja": "観客"
+   },
+   {
+    "word": "the highest",
+    "ja": "最も高い"
+   },
+   {
+    "word": "championship",
+    "ja": "選手権"
+   },
+   {
+    "word": "massive",
+    "ja": "巨大な"
+   },
+   {
+    "word": "competitor",
+    "ja": "競争相手"
+   },
+   {
+    "word": "train",
+    "ja": "練習する、訓練する"
+   },
+   {
+    "word": "prey",
+    "ja": "獲物"
+   },
+   {
+    "word": "instinct",
+    "ja": "本能"
+   },
+   {
+    "word": "predator",
+    "ja": "捕食者"
+   },
+   {
+    "word": "domesticate",
+    "ja": "家畜化する"
+   },
+   {
+    "word": "steady",
+    "ja": "着実な"
+   },
+   {
+    "word": "stamina",
+    "ja": "持久力"
+   },
+   {
+    "word": "strategy",
+    "ja": "戦略"
+   },
+   {
+    "word": "fair play",
+    "ja": "正々堂々とした態度"
+   },
+   {
+    "word": "sportsmanship",
+    "ja": "スポーツマン精神"
+   },
+   {
+    "word": "professional",
+    "ja": "プロの、専門的な"
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "title": "Cooking with Tita Rosa",
+  "description": "A cooking show from a kitchen in Manila. Tita Rosa and her son Paolo make her grandmother's chicken adobo – vinegar, garlic, soy sauce, a lot of opinions, and a phone call from New Zealand.",
+  "date": "2026-11-16",
+  "hash": "ac4fb7b8ee",
+  "bytes": 11864018,
+  "seconds": 1483,
+  "uploaded": "ac4fb7b8ee",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep016.mp3?v=ac4fb7b8ee",
+  "words": [
+   {
+    "word": "recipe",
+    "ja": "作り方、レシピ"
+   },
+   {
+    "word": "ingredient",
+    "ja": "材料"
+   },
+   {
+    "word": "a third",
+    "ja": "3分の1"
+   },
+   {
+    "word": "humid",
+    "ja": "湿気の多い"
+   },
+   {
+    "word": "preservative",
+    "ja": "保存料"
+   },
+   {
+    "word": "solution",
+    "ja": "解決策"
+   },
+   {
+    "word": "staple food",
+    "ja": "主食"
+   },
+   {
+    "word": "dairy",
+    "ja": "乳製品の、酪農の"
+   },
+   {
+    "word": "culture",
+    "ja": "文化"
+   },
+   {
+    "word": "cultural exchange",
+    "ja": "文化交流"
+   },
+   {
+    "word": "pick up",
+    "ja": "身につける、拾う"
+   },
+   {
+    "word": "viewer",
+    "ja": "視聴者"
+   },
+   {
+    "word": "home-cooked",
+    "ja": "家庭で作った"
+   },
+   {
+    "word": "diet",
+    "ja": "食事、食生活"
+   },
+   {
+    "word": "protein",
+    "ja": "たんぱく質"
+   },
+   {
+    "word": "portion",
+    "ja": "一人前"
+   },
+   {
+    "word": "vitamin",
+    "ja": "ビタミン"
+   },
+   {
+    "word": "fibre",
+    "ja": "食物繊維"
+   },
+   {
+    "word": "balanced diet",
+    "ja": "バランスのとれた食事"
+   },
+   {
+    "word": "processed food",
+    "ja": "加工食品"
+   },
+   {
+    "word": "fast food",
+    "ja": "ファストフード"
+   },
+   {
+    "word": "diabetes",
+    "ja": "糖尿病"
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "title": "The Bell on Gannet Rock (Ghost Story)",
+  "description": "A ghost story from the coast of Newfoundland. A young lighthouse keeper, a storm in November 1968, three rules he must never break – and a bell that shouldn't exist.",
+  "date": "2026-11-17",
+  "hash": "d04e6f8749",
+  "bytes": 11260097,
+  "seconds": 1407,
+  "uploaded": "d04e6f8749",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep017.mp3?v=d04e6f8749",
+  "words": [
+   {
+    "word": "island",
+    "ja": "島"
+   },
+   {
+    "word": "dialect",
+    "ja": "方言"
+   },
+   {
+    "word": "heritage",
+    "ja": "遺産"
+   },
+   {
+    "word": "coast",
+    "ja": "海岸"
+   },
+   {
+    "word": "coastal",
+    "ja": "沿岸の"
+   },
+   {
+    "word": "vulnerable",
+    "ja": "弱い立場の、傷つきやすい"
+   },
+   {
+    "word": "isolated",
+    "ja": "孤立した"
+   },
+   {
+    "word": "introverted",
+    "ja": "内向的な"
+   },
+   {
+    "word": "erosion",
+    "ja": "浸食"
+   },
+   {
+    "word": "loneliness",
+    "ja": "孤独"
+   },
+   {
+    "word": "severe",
+    "ja": "厳しい、深刻な"
+   },
+   {
+    "word": "footprint",
+    "ja": "影響の大きさ、足跡"
+   },
+   {
+    "word": "a quarter",
+    "ja": "4分の1"
+   },
+   {
+    "word": "automate",
+    "ja": "自動化する"
+   },
+   {
+    "word": "obsolete",
+    "ja": "時代遅れの、使われなくなった"
+   },
+   {
+    "word": "overfishing",
+    "ja": "乱獲"
+   },
+   {
+    "word": "fishery",
+    "ja": "漁業、漁場"
+   },
+   {
+    "word": "unemployment",
+    "ja": "失業"
+   }
+  ]
  }
 ]

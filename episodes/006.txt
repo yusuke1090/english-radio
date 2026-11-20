@@ -1,133 +1,205 @@
-title: The Life Under Our Feet
-date: 2026-11-17
-description: A Canadian soil scientist on what soil really is, how farmers protect it, and how to measure soil moisture. Then a report on British allotments, and a chat about Christmas.
-guest: LIAM=en-CA-LiamNeural
+title: Planet Office
+date: 2026-11-06
+description: A nature documentary about the strangest habitat on Earth – the open-plan office. Watch the morning migration, the battle for the window desk, and the mystery of the missing yoghurt.
+voice: NARRATOR = en-GB-ThomasNeural -10% -4Hz
+voice: GARY = en-US-EricNeural
+voice: MEI = en-SG-LunaNeural
+voice: TYLER = en-US-BrianNeural +4%
+voice: DEV = en-KE-ChilembaNeural
+wordsbgm: orchestral.40
 
-# Farm and Tech
-SONIA: Good morning, and welcome to English Radio. I'm Sonia.
-RYAN: And I'm Ryan. Thanks for joining us on your drive this morning.
-SONIA: Ryan, earlier in the series, we looked at farms from the sky, with drones. Today, we're going in the opposite direction. Down.
-RYAN: Down into the ground. We're talking about [[soil]].
-SONIA: Something we walk on every day and almost never think about. Our guest is Liam, a soil scientist from Saskatchewan, in the Canadian prairies. Liam, welcome to the show.
-LIAM: Thanks very much. Happy to be here, even if it's a little early in the morning for me.
-RYAN: Liam, let's start with a simple question that's probably not simple at all. What is soil?
-LIAM: You're right, it's not simple. A lot of people think soil is just dirt, brown stuff that plants happen to grow in. But soil is actually a living system. About half of it is solid material, mostly tiny pieces of rock, which we call sand, silt and clay, plus some organic matter, which comes from dead plants and animals. The other half is empty space, filled with air and water.
-SONIA: Half of it is empty space? I had no idea.
-LIAM: That's right. And those spaces are really important. They're where roots grow, where water is stored, and where countless living things move around.
-RYAN: How many living things are we talking about?
-LIAM: An enormous number. There's a well-known saying that a teaspoon of healthy soil contains more living [[organisms|organism]] than there are people on Earth. Bacteria, fungi, tiny insects, worms. Most of them are far too small to see.
-SONIA: That's amazing. A teaspoon!
-LIAM: And they're not just living there. They're working. They break down dead leaves and roots, they release nutrients that plants need, and they help hold the soil together, so it doesn't wash or blow away.
-RYAN: Earthworms are the famous ones, aren't they?
-LIAM: They are. Charles Darwin was fascinated by earthworms. His very last book, published in eighteen eighty-one, was all about them. He calculated how much soil worms move, and he concluded that they had shaped the whole landscape of England over time.
-SONIA: Darwin wrote a book about worms? I only knew about the evolution one.
-LIAM: Most people don't know about it. But farmers love worms. When you dig a spade of soil and see lots of earthworms, it's usually a sign of healthy soil.
-RYAN: How long does it take to make new soil?
-LIAM: That's the scary part. It's very, very slow. It can take hundreds of years to form just a few centimetres of topsoil. But you can lose that same soil in a single storm, if the ground is bare.
-SONIA: So, in human terms, soil is basically not renewable.
-LIAM: Exactly. That's why protecting it is so important. And where I come from, we learned that lesson the hard way.
-RYAN: You mean the Dust Bowl?
-LIAM: Yes. In the nineteen thirties, a lot of the North American prairies had been ploughed up for wheat. The deep-rooted native grasses that held the soil in place were gone. Then a long [[drought]] came. The dry soil turned to dust, and strong winds carried it away in huge black clouds. Some dust storms were so big that the sky went dark in the middle of the day.
-SONIA: That sounds terrifying.
-LIAM: It was a disaster, both environmental and human. Thousands of farm families lost everything. It's still one of the most famous examples of [[soil erosion]] in history.
-RYAN: And what did farmers learn from it?
-LIAM: Over the following decades, they learned to farm differently. One of the biggest changes, especially here in Saskatchewan, has been something called zero tillage, or no-till.
-SONIA: What does that mean?
-LIAM: Traditionally, farmers ploughed the field before planting, turning the soil over to bury weeds and old crop material. With no-till, you don't plough at all. You leave last year's stubble, the bottom part of the stems, on the surface, and you plant the new seeds straight through it with a special machine.
-RYAN: Why is that better?
-LIAM: For several reasons. The stubble acts like a blanket. It protects the soil from wind and rain, so there's much less erosion. It also keeps moisture in the ground, which is vital on the dry prairies. And because you're not driving a tractor up and down to plough, you save a lot of fuel and time. Today, most farmland on the Canadian prairies is managed with no-till or very little tillage.
-SONIA: So the whole system changed in one generation.
-LIAM: More or less. It was a real revolution, and it was driven by farmers themselves, who saw that their soil was getting better.
-RYAN: Are there other ways to look after soil?
-LIAM: Lots. [[Crop rotation|crop rotation]] is an old one, changing what you grow in a field each year, so pests and diseases don't build up. Cover crops are another. That means planting something, like clover or rye, just to cover the ground between main crops. The roots hold the soil, and when the plants die, they feed the organisms underground. And some farmers add [[compost]] or manure, which builds up organic matter.
-SONIA: And I suppose healthy soil is good for the climate too?
-LIAM: Very much so. Soils store a huge amount of carbon. In fact, the world's soils hold more carbon than the atmosphere and all the plants on Earth combined. When we damage soil, some of that carbon is released as [[carbon dioxide]]. When we look after it, soil can actually [[absorb]] carbon from the air and store it.
-RYAN: So farmers could help to fight climate change through the soil.
-LIAM: They could be part of the solution, yes. Although measuring exactly how much carbon is stored is surprisingly difficult, and scientists are still arguing about it.
-SONIA: Liam, our listeners have heard about sensors on cows and cameras on drones. Are there sensors for soil too?
-LIAM: Absolutely. The most common are soil moisture sensors. You push them into the ground, and they tell you how much water there is near the roots. That helps farmers decide when to water, and how much.
-RYAN: How do they work?
-LIAM: There are a few types. The cheapest ones have two metal prongs, and they measure how easily electricity flows between them. Wet soil conducts electricity better than dry soil. They're fine for a school project, but there's a problem. The metal prongs corrode, sometimes within a few weeks, and the readings drift.
-SONIA: So they rust away in the ground.
-LIAM: Pretty much. Better sensors use a method called capacitance. The electronics are sealed inside, so nothing touches the soil directly, and they last much longer. Professional systems often have sensors at several depths, so you can see the water moving down through the soil after rain.
-RYAN: That sounds like a project some of our listeners might enjoy.
-LIAM: It's a great project. A small board, a sensor, a battery, and a radio to send the data. But here's my advice as a scientist. Don't just trust the number. Every soil is different. A reading of thirty per cent in sandy soil means something very different from thirty per cent in clay. So you need to calibrate the sensor, which means comparing its readings with real [[samples|sample]] that you dry and weigh in a [[laboratory]], or even in your kitchen oven.
-SONIA: In your kitchen oven? I'm not sure my family would be happy about that.
-LIAM: My wife certainly wasn't. But it works.
-RYAN: Before we finish, Liam, is there a simple test that anyone can do to check if their soil is healthy?
-LIAM: There's a fun one that some farmers do. You bury a pair of cotton underwear in the field.
-SONIA: I'm sorry, what?
-LIAM: It's true. You bury plain cotton underwear about fifteen centimetres deep, and you dig it up two months later. If your soil is full of life, the organisms will have eaten most of the cotton, and you'll find just the elastic waistband with a lot of holes. If the underwear comes back almost the same, your soil isn't very active.
-RYAN: That's brilliant. I'm going to try that in my garden.
-LIAM: Just tell your neighbours what you're doing first.
-SONIA: Liam, thank you so much. I'll never look at the ground in the same way again.
-LIAM: That's exactly what I hoped. Thanks for having me.
+# Dawn
+[amb birds 0.6]
+[music orchestral.34 18]
+[bgm orchestral.35]
+NARRATOR (dramatic): Dawn. On the edge of the city, the first light touches the glass and concrete of the business park.
+NARRATOR (dramatic): For most of the night, this has been a silent, empty [[landscape]]. Only the cleaners have moved through it, like shadows.
+NARRATOR (dramatic): But now, as the sun rises, something extraordinary is about to happen.
+NARRATOR: Every weekday morning, in cities across the world, millions of humans leave their nests and begin one of the greatest migrations on the planet. They travel by car, by train, by bus, and on small electric scooters that they do not know how to ride.
+NARRATOR: They are heading for one of the most fascinating, and least understood, [[habitats|habitat]] on Earth.
+NARRATOR (dramatic): The open-plan office.
+[amb off]
+[bgm off]
 
-# The Report
-RYAN: Time for The Report now. Sonia?
-SONIA: Thanks, Ryan. Staying with soil, today's report is about a very British way of growing food. Walk along the edge of almost any British town, and you'll probably see them: rows of small vegetable gardens, with garden sheds, bean poles, and people in old coats digging. These are allotments.
-SONIA: An allotment is a small piece of land that a person rents, usually from the local council, to grow fruit, vegetables and flowers for themselves. The rent is usually fairly low. A traditional full-size plot is about two hundred and fifty square metres, roughly the size of a tennis court.
-SONIA: Allotments have a long history. In the nineteenth century, as people moved from the countryside into crowded industrial towns, land was set aside so that poor working families could grow their own food. During the Second World War, allotments became even more important. With food imports cut off by the war, the government launched a campaign called Dig for Victory, encouraging everyone to grow vegetables. Parks, gardens, and even the moat around the Tower of London were turned into vegetable plots.
-SONIA: After the war, interest gradually fell, and many allotment sites were sold for housing. But in recent years, allotments have become fashionable again. In many cities, the demand is so high that there is a long [[waiting list]]. In some parts of London, people wait for ten years or more to get a plot.
-SONIA: Why are allotments so popular? For many people, it's about food: the taste of a tomato you've grown yourself is hard to beat. For others, it's about [[well-being]]. Doctors increasingly recognise that gardening is good for [[mental health]]. Time outdoors, physical activity and seeing things grow can reduce stress, and some doctors even recommend gardening to patients.
-SONIA: Allotments are also places where different people meet. Retired people work next to young families. And many sites are very [[diverse]]. Gardeners whose families came from the Caribbean, South Asia or Eastern Europe grow vegetables from their own [[heritage]], such as callaloo, bitter gourd or special kinds of beans, and share seeds and advice over the fence.
-SONIA: There are challenges, though. Some councils, short of money, want to sell the land for development, which often leads to protests from local gardeners. Water can be a problem in dry summers. And keeping a plot in good condition takes a lot of time. Many new gardeners give up after the first year, when they discover how fast the weeds grow.
-SONIA: Similar ideas exist around the world. In Germany, there are small garden plots with tiny summer houses, and in Japan, many cities offer rental farm plots for residents. As more people live in cities, the desire to put our hands in the soil seems stronger than ever. That's the report for today.
-RYAN: Thanks, Sonia. My uncle had an allotment for thirty years. He grew the biggest marrows I've ever seen.
-SONIA: There are competitions for that, aren't there? Giant vegetables.
-RYAN: There are. People get very competitive. There are rumours of midnight sabotage.
+# The Migration
+[bgm orchestral.36]
+NARRATOR: Eight fifteen a.m. The first members of the [[species]] begin to arrive.
+NARRATOR: Here, at the great revolving door, we see a young male. He is new to this environment. His shoes are too shiny. His backpack is too large. He has not yet learned the ways of the office.
+NARRATOR: He approaches the security gate, and searches for his pass. It is not in his left pocket. It is not in his right pocket. A queue begins to form behind him. The other [[commuters|commuter]] watch in silence. Nobody helps. In this habitat, it is every human for himself.
+TYLER (nervous): Sorry. Sorry. It's in here somewhere. Sorry.
+NARRATOR: The young male will apologise eleven times before he finds the pass. This is normal behaviour for the species, especially in Britain, where the apology is used not only to say sorry, but also as a greeting, a warning, and a way of filling silence.
+NARRATOR: Next, the group must enter the lift.
+NARRATOR: The lift is one of the most dangerous environments in the office. Up to twelve strangers are forced into a small metal box, closer together than they would ever choose to be. To survive, they have developed a remarkable strategy.
+NARRATOR (whisper): They pretend that nobody else exists.
+NARRATOR: Every member of the group stares at the numbers above the door, as if they contain the secrets of the universe. Eye contact is avoided at all costs. Speaking is extremely rare. If two humans who know each other enter the lift together, they will begin a conversation, and then immediately regret it, because everybody can hear.
+GARY: So, good weekend?
+MEI: Yes, thanks. You?
+GARY: Yeah, good. Busy.
+MEI: Busy is good.
+GARY: Yeah.
+NARRATOR: The rest of the journey, three floors, passes in complete silence. It is one of the longest silences in the natural world.
+[bgm off]
 
-# Daily Talk
-SONIA: Now, Ryan, I noticed something on my drive in this morning. The Christmas lights are going up.
-RYAN: Already? It's November!
-SONIA: It's the middle of November, Ryan. That's normal now. The shops started selling Christmas things in October.
-RYAN: That's far too early for me. I refuse to think about Christmas until December.
-SONIA: But you love Christmas!
-RYAN: I do love Christmas. In December. So, tell our listeners about a typical British Christmas.
-SONIA: Well, it starts with the advent calendar on the first of December. It's a card or a box with twenty-four little doors, and you open one every day until Christmas Eve. When I was a child, there was a small chocolate behind each door.
-RYAN: And now there are advent calendars with everything. Beauty products, cheese, even socks.
-SONIA: A cheese advent calendar would be perfect for Connor from County Cork.
-RYAN: Ha, it would. Then there's the Christmas jumper. In December, people wear terrible, colourful jumpers with reindeer or snowmen on them. There's even a Christmas Jumper Day, when people wear them to work or school and give money to [[charity]].
-SONIA: I have a jumper with a robin that lights up. It's very tasteful.
-RYAN: Very. And what about Christmas Day itself?
-SONIA: For most families, the big event is Christmas dinner, usually eaten in the early afternoon. Roast turkey, roast potatoes, carrots, parsnips, stuffing, gravy, and of course Brussels sprouts.
-RYAN: The famous Brussels sprouts. The vegetable everyone pretends to like once a year.
-SONIA: I actually like them!
-RYAN: You're in the minority. And before you eat, you pull Christmas crackers.
-SONIA: For our listeners, a cracker isn't the biscuit kind. It's a paper tube that two people pull from each end. It breaks with a small bang, and inside there's a paper crown, a terrible joke, and a small plastic toy.
-RYAN: And everyone wears the paper crown during the meal, even grandad.
-SONIA: Especially grandad. Then for dessert, there's Christmas pudding, a heavy, dark fruit pudding. Some families pour brandy over it and set it on fire before bringing it to the table.
-RYAN: That's the most exciting moment of the day. Followed by everyone falling asleep on the sofa.
-SONIA: And then at three o'clock, many people watch the King's Christmas message on television. It's a [[tradition]] that goes back to the nineteen thirties.
-RYAN: And then the next day is Boxing Day, which is a public holiday too. Lots of people go for a long walk, eat leftover turkey sandwiches, or go to the sales.
-SONIA: And we can't forget the pantomime.
-RYAN: Oh yes, the panto! That's a very strange British tradition to explain to foreigners.
-SONIA: Let me try. A pantomime is a funny family show at the theatre, usually around Christmas. It's based on a fairy tale, like Cinderella or Jack and the Beanstalk. But it's very silly, with lots of jokes, songs and terrible costumes.
-RYAN: And the audience takes part. That's the important thing. When the villain comes on stage, everyone shouts boo. And when the villain is creeping up behind the hero, the children all scream, he's behind you!
-SONIA: And then the actor says, oh no, he isn't! And the whole [[audience]] shouts, oh yes, he is!
-RYAN: Again and again. It's chaos, but it's brilliant.
-SONIA: And there's always the Dame, a big, funny female character who is always played by a man in an enormous dress and lots of make-up.
-RYAN: The Dame is usually the star of the show. Often it's a famous actor or a television personality.
-SONIA: I went every year as a child. My grandfather loved it more than we did. He used to shout louder than any of the children.
-RYAN: That's the secret of panto. It's supposed to be for children, but the adults have just as much fun. There are lots of jokes that go straight over the children's heads.
-SONIA: It's a lovely way for different [[generations|generation]] to enjoy something together.
-SONIA: What about Japan? I've heard that Christmas there is quite different.
-RYAN: Very different, and quite surprising for British people. Christmas isn't a national holiday in Japan, so most people go to work as normal. And the most famous Christmas meal is fried chicken from a fast food chain.
-SONIA: Really? Fried chicken?
-RYAN: Really. It goes back to a very successful advertising campaign in the nineteen seventies. Now millions of families order a special Christmas bucket of chicken, and some people book weeks in advance.
-SONIA: That's incredible. So a [[commercial]] campaign created a new [[custom]].
-RYAN: Exactly. And instead of a heavy fruit pudding, people eat a light Christmas cake, usually a sponge cake with cream and strawberries.
-SONIA: That sounds much nicer than Christmas pudding, to be honest.
-RYAN: I think so too. And Christmas Eve in Japan is often a romantic evening for couples, a bit like Valentine's Day.
-SONIA: So the big family [[celebration]] happens at a different time?
-RYAN: Yes, at New Year. That's when people travel home to see their families, eat special traditional food, and visit a shrine or temple. So in a way, Japan's New Year is like Britain's Christmas, and Japan's Christmas is a bit like Britain's New Year's Eve.
-SONIA: That's a neat way to put it. Do you decorate your house?
-RYAN: A little. But my nephew is the real expert this year. He's fifteen, and he made his own Christmas lights.
-SONIA: He made them? How?
-RYAN: He bought some small LEDs and a tiny computer board, the kind that costs just a few pounds. Then he wrote a program to make the lights twinkle and change patterns. It runs on batteries, and it's in his bedroom window now.
-SONIA: That's brilliant. Much more interesting than buying lights from the shop.
-RYAN: He's very proud of it. Although his mum says it's a bit too bright at night.
-SONIA: Every great invention has its critics. So, Ryan, what are you most [[looking forward to|look forward to]] this Christmas?
-RYAN: Honestly? A few days off, a long walk on Boxing Day, and a turkey sandwich. And seeing my nephew's lights in person.
-SONIA: Mine is seeing my family, and eating too much. And for our listeners, here's today's challenge. Think about how you celebrate the end of the year, and try to explain your favourite tradition in English. What do you eat? Who do you see?
-RYAN: And, if you're feeling brave, what would you put in a Christmas cracker?
+# The Watering Hole
+[bgm orchestral.37]
+NARRATOR: Eight forty. The office begins to fill. And like animals on the African plain, the workers are drawn, irresistibly, to the one place they cannot live without.
+NARRATOR (dramatic): The watering hole.
+NARRATOR: Or, as it is known locally, the coffee machine.
+NARRATOR: The watering hole is the centre of the office [[ecosystem]]. Here, every member of the group must come, at least once a morning. And here, the social structure of the office is revealed.
+NARRATOR: Watch. A large, confident male approaches. This is Gary. Gary is a manager. You can tell by his walk, and by the fact that he is wearing a fleece jacket with the company logo on it, without being asked to.
+NARRATOR: Gary does not wait in line. The others step back, almost without noticing they are doing it. Gary is at the top of the [[food chain]].
+GARY (cheerful): Morning, team! Who's ready for a big week? Big week. Massive week.
+NARRATOR: Gary begins the ritual display that is typical of the dominant male in this habitat. He tells the group about his weekend.
+GARY: Did a hundred kilometres on the bike on Sunday. Up in the hills. Personal best. Felt amazing. Honestly, you should all try it. Best thing I ever did.
+NARRATOR: The group responds with a series of small noises that sound like interest, but are not.
+MEI: Wow.
+TYLER: Nice.
+MEI: Amazing.
+NARRATOR: This display can last up to twenty minutes. Nobody leaves. Nobody can leave. The coffee machine is still making Gary's cappuccino, and it is a very slow machine.
+NARRATOR: In a corner, a female watches carefully. This is Mei. Mei has been in this habitat for six years. She is intelligent, patient, and extremely good at her job, which means that she does most of Gary's.
+NARRATOR: Mei has learned an important survival technique. She arrives at the watering hole at eight twenty-five, five minutes before anyone else, and leaves before Gary arrives. Today, she was delayed by the lift. It was a mistake. She will not make it again.
+[bgm off]
+
+# Camouflage
+[amb typing]
+[bgm comedy.38 0.13]
+NARRATOR: Nine thirty. The office has settled into its morning routine. To the casual observer, it appears that everybody is working.
+NARRATOR: But look more closely.
+NARRATOR: Here, by the window, the young male, Tyler, is looking at a website that sells trainers. He has been looking at the same pair of trainers for forty minutes. He cannot afford them.
+NARRATOR: But Tyler has a highly developed sense of danger. As Gary approaches from behind, Tyler's [[instinct]] [[takes over|take over]]. In less than half a second, the trainers disappear. A spreadsheet appears in their place. Tyler's face changes. He frowns. He leans forward. He types something, very fast, very loudly, for no reason at all.
+NARRATOR: This is camouflage. It is one of the most impressive adaptations in the animal kingdom.
+GARY: How's it going, Tyler?
+TYLER (serious): Yeah, good. Just... [[going through|go through]] some numbers. Looking at the... the data.
+GARY: Love it. Love the energy.
+NARRATOR: Gary moves on. The spreadsheet disappears. The trainers return. The [[predator]] has passed, and the [[prey]] is safe. For now.
+NARRATOR: Other techniques of camouflage include: carrying a piece of paper around the office with a serious expression. Walking quickly, as if late for something important. And the most advanced technique of all, used only by the most senior members of the species. Wearing headphones with nothing playing.
+[amb off]
+[bgm off]
+
+# The Meeting
+[bgm orchestral.39]
+NARRATOR: Ten o'clock. And now, one of the most extraordinary events in the office calendar. Several times a day, without warning, members of the group leave their desks and gather together in a small glass room.
+NARRATOR (dramatic): The meeting.
+NARRATOR: Scientists have studied meetings for many years. They are still not sure what they are for.
+GARY: Okay, team, let's get started. Can everyone see my screen?
+MEI: No.
+GARY: How about now?
+MEI: No.
+GARY: Now?
+MEI: That's your emails, Gary.
+GARY: Ah. Okay. Now?
+NARRATOR: This ritual takes place at the beginning of every meeting, everywhere in the world. It has never once been completed on the first attempt.
+NARRATOR: Today, some members of the group are not in the room. They are [[remote working|remote working]], and they appear on a large screen, in small boxes, like a wall of animals in a zoo. Some of them are in their kitchens. One is clearly still in bed. One has turned off his camera, and is believed to be at the supermarket.
+GARY: Sanjay? Are you there, Sanjay? Sanjay, you're on mute.
+NARRATOR: Sanjay is always on mute. Scientists believe that Sanjay has not been heard by another human since twenty twenty.
+NARRATOR: The meeting lasts for one hour. During this time, forty-five minutes are spent discussing what will be discussed at the next meeting. A decision is reached that everybody should "take this offline". Nobody knows what this means.
+NARRATOR: And then, in the final minute, one member of the group says the words that every other member has been thinking, but nobody dared to say.
+MEI (dry): So... could this have been an email?
+NARRATOR (whisper): Silence. A rare and dangerous moment. In the wild, this is the equivalent of poking a sleeping lion with a stick.
+GARY: Great point, Mei. Let's set up a meeting to discuss that.
+[bgm off]
+
+# The Battle for the Window
+[bgm sports.41 0.13]
+NARRATOR: Eleven fifteen. And here, we witness something truly remarkable. Something very few people outside the office have ever seen.
+NARRATOR: Until recently, every worker in this habitat had a desk of their own. A territory. They decorated it with photographs of their families, small plants, and mugs with jokes on them. These territories were respected. A desk was a home.
+NARRATOR: But then came a terrible event. The company [[introduced|introduce]] "hot-desking". There are no longer enough desks for everybody, and nobody owns a desk at all. Each morning, it is first come, first served.
+NARRATOR: The result has been a fierce [[competition]], especially for the most valuable territory in the entire office. The desk by the window.
+NARRATOR: It has natural light. It has a view of the car park, and a small tree. It is as far as possible from Gary. And it is next to the radiator.
+NARRATOR: Watch. A female has left the window desk to go to the toilet. She has left behind her jacket on the chair, a clear signal that the territory is taken.
+NARRATOR: But Tyler, the young male, has been watching. He approaches. He looks left. He looks right. He moves the jacket, very gently, to a different chair. And he sits down.
+NARRATOR (dramatic): This is a serious mistake.
+NARRATOR: The female returns. She sees the jacket. She sees Tyler. She does not shout. She does not fight. In this habitat, open conflict is extremely rare. Instead, she does something much more frightening.
+NARRATOR (whisper): She smiles.
+MEI (dry): Oh, are you sitting there today, Tyler? No, that's fine. That's absolutely fine.
+NARRATOR: Tyler has not yet understood. "That's absolutely fine", in this habitat, means "you will regret this for the rest of your life". For the next three weeks, Tyler will not be invited to lunch. Nobody will tell him why.
+[bgm off]
+
+# The Fridge
+[bgm mystery.42 0.14]
+NARRATOR: One o'clock. Lunch. And our cameras turn to the darkest, most mysterious corner of the office.
+NARRATOR (dramatic): The shared fridge.
+NARRATOR: The shared fridge is a complex and often violent ecosystem. Inside, there are sandwiches from last Tuesday. There is a carton of milk that nobody has owned since the spring. There is a plastic box at the back that nobody has dared to open for many months. Something is living in it. Scientists have chosen not to [[investigate]].
+NARRATOR: To protect their food, workers write their names on it. But names alone are not enough. Because this habitat contains one of the most feared creatures in the modern workplace.
+NARRATOR (whisper): The yoghurt thief.
+NARRATOR: Nobody has ever seen the yoghurt thief. Nobody knows who it is. But every week, at least one yoghurt disappears. Strawberry, mostly. Sometimes raspberry. Never plain.
+NARRATOR: When a yoghurt is taken, the victim responds with the most powerful weapon of the British office worker. The note.
+MEI (dry): "To whoever took my strawberry yoghurt from the fridge. I hope you enjoyed it. I really do. Some of us were [[looking forward to|look forward to]] that yoghurt all morning. Kind regards, Mei."
+NARRATOR: The note is placed on the fridge door, where everybody can see it. It is polite. It is calm. It ends with "kind regards". And it is, by the standards of this habitat, an open declaration of war.
+NARRATOR: Our camera team spent three weeks hiding in the stationery cupboard to discover the identity of the yoghurt thief. We will reveal what we found at the end of this programme.
+[bgm off]
+
+# The Birthday Cake
+[bgm comedy.43 0.14]
+NARRATOR: Three p.m. The energy of the group is low. Many members are staring at their screens without moving. Some are close to sleep. This is the dangerous afternoon period, when [[productivity]] falls to its lowest point.
+NARRATOR: And then, suddenly, something changes.
+NARRATOR: A message appears on every screen at once. "Cake in the kitchen! It's Linda's birthday!"
+NARRATOR: Watch what happens next. It is one of the fastest movements ever filmed in the natural world.
+NARRATOR (fast): Within ten seconds, the first workers have left their desks. Within thirty seconds, a crowd has formed around the kitchen table. Within two minutes, the cake has gone. Completely gone. Only crumbs remain.
+NARRATOR: Most of the people who ate the cake do not know who Linda is. Linda herself was in a meeting, and did not get any.
+NARRATOR: This is closely connected to another strange ritual. The card. Every few weeks, a large card is passed silently from desk to desk. Each worker must write a message in it, for a [[colleague]] who is leaving, or getting married, or having a baby. Often, they have never met this person.
+TYLER: Who's Brian?
+MEI: Just write "Good luck".
+TYLER: Good luck with what?
+MEI: Doesn't matter. Write "Good luck" and pass it on.
+NARRATOR: Researchers have counted the messages in one hundred office cards. Eighty-four percent of them said, "Good luck!". Twelve percent said "All the best". The remaining four percent were from Gary, and were far too long.
+[bgm off]
+
+# The Printer
+[bgm mystery.48 0.14]
+NARRATOR: Before we leave the upper floors, there is one more creature we must [[observe]]. It lives alone, in a small alcove near the toilets. It is large, grey, and very old. Nobody remembers when it arrived. Some say it was here before the building.
+NARRATOR (dramatic): The printer.
+NARRATOR: The printer is the only member of the office ecosystem that every other member fears and hates equally. It does not care about rank. It treats managers and interns with the same cold disrespect.
+NARRATOR: Here, Mei approaches. She needs to print one page. One single page, for a meeting that starts in two minutes.
+NARRATOR: The printer senses her urgency. It begins to make a series of low noises. A click. A whirr. A long, slow, grinding sound, like an old man getting out of a chair.
+MEI (whisper): Come on. Come on. Please.
+NARRATOR: And then the small screen on the front of the printer displays the two most frightening words in the English language.
+NARRATOR (dramatic): "Paper jam."
+NARRATOR: There is no paper jam. There is never a paper jam. Mei opens every door on the printer. She pulls out every tray. She looks inside, into the darkness, where many brave workers have lost pens, earrings, and their will to live.
+NARRATOR: Nothing.
+NARRATOR: Mei closes the doors. The printer thinks for a long time. Then, in an act of pure cruelty, it prints forty-seven pages of a document that somebody else sent to it in two thousand and nineteen.
+NARRATOR: Mei's page does not appear. It will never appear. She will go to the meeting with nothing, and she will tell Gary the information from memory, which is what she should have done in the first place.
+NARRATOR: Behind her, as she walks away, the printer makes one final, quiet click. Some researchers believe this is the printer laughing. It is, at present, impossible to prove.
+[bgm off]
+
+# The Basement
+[bgm spooky.44 0.14]
+NARRATOR: Now, our journey takes us somewhere very few humans have ever been. Deep below the office. Down the stairs, past the bins, through a heavy grey door with no sign on it.
+NARRATOR (whisper): The basement.
+NARRATOR: This is the home of a rare and secretive creature. The IT department.
+NARRATOR: The IT department is [[nocturnal]]. Its members avoid natural light, and rarely come up to the surface. They live in a dark room, lit only by the glow of many screens, surrounded by cables, empty pizza boxes, and broken keyboards from the early two thousands.
+NARRATOR: For years, scientists believed that the IT department communicated only through email tickets. But in this programme, for the first time ever, our cameras have recorded one of them speaking.
+NARRATOR (whisper): Listen carefully.
+TYLER (nervous): Hi. Sorry. My computer's not working. The screen's just black.
+DEV (calm): Have you tried turning it off and on again?
+TYLER: ...No.
+DEV (calm): Try turning it off and on again.
+NARRATOR: Remarkable. This is the only sentence that the IT department has ever been recorded saying. Experts believe it may be the [[solution]] to every problem in the universe.
+NARRATOR: Tyler returns upstairs, turns his computer off and on again, and it works. He will never understand why. Nobody does.
+[bgm off]
+
+# Five O'Clock
+[bgm sports.45 0.14]
+NARRATOR: Four fifty-five p.m. The day is nearly over. And a strange tension begins to spread through the office.
+NARRATOR: Watch carefully. Nothing appears to be happening. But under the desks, shoes are being put back on. Jackets are being moved closer. Bags are being quietly packed. Computers are not being turned off, not yet, because that would be too obvious. But every mouse is moving towards the "shut down" button.
+NARRATOR (whisper): Four fifty-eight.
+NARRATOR (whisper): Four fifty-nine.
+NARRATOR (fast): Five o'clock! And they're off! In a single, explosive movement, the herd rises from its desks and moves towards the exit. It is one of the great sights of the natural world. The stairs are full. The lifts are full. The revolving door spins so fast that it makes a sound like a helicopter.
+NARRATOR: Only one member of the group stays behind. Gary. He is sending emails. He will send emails until eight o'clock tonight, and then he will send one more from home, at eleven, which says only "Thoughts?" with an attachment.
+NARRATOR: Nobody will answer it. It is a cry in the dark, from a lonely animal, at the top of a food chain that nobody else wanted to [[climb]].
+[bgm off]
+
+# Night
+[bgm orchestral.46]
+NARRATOR (calm): And now, as the sun sets over the business park, the office falls silent once more.
+NARRATOR (calm): The lights switch off, one by one, by themselves. The cleaners return. A single forgotten cardigan hangs on the back of a chair by the window. A half-eaten birthday card waits on a desk. Somewhere in the fridge, something moves.
+NARRATOR (calm): It is easy to laugh at the office. But it is, in its own way, a kind of miracle. Every day, thousands of strangers, who did not choose each other, share a small space, follow the same strange rules, and somehow get things done together. They help each other, annoy each other, and eat each other's cake. They complain about the meetings, and then they go to the meetings.
+NARRATOR (calm): Tomorrow morning, before dawn, the great migration will begin again.
+[pause 1.0]
+NARRATOR: Oh, and one more thing. The yoghurt thief.
+NARRATOR: After three weeks in the stationery cupboard, our camera team finally caught it on film. At seven forty-five on a Thursday morning, before anyone else had arrived, a figure crept into the kitchen, opened the fridge, and took a strawberry yoghurt with Mei's name on it.
+NARRATOR (dramatic): It was Mei.
+NARRATOR: Mei has been stealing her own yoghurts, and writing notes about them, for two years. When we asked her why, she said only this.
+MEI (dry): It's the most exciting part of my week.
+[bgm off]
+[music orchestral.47 16]

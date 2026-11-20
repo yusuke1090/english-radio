@@ -1,935 +1,522 @@
 [
  {
   "n": 1,
-  "title": "Smart Collars for Dairy Cows",
-  "description": "A vet from New Zealand explains how sensors on cows spot illness and heat early. Then Sonia and Ryan talk about the daily commute.",
-  "date": "2026-11-17",
-  "hash": "99343eb224",
-  "bytes": 9786438,
-  "seconds": 1631,
-  "uploaded": "99343eb224",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep001.mp3?v=99343eb224",
+  "title": "Duchess Is Missing (1/3)",
+  "description": "A three-part mystery in the Yorkshire Dales. Part 1 – the night a champion cow vanished, told by 14-year-old Ellie.",
+  "date": "2026-11-01",
+  "hash": "b23fd1a200",
+  "bytes": 11763506,
+  "seconds": 1470,
+  "uploaded": "b23fd1a200",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep001.mp3?v=b23fd1a200",
   "words": [
    {
-    "word": "wearable",
-    "ja": "身に着ける（機器）"
+    "word": "breed",
+    "ja": "品種"
+   },
+   {
+    "word": "over the moon",
+    "ja": "大喜びで"
+   },
+   {
+    "word": "can't stand",
+    "ja": "〜が大嫌い、我慢できない"
+   },
+   {
+    "word": "embarrassed",
+    "ja": "恥ずかしい（気まずい）"
+   },
+   {
+    "word": "stubborn",
+    "ja": "頑固な"
+   },
+   {
+    "word": "calve",
+    "ja": "子牛を産む"
+   },
+   {
+    "word": "pasture",
+    "ja": "牧草地"
    },
    {
     "word": "sensor",
     "ja": "センサー"
    },
    {
-    "word": "herd",
-    "ja": "群れ（牛などの）"
+    "word": "heavy rain",
+    "ja": "大雨"
    },
    {
-    "word": "instinct",
-    "ja": "本能"
+    "word": "barn",
+    "ja": "納屋、牛舎"
    },
    {
-    "word": "symptom",
-    "ja": "症状"
-   },
-   {
-    "word": "monitor",
-    "ja": "監視する、見守る"
-   },
-   {
-    "word": "diagnose",
-    "ja": "診断する"
-   },
-   {
-    "word": "animal welfare",
-    "ja": "動物福祉"
-   },
-   {
-    "word": "algorithm",
-    "ja": "アルゴリズム"
-   },
-   {
-    "word": "accurate",
-    "ja": "正確な"
-   },
-   {
-    "word": "drawback",
-    "ja": "欠点"
-   },
-   {
-    "word": "workload",
-    "ja": "仕事の量"
-   },
-   {
-    "word": "affordable",
-    "ja": "手ごろな値段の"
-   },
-   {
-    "word": "look after",
-    "ja": "世話をする"
-   },
-   {
-    "word": "labour shortage",
-    "ja": "人手不足"
-   },
-   {
-    "word": "rural economy",
-    "ja": "農村経済"
-   },
-   {
-    "word": "self-sufficiency",
-    "ja": "自給"
-   },
-   {
-    "word": "automation",
-    "ja": "自動化"
-   },
-   {
-    "word": "commute",
-    "ja": "通勤する"
-   },
-   {
-    "word": "heavy traffic",
-    "ja": "交通量が多いこと"
+    "word": "terrain",
+    "ja": "地形"
    },
    {
     "word": "set off",
     "ja": "出発する、引き起こす"
    },
    {
-    "word": "put up with",
-    "ja": "我慢する"
+    "word": "livestock",
+    "ja": "家畜"
    },
    {
-    "word": "flexible working",
-    "ja": "柔軟な働き方"
+    "word": "theft",
+    "ja": "窃盗"
    },
    {
-    "word": "work-life balance",
-    "ja": "仕事と生活のバランス"
+    "word": "figure out",
+    "ja": "理解する、解決する"
    },
    {
-    "word": "take advantage of",
-    "ja": "〜を利用する"
-   }
-  ]
- },
- {
-  "n": 2,
-  "title": "Milk and Mobile Money in Kenya",
-  "description": "How small dairy farms in Kenya feed their cows, sell their milk and get paid by phone. Then a report on plant-based milk, and a chat about tea.",
-  "date": "2026-11-17",
-  "hash": "caec208f80",
-  "bytes": 9601544,
-  "seconds": 1600,
-  "uploaded": "caec208f80",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep002.mp3?v=caec208f80",
-  "words": [
-   {
-    "word": "smallholder",
-    "ja": "小規模農家"
+    "word": "look into",
+    "ja": "調査する"
    },
    {
-    "word": "fodder",
-    "ja": "飼い葉"
+    "word": "rule out",
+    "ja": "除外する"
    },
    {
-    "word": "milk yield",
-    "ja": "乳量"
+    "word": "exhausted",
+    "ja": "疲れ切った"
    },
    {
-    "word": "dry season",
-    "ja": "乾季"
+    "word": "in debt",
+    "ja": "借金をしている"
    },
    {
-    "word": "drought",
-    "ja": "干ばつ"
+    "word": "make ends meet",
+    "ja": "何とかやりくりする"
    },
    {
-    "word": "silage",
-    "ja": "サイレージ"
-   },
-   {
-    "word": "breeding",
-    "ja": "繁殖、育種"
-   },
-   {
-    "word": "cooperative",
-    "ja": "協同組合"
-   },
-   {
-    "word": "cashless",
-    "ja": "現金を使わない"
-   },
-   {
-    "word": "place emphasis on",
-    "ja": "〜を重視する"
-   },
-   {
-    "word": "plant-based",
-    "ja": "植物性の"
-   },
-   {
-    "word": "emissions",
-    "ja": "排出（量）"
-   },
-   {
-    "word": "methane",
-    "ja": "メタン"
-   },
-   {
-    "word": "carbon footprint",
-    "ja": "二酸化炭素の排出量（ある活動の）"
-   },
-   {
-    "word": "calcium",
-    "ja": "カルシウム"
-   },
-   {
-    "word": "label",
-    "ja": "表示、ラベル"
-   },
-   {
-    "word": "consumer",
-    "ja": "消費者"
-   },
-   {
-    "word": "cut down on",
-    "ja": "減らす"
-   },
-   {
-    "word": "stick to",
-    "ja": "守る、続ける"
-   }
-  ]
- },
- {
-  "n": 3,
-  "title": "Drones on the Farm",
-  "description": "An Australian agronomist on mapping and spraying crops with drones. Then a report on the four-day working week, and a chat about winter weather.",
-  "date": "2026-11-17",
-  "hash": "c9ee5c25ea",
-  "bytes": 9031004,
-  "seconds": 1505,
-  "uploaded": "c9ee5c25ea",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep003.mp3?v=c9ee5c25ea",
-  "words": [
-   {
-    "word": "drone",
-    "ja": "ドローン"
-   },
-   {
-    "word": "pest",
-    "ja": "害虫"
-   },
-   {
-    "word": "weed",
-    "ja": "雑草"
-   },
-   {
-    "word": "precision agriculture",
-    "ja": "精密農業"
-   },
-   {
-    "word": "fertiliser",
-    "ja": "肥料"
-   },
-   {
-    "word": "crop yield",
-    "ja": "作物の収量"
-   },
-   {
-    "word": "regulation",
-    "ja": "規制"
-   },
-   {
-    "word": "malfunction",
-    "ja": "故障する"
-   },
-   {
-    "word": "analyse",
-    "ja": "分析する"
-   },
-   {
-    "word": "irrigation",
-    "ja": "かんがい"
-   },
-   {
-    "word": "remote",
-    "ja": "遠隔の、離れた"
-   },
-   {
-    "word": "productivity",
-    "ja": "生産性"
-   },
-   {
-    "word": "burnout",
-    "ja": "燃え尽き"
-   },
-   {
-    "word": "employer",
-    "ja": "雇い主"
-   },
-   {
-    "word": "frost",
-    "ja": "霜"
-   },
-   {
-    "word": "forecast",
-    "ja": "予報"
-   },
-   {
-    "word": "mild",
-    "ja": "穏やかな"
-   },
-   {
-    "word": "temperate",
-    "ja": "温帯の、穏やかな"
-   },
-   {
-    "word": "severe",
-    "ja": "厳しい、深刻な"
-   }
-  ]
- },
- {
-  "n": 4,
-  "title": "From Milk to Cheese",
-  "description": "An Irish cheesemaker explains how milk becomes cheese. Then a report on the global rise of Japanese city pop, and a chat about breakfast.",
-  "date": "2026-11-17",
-  "hash": "97b269238e",
-  "bytes": 8389485,
-  "seconds": 1398,
-  "uploaded": "97b269238e",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep004.mp3?v=97b269238e",
-  "words": [
-   {
-    "word": "ingredient",
-    "ja": "材料"
-   },
-   {
-    "word": "bacteria",
-    "ja": "細菌（複数形）"
-   },
-   {
-    "word": "flavour",
-    "ja": "味、風味"
-   },
-   {
-    "word": "traditional",
-    "ja": "伝統的な"
-   },
-   {
-    "word": "digest",
-    "ja": "消化する"
-   },
-   {
-    "word": "cultural heritage",
-    "ja": "文化遺産"
-   },
-   {
-    "word": "handmade",
-    "ja": "手作りの"
-   },
-   {
-    "word": "authentic",
-    "ja": "本物の"
+    "word": "frustrated",
+    "ja": "いらいらした"
    },
    {
     "word": "go viral",
     "ja": "一気に広まる（ネットで）"
    },
    {
-    "word": "generation",
-    "ja": "世代"
-   },
-   {
-    "word": "nostalgic",
-    "ja": "懐かしい気持ちの"
-   },
-   {
-    "word": "skip",
-    "ja": "抜く（食事を）"
-   },
-   {
-    "word": "balanced diet",
-    "ja": "バランスのとれた食事"
-   },
-   {
-    "word": "staple food",
-    "ja": "主食"
-   },
-   {
-    "word": "fond of",
-    "ja": "〜が好きな"
-   },
-   {
-    "word": "processed food",
-    "ja": "加工食品"
-   }
-  ]
- },
- {
-  "n": 5,
-  "title": "The Sound of Africa",
-  "description": "A music journalist from Lagos explains how Afrobeats went global. Then a report on the vinyl revival, and a chat about the British pub.",
-  "date": "2026-11-17",
-  "hash": "127d7fa270",
-  "bytes": 8247213,
-  "seconds": 1374,
-  "uploaded": "127d7fa270",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep005.mp3?v=127d7fa270",
-  "words": [
-   {
-    "word": "criticise",
-    "ja": "批判する"
-   },
-   {
-    "word": "influence",
-    "ja": "影響（力）"
-   },
-   {
-    "word": "demographic",
-    "ja": "人口の、人口統計の"
-   },
-   {
-    "word": "creative",
-    "ja": "創造的な"
-   },
-   {
-    "word": "cultural exchange",
-    "ja": "文化交流"
-   },
-   {
-    "word": "globalisation of culture",
-    "ja": "文化のグローバル化"
-   },
-   {
-    "word": "audience",
-    "ja": "聴衆、視聴者"
-   },
-   {
-    "word": "fragile",
-    "ja": "壊れやすい、もろい"
-   },
-   {
-    "word": "decade",
-    "ja": "10年間"
-   },
-   {
-    "word": "nostalgic",
-    "ja": "懐かしい気持ちの"
-   },
-   {
-    "word": "a significant proportion",
-    "ja": "かなりの割合"
-   },
-   {
-    "word": "environmental",
-    "ja": "環境の"
-   },
-   {
-    "word": "subscription",
-    "ja": "定期購読"
+    "word": "determined",
+    "ja": "決意の固い"
    },
    {
     "word": "neighbourhood",
     "ja": "近所、地域"
    },
    {
-    "word": "community",
-    "ja": "地域社会"
-   },
-   {
-    "word": "etiquette",
-    "ja": "礼儀作法"
-   },
-   {
-    "word": "advertising",
-    "ja": "広告（業）"
-   },
-   {
-    "word": "risk",
-    "ja": "危険、リスク"
-   },
-   {
-    "word": "sociable",
-    "ja": "人付き合いのよい"
+    "word": "believe it or not",
+    "ja": "信じられないかもしれないが"
    }
   ]
  },
  {
-  "n": 6,
-  "title": "The Life Under Our Feet",
-  "description": "A Canadian soil scientist on what soil really is, how farmers protect it, and how to measure soil moisture. Then a report on British allotments, and a chat about Christmas.",
-  "date": "2026-11-17",
-  "hash": "e8e6238ea5",
-  "bytes": 8643649,
-  "seconds": 1441,
-  "uploaded": "e8e6238ea5",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep006.mp3?v=e8e6238ea5",
+  "n": 2,
+  "title": "Duchess Is Missing (2/3)",
+  "description": "Part 2 – retired detective Agnes Pike takes the case. Boot prints, a goat who loves ginger biscuits, and a drone that saw something at two in the morning.",
+  "date": "2026-11-02",
+  "hash": "23d17e21b5",
+  "bytes": 12783602,
+  "seconds": 1598,
+  "uploaded": "23d17e21b5",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep002.mp3?v=23d17e21b5",
   "words": [
    {
-    "word": "soil",
-    "ja": "土、土壌"
+    "word": "investigate",
+    "ja": "調査する"
    },
    {
-    "word": "organism",
-    "ja": "生物"
+    "word": "turn out",
+    "ja": "結局〜とわかる"
    },
    {
-    "word": "drought",
-    "ja": "干ばつ"
+    "word": "delighted",
+    "ja": "とても喜んで"
    },
    {
-    "word": "soil erosion",
-    "ja": "土壌の浸食"
+    "word": "bear in mind",
+    "ja": "心に留める"
    },
    {
-    "word": "crop rotation",
-    "ja": "輪作"
+    "word": "instinct",
+    "ja": "本能"
    },
    {
-    "word": "compost",
-    "ja": "堆肥"
-   },
-   {
-    "word": "carbon dioxide",
-    "ja": "二酸化炭素"
-   },
-   {
-    "word": "absorb",
-    "ja": "吸収する"
-   },
-   {
-    "word": "sample",
-    "ja": "標本、サンプル"
-   },
-   {
-    "word": "laboratory",
-    "ja": "実験室、研究所"
-   },
-   {
-    "word": "waiting list",
-    "ja": "順番待ちの名簿"
-   },
-   {
-    "word": "well-being",
-    "ja": "健康、幸福"
-   },
-   {
-    "word": "mental health",
-    "ja": "心の健康"
-   },
-   {
-    "word": "diverse",
-    "ja": "多様な"
-   },
-   {
-    "word": "heritage",
-    "ja": "遺産"
-   },
-   {
-    "word": "charity",
-    "ja": "慈善団体、寄付"
-   },
-   {
-    "word": "tradition",
-    "ja": "伝統"
-   },
-   {
-    "word": "audience",
-    "ja": "聴衆、視聴者"
-   },
-   {
-    "word": "generation",
-    "ja": "世代"
-   },
-   {
-    "word": "commercial",
-    "ja": "コマーシャル"
-   },
-   {
-    "word": "custom",
-    "ja": "習慣、慣習"
-   },
-   {
-    "word": "celebration",
-    "ja": "お祝い"
-   },
-   {
-    "word": "look forward to",
-    "ja": "〜を楽しみにする"
-   }
-  ]
- },
- {
-  "n": 7,
-  "title": "Swahili and the Spice Island",
-  "description": "A teacher from Zanzibar talks about the Swahili language, greetings, food and the history of the Spice Island. Then a report on words English borrowed from other languages, and a chat about street food.",
-  "date": "2026-11-17",
-  "hash": "dfec84505f",
-  "bytes": 8756550,
-  "seconds": 1459,
-  "uploaded": "dfec84505f",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep007.mp3?v=dfec84505f",
-  "words": [
-   {
-    "word": "mother tongue",
-    "ja": "母語"
-   },
-   {
-    "word": "ethnic",
-    "ja": "民族の"
-   },
-   {
-    "word": "politician",
-    "ja": "政治家"
-   },
-   {
-    "word": "literature",
-    "ja": "文学"
-   },
-   {
-    "word": "museum",
-    "ja": "博物館"
-   },
-   {
-    "word": "tourist",
-    "ja": "観光客"
-   },
-   {
-    "word": "festival",
-    "ja": "祭り"
-   },
-   {
-    "word": "logical",
-    "ja": "論理的な"
-   },
-   {
-    "word": "heritage site",
-    "ja": "遺産の地"
-   },
-   {
-    "word": "staple food",
-    "ja": "主食"
-   },
-   {
-    "word": "threat",
-    "ja": "脅威"
-   },
-   {
-    "word": "hygiene",
-    "ja": "衛生"
-   },
-   {
-    "word": "diverse",
-    "ja": "多様な"
-   },
-   {
-    "word": "sociable",
-    "ja": "人付き合いのよい"
-   },
-   {
-    "word": "portion",
-    "ja": "一人前"
-   }
-  ]
- },
- {
-  "n": 8,
-  "title": "Farms in the Sky",
-  "description": "An urban farmer from Singapore explains rooftop farms, vertical farms and food security in a small city. Then a report on the global matcha boom, and a chat about karaoke.",
-  "date": "2026-11-17",
-  "hash": "dd92cc01cd",
-  "bytes": 8981034,
-  "seconds": 1497,
-  "uploaded": "dd92cc01cd",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep008.mp3?v=dd92cc01cd",
-  "words": [
-   {
-    "word": "import",
-    "ja": "輸入（品）"
-   },
-   {
-    "word": "food security",
-    "ja": "食料安全保障"
-   },
-   {
-    "word": "pesticide",
-    "ja": "農薬（殺虫剤など）"
-   },
-   {
-    "word": "carbon footprint",
-    "ja": "二酸化炭素の排出量（ある活動の）"
-   },
-   {
-    "word": "energy efficiency",
-    "ja": "エネルギー効率"
-   },
-   {
-    "word": "solar panel",
-    "ja": "ソーラーパネル"
-   },
-   {
-    "word": "investor",
-    "ja": "投資家"
-   },
-   {
-    "word": "start-up",
-    "ja": "新興企業"
-   },
-   {
-    "word": "bankrupt",
-    "ja": "破産した"
-   },
-   {
-    "word": "viable",
-    "ja": "実現可能な、成り立つ"
-   },
-   {
-    "word": "innovative",
-    "ja": "革新的な"
-   },
-   {
-    "word": "apprenticeship",
-    "ja": "見習い制度、徒弟制度"
-   },
-   {
-    "word": "automation",
-    "ja": "自動化"
-   },
-   {
-    "word": "trend",
-    "ja": "傾向、流行"
-   },
-   {
-    "word": "supply",
-    "ja": "供給"
-   },
-   {
-    "word": "shortage",
-    "ja": "不足"
-   },
-   {
-    "word": "meet the demand",
-    "ja": "需要を満たす"
-   },
-   {
-    "word": "consumer",
-    "ja": "消費者"
-   },
-   {
-    "word": "stress",
-    "ja": "ストレス"
-   }
-  ]
- },
- {
-  "n": 9,
-  "title": "Food and Faith",
-  "description": "A food writer from Mumbai explains how religion shapes what people eat in India and around the world. Then a report on Britain's love of curry, and a chat about listening to music while you work.",
-  "date": "2026-11-17",
-  "hash": "3c57149a09",
-  "bytes": 8972104,
-  "seconds": 1495,
-  "uploaded": "3c57149a09",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep009.mp3?v=3c57149a09",
-  "words": [
-   {
-    "word": "religion",
-    "ja": "宗教"
-   },
-   {
-    "word": "belief",
-    "ja": "信念、考え"
-   },
-   {
-    "word": "majority",
-    "ja": "多数派"
-   },
-   {
-    "word": "vegetarian",
-    "ja": "菜食主義者"
-   },
-   {
-    "word": "slaughter",
-    "ja": "食肉処理する"
-   },
-   {
-    "word": "ethical",
-    "ja": "倫理的な"
-   },
-   {
-    "word": "volunteer",
-    "ja": "ボランティア"
-   },
-   {
-    "word": "generous",
-    "ja": "気前のよい"
-   },
-   {
-    "word": "isolated",
-    "ja": "孤立した"
-   },
-   {
-    "word": "dairy products",
-    "ja": "乳製品"
-   },
-   {
-    "word": "celebration",
-    "ja": "お祝い"
-   },
-   {
-    "word": "cultural exchange",
-    "ja": "文化交流"
-   },
-   {
-    "word": "identity",
-    "ja": "個性、アイデンティティ"
-   },
-   {
-    "word": "immigrant",
-    "ja": "移民（人）"
-   },
-   {
-    "word": "adapt",
-    "ja": "適応する、適応させる"
-   },
-   {
-    "word": "multicultural",
-    "ja": "多文化の"
-   },
-   {
-    "word": "immigration",
-    "ja": "移民（入ってくること）"
-   },
-   {
-    "word": "authentic",
-    "ja": "本物の"
-   },
-   {
-    "word": "cuisine",
-    "ja": "料理（ある地域の）"
-   },
-   {
-    "word": "concentrate",
-    "ja": "集中する"
-   },
-   {
-    "word": "evidence",
-    "ja": "証拠"
-   }
-  ]
- },
- {
-  "n": 10,
-  "title": "Maize, Rain and Resilience",
-  "description": "A South African agronomist on maize, drought and small farms in Malawi and Zambia. Then a report on Glastonbury, the music festival on a dairy farm, and Sonia and Ryan look back on ten episodes.",
-  "date": "2026-11-17",
-  "hash": "b89b497849",
-  "bytes": 8440758,
-  "seconds": 1407,
-  "uploaded": "b89b497849",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep010.mp3?v=b89b497849",
-  "words": [
-   {
-    "word": "time flies",
-    "ja": "時が経つのは早い"
-   },
-   {
-    "word": "staple food",
-    "ja": "主食"
-   },
-   {
-    "word": "domesticate",
-    "ja": "家畜化する"
-   },
-   {
-    "word": "irrigation",
-    "ja": "かんがい"
-   },
-   {
-    "word": "rainy season",
-    "ja": "雨季、梅雨"
+    "word": "heavy rain",
+    "ja": "大雨"
    },
    {
     "word": "rainfall",
     "ja": "降水量"
    },
    {
-    "word": "vulnerable",
-    "ja": "弱い立場の、傷つきやすい"
+    "word": "veterinary",
+    "ja": "獣医の"
    },
    {
-    "word": "subsistence farming",
-    "ja": "自給農業"
+    "word": "rule out",
+    "ja": "除外する"
    },
    {
-    "word": "hydroelectric",
-    "ja": "水力発電の"
+    "word": "motive",
+    "ja": "動機"
    },
    {
-    "word": "power cut",
-    "ja": "停電"
+    "word": "can't stand",
+    "ja": "〜が大嫌い、我慢できない"
    },
    {
-    "word": "extreme weather",
-    "ja": "異常気象"
+    "word": "in the long run",
+    "ja": "長い目で見れば"
    },
    {
-    "word": "resilience",
-    "ja": "回復力、強さ"
+    "word": "facilities",
+    "ja": "施設、設備"
    },
    {
-    "word": "genetically modified",
-    "ja": "遺伝子組み換えの"
+    "word": "efficient",
+    "ja": "効率的な"
    },
    {
-    "word": "pest",
-    "ja": "害虫"
+    "word": "evidence",
+    "ja": "証拠"
    },
    {
-    "word": "insurance",
-    "ja": "保険"
+    "word": "arrest",
+    "ja": "逮捕する"
    },
    {
-    "word": "affordable",
-    "ja": "手ごろな値段の"
+    "word": "as a matter of fact",
+    "ja": "実のところ"
    },
    {
-    "word": "cash crop",
-    "ja": "換金作物"
+    "word": "burglary",
+    "ja": "住居侵入、強盗"
    },
    {
-    "word": "dry season",
-    "ja": "乾季"
+    "word": "emotional",
+    "ja": "感情の"
    },
    {
-    "word": "festival",
-    "ja": "祭り"
+    "word": "point out",
+    "ja": "指摘する"
    },
    {
-    "word": "charity",
-    "ja": "慈善団体、寄付"
+    "word": "derelict",
+    "ja": "荒れ果てた"
    },
    {
-    "word": "single-use plastic",
-    "ja": "使い捨てのプラスチック"
+    "word": "come to the conclusion",
+    "ja": "結論に達する"
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "title": "Duchess Is Missing (3/3)",
+  "description": "Part 3 – the thief tells his side of the story. An old farmhand, a goat, a long night by the beck, and the morning of the Thornby Show.",
+  "date": "2026-11-03",
+  "hash": "c3c5245c74",
+  "bytes": 12728594,
+  "seconds": 1591,
+  "uploaded": "c3c5245c74",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep003.mp3?v=c3c5245c74",
+  "words": [
+   {
+    "word": "emigrate",
+    "ja": "移住する（国外へ）"
+   },
+   {
+    "word": "end up",
+    "ja": "結局〜になる"
+   },
+   {
+    "word": "look after",
+    "ja": "世話をする"
+   },
+   {
+    "word": "herd",
+    "ja": "群れ（牛などの）"
+   },
+   {
+    "word": "intensive farming",
+    "ja": "集約農業"
+   },
+   {
+    "word": "patient",
+    "ja": "患者"
+   },
+   {
+    "word": "derelict",
+    "ja": "荒れ果てた"
+   },
+   {
+    "word": "politician",
+    "ja": "政治家"
+   },
+   {
+    "word": "go viral",
+    "ja": "一気に広まる（ネットで）"
+   },
+   {
+    "word": "theft",
+    "ja": "窃盗"
+   },
+   {
+    "word": "work out",
+    "ja": "解決する、算出する、運動する"
+   },
+   {
+    "word": "arrest",
+    "ja": "逮捕する"
+   },
+   {
+    "word": "describe",
+    "ja": "説明する、描写する"
+   },
+   {
+    "word": "relieved",
+    "ja": "ほっとした"
+   },
+   {
+    "word": "take responsibility for",
+    "ja": "〜の責任を負う"
+   },
+   {
+    "word": "community service",
+    "ja": "社会奉仕（刑罰としての）"
+   },
+   {
+    "word": "satellite",
+    "ja": "人工衛星"
+   },
+   {
+    "word": "competitor",
+    "ja": "競争相手"
+   },
+   {
+    "word": "arrogant",
+    "ja": "傲慢な"
+   },
+   {
+    "word": "fair play",
+    "ja": "正々堂々とした態度"
+   },
+   {
+    "word": "income",
+    "ja": "収入"
+   },
+   {
+    "word": "marketing",
+    "ja": "マーケティング"
+   },
+   {
+    "word": "the best of both worlds",
+    "ja": "両方のいいとこどり"
+   },
+   {
+    "word": "I suppose",
+    "ja": "たぶん〜だと思う"
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "title": "Drive Time with Maya",
+  "description": "A music show for the drive home. Maya plays six tracks made for this show – city pop, bossa nova, highlife, synthwave, swing and lo-fi – and tells the stories behind each sound.",
+  "date": "2026-11-04",
+  "hash": "95393e9477",
+  "bytes": 14466094,
+  "seconds": 1808,
+  "uploaded": "95393e9477",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep004.mp3?v=95393e9477",
+  "words": [
+   {
+    "word": "traffic jam",
+    "ja": "交通渋滞"
+   },
+   {
+    "word": "boom",
+    "ja": "好景気、急成長"
+   },
+   {
+    "word": "economic growth",
+    "ja": "経済成長"
+   },
+   {
+    "word": "back in the day",
+    "ja": "昔は"
+   },
+   {
+    "word": "go viral",
+    "ja": "一気に広まる（ネットで）"
    },
    {
     "word": "nostalgic",
     "ja": "懐かしい気持ちの"
    },
    {
-    "word": "look back on",
-    "ja": "振り返る"
+    "word": "cultural exchange",
+    "ja": "文化交流"
    },
    {
-    "word": "highlight",
-    "ja": "目立たせる、強調する"
+    "word": "influence",
+    "ja": "影響（力）"
    },
    {
-    "word": "in a nutshell",
-    "ja": "要するに"
+    "word": "figure out",
+    "ja": "理解する、解決する"
+   },
+   {
+    "word": "rush hour",
+    "ja": "ラッシュアワー"
+   },
+   {
+    "word": "congestion",
+    "ja": "混雑、渋滞"
+   },
+   {
+    "word": "global",
+    "ja": "世界的な"
+   },
+   {
+    "word": "a big fan of",
+    "ja": "〜の大ファン"
+   },
+   {
+    "word": "exhausted",
+    "ja": "疲れ切った"
+   },
+   {
+    "word": "unwind",
+    "ja": "くつろぐ"
+   },
+   {
+    "word": "take advantage of",
+    "ja": "〜を利用する"
+   },
+   {
+    "word": "it goes without saying",
+    "ja": "言うまでもなく"
+   },
+   {
+    "word": "multicultural",
+    "ja": "多文化の"
+   },
+   {
+    "word": "it's not my cup of tea",
+    "ja": "私の好みではない"
+   },
+   {
+    "word": "evolve",
+    "ja": "進化する、発展する"
+   },
+   {
+    "word": "concentrate",
+    "ja": "集中する"
+   },
+   {
+    "word": "time flies",
+    "ja": "時が経つのは早い"
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "title": "A Day on a Kiwi Dairy Farm (Vlog)",
+  "description": "Sam runs a dairy farm in the Waikato, New Zealand. Come along from the 4 a.m. alarm to the last cow of the day – calves, a rotary shed, a cow in trouble, and a lot of mud.",
+  "date": "2026-11-05",
+  "hash": "7a7c61c713",
+  "bytes": 12109691,
+  "seconds": 1514,
+  "uploaded": "7a7c61c713",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep005.mp3?v=7a7c61c713",
+  "words": [
+   {
+    "word": "full-time",
+    "ja": "常勤の"
+   },
+   {
+    "word": "fertile",
+    "ja": "肥沃な"
+   },
+   {
+    "word": "rainfall",
+    "ja": "降水量"
+   },
+   {
+    "word": "graze",
+    "ja": "草を食べる、放牧する"
+   },
+   {
+    "word": "cooperative",
+    "ja": "協同組合"
+   },
+   {
+    "word": "end up",
+    "ja": "結局〜になる"
+   },
+   {
+    "word": "export",
+    "ja": "輸出（品）"
+   },
+   {
+    "word": "agriculture",
+    "ja": "農業"
+   },
+   {
+    "word": "labour shortage",
+    "ja": "人手不足"
+   },
+   {
+    "word": "workforce",
+    "ja": "労働力、働く人全体"
+   },
+   {
+    "word": "satellite",
+    "ja": "人工衛星"
+   },
+   {
+    "word": "work out",
+    "ja": "解決する、算出する、運動する"
+   },
+   {
+    "word": "exhausted",
+    "ja": "疲れ切った"
+   },
+   {
+    "word": "replace",
+    "ja": "取って代わる、取り替える"
+   },
+   {
+    "word": "silage",
+    "ja": "サイレージ"
+   },
+   {
+    "word": "work-life balance",
+    "ja": "仕事と生活のバランス"
+   },
+   {
+    "word": "milk yield",
+    "ja": "乳量"
+   },
+   {
+    "word": "to be honest",
+    "ja": "正直に言うと"
+   },
+   {
+    "word": "mental health",
+    "ja": "心の健康"
+   },
+   {
+    "word": "burnout",
+    "ja": "燃え尽き"
+   },
+   {
+    "word": "look after",
+    "ja": "世話をする"
    },
    {
     "word": "grateful",
@@ -938,83 +525,479 @@
   ]
  },
  {
-  "n": 11,
-  "title": "Late Night Special: The Queue That Wasn't",
-  "description": "A comedy special. Embarrassing stories, brutal nicknames, silly listener mail, and a crash course in British sarcasm.",
-  "date": "2026-11-18",
-  "hash": "0b09d814f3",
-  "bytes": 8689029,
-  "seconds": 1448,
-  "uploaded": "0b09d814f3",
-  "url": "https://yusuke1090.github.io/english-radio/audio/ep011.mp3?v=0b09d814f3",
+  "n": 6,
+  "title": "Planet Office",
+  "description": "A nature documentary about the strangest habitat on Earth – the open-plan office. Watch the morning migration, the battle for the window desk, and the mystery of the missing yoghurt.",
+  "date": "2026-11-06",
+  "hash": "b4331fdcb3",
+  "bytes": 12487527,
+  "seconds": 1561,
+  "uploaded": "b4331fdcb3",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep006.mp3?v=b4331fdcb3",
   "words": [
    {
-    "word": "therapy",
-    "ja": "療法、治療"
+    "word": "landscape",
+    "ja": "景色、風景"
    },
    {
-    "word": "confident",
-    "ja": "自信のある"
+    "word": "habitat",
+    "ja": "生息地"
    },
    {
-    "word": "embarrassed",
-    "ja": "恥ずかしい（気まずい）"
+    "word": "species",
+    "ja": "種（単数・複数同形）"
    },
    {
-    "word": "to sum up",
-    "ja": "まとめると"
+    "word": "commuter",
+    "ja": "通勤者"
    },
    {
-    "word": "deadline",
-    "ja": "締め切り"
+    "word": "ecosystem",
+    "ja": "生態系"
    },
    {
-    "word": "believe it or not",
-    "ja": "信じられないかもしれないが"
+    "word": "food chain",
+    "ja": "食物連鎖、食品の流通網"
    },
    {
-    "word": "honest",
-    "ja": "正直な"
+    "word": "instinct",
+    "ja": "本能"
+   },
+   {
+    "word": "take over",
+    "ja": "引き継ぐ、乗っ取る"
+   },
+   {
+    "word": "go through",
+    "ja": "経験する、調べる"
+   },
+   {
+    "word": "predator",
+    "ja": "捕食者"
+   },
+   {
+    "word": "prey",
+    "ja": "獲物"
+   },
+   {
+    "word": "remote working",
+    "ja": "在宅勤務、離れた所で働くこと"
+   },
+   {
+    "word": "introduce",
+    "ja": "導入する"
+   },
+   {
+    "word": "competition",
+    "ja": "競争"
+   },
+   {
+    "word": "investigate",
+    "ja": "調査する"
+   },
+   {
+    "word": "look forward to",
+    "ja": "〜を楽しみにする"
+   },
+   {
+    "word": "productivity",
+    "ja": "生産性"
    },
    {
     "word": "colleague",
     "ja": "同僚"
    },
    {
-    "word": "punctual",
-    "ja": "時間を守る"
+    "word": "observe",
+    "ja": "観察する"
+   },
+   {
+    "word": "nocturnal",
+    "ja": "夜行性の"
+   },
+   {
+    "word": "solution",
+    "ja": "解決策"
+   },
+   {
+    "word": "climb",
+    "ja": "上昇する"
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "title": "Your Accent Is Not a Mistake (Talk)",
+  "description": "A talk in the style of TED. Linguist Priya Raman explains why being understood matters more than sounding \"native\" – and why every accent tells a story.",
+  "date": "2026-11-07",
+  "hash": "a80a53e09f",
+  "bytes": 12442045,
+  "seconds": 1555,
+  "uploaded": "a80a53e09f",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep007.mp3?v=a80a53e09f",
+  "words": [
+   {
+    "word": "degree",
+    "ja": "程度、学位"
+   },
+   {
+    "word": "literature",
+    "ja": "文学"
+   },
+   {
+    "word": "find out",
+    "ja": "知る、調べる"
+   },
+   {
+    "word": "estimate",
+    "ja": "見積もる、推定する"
+   },
+   {
+    "word": "exception",
+    "ja": "例外"
+   },
+   {
+    "word": "majority",
+    "ja": "多数派"
+   },
+   {
+    "word": "borrow",
+    "ja": "借りる"
+   },
+   {
+    "word": "logical",
+    "ja": "論理的な"
+   },
+   {
+    "word": "figure out",
+    "ja": "理解する、解決する"
+   },
+   {
+    "word": "efficient",
+    "ja": "効率的な"
+   },
+   {
+    "word": "slightly",
+    "ja": "わずかに"
+   },
+   {
+    "word": "consistent",
+    "ja": "一貫した"
+   },
+   {
+    "word": "context",
+    "ja": "文脈、背景"
+   },
+   {
+    "word": "amazed",
+    "ja": "驚いた"
+   },
+   {
+    "word": "turn out",
+    "ja": "結局〜とわかる"
+   },
+   {
+    "word": "assume",
+    "ja": "仮定する、思い込む"
+   },
+   {
+    "word": "trustworthy",
+    "ja": "信頼できる"
+   },
+   {
+    "word": "prejudice",
+    "ja": "偏見"
+   },
+   {
+    "word": "court",
+    "ja": "裁判所"
+   },
+   {
+    "word": "consequence",
+    "ja": "結果、影響"
+   },
+   {
+    "word": "embarrassed",
+    "ja": "恥ずかしい（気まずい）"
+   },
+   {
+    "word": "customer",
+    "ja": "顧客"
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "title": "An Aussie in London (Stand-up)",
+  "description": "Stand-up comedy. Australian comedian Nick Walsh explains what the British really mean when they say \"not bad\" – plus queues, tea, the weather, and a bowing contest in Tokyo.",
+  "date": "2026-11-08",
+  "hash": "e28131071a",
+  "bytes": 10459160,
+  "seconds": 1307,
+  "uploaded": "e28131071a",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep008.mp3?v=e28131071a",
+  "words": [
+   {
+    "word": "enthusiastic",
+    "ja": "熱心な"
+   },
+   {
+    "word": "describe",
+    "ja": "説明する、描写する"
+   },
+   {
+    "word": "disease",
+    "ja": "病気（特定の）"
+   },
+   {
+    "word": "forecast",
+    "ja": "予報"
+   },
+   {
+    "word": "enormous",
+    "ja": "巨大な"
+   },
+   {
+    "word": "severe",
+    "ja": "厳しい、深刻な"
+   },
+   {
+    "word": "culture shock",
+    "ja": "カルチャーショック"
+   },
+   {
+    "word": "in other words",
+    "ja": "言いかえれば"
+   },
+   {
+    "word": "contagious",
+    "ja": "伝染性の"
+   },
+   {
+    "word": "stereotype",
+    "ja": "固定観念"
+   },
+   {
+    "word": "roughly",
+    "ja": "おおよそ"
+   },
+   {
+    "word": "religion",
+    "ja": "宗教"
+   },
+   {
+    "word": "etiquette",
+    "ja": "礼儀作法"
+   },
+   {
+    "word": "exhausted",
+    "ja": "疲れ切った"
+   },
+   {
+    "word": "disappointed",
+    "ja": "がっかりした"
+   },
+   {
+    "word": "fluent",
+    "ja": "流暢な"
+   },
+   {
+    "word": "outgoing",
+    "ja": "社交的な"
+   },
+   {
+    "word": "amateur",
+    "ja": "アマチュアの"
+   },
+   {
+    "word": "Olympic Games",
+    "ja": "オリンピック"
+   },
+   {
+    "word": "audience",
+    "ja": "聴衆、視聴者"
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "title": "Voice Notes to Gran",
+  "description": "Luke from Cape Town spends a year teaching English in a small mountain town in Japan. He sends voice messages to his grandmother. She sends them back. A year of rice fields, karaoke, snow – and family.",
+  "date": "2026-11-09",
+  "hash": "74358187fc",
+  "bytes": 11734701,
+  "seconds": 1467,
+  "uploaded": "74358187fc",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep009.mp3?v=74358187fc",
+  "words": [
+   {
+    "word": "train",
+    "ja": "練習する、訓練する"
+   },
+   {
+    "word": "rural",
+    "ja": "農村の、田舎の"
+   },
+   {
+    "word": "custom",
+    "ja": "習慣、慣習"
+   },
+   {
+    "word": "irrigation",
+    "ja": "かんがい"
+   },
+   {
+    "word": "traditional",
+    "ja": "伝統的な"
+   },
+   {
+    "word": "parliament",
+    "ja": "議会"
+   },
+   {
+    "word": "rainy season",
+    "ja": "雨季、梅雨"
+   },
+   {
+    "word": "humid",
+    "ja": "湿気の多い"
+   },
+   {
+    "word": "loneliness",
+    "ja": "孤独"
+   },
+   {
+    "word": "ageing population",
+    "ja": "高齢化した人口"
+   },
+   {
+    "word": "countryside",
+    "ja": "田舎、田園"
+   },
+   {
+    "word": "festival",
+    "ja": "祭り"
+   },
+   {
+    "word": "enormous",
+    "ja": "巨大な"
+   },
+   {
+    "word": "under the weather",
+    "ja": "体調がすぐれない"
+   },
+   {
+    "word": "time flies",
+    "ja": "時が経つのは早い"
+   },
+   {
+    "word": "valley",
+    "ja": "谷"
+   },
+   {
+    "word": "expensive",
+    "ja": "高価な"
+   },
+   {
+    "word": "tradition",
+    "ja": "伝統"
    },
    {
     "word": "stubborn",
     "ja": "頑固な"
    },
    {
-    "word": "witty",
-    "ja": "機知に富んだ"
+    "word": "argue",
+    "ja": "主張する、論じる"
    },
    {
-    "word": "generous",
-    "ja": "気前のよい"
+    "word": "hospitality",
+    "ja": "もてなし、接客業"
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "title": "Stories by the Fire",
+  "description": "Uncle Femi tells three old West African folktales around the fire – how Anansi the spider bought all the world's stories, why the Sun and the Moon live in the sky, and the pot that held all the wisdom.",
+  "date": "2026-11-10",
+  "hash": "5a906cd8e6",
+  "bytes": 11713391,
+  "seconds": 1464,
+  "uploaded": "5a906cd8e6",
+  "url": "https://yusuke1090.github.io/english-radio/audio/ep010.mp3?v=5a906cd8e6",
+  "words": [
+   {
+    "word": "folk",
+    "ja": "民間の、民族の"
    },
    {
-    "word": "can't stand",
-    "ja": "〜が大嫌い、我慢できない"
+    "word": "ancient",
+    "ja": "古代の"
    },
    {
-    "word": "frustrated",
-    "ja": "いらいらした"
+    "word": "generation",
+    "ja": "世代"
    },
    {
-    "word": "it goes without saying",
-    "ja": "言うまでもなく"
+    "word": "cultural heritage",
+    "ja": "文化遺産"
    },
    {
-    "word": "bear in mind",
-    "ja": "心に留める"
+    "word": "museum",
+    "ja": "博物館"
    },
    {
-    "word": "over the moon",
-    "ja": "大喜びで"
+    "word": "ocean",
+    "ja": "海洋"
+   },
+   {
+    "word": "island",
+    "ja": "島"
+   },
+   {
+    "word": "predator",
+    "ja": "捕食者"
+   },
+   {
+    "word": "determined",
+    "ja": "決意の固い"
+   },
+   {
+    "word": "come up with",
+    "ja": "思いつく"
+   },
+   {
+    "word": "grateful",
+    "ja": "感謝している"
+   },
+   {
+    "word": "curious",
+    "ja": "好奇心の強い"
+   },
+   {
+    "word": "selfish",
+    "ja": "自分勝手な"
+   },
+   {
+    "word": "arrogant",
+    "ja": "傲慢な"
+   },
+   {
+    "word": "enormous",
+    "ja": "巨大な"
+   },
+   {
+    "word": "hold on",
+    "ja": "待つ、持ちこたえる"
+   },
+   {
+    "word": "embarrassed",
+    "ja": "恥ずかしい（気まずい）"
+   },
+   {
+    "word": "pass on",
+    "ja": "伝える、うつす"
    }
   ]
  }

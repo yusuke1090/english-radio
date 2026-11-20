@@ -1,121 +1,177 @@
-title: The Sound of Africa
-date: 2026-11-17
-description: A music journalist from Lagos explains how Afrobeats went global. Then a report on the vinyl revival, and a chat about the British pub.
-guest: EZINNE=en-NG-EzinneNeural
+title: A Day on a Kiwi Dairy Farm (Vlog)
+date: 2026-11-05
+description: Sam runs a dairy farm in the Waikato, New Zealand. Come along from the 4 a.m. alarm to the last cow of the day – calves, a rotary shed, a cow in trouble, and a lot of mud.
+voice: SAM = en-NZ-MitchellNeural
+voice: AROHA = en-NZ-MollyNeural +3%
+voice: JOEL = en-PH-JamesNeural
+voice: LILY = en-US-AnaNeural
 
-# Music
-RYAN: Good morning, and welcome to English Radio. I'm Ryan.
-SONIA: And I'm Sonia. Today's show is all about music, so if you'd like to turn the volume up a little, now's the time.
-RYAN: Earlier in the series, we visited dairy farms in Kenya. Today, we're going to the other side of Africa, to Nigeria, and to a sound that has taken over the world.
-SONIA: Afrobeats. If you've been in a shop, a gym or a taxi anywhere in the world in the last few years, you've almost certainly heard it, even if you didn't know what it was.
-RYAN: To explain, we're joined by Ezinne, a music journalist based in Lagos. Ezinne, welcome to English Radio.
-EZINNE: Thank you so much. I'm very happy to be here.
-SONIA: Ezinne, let's start with the basics. What exactly is Afrobeats?
-EZINNE: Afrobeats is a big umbrella term for modern popular music from West Africa, especially Nigeria and Ghana. It mixes local rhythms with hip hop, R and B, dancehall and pop. The songs are usually very danceable, with a relaxed, rolling beat, and they often mix English, Nigerian Pidgin and local languages like Yoruba or Igbo.
-RYAN: Nigerian Pidgin is a kind of simplified English, isn't it?
-EZINNE: It's based on English, but it's really its own language, with its own grammar. Millions of Nigerians use it every day, because Nigeria has hundreds of languages, and Pidgin helps people from different groups understand each other. So when an artist sings in Pidgin, they can reach almost everybody.
-SONIA: I've noticed that people often confuse Afrobeats with Afrobeat, without the s.
-EZINNE: Yes, and that's an important difference. Afrobeat, without the s, was created in the nineteen seventies by a Nigerian musician called Fela Kuti. It mixed jazz, funk and West African highlife music, with long songs, big horn sections, and very political lyrics. Fela [[criticised|criticise]] the military government, and he was arrested many times.
-RYAN: So it was protest music.
-EZINNE: Very much so. Afrobeats, with an s, came much later, in the two thousands, and it's more of a pop sound. But Fela's [[influence]] is still everywhere. Many of today's stars grew up listening to him.
-SONIA: When did Afrobeats start to become popular outside Africa?
-EZINNE: Step by step. In the two thousand and tens, artists like Wizkid and Davido became huge across Africa. Then they started to work with British and American stars. A big turning point was when Wizkid appeared on a global number-one hit with Drake in two thousand and sixteen. After that, the world started paying attention.
-RYAN: And the British connection is important, isn't it?
-EZINNE: Very important. London has a large Nigerian and Ghanaian community. Young people there grew up with Afrobeats at home and British rap on the street, and they mixed the two. So London became a kind of second home for the music. When a song is popular in London, it spreads quickly to the rest of Europe.
-SONIA: And now there are even Grammy awards for African music.
-EZINNE: Yes. Burna Boy won a Grammy for his album Twice as Tall in two thousand and twenty-one. And a few years later, the Grammys created a new category just for African music. That was a big moment for us, a recognition that this music is not a small trend. It's here to stay.
-RYAN: What's driving the success? Why now?
-EZINNE: I would say three things. First, streaming. In the past, an African artist needed a big international record company to get their music into shops abroad. Now, a young producer in Lagos can upload a song, and the next day someone in Tokyo can listen to it. Second, social media. A dance challenge on a short video app can make a song famous in a week. And third, [[demographics|demographic]]. Nigeria has a very young population, over two hundred million people, and a lot of [[creative]] energy.
-SONIA: Can you give us an example of a song that spread like that?
-EZINNE: Calm Down, by Rema, is a perfect example. The original came out in two thousand and twenty-two. Then a remix with the American singer Selena Gomez became a massive global hit. It has been streamed billions of times. People who had never heard of Nigerian music were singing it in their cars.
-RYAN: Possibly some of our listeners right now.
-EZINNE: Possibly! And it's a great song for the car. Very smooth.
-SONIA: You mentioned a dance challenge. How important is dance to the music?
-EZINNE: It's central. In Nigeria, music and dance are never really separate. Every few months there's a new dance move connected to a song, and everybody from children to grandmothers learns it. At a wedding in Lagos, you will see three generations dancing together to the same song.
-RYAN: That's lovely. At British weddings, it's usually just a few uncles dancing badly.
-EZINNE: Then you should come to a Nigerian wedding. You'll learn.
-SONIA: Is Afrobeats the only big African sound right now?
-EZINNE: Not at all. Africa is a huge continent with many music scenes. From South Africa, there's amapiano, which started in the townships around Johannesburg and Pretoria. It's slower, with a deep, bouncing bass sound called the log drum. Amapiano has become hugely popular too. In Tanzania and Kenya, there's Bongo Flava, which is sung mostly in Swahili. And there are so many more.
-RYAN: It sounds like there's a real [[cultural exchange|cultural exchange]] happening, between countries inside Africa and with the rest of the world.
-EZINNE: Exactly. Nigerian artists work with South African producers, Ghanaian artists collaborate with British rappers. The music travels in every direction.
-SONIA: Some people worry about the [[globalisation of culture]], that everything will start to sound the same. Do you think that's a risk?
-EZINNE: It's a fair question. There is some pressure to make songs that sound good to a global [[audience]], maybe with more English and less local language. But I'm optimistic. The most successful artists are the ones who stay true to their roots. People abroad don't want a copy of American pop. They want something that sounds like Lagos.
-RYAN: What about the business side? Are artists in Nigeria making money from all this?
-EZINNE: The top stars, yes, very much. But for smaller artists, it's still difficult. Streaming pays very little per play, and many people in Africa still listen for free. Live shows are important, but organising concerts in Nigeria can be challenging. Power cuts, traffic, security. But the industry is growing fast, and more young people see music as a real career now.
-SONIA: Ezinne, if a listener wants to start exploring African music, where should they start?
-EZINNE: Start with what you like. If you like pop, try Burna Boy, Tems or Wizkid. If you like electronic dance music, try amapiano from South Africa. If you like older music, go back to Fela Kuti, and you'll understand where so much of it comes from. And make a playlist for your commute. Driving in traffic is much more pleasant with a good beat.
-RYAN: That's good advice. Ezinne, thank you so much.
-EZINNE: It's been my pleasure. Thank you.
+# 4:15 a.m.
+[sfx buzz]
+SAM (tired): Okay. Okay, I'm up. I'm up.
+SAM (whisper): Morning, everyone. It is... quarter past four. It is dark. It is very, very cold. And I'm whispering because if I wake up my daughter, she won't go back to sleep, and then nobody in this house is having a good day.
+[sfx steps]
+SAM (whisper): Coffee first. Always coffee first. Rule number one on a dairy farm.
+[bgm acoustic.25]
+SAM: Right. Kitchen. I can talk a bit louder now. Welcome back to the channel, if you're new here, kia ora, welcome. My name's Sam. I'm thirty-one, and I'm a dairy farmer in the Waikato, which is in the North Island of New Zealand.
+SAM: So a few people in the comments last week asked me, "Sam, what does a normal day actually look like on a dairy farm?" And I thought, okay, let's do it. One full day. From the alarm to the last cow. No editing out the boring bits. Well. Some editing. Nobody wants to watch me brush my teeth.
+SAM: Bit of background first. We milk about four hundred and twenty cows here. Me and my wife Aroha run the farm together, and we've got one [[full-time]] worker, Joel, who you'll meet in a minute. He's from the Philippines, and he's the best stockman I've ever worked with. Don't tell him I said that. He'll ask for a pay rise.
+SAM: The Waikato is real dairy country. It's green, it's flat, the soil is incredibly [[fertile]], and it rains a lot. Like, a lot. The [[rainfall]] here is great for grass, and grass is the whole business. Our cows eat grass. That's basically it. That's the secret.
+SAM: That's something a lot of people overseas don't know about New Zealand. Here, most cows live outside, all year round. They [[graze]] in the paddocks. In a lot of countries, dairy cows spend most of their lives inside big sheds, eating food that's brought to them. Here, the cows go to the food. It's cheaper, and the cows seem pretty happy about it.
+SAM: Okay, coffee's done. Let's go. Gumboots on.
+[bgm off]
 
-# The Report
-SONIA: Now it's time for The Report. And we're staying with music today. Ryan?
-RYAN: Thanks, Sonia. In an age when almost any song in the world can be played instantly on a smartphone, a surprising number of people are paying good money for large, [[fragile]] discs made of plastic. The vinyl record is back.
-RYAN: Vinyl was the main way people bought music for decades, from the nineteen fifties to the nineteen eighties. Then came the cassette, the CD, and finally the digital download and streaming. By the mid two thousands, vinyl had almost disappeared. Only a few specialist shops and collectors kept it alive.
-RYAN: But then something unexpected happened. In Britain, vinyl sales have risen every year for well over a [[decade]]. In the United States, records now earn more money than CDs. New record shops have opened on high streets, and supermarkets have started selling records next to the milk and bread.
-RYAN: Who is buying them? Not only older people who are [[nostalgic]] for their youth. Many buyers are in their twenties and thirties, and grew up with streaming. For them, a record is something different from music on a phone. It's a physical object, with large artwork, that you can hold, display on a shelf and give as a present.
-RYAN: Some fans say vinyl sounds warmer and richer than digital music. Scientists and sound engineers argue about whether that's really true. But many listeners agree that the experience is different. You can't skip a song with one tap. You choose an album, put it on, and listen to one side from beginning to end. In a world of endless choice, some people find that very relaxing.
-RYAN: Surveys have found something surprising, too. [[A significant proportion|a significant proportion]] of people who buy records don't own a record player at all. For them, the record is a way of supporting an artist they love, or a piece of art to put on the wall.
-RYAN: Artists and record companies have noticed. Big stars now release special editions in different colours, which fans collect like trading cards. Every year, on Record Store Day, independent shops around the world sell limited editions, and some fans queue outside from the night before.
-RYAN: However, the revival has its critics. Vinyl is made from plastic, which is produced from oil, and the factories that press records use a lot of energy. Some companies are experimenting with recycled and plant-based materials to reduce the [[environmental]] impact. There are also complaints about rising prices. A new album on vinyl can cost more than a year's [[subscription|subscription]] to a streaming service, if you buy the special edition.
-RYAN: Vinyl will probably never replace streaming. It's still a small part of the music business, and most people listen on their phones. But its comeback shows that, even in a digital world, many of us still want something we can touch. That's the report for today.
-SONIA: Thanks, Ryan. I have to confess, I bought a record last month, and I don't have a record player.
-RYAN: You're exactly the person the surveys were talking about.
-SONIA: It's on my wall. It looks lovely.
+# Getting the Cows In
+[sfx slam]
+[amb rain 0.7]
+SAM: Oh, yep. It's raining. Of course it is. Spring in the Waikato. It's not proper rain, though. It's that fine misty rain that doesn't look like much, but somehow gets inside your jacket, inside your jumper, and into your soul.
+[sfx car]
+SAM: So I'm on the farm bike now. It's a four-wheeler, a quad bike. I've got a headlight on, because it's still pitch black. I'm heading out to the paddock where the cows spent the night, to bring them in for milking.
+SAM: And here's the cool thing. Watch this. Well, you can't really see, it's dark. But trust me. I just open the gate, and I give a little shout, "Come on, girls!" and they just... start walking. By themselves. Towards the shed.
+SAM: Cows love routine. They know exactly what time it is. Some mornings, if I'm five minutes late, they're already standing at the gate, staring at me like I owe them money.
+SAM: There are four hundred of them on this track right now, walking in a long line, in the dark, through the rain. You can hear them. Just that heavy, slow, squelchy walk. I don't know why, but I find it really calming. It's the best part of the day.
+[amb off]
+[bgm off]
 
-# Daily Talk
-RYAN: Now, Sonia, for our chat today, I want to talk about one of the most important places in British life.
-SONIA: The record shop?
-RYAN: No. The pub.
-SONIA: Ah, of course. The public house.
-RYAN: For our listeners who've never been to Britain, a pub is a bit like a bar, but it's more than that. It's a meeting place, a living room for the whole [[neighbourhood]]. Especially in villages, the pub is often the heart of the [[community]].
-SONIA: That's true. In my grandparents' village, the pub was where you went to find out everything. Who was ill, who was getting married, whose cows had escaped.
-RYAN: Cows escaping again. This series is full of cows.
-SONIA: We can't escape them. So, Ryan, there's some pub [[etiquette]] that visitors should know about, isn't there?
-RYAN: Definitely. The first thing is that, in most pubs, there's no table service. You go to the bar to order, and you pay straight away.
-SONIA: And you don't need to tip the bar staff, although some people say, and one for yourself, which means they're buying the bartender a drink too.
-RYAN: The second thing is the round. If you go to the pub with friends, you take turns buying drinks for the whole group. I buy the first round, you buy the second, and so on.
-SONIA: It's like the tea round we talked about at work.
-RYAN: Exactly the same idea. And the same rule applies. If you accept a drink in someone's round, you have to buy a round yourself later. Leaving without buying your round is a terrible crime.
-SONIA: Not literally a crime.
-RYAN: Socially, it's a crime. People will remember.
-SONIA: That's true. What else?
-RYAN: Queuing at the bar is interesting. There's no visible line, but everyone knows who arrived first, and a good bartender knows too. If you push in, people will notice. They probably won't say anything, but they'll notice.
-SONIA: That's the British way. Silent judgement.
-RYAN: Silent judgement, and maybe a little tut.
-SONIA: Have you ever noticed the names of British pubs? They're wonderful.
-RYAN: They are. The Red Lion, The Crown, The King's Head, The Rose and Crown. I've read that The Red Lion is the most common pub name in England.
-SONIA: And there are some very strange ones too. The Drunken Duck, The Cat and Fiddle, The Slug and Lettuce.
-RYAN: The Slug and Lettuce! Who would want to drink somewhere called that?
-SONIA: Lots of people, apparently. And every pub has a painted sign hanging outside, with a picture of its name.
-RYAN: There's a reason for that, isn't there? Hundreds of years ago, many people couldn't read, so the picture told them which pub it was. You could say, meet me at the sign of the red lion, and everyone knew where to go.
-SONIA: That's clever. So the signs were a kind of early logo.
-RYAN: Exactly. Early [[advertising]]. And some pubs are incredibly old. There are several pubs that claim to be the oldest in England, some of them supposedly more than eight hundred years old.
-SONIA: Claim being the important word.
-RYAN: Claim being the important word. Nobody can quite prove it, so they all argue about it. Which is very appropriate for a pub.
-SONIA: Something else I love about British pubs is that many of them welcome dogs.
-RYAN: Yes! In lots of country pubs, you'll find a dog asleep by the fire, and a bowl of water by the door. Some pubs even have dog biscuits behind the bar.
-SONIA: That's one thing I'd love to see in Japan. A dog-friendly izakaya.
-RYAN: That would be wonderful. Though maybe the dogs would steal the yakitori.
-SONIA: That's a [[risk]] I'm willing to take.
-SONIA: And of course, pubs aren't just about alcohol. Lots of people go for food. On Sunday, many pubs serve a Sunday roast, with roast beef or chicken, roast potatoes, vegetables, Yorkshire pudding and lots of gravy.
-RYAN: The Sunday roast is one of the best things about Britain. And then there's the pub quiz.
-SONIA: I love a pub quiz. Teams of friends sit together and answer general knowledge questions. History, music, sport, science.
-RYAN: And there's always one team with a very clever name, and one person who's secretly looking at their phone.
-SONIA: Which is cheating!
-RYAN: Which is definitely cheating. And at the end of the night, the bartender rings a bell and shouts, last orders, which means it's your final chance to buy a drink.
-SONIA: And for anyone listening in the car, let's be clear: if you're driving to the pub, you're on soft drinks.
-RYAN: Absolutely. Actually, there's a big trend now towards non-alcoholic drinks. Lots of pubs sell alcohol-free beer, and many young people drink much less than previous generations.
-SONIA: I've read that, yes. Young people seem to prefer going to the gym or meeting for coffee.
-RYAN: And sadly, lots of pubs have closed in recent years, especially in villages. Energy bills, rising costs, and fewer customers. It's a real loss for the community when the last pub in a village closes.
-SONIA: Some villages have actually bought their pub. The local people each put in some money and run it together, as a community pub.
-RYAN: Like the cooperative in Kenya, in a way. People working together to keep something important.
-SONIA: That's a lovely connection. Now, have you been to a pub in Japan? Or the Japanese equivalent?
-RYAN: I've been to an izakaya, which is probably the closest thing. It was fantastic. Lots of small dishes to share, like yakitori, grilled chicken on sticks, and edamame. Everyone orders together, and the food keeps coming.
-SONIA: And you start with a toast, don't you? Kanpai!
-RYAN: Kanpai! Everyone waits until the drinks arrive and then toasts together. In a British pub, people just start drinking whenever they want.
-SONIA: I think the izakaya way is more [[sociable]], actually. Sharing food brings people together.
-RYAN: I agree. Maybe British pubs should learn something from the izakaya. More sharing plates.
-SONIA: And maybe izakayas could learn the pub quiz.
-RYAN: That would be amazing. A pub quiz with yakitori. I'd go every week.
-SONIA: So would I. All right, for our listeners, today's little challenge. Next time you're out with friends or colleagues, try explaining the British idea of a round, in English. See if they think it's a good system.
-RYAN: And remember, always buy your round.
+# The Shed
+[bgm citypop.26 0.14]
+SAM: Right. Welcome to the cowshed. This is where the magic happens. And by magic, I mean a lot of hard work and a lot of poo.
+JOEL (cheerful): Morning, boss!
+SAM: There he is. Joel, say hi to the internet.
+JOEL: Hello, internet! Please subscribe. Sam needs the money.
+SAM: Thanks, mate. So this is a rotary shed. Imagine a giant round platform, like a slow merry-go-round. It holds fifty cows at once. Each cow walks onto the platform into her own little space, it turns very slowly, and by the time she's gone all the way round, about eight or nine minutes, she's finished milking, and she walks off the other side.
+SAM: My job, or Joel's job, is to stand in one spot and put the milking cups on each cow as she comes past. Four cups, one on each teat. Then the machine does the rest. When the milk stops flowing, the cups come off automatically.
+SAM: It sounds simple. It is simple. You just do it four hundred and twenty times. Twice a day.
+JOEL: Every day.
+SAM: Every day.
+SAM: And the cows all have different personalities, which I promise you is true. Some walk on calmly, like they're going to the office. Some take ages. And then there's number two three seven.
+JOEL (dry): Oh no. Here she comes.
+SAM: Number two three seven is a cow called Karen. We didn't name her Karen. She named herself Karen, through her behaviour. Every single morning, she kicks the cups off. Every morning. It's personal.
+[sfx knock]
+SAM: And... there it is. Thank you, Karen. Lovely to see you too.
+SAM: So where does the milk go? It goes through these pipes into a big steel tank called the vat, where it's cooled down quickly to keep it fresh. And every day, a big milk tanker comes and collects it.
+SAM: Most farmers in New Zealand belong to a [[cooperative]]. So the farmers own the company that buys the milk, together. Most of the milk [[ends up|end up]] overseas. New Zealand is a small country, only about five million people, and we can't drink it all. So it gets turned into milk powder, butter, and cheese, and it gets [[exported|export]] all over the world. There's a decent chance that the milk powder in your supermarket in Asia, or the Middle East, came from a farm a lot like this one.
+JOEL: Maybe even from Karen.
+SAM: Maybe even from Karen. Sorry, everyone.
+[bgm off]
+
+# Joel
+[bgm acoustic.27]
+SAM: While the cows are going round, I'm going to ask Joel a few questions, because people always ask about him in the comments. He's very popular. More popular than me.
+JOEL: It's the hair.
+SAM: It's definitely the hair. So Joel, how did you end up in the Waikato, milking cows with me at five in the morning?
+JOEL: Ah, long story. Back home in the Philippines, I studied [[agriculture]] at university. I worked on a dairy farm near Manila, but it was small, and the pay was not good. Then a friend of mine came to New Zealand to work on a farm, and he said, Joel, come, there's work here, they need people.
+SAM: And that's true. There's a big [[labour shortage]] in farming here. Lots of young Kiwis don't want to do this job. The hours are long, it's early, it's muddy. So a big part of the dairy [[workforce]] in New Zealand comes from overseas. The Philippines especially.
+JOEL: Yes, there are a lot of us. In our town, there's a Filipino church, a Filipino shop, and every Sunday, a big basketball game. Filipinos versus Kiwis.
+SAM: Who wins?
+JOEL: Filipinos. Always.
+SAM: That's true, they're unbelievable. I played once. I didn't touch the ball for forty minutes.
+SAM: What's the hardest part, mate? Honestly.
+JOEL: Honestly? Being far from my family. My mum is still in the Philippines, and my sister. We video call every Sunday. My mum always asks me, "Joel, are you eating? Are you warm?" And I'm standing in the rain in gumboots, and I say, "Yes, Mum. Very warm."
+SAM: And the best part?
+JOEL: The cows. And the boss.
+SAM: Good answer. You're getting that pay rise.
+[bgm off]
+
+# Breakfast
+[bgm kitchen.28 0.14]
+SAM: Seven thirty, milking's done, the shed's washed down, and we are back at the house for breakfast. And this is my favourite person in the whole world.
+LILY (excited): Hi! Hi! Is this the video? Am I in the video?
+SAM: You're in the video. Say hi.
+LILY (excited): Hello everyone! My name is Lily and I'm six and three quarters and I have a calf called Princess Sparkle!
+SAM: She does. We'll meet Princess Sparkle later. And this is Aroha, my wife, who is the actual boss of this farm.
+AROHA (dry): Finally he admits it. On camera.
+SAM: Aroha grew up on a sheep farm in Hawke's Bay, so she knows a lot more about animals than I do. She's the one who does all the numbers. The money, the grass, the breeding.
+AROHA: Somebody has to. Sam's idea of a budget is "we'll be right".
+SAM: And so far, we have been right.
+AROHA: Mostly.
+SAM: Breakfast on a dairy farm is serious business, by the way. You've been working for three hours already, so you're starving. Today it's eggs, toast, and a big pot of porridge. And more coffee.
+LILY: Dad, tell them about the satellite!
+SAM: Oh yes. Good idea. So this is actually really cool. Every few days, a [[satellite]] goes over the farm and takes pictures. And a computer program looks at how green each paddock is, and [[works out|work out]] how much grass is growing in each one.
+AROHA: So instead of walking around every paddock with a measuring stick, which is what my dad did, I can sit here with my porridge and see it all on a map. Which paddocks are ready for the cows, which ones need more time to grow.
+SAM: Farming's changed a lot. My grandad farmed with a notebook and a dog. I farm with an app and a dog.
+AROHA: The dog hasn't changed.
+SAM: The dog never changes. Speaking of which, that's Boss, asleep under the table. He's a huntaway. That's a breed from New Zealand. They're farm dogs that bark to move animals. Very loud. Very useful. Very lazy at breakfast time.
+LILY: Can we go and see Princess Sparkle now?
+SAM: Shoes. Then Princess Sparkle.
+[bgm off]
+
+# The Calf Shed
+[amb birds]
+[bgm acoustic.29]
+SAM: Okay, so it's spring, which means it's calving season. Here in New Zealand, almost all the cows on a farm have their calves at the same time, in late winter and early spring. That's because we want the cows to be milking hardest when the grass is growing fastest. Everything follows the grass.
+SAM: So for about ten weeks, it's mayhem. We've had about four hundred calves born on this farm since July. Some nights I'm out in the paddock at two in the morning with a torch, helping a cow who's having a difficult birth.
+SAM: You do get [[exhausted]]. I won't lie about that. By the end of calving season, everyone on a dairy farm is a bit of a zombie.
+SAM: Anyway. This is the calf shed. And this is where Lily spends most of her life.
+LILY (excited): This is Princess Sparkle! And this is Beyonce! And this is Steve!
+SAM: Lily names all the calves. As you can tell, she has a very broad range of influences.
+LILY: Steve is my favourite boy. He's a bit naughty.
+SAM: The calves get fed milk twice a day from a big feeder with lots of rubber teats on it, and they also start eating a bit of grass and some meal. They grow fast. Princess Sparkle is six weeks old, and she's already heavier than Lily.
+LILY: She's not heavier than you, Dad.
+SAM: Thank you, Lily. Thank you for that.
+[amb off]
+[bgm off]
+
+# Trouble in the Paddock
+[bgm mystery.30 0.15]
+[sfx ringtone]
+SAM: Hang on. That's Joel. Hello, mate?
+JOEL (nervous): Boss, can you come to paddock twelve? One of the new mums is down. She can't get up. I think it's milk fever.
+SAM (serious): On my way.
+[sfx car]
+SAM: Okay, so, this is the not-so-fun side of farming. I'm going to keep filming, but I'll explain as I go.
+SAM: Milk fever is something that can happen to a cow a day or two after she's given birth. She suddenly starts making a huge amount of milk, and milk is full of calcium. So all the calcium in her blood goes into the milk, faster than her body can [[replace]] it. And without enough calcium, her muscles stop working properly. She gets wobbly, and then she lies down, and she can't get up again.
+SAM: If you don't treat it quickly, it's very serious. She could die. But the good news is, if you catch it early, the treatment is simple, and it works fast. Like, really fast. It's honestly one of the most amazing things you'll ever see.
+SAM: Here we are. Okay, there she is. Number four one two. She's lying down, her head's turned round to the side. Classic milk fever. Joel's already got the bag ready.
+JOEL: Calcium's here.
+SAM: So we give her calcium, straight into the vein, slowly. Slowly is really important. Too fast, and it can be dangerous for her heart. So we just... wait. And keep talking to her.
+SAM (quiet): Easy, girl. Easy. Good girl. You're alright.
+[pause 2.0]
+SAM (quiet): Can you hear that? That's her burping. That's a good sign. Her stomach's starting to work again.
+[pause 1.5]
+SAM (excited): And... she's trying... come on, girl... yes! She's up! She's up! Look at that! Ten minutes ago, she couldn't lift her head.
+JOEL (happy): Good girl! Good girl!
+SAM: That never gets old. Seriously. I've been farming my whole life and every time I see that, I want to cry a little bit.
+SAM: Right. We'll keep her close to the shed today, so we can keep an eye on her. And her calf's fine. Her calf is already trying to drink. Brilliant.
+[bgm off]
+
+# Afternoon
+[bgm lofi.31 0.13]
+SAM: Okay, it's the afternoon now, and I wish I could tell you that I had a nice relaxing lunch. I had a sandwich, standing up, in the tractor.
+SAM: After lunch, I fed out some [[silage]]. That's grass that we cut in the summer and store in a big pile under plastic. It's like pickled grass. The cows love it, even though it smells like vinegar and socks.
+SAM: Then I spent an hour moving fences. We use electric tape to divide the paddocks into strips, so the cows only get a fresh strip of grass each time. It means the grass gets eaten evenly, and then it has time to grow back. If you let them into the whole paddock at once, they eat the best bits and walk all over the rest.
+SAM: Then at half past two, guess what? We do it all again. Afternoon milking. Four hundred and twenty cows. Karen kicked the cups off again. Of course she did.
+SAM: While the cows go round, let's do some of your questions from the comments. Joel, you read them out.
+JOEL: Okay. First one. "Do all the cows have names?"
+SAM: Honestly? No. Four hundred and twenty names is a lot. They all have numbers, on a tag in their ear, and in the computer. But maybe fifty of them have names, because they did something memorable. Karen, obviously. There's one called Houdini, because she escapes. There's one called Princess Diana, because she has very nice eyelashes. Lily named that one.
+JOEL: Next question. "Is it true that cows have best friends?"
+SAM: Yes! That's a real thing. There's been research on it. Scientists measured cows' heart rates, and found they were calmer when they were with their favourite companion than with a random cow. And you see it here every day. The same two or three cows always walk in together, stand together in the paddock, lie down together.
+JOEL: Like Karen and number one nine nine.
+SAM: Karen has one friend. One. It's number one nine nine. Nobody knows why. We think they kick things together.
+JOEL: Last one. "What do you do on your day off?"
+SAM: Ha. Day off. That's a good one. Okay, seriously, we do get time off. Joel and I share the weekends, so each of us gets every second weekend free. But during calving, no. Nobody has a day off during calving. Getting a good [[work-life balance]] in farming is really hard. But I'm working on it. Aroha's working on me.
+JOEL: She's working very hard.
+SAM: Thank you, Joel.
+SAM: And the [[milk yield]] this afternoon was really good, actually. The grass is growing well, the cows are happy. That's a good day. That's what a good day looks like for a dairy farmer.
+[bgm off]
+
+# Sunset
+[amb birds 0.5]
+[bgm piano.32]
+SAM: It's about half past six now. Everything's done. The cows are out in their paddock for the night. Lily's in the bath. Aroha's doing the accounts. And I'm sitting on the fence at the top of the farm, which is something I try to do most evenings, even if it's only for five minutes.
+SAM: Can you see that? The sun's going down behind the hills over there. There's mist coming up from the river. The cows are just grazing away. It's so quiet.
+SAM: I want [[to be honest]] with you, before I finish. Because I think a lot of farming videos only show the nice bits. The sunsets and the baby calves.
+SAM: This job is hard. The hours are crazy. You're always tired. You're always watching the weather, and the milk price, and the bank. A lot of farmers struggle with their [[mental health]]. Out here, you can go days without seeing anyone outside your family. And farmers are famously bad at talking about how they feel. We just say "she'll be right", and keep going, even when she won't be right.
+SAM: A couple of years ago, I had a really bad year. Drought in the summer, then a flood in the winter, then the milk price dropped. I wasn't sleeping. I was snapping at Aroha. I was close to [[burnout]], to be honest. And it was Aroha who made me go and talk to someone. Best thing I ever did.
+SAM: So if you're a farmer watching this, or honestly, anyone who works crazy hours, and you're struggling, please talk to someone. A friend. A doctor. Anyone. It's not weak. It's smart.
+SAM: Okay. Sorry. Got a bit serious there.
+[pause 0.8]
+SAM: But here's the other side. Today, I watched a cow who couldn't lift her head get up and walk. I watched my daughter teach a calf called Steve to drink. I watched four hundred cows walk to the shed in the dark like a big, slow, muddy family. I ate breakfast with the people I love. And now I'm watching the sun go down over land that I [[look after]].
+SAM: Not many people get to do that. I'm [[grateful]] for it. Every day. Well. Most days. Not at quarter past four in the morning. But by sunset, definitely.
+SAM: Right. That's a day on a Kiwi dairy farm. If you made it this far, cheers. Thank you for hanging out. Leave a comment if you've got questions, and I'll answer them next week.
+SAM: Now, I'm going to go inside, eat a very large dinner, and be asleep by eight thirty. Because guess what time the alarm goes off tomorrow?
+LILY (shout): Quarter past four!
+SAM: Quarter past four. See you next time. Ka kite.
+[amb off]
+[bgm off]
+[music acoustic.33 14]

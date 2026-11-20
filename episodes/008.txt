@@ -1,129 +1,146 @@
-title: Farms in the Sky
-date: 2026-11-17
-description: An urban farmer from Singapore explains rooftop farms, vertical farms and food security in a small city. Then a report on the global matcha boom, and a chat about karaoke.
-guest: WAYNE=en-SG-WayneNeural
+title: An Aussie in London (Stand-up)
+date: 2026-11-08
+description: Stand-up comedy. Australian comedian Nick Walsh explains what the British really mean when they say "not bad" – plus queues, tea, the weather, and a bowing contest in Tokyo.
+voice: NICK = en-AU-WilliamMultilingualNeural
+voice: MC = en-US-MichelleNeural +6%
+outro: jazz.60
 
-# Farm and Tech
-SONIA: Good morning, and welcome to English Radio. I'm Sonia.
-RYAN: And I'm Ryan. Thanks for spending your drive with us again.
-SONIA: So far in this series, we've visited farms in New Zealand, Kenya, Australia, Ireland and Canada. Big fields, lots of grass, lots of cows.
-RYAN: Today's farm is very different. There are no fields, no cows, and the farm might be on top of a car park.
-SONIA: We're going to Singapore, a small island city in Southeast Asia, with around six million people and very little land. Our guest is Wayne, who runs an urban farm there. Wayne, welcome to the show.
-WAYNE: Thank you, Sonia. Good morning, or rather, good afternoon from Singapore.
-RYAN: Wayne, let's start with the problem. Why does Singapore need urban farms?
-WAYNE: Because we have almost no farmland. Singapore is a city, a country and an island all at once, and every piece of land is needed for housing, offices, roads, schools and parks. Less than one per cent of our land is used for farming. So we [[import]] more than ninety per cent of our food from other countries.
-SONIA: Ninety per cent! That must make people a bit nervous.
-WAYNE: It does. Our [[food security]] depends on other countries and on global supply chains. Normally, that works well. Singapore is rich and well connected, and we buy food from all over the world. But when something goes wrong, we feel it immediately.
-RYAN: Can you give an example?
-WAYNE: During the pandemic, many people suddenly realised how fragile supply chains are. And a couple of years later, our neighbour Malaysia temporarily stopped exporting chicken, because of shortages at home. That was a shock for Singapore, because one of our favourite dishes is chicken rice. People were genuinely worried about where their chicken rice would come from.
-SONIA: The national dish in danger.
-WAYNE: Exactly. So the government set an ambitious goal to produce much more of our own food locally. It turned out to be harder than expected, and the targets have been adjusted since then. But the idea is still the same: produce more at home, and buy from many different countries, so we don't depend too much on any single one.
-RYAN: So where do you actually grow food in a city with no land?
-WAYNE: Anywhere we can! One of the most interesting places is the roofs of multi-storey car parks. In Singapore, most people live in large public housing blocks, and next to them there are car parks with flat roofs. The government started renting out these roofs to farmers. So you can drive up to the top floor, and there's a vegetable farm.
-SONIA: That's brilliant. Using space that was completely wasted.
-WAYNE: Exactly. And then there are vertical farms, which is what we do.
-RYAN: What exactly is a vertical farm?
-WAYNE: Instead of growing plants side by side on the ground, you stack them in layers, one above another, like shelves in a supermarket. Our farm is inside a building, and the shelves go up about ten levels. There's no sunlight. Instead, each layer has LED lights, which give the plants exactly the light they need.
-SONIA: What colour are the lights?
-WAYNE: Often a pinkish purple, because plants mainly use red and blue light. When visitors first walk in, they say it looks like a nightclub for lettuce.
-RYAN: A nightclub for lettuce! And what about soil? Do you use soil?
-WAYNE: No soil at all. We use hydroponics. The plant roots hang in water that contains all the nutrients they need. The water flows round and round in a closed system, so very little is wasted. Compared with a normal field, we use a tiny fraction of the water.
-SONIA: That sounds very efficient. What else are the advantages?
-WAYNE: Many. Because we're indoors, there's no bad weather, no floods, no droughts, and almost no pests, so we don't need to spray [[pesticides|pesticide]]. We can grow all year round, and we can harvest in the morning and deliver to supermarkets the same day, because the farm is in the middle of the city. Very fresh, and very few food miles.
-RYAN: It sounds almost too good to be true. What's the catch?
-WAYNE: The catch is energy. In a field, the sun gives you light for free. In a vertical farm, you pay for every single photon. Lights, air conditioning, pumps, all of that needs electricity, and electricity is expensive. Energy is our biggest cost.
-SONIA: And I suppose that also affects the environment.
-WAYNE: It does. If the electricity comes from fossil fuels, the [[carbon footprint]] of the vegetables can be quite high. That's why we're working hard on [[energy efficiency]]: better LEDs, better insulation, and some [[solar panels|solar panel]] on the roof. But I'll be honest, the energy question is the biggest challenge for our whole industry.
-RYAN: I've read that several big vertical farming companies in Europe and America got into serious financial trouble a few years ago.
-WAYNE: Yes, that's true. A few years ago, there was a lot of excitement, and [[investors|investor]] put huge amounts of money into vertical farming. Some [[start-ups|start-up]] grew too fast, built enormous farms, and then energy prices went up sharply. Several of them went [[bankrupt]]. It was a painful lesson for everyone.
-SONIA: So is vertical farming actually [[viable]], as a business?
-WAYNE: For the right crops, in the right places, yes. Leafy greens like lettuce, spinach and pak choi work well, because they grow quickly, they're light, and people pay for freshness. Herbs and microgreens work too. Some companies grow strawberries indoors very successfully. But for staple crops like rice or wheat, it makes no sense. They need too much space and too much light, and the price per kilo is low. A loaf of bread made from vertical-farm wheat would be ridiculously expensive.
-RYAN: So we're not going to see rice growing on the fortieth floor.
-WAYNE: Not any time soon. Rice will keep coming from the fields of Thailand, Vietnam and elsewhere. Vertical farms are a complement to traditional farming, not a replacement.
-SONIA: You mentioned rice. I know Japan has been doing this kind of thing for a long time.
-WAYNE: Yes, Japan is a real pioneer. People there call them plant factories, and Japan has been building them since the nineteen eighties. We've learned a lot from Japanese engineers and researchers. Some Japanese plant factories grow lettuce very efficiently, with robots doing much of the work.
-RYAN: Are there other ways Singapore is trying to produce food?
-WAYNE: Yes, lots. There are high-tech egg farms, and fish farms out at sea. And Singapore became the first country in the world to approve the sale of cultivated meat, back in twenty twenty. That's real meat grown from animal cells in a factory, without raising and slaughtering an animal.
-SONIA: Meat grown from cells. That sounds like science fiction.
-WAYNE: It does, and it's still very small and quite expensive. But it shows that Singapore is willing to experiment. When you have so little land, you have to be [[innovative]].
-SONIA: Wayne, before we talk about your day, I have to ask about food culture in Singapore. I've heard the hawker centres are incredible.
-WAYNE: Ah, the hawker centres. They're the heart of Singapore. A hawker centre is a big open-air food court, with dozens of small stalls, each selling one or two dishes. Chicken rice, laksa, which is a spicy noodle soup, satay, roti prata, and much more. Chinese, Malay, Indian and Peranakan food, all in one place.
-RYAN: That sounds like the perfect lunch.
-WAYNE: It is. And it's cheap. You can have a delicious meal for just a few dollars. People from every background eat there side by side, office workers in suits next to grandmothers and students.
-SONIA: Like the yatai in Japan, or the night market in Zanzibar.
-WAYNE: Very similar. Street food brings everyone together. In fact, Singapore's hawker culture was added to UNESCO's list of Intangible cultural heritage a few years ago.
-RYAN: That's impressive. A food court as world heritage.
-WAYNE: And a few hawker stalls have even received a Michelin star. The first one sold soy sauce chicken with rice, for only a few dollars a plate. The queue became so long that people waited for hours.
-SONIA: Michelin-star food for a few dollars. That's amazing value.
-WAYNE: It is. But the hawkers themselves are facing a challenge. Many of them are getting old, and their children don't want to take over. The work is very hard. Long hours, hot kitchens, and low prices. So people worry that some traditional dishes may disappear.
-RYAN: That's the same story we heard about Japanese farmers and British curry houses.
-WAYNE: It's a global story. The older generation has the skills, but young people want different careers. In Singapore, there are now programmes where young people can learn directly from experienced hawkers, a bit like an [[apprenticeship]].
-SONIA: That's a lovely idea. Passing the recipe from one generation to the next.
-RYAN: Wayne, what's a typical day like at your farm?
-WAYNE: Very clean! Before entering the growing area, we wear special clothes, hairnets and shoe covers, a bit like a hospital, to keep out pests and bacteria. Then we check the data. Every shelf has sensors for temperature, humidity, carbon dioxide and the nutrients in the water. If something changes, my phone tells me.
-SONIA: Just like the cow collars and the soil sensors we heard about earlier in the series.
-WAYNE: Farming everywhere is becoming more about data. Then we have seeding, harvesting and packing. A lot of it is still done by hand, but we're adding more [[automation]] every year.
-RYAN: And do you enjoy it?
-WAYNE: I love it. My grandparents were farmers in Malaysia, with chickens and vegetables. When I tell my grandmother I'm a farmer too, she laughs, because she can't believe you can farm without soil or sun. But when she tasted our lettuce, she said it was good. That was the best review I've ever had.
-SONIA: That's lovely. Wayne, thank you so much.
-WAYNE: Thank you both. If you're ever in Singapore, come and visit the lettuce nightclub.
+# Live at the Basement Club
+[music jazz.61 10]
+MC (excited): Ladies and gentlemen, he's come all the way from Sydney, and he's still not used to the weather. Please give a big Basement Club welcome to... Nick Walsh!
+[sfx applause]
+NICK (excited): Thank you! Thank you! Sit down, sit down, you're too kind. Well, you're British, so you're exactly the right amount of kind, and then you'll apologise for it.
+NICK: Hello, London! How are we all doing?
+NICK (dry): That was a very British cheer, by the way. It was [[enthusiastic]], but not too enthusiastic. Like you were worried the neighbours might hear.
+NICK: So, as you can probably tell from the accent, I'm not from round here. I'm from Australia.
+NICK: Yes. Australia. The country where everything is trying to kill you. The spiders, the snakes, the sharks, the jellyfish, the sun. Even the plants. We've got a tree in Queensland that stings you so badly that people have [[described|describe]] it as the worst pain of their lives. A tree! You're walking through the forest, minding your own business, you touch a leaf, and the leaf says, "No."
+NICK: So I moved to London. For the safety. And the weather.
+NICK (dry): That's a joke. Nobody has ever moved to London for the weather.
 
-# The Report
-RYAN: Now it's time for The Report. Sonia, I believe this one's about something green.
-SONIA: That's right. Walk into a café in London, New York or Sydney today, and you'll probably see it on the menu: matcha. Matcha lattes, matcha ice cream, matcha cakes, even matcha doughnuts. In just a few years, this bright green Japanese tea has gone from a speciality to a global [[trend]].
-SONIA: Matcha has a long history. Powdered green tea was brought from China to Japan in the twelfth century by Buddhist monks, and it later became the centre of the Japanese tea ceremony, a ritual of preparing and serving tea with great care and attention.
-SONIA: What makes matcha different from ordinary green tea is the way it is grown and made. For several weeks before harvest, the tea plants are covered to block out most of the sunlight. This makes the leaves a deeper green and gives them a richer, sweeter, more savoury taste. After harvest, the leaves are steamed, dried, and their stems and veins are removed. Then they are slowly ground into a fine powder, traditionally between heavy stones. A single stone mill can produce only a small amount of powder per hour.
-SONIA: Demand has grown rapidly in recent years. Social media has played a big part. The bright green colour looks good in photos, and matcha has a healthy image, partly because it contains caffeine together with a substance that many people say produces a calm, focused feeling. Japan's green tea exports have reached record levels.
-SONIA: But [[supply]] has struggled to keep up. Producers cannot simply make more overnight. New tea plants take several years to grow before they can be harvested, and covering the fields and processing the leaves requires special equipment and skilled workers. Like many parts of Japanese agriculture, the tea industry is also facing an ageing workforce, with fewer young people taking over family farms.
-SONIA: As a result, there have been [[shortages|shortage]]. Some tea shops in Kyoto have limited how much matcha each customer can buy, and prices have risen sharply. Some farmers have switched from producing other teas to producing leaves for matcha, to [[meet the demand]].
-SONIA: There is also some confusion for [[consumers|consumer]]. Matcha sold abroad is often labelled ceremonial grade or culinary grade, but these are mainly marketing terms rather than official Japanese standards. Experts advise buyers to look at the colour, the origin, and how fresh the tea is.
-SONIA: For Japanese tea farmers, the boom is both an opportunity and a challenge. Higher prices are welcome after years of falling demand for green tea at home. But some worry that the boom may not last, and that investing heavily in new equipment could be risky if fashions change. For now, though, the world's appetite for this ancient green powder shows no sign of slowing down. That's the report for today.
-RYAN: Thanks, Sonia. I have to admit, I've never tried matcha.
-SONIA: Never? Not even a matcha latte?
-RYAN: Not even a matcha latte. I'm a simple man. Tea with milk.
-SONIA: Then that's your homework for this week.
+# The Weather
+[sfx applause 0.4]
+NICK: I've lived here for three years now. And the first thing I noticed about British people is that you love talking about the weather. You can't stop. It's like a [[disease]].
+NICK: In Australia, we don't talk about the weather, because it's always the same. It's hot. It's sunny. "Lovely day." "Yep." That's it. That's the whole conversation. Then we go to the beach.
+NICK: But here! Here, the weather is a soap opera. Every day there's a new episode. Every day there's a plot twist.
+NICK (fast): You wake up, it's sunny. You go outside, it's raining. You go back in for an umbrella, it's sunny again. You leave the umbrella, it hails. Hail! In June! Little balls of ice falling out of the sky, in June, and everyone just carries on walking, like, "Oh, that's a bit much."
+NICK: I asked a man at a bus stop once, "What's the [[forecast]] for tomorrow?" And he looked at me, very seriously, like a doctor about to give me bad news, and said, "Well. It could go either way."
+NICK: Either way! What does that mean? There are only two ways? Wet and not wet?
+NICK: And you've got so many words for it. In Australia, weather is either "hot" or "really hot". You lot have got... "drizzle", "showers", "spitting", "bucketing it down", "a bit grey", "close", "muggy", "fresh", "nippy", "brisk". My neighbour said to me the other day, "Bit fresh today, isn't it?" It was minus two. The car was frozen. A pigeon was stuck to a bench. "Bit fresh."
+NICK: That's the thing about the British. You never exaggerate. You under-exaggerate. You take something [[enormous]] and make it small. A [[severe]] storm destroys half of Cornwall, and on the news there's a man standing in a flooded kitchen, water up to his knees, his sofa floating past, and he says, "Yeah, it's been a bit of a nuisance."
+[sfx applause 0.4]
 
-# Daily Talk
-RYAN: Now, Sonia, for today's chat, I want to talk about something that was invented in Japan and has spread all over the world.
-SONIA: Matcha?
-RYAN: No. Karaoke.
-SONIA: Oh, I love karaoke! Do you know what the word actually means?
-RYAN: I do, because I looked it up. Kara means empty, and oke is short for orchestra. So karaoke means empty orchestra. The music is there, but the singer is missing.
-SONIA: And the singer is you.
-RYAN: The singer is you. It was invented in Japan in the early nineteen seventies. The story usually told is that a musician in Kobe, who played backing music for people singing in bars, made a machine so that people could sing along without him.
-SONIA: He must be very rich now.
-RYAN: That's the sad part. He never patented the idea, so he didn't make a fortune from it. But he did become quite famous, and later in life he received a lot of recognition.
-SONIA: That's a shame. So, karaoke in Japan is quite different from karaoke in Britain, isn't it?
-RYAN: Very different. In Japan, people usually go to a karaoke box. It's a building full of small private rooms. You rent a room with your friends for an hour or two, order food and drinks, and sing only in front of the people you know.
-SONIA: That sounds much less scary.
-RYAN: Much less scary. In Britain, karaoke usually happens in a pub, in front of everyone. You put your name on a list, and when it's your turn, you stand up in front of a room full of strangers and sing.
-SONIA: Which takes a lot of courage. Or a lot of soft drinks, if you're driving.
-RYAN: And some people even go to karaoke alone in Japan, don't they?
-SONIA: Yes, solo karaoke is a real thing. People go by themselves to practise, or just to relax and sing as loudly as they want. I think that's a great idea.
-RYAN: It's basically what you do in your car.
-SONIA: That's true! My car is my personal karaoke box.
-RYAN: So, Sonia, what's your karaoke song? Your go-to song?
-SONIA: Without a doubt, Don't Stop Me Now, by Queen.
-RYAN: Freddie Mercury! Who, as we learned in the last episode, was born in Zanzibar.
-SONIA: Exactly. Everything's connected on this show. It's a perfect karaoke song. It starts slowly, then it gets faster and faster, and by the end, everyone in the room is singing.
-RYAN: That's a classic choice. Mine is Wonderwall, by Oasis.
-SONIA: Oh no. The most popular karaoke song in Britain. Every pub, every weekend, someone sings Wonderwall.
-RYAN: There's a reason for that. Everyone knows the words, and you don't need to be a good singer. You just need to sound a bit like you're from Manchester.
-SONIA: And do you?
-RYAN: After a few songs, I think I do.
-SONIA: Have you ever done karaoke in Japan?
-RYAN: Once, with colleagues on a business trip. I was nervous, but it was brilliant. The machines show you the lyrics, they give you a score out of a hundred, and some even show how close you are to the right notes.
-SONIA: A score! That would make me very competitive.
-RYAN: It made my colleagues very competitive. My boss got ninety-two. I got sixty-eight.
-SONIA: Sixty-eight isn't bad.
-RYAN: It was Wonderwall. I sing it every weekend. I should have done better.
-SONIA: You know, karaoke is actually a good way to learn English.
-RYAN: That's true. Singing helps with rhythm and pronunciation. You have to say the words at the right speed, linking them together, just like natural speech.
-SONIA: It's like the shadowing technique we talked about in the first episode. You listen, and you copy the sounds.
-RYAN: And the lyrics are on the screen, so you can read and listen at the same time.
-SONIA: And research suggests that singing is good for your mood, too. It reduces [[stress]], and singing in a group makes people feel closer.
-RYAN: I can believe that. Nobody leaves a karaoke night in a bad mood.
-SONIA: Unless they got sixty-eight.
-RYAN: Unless they got sixty-eight. So here's today's challenge for our listeners. Choose one English song you like. Find the lyrics, listen a few times, and try singing along in the car.
-SONIA: And if anyone is watching you at the traffic lights, just smile.
-RYAN: Or pretend you're on the phone.
+# The Secret Code
+NICK: And that, ladies and gentlemen, brings me to the biggest problem I had when I moved here. Understanding you.
+NICK: I had real [[culture shock]]. Because I thought you spoke English. And you do. Technically. The words are English. But the meanings? The meanings are in a secret code. And nobody gives you the code book when you arrive at Heathrow.
+NICK: So I've made one. For all the other foreigners here tonight. I can see a few of you. Hello. Welcome. I'm sorry. Here's the code.
+NICK (serious): Number one. "Not bad."
+NICK: In Australia, "not bad" means "not bad". It's okay. It's fine. Seven out of ten.
+NICK: In Britain, "not bad" means "this is the best thing that has ever happened to me". Your friend gets married to the love of her life, in a castle, with fireworks, and her dad says, "Well. That was not bad."
+NICK (serious): Number two. "Quite good."
+NICK: You'd think "quite good" is better than "not bad", right? Wrong! "Quite good" is a disaster! If a British person says your cooking is "quite good", throw it away. Throw the whole kitchen away. Leave the country.
+NICK (serious): Number three. "I'll bear it in mind."
+NICK: This means: "I have already forgotten what you said."
+NICK (serious): Number four. "With the greatest respect..."
+NICK: This means: "You are an idiot, and I'm about to explain why, slowly."
+NICK (serious): Number five. "That's interesting."
+NICK: This means: "That's wrong." Or: "That's terrible." Or sometimes: "I wasn't listening, but I can tell from your face that you've finished talking."
+NICK (serious): And number six. The most dangerous one of all. "We should get a coffee sometime."
+NICK: Oh, mate. Oh, I fell for this one so many times. When I first arrived, people would say, "Oh, Nick, we should get a coffee sometime!" And I'd get my phone out and say, "Great! When? Tuesday? I'm free on Tuesday!"
+NICK: And they'd look at me with real fear in their eyes. Like I'd suggested we go swimming in the Thames.
+NICK: Because, as I now know, "we should get a coffee sometime" means "I will never see you again, and if I see you in the street I'm going to hide behind a bin."
+NICK: [[In other words]], the British are the only people in the world who can be extremely friendly and say absolutely nothing at the same time. It's a skill. I respect it. I can't do it. I'm Australian. If I don't like you, I just tell you. And then we go to the pub.
+[sfx applause 0.5]
+
+# Sorry
+NICK: And then there's "sorry".
+NICK: The British say "sorry" more than any other people on Earth. And I don't think you even notice.
+NICK: You say "sorry" when it's your fault. Fine. Normal. You say "sorry" when it's not your fault. Okay. You say "sorry" when someone else bumps into you. Why? He bumped into you! He should be sorry! But no. You both say "sorry", at the same time, and then you both walk off feeling guilty for the rest of the day.
+NICK: You say "sorry" instead of "excuse me". You say "sorry" instead of "pardon". You say "sorry" when you want to complain! "Sorry, but I think there's a fly in my soup." Why are you apologising? The fly should apologise!
+NICK: But here's the scary part. It's [[contagious]]. After three years, I've caught it.
+NICK: Last week, I was walking down Oxford Street, looking at my phone, and I walked straight into a lamppost. Bang. Right in the face. And do you know what I said? To the lamppost?
+NICK (whisper): "Oh, sorry."
+NICK: To a lamppost! I apologised to a piece of metal! My mother would be so ashamed.
+[sfx applause 0.5]
+
+# The Queue
+NICK: Let's talk about queues.
+NICK: Now, I know it's a [[stereotype]]. I'd heard about the British queue before I came. Everybody has. It's famous. But nothing prepares you for seeing it in real life.
+NICK: In Australia, we have a sort of queue. It's more of a... suggestion. A loose crowd, all [[roughly]] facing the same direction. If someone pushes in, we say, "Oi! Back of the line, mate!" And they say, "Fair enough." And everyone's happy.
+NICK: Here, a queue is a [[religion]]. Queue [[etiquette]] is more important than the law. It's perfect. It's silent. It's straight. You could use a British bus queue to check if a wall is level.
+NICK: And you queue for things that don't need a queue. I once saw a queue at a bus stop where there was only one person. He was standing in a very neat line. By himself. He was queuing behind... nobody. Just in case someone came and tried to stand in front of him.
+NICK: And if anybody pushes in, here's what happens. Nothing. Absolutely nothing. Nobody says anything. But you can feel it. The whole queue goes cold. Everybody stares at the back of that person's head with pure hate. Twenty people, silently, all thinking the same sentence: "Unbelievable."
+NICK: Then they go home and they tell their families about it. For years. "Did I ever tell you about the man who pushed in at the post office in two thousand and nine?" "Yes, Grandad. Every Christmas."
+NICK: That's British revenge. You don't fight. You don't shout. You just remember. Forever.
+[sfx applause 0.5]
+
+# Slang
+NICK: And then, once you've learned the code, you have to learn the slang. And British slang is a whole other language.
+NICK: In my first week at work, a guy came into the office on a Monday morning and said, "I'm absolutely knackered." And I didn't know what that meant, so I just said, "Oh, congratulations!"
+NICK: He was tired. "Knackered" means tired. Very tired. I congratulated a man for being [[exhausted]]. He looked at me like I was a lunatic, which, to be fair, I was.
+NICK: Then the next day, the same guy says, "I'm gutted." And I thought, gutted? That's what you do to a fish! Are you okay? Do you need a doctor? No. "Gutted" means very [[disappointed]]. His football team had lost.
+NICK: The day after that, his team won, and he said, "I'm chuffed." Chuffed means happy. So in one week, this man went from knackered, to gutted, to chuffed. And I learned more English from him than from my entire time at school.
+NICK: But the best one, the one that confused me the most, was when I went to buy some lunch, and the woman in the sandwich shop said, "There you go, love. Cheers, ta, ta-ra."
+NICK: Cheers, ta, ta-ra! That's three words! And none of them are real! "Cheers" means thank you. "Ta" means thank you. And "ta-ra" means goodbye. So she said "Thank you, thank you, goodbye", using three words that I had never heard in my life, in one second, while handing me a sandwich.
+NICK: And you know what I said back? I'd been here a week. I was trying so hard. I panicked. And I said:
+NICK (nervous): "Ta... cheers... to you... also."
+NICK: She just nodded, very kindly, the way you'd nod at a dog that's trying to tell you something.
+NICK: Now I can do it. Three years later. Watch. "Cheers, ta, ta-ra." Nailed it. Took me three years. That's one word a year. At this rate, I'll be [[fluent]] in British English when I'm about ninety.
+[sfx applause 0.5]
+
+# Tea
+NICK: Of course, I can't do a show in London without talking about tea.
+NICK: Now, I like tea. Australians drink tea. But we drink it like normal people. When we're thirsty.
+NICK: The British don't drink tea because they're thirsty. You drink tea for every single human emotion. Happy? Cup of tea. Sad? Cup of tea. Someone died? Cup of tea. Someone was born? Cup of tea. The house is on fire? "Let's just have a cup of tea and think about this calmly."
+NICK: In my first month here, I made tea for my new colleagues at work. To be friendly. To fit in. And I did something terrible. I didn't know. Nobody told me. I put the milk in first.
+[pause 0.8]
+NICK: You see? Some of you just gasped. There's a woman in the front row who's gone pale. Are you alright, madam? Do you need a cup of tea?
+NICK: The office went completely silent. Like I'd insulted the King. One man, Graham, from accounts, took the cup, looked into it for a very long time, and then said, very quietly...
+NICK (dry): "That's an interesting way to make it."
+NICK: And now you all know the code! "Interesting" means "terrible"! Graham hated me! Graham hated me for two years, and he never said a word!
+NICK: We're friends now. He came to my birthday. He brought his own tea bags.
+[sfx applause 0.5]
+
+# Mum Comes to Visit
+[bgm jazz.62 0.08]
+NICK: Last summer, my mum came to visit me from Sydney. Now, my mum is very Australian. She's sixty-five, she's very [[outgoing]], and she has never, ever had a thought that she didn't say out loud.
+NICK: So, picture this. My mum, in London, in a room full of very polite British people. It was like watching a kangaroo walk into a library.
+NICK: The first night, I took her to a dinner party at my friend's flat in Clapham. Lovely people. Very posh. Candles everywhere. And my friend's wife had cooked this very fancy dish, some kind of fish with foam on it. And she said, "Oh, it's nothing special, really. I just threw it together." Which, as you all know, in the code, means "I've been cooking for nine hours and I'm going to cry if you don't like it."
+NICK: And my mum, who does not know the code, tasted it, put her fork down, and said...
+NICK (loud): "Ooh, that's a bit salty, isn't it, love?"
+NICK: Silence. Absolute silence. Someone dropped a spoon. I think a candle went out by itself.
+NICK: And my friend's wife smiled. The big British smile. The dangerous one. And she said, "Oh, do you think so? How interesting."
+NICK: And I'm sitting there, sweating, because I know the code now. I know exactly what "interesting" means. I know we're never going to be invited back. Ever.
+NICK: And my mum, totally happy, says, "No worries! I'll have some more anyway!" And she did. Three plates. And told everyone the story of my birth, in detail, with hand movements.
+NICK: Mum, if you're listening, I love you. Please never come back.
+[bgm off]
+[sfx applause 0.5]
+
+# Tokyo
+NICK: Now. I thought the British were the most polite people in the world. And then, last year, I went to Japan.
+NICK: Oh. Oh, my friends. I had no idea. The British are [[amateurs|amateur]]. You're beginners. Japan is the [[Olympic Games]] of politeness.
+NICK: In Japan, when you walk into a shop, all the staff shout at you. All of them, together, really loud: "Irasshaimase!" It means "Welcome!" But I didn't know that. The first time it happened, I thought I'd done something wrong. I thought I was being arrested. I put my hands up. In a convenience store. Holding a rice ball.
+NICK: The cashier just bowed at me and gave me my change with two hands. Two hands! With a little smile. For a rice ball that cost about a pound. In London, if you're lucky, the man in the shop looks at you. Once. Without love.
+NICK: And then there's the bowing. In Japan, people bow to say hello, to say thank you, to say sorry, to say goodbye. And I wanted to be respectful, so I bowed back. Every time. To everyone.
+NICK: And this is where it went wrong. Because I didn't know the rules. I didn't know when to stop.
+NICK: On my last day, I was checking out of my hotel, and the manager came out to say goodbye. Lovely man. Grey suit. And he bowed. So I bowed. And then he bowed again, a bit lower, to thank me for bowing. So I bowed again, lower, to thank him for thanking me. And then he bowed again.
+NICK (fast): And we just kept going! Bow! Bow! Bow! Lower and lower! It was like two pigeons fighting over a chip! Neither of us could stop, because stopping would be rude!
+NICK: I missed my train. I genuinely missed my train to the airport. I had to get a taxi. That bow cost me eighty pounds.
+NICK: And you know what? It was worth it. Best eighty pounds I ever spent. That man and I shared something special. I think about him every day. I think he's still bowing.
+NICK: But here's my theory. If you ever put a very polite British person and a very polite Japanese person in a room together, and there's one biscuit left on the plate...
+NICK (dry): Nobody will ever eat that biscuit. They'll both say "No, please, you have it", for the rest of time. Archaeologists will find them in a thousand years. Two skeletons. One biscuit.
+[sfx applause 0.5]
+
+# Home
+[bgm jazz.63 0.08]
+NICK: So, after three years here, people ask me, "Nick, do you miss Australia?"
+NICK: And, yeah. Of course I do. I miss the sun. I miss the beach. I miss the sky, that big blue sky that goes on forever. I miss people saying exactly what they mean. I miss my mum. Even though she insulted a fish.
+NICK: But I'll tell you what. I've started to love this place. I love that you're so polite, even when you're furious. I love that you say "cheers" instead of "thank you", and "cheers" instead of "goodbye", and sometimes "cheers" instead of everything. I love that a whole country can stop and have a cup of tea in the middle of a crisis.
+NICK: And I love that when something truly amazing happens, something that would make an Australian scream and jump into the sea, you just nod, very slowly, and say...
+[pause 0.6]
+NICK (dry): "Not bad."
+[pause 0.5]
+NICK: So, London. You've been a wonderful [[audience]]. I can say that, because I'm Australian, so I actually mean it.
+NICK: My name's Nick Walsh. You've been... not bad. Goodnight!
+[bgm off]
+[sfx applause]
+[music jazz.64 12]

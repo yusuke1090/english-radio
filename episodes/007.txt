@@ -1,138 +1,148 @@
-title: Swahili and the Spice Island
-date: 2026-11-17
-description: A teacher from Zanzibar talks about the Swahili language, greetings, food and the history of the Spice Island. Then a report on words English borrowed from other languages, and a chat about street food.
-guest: IMANI=en-TZ-ImaniNeural
+title: Your Accent Is Not a Mistake (Talk)
+date: 2026-11-07
+description: A talk in the style of TED. Linguist Priya Raman explains why being understood matters more than sounding "native" – and why every accent tells a story.
+voice: PRIYA = en-IN-NeerjaExpressiveNeural
+voice: HOST = en-US-JennyNeural
+outro: piano.50
 
-# Language and Culture
-RYAN: Good morning, and welcome to English Radio. I'm Ryan.
-SONIA: And I'm Sonia. Today, we're travelling back to East Africa, but this time, we're not visiting a farm. We're exploring a language.
-RYAN: Swahili. Or, as people who speak it say, Kiswahili. It's one of the most widely spoken languages in Africa, and you probably know a few words already, even if you don't realise it.
-SONIA: Our guest is Imani, who teaches Swahili and works as a guide in Zanzibar, an island off the coast of Tanzania. Imani, karibu, welcome.
-IMANI: Asante sana! Thank you very much. Your pronunciation is very good.
-SONIA: I practised that in the car this morning.
-IMANI: That's the best place to practise.
-RYAN: Imani, let's start with the big picture. Where is Swahili spoken, and by how many people?
-IMANI: Swahili is spoken across East Africa: in Tanzania, Kenya, Uganda, and parts of many other countries, like Rwanda, Burundi, the Democratic Republic of Congo and Mozambique. Estimates of the number of speakers vary a lot, but it's well over a hundred million people. For most of them, it's a second language, not their [[mother tongue]].
-SONIA: So people speak their own local language at home, and Swahili with everyone else?
-IMANI: Exactly. Tanzania alone has more than a hundred and twenty [[ethnic]] groups, each with their own language. Swahili is what connects us. In a market in Dar es Salaam, people from completely different backgrounds can all understand each other because of Swahili.
-RYAN: How did that happen? Why Swahili, rather than one of the other languages?
-IMANI: A lot of the credit goes to our first president, Julius Nyerere. After independence in the nineteen sixties, he made Swahili the national language, and it was used in schools, in government, everywhere. He wanted people to feel Tanzanian first, not just members of one group. He even translated Shakespeare into Swahili himself.
-SONIA: The president translated Shakespeare?
-IMANI: Yes! Julius Caesar and The Merchant of Venice. He was a teacher before he became a [[politician]], so he loved [[literature]].
-RYAN: That's incredible. And now Swahili has international recognition, doesn't it?
-IMANI: Yes. UNESCO declared the seventh of July as World Kiswahili Language Day, and the African Union has adopted Swahili as one of its working languages. We're very proud of that.
-SONIA: Where does the language come from originally?
-IMANI: Swahili is a Bantu language, which means its grammar is related to many languages across central and southern Africa. But it developed on the coast, where African communities traded with merchants from Arabia, Persia and India for centuries. So it has borrowed many words. Lots of words come from Arabic. For example, kitabu, which means book, comes from the Arabic word kitab.
-RYAN: Are there words from European languages too?
-IMANI: Oh, yes. From Portuguese, we have meza, which means table. From English, we have words like baisikeli, which is bicycle, and kompyuta, computer. And here's a fun one. The Swahili word for school is shule.
-SONIA: Shule. That sounds like German!
-IMANI: It is German! In the late nineteenth century, mainland Tanzania was a German colony. They didn't stay very long, but the word shule stayed.
-RYAN: Languages are like [[museums|museum]] of history.
-IMANI: That's a lovely way to say it.
-SONIA: Now, I think our listeners already know a few Swahili words. Safari, for example.
-IMANI: Yes! Safari simply means journey in Swahili. Any journey. If I take the bus to my aunt's house, that's a safari. In English, it came to mean a trip to see wild animals, but for us it's much more general.
-RYAN: And hakuna matata, from the famous film.
-IMANI: Hakuna matata means there are no problems, or no worries. People really do say it, especially on the coast. [[Tourists|tourist]] love it. Although if you say it to a Tanzanian, they might laugh, because they know you learned it from a cartoon lion.
-SONIA: That's fair. What's the most important thing visitors should learn?
-IMANI: Greetings. Greetings are extremely important in Swahili culture. You never start a conversation, or ask a question, without greeting the person first. Even in a shop. If you just walk in and say, how much is this, it's considered rude.
-RYAN: So what's a typical greeting?
-IMANI: In the morning, you can say, habari za asubuhi? It literally means, what's the news of the morning? And the other person usually answers, nzuri, which means good. Even if their morning was terrible, they say nzuri first. Then maybe later they tell you about the problems.
-SONIA: That sounds very British, actually. How are you? Fine, thanks. Then you complain.
-IMANI: Ha! Maybe we're similar. And with older people, there's a special greeting that shows respect. A younger person says shikamoo to an elder, and the elder replies marahaba.
-RYAN: Shikamoo. Marahaba. I like that. It's a sign of respect for older people built into the language.
-IMANI: Exactly. Respect for elders is a very important part of our culture.
-SONIA: Imani, are there any traditional sayings or proverbs in Swahili that people still use?
-IMANI: Many! Proverbs are everywhere in Swahili culture. And one of the most beautiful places you see them is on a kanga.
-RYAN: What's a kanga?
-IMANI: A kanga is a colourful rectangle of printed cotton cloth. Women wear it around the waist or over the shoulders, use it to carry babies, or even as a tablecloth. And every kanga has a short message printed on it, in Swahili. Often it's a proverb, or a piece of advice, or sometimes a little joke.
-SONIA: So the cloth speaks!
-IMANI: Exactly. And people choose their kanga very carefully, because of the message. A woman might give a kanga to a friend with a message of love. Or she might wear one with a slightly cheeky message, if she's annoyed with a neighbour.
-RYAN: That's brilliant. A way of saying something without actually saying it.
-IMANI: Very much so. It's an indirect way of communicating, and that's very typical of coastal culture. We don't always say things directly. We prefer to be polite, and let people understand.
-SONIA: That reminds me of Japan, actually, where people often avoid saying no directly.
-IMANI: Yes, I think we would understand each other very well.
-RYAN: Can you give us an example of a proverb?
-IMANI: A very common one is haba na haba hujaza kibaba. It means little by little fills the measure. In other words, small steps add up to something big.
-SONIA: That's the perfect proverb for language learners.
-IMANI: It's perfect for everyone. Ten minutes of English in the car every day, and after a year, you've made huge progress. Haba na haba.
-RYAN: And what about music? Does Zanzibar have its own music?
-IMANI: Yes, it's called taarab. It mixes African, Arab and Indian influences, with violins, drums and an instrument a bit like a harp. The songs are often poetic love songs, and they're performed at weddings and celebrations. There's also a big music [[festival]] held in Stone Town, with musicians from all over Africa.
-SONIA: What about grammar? Is Swahili difficult to learn?
-IMANI: The pronunciation is easy. It's written in the Latin alphabet, and you read it exactly as it's spelled, a bit like Japanese, actually. Japanese speakers often find Swahili pronunciation very natural, because the vowels are similar.
-RYAN: That's good news for our listeners in Japan.
-IMANI: The grammar is a bit more of a challenge. Swahili nouns are divided into groups, called noun classes. Each class has its own prefix, a small part at the beginning of the word. For example, mtu means person, and watu means people. Kitabu is book, vitabu is books. The beginning of the word changes, not the end.
-SONIA: So instead of adding an s at the end, you change the beginning.
-IMANI: Exactly. And the other words in the sentence change to match. It sounds complicated, but it becomes very [[logical]] once you get used to it.
-RYAN: Let's talk about Zanzibar itself. It's often called the Spice Island, isn't it?
-IMANI: Yes. Zanzibar is actually a group of islands, and they're part of Tanzania, though we have our own government for many local matters. In the nineteenth century, Zanzibar was ruled by sultans from Oman, who planted huge numbers of clove trees. For a time, Zanzibar was the biggest producer of cloves in the world. Today, visitors come on spice tours to see cloves, nutmeg, cinnamon, vanilla and black pepper growing.
-SONIA: That sounds wonderful. The smell must be incredible.
-IMANI: It is. And the old town, Stone Town, is a UNESCO World [[heritage site]]. It has narrow streets, beautiful carved wooden doors, and buildings that mix African, Arab, Indian and European styles.
-RYAN: Zanzibar's history also has a darker side, doesn't it?
-IMANI: It does, and it's important not to forget it. Zanzibar was the centre of a terrible slave trade in East Africa. The slave market in Stone Town was closed in eighteen seventy-three, and a church was built on the site. Today there's a memorial and a museum there, and I always take visitors, because understanding that history is part of understanding Zanzibar.
-SONIA: Thank you for sharing that. And on a lighter note, I've heard that a very famous rock star was born in Zanzibar.
-IMANI: Yes, Freddie Mercury, the singer of Queen, was born in Stone Town in nineteen forty-six. There's a house that tourists like to visit, and a lot of people take selfies there.
-RYAN: That's a great piece of trivia for a pub quiz.
-SONIA: Imani, I can't let you go without asking about food.
-IMANI: Of course! Food is the best part. On the mainland, the [[staple food]] is ugali, a thick porridge made from maize flour. You take a piece with your fingers, roll it into a ball, and use it to scoop up meat stew or vegetables. On the coast and in Zanzibar, rice is more common, especially pilau, rice cooked with spices like cumin, cardamom and cinnamon. We also love chapati, a kind of flatbread, and nyama choma, which is grilled meat.
-SONIA: That all sounds delicious.
-IMANI: And of course, tea. Chai, with milk, sugar and spices like ginger or cardamom.
-RYAN: There's always tea on this show.
-IMANI: Then you are welcome in Tanzania.
-SONIA: Imani, what's one Swahili phrase our listeners should remember?
-IMANI: Pole pole. It means slowly, slowly. In Zanzibar, life moves at a gentle pace. So when you're stuck in traffic this morning, don't get angry. Just say, pole pole.
-RYAN: That's perfect advice for the commute. Imani, asante sana.
-IMANI: Karibu sana! You are very welcome.
+# Welcome
+[music piano.49 12]
+HOST: Please welcome to the stage, linguist and teacher, Dr Priya Raman.
+[sfx applause]
+[pause 0.5]
 
-# The Report
-SONIA: Time for The Report now. And we're staying with language. Ryan?
-RYAN: Thanks, Sonia. As we just heard, the word safari came into English from Swahili. But it's far from the only one. English is a remarkable collector of words. Over its history, it has borrowed vocabulary from hundreds of languages, and it is still doing so today.
-RYAN: One of the biggest influences came after the year ten sixty-six, when the Normans from France conquered England. For several centuries, the ruling class spoke French, while ordinary people spoke English. You can still see this in the language of farming and food. The animals in the field have English names: cow, pig and sheep. But when the meat arrived on the table of the French-speaking lords, it had French names: beef, pork and mutton.
-RYAN: Before the Normans, Vikings from Scandinavia had settled in large parts of England. They left behind everyday words such as sky, egg, knife and even the word they. The word window comes from an Old Norse expression meaning wind eye, an opening in the wall where the wind came in.
-RYAN: As Britain built a global empire, the language travelled, and it brought back words from around the world. From Hindi and other languages of India, English took shampoo, bungalow, jungle and pyjamas. From Arabic came words such as algebra, sugar and cotton. From Dutch, cookie and yacht.
-RYAN: Japanese has also made its mark. Words like tsunami, karaoke, futon and origami are now part of everyday English. Umami, the savoury fifth taste, has become common in cooking. And one of the newest arrivals is emoji, which many English speakers assume is related to the word emotion. In fact, it comes from the Japanese words for picture and character.
-RYAN: Of course, the borrowing goes in both directions. Japanese has absorbed thousands of English words, though sometimes with surprising changes in meaning. In Japan, a mansion is not a huge house for a millionaire, but an ordinary apartment in a block. And a salaryman, an office worker in a suit, is a word that was created in Japan from English parts.
-RYAN: Linguists say this constant exchange is a sign of healthy, living languages. Some people worry that English is spreading too much, and that smaller languages are [[under threat|threat]]. That is a real concern. Many languages around the world have very few speakers left, and when the last speaker dies, a whole way of seeing the world can disappear.
-RYAN: But the story of borrowing reminds us that no language is pure. English, Japanese and Swahili have all been shaped by trade, travel, war and friendship. Every time you use a borrowed word, you're carrying a small piece of history. That's the report for today.
-SONIA: Thanks, Ryan. I never knew emoji had nothing to do with emotion.
-RYAN: Neither did I, until I researched it. It's a great one to impress people with.
+# The Café in Manchester
+PRIYA: Thank you. Thank you so much.
+PRIYA: I want to start with a cup of coffee.
+PRIYA: Eleven years ago, I moved from Chennai, in the south of India, to Manchester, in the north of England, to do my PhD. I had been speaking English since I was four years old. I had read Shakespeare. I had read Dickens. I had a [[degree]] in English [[literature]]. I thought, I'm ready.
+PRIYA: On my first morning, I walked into a café near the university, and I asked for a coffee. And the young man behind the counter looked at me, smiled very kindly, and said:
+PRIYA (fast): "Alright, love, what can I get you, d'you want owt with that?"
+[pause 1.0]
+PRIYA: I stood there. I didn't understand one single word.
+PRIYA: And it wasn't the words, really. "Owt" is a northern English word for "anything", but I didn't know that yet. It was the music of it. The rhythm, the vowels, the speed. It was English, I knew it was English, but it was an English I had never heard before.
+PRIYA: And then, the worst part. I answered him. And he didn't understand me either.
+PRIYA: He said, "Sorry?" I said it again. He said, "Sorry, love?" I said it again, slower, louder, the way you speak to someone who's very old, or very far away. And he went red, and I went red, and in the end I pointed at a picture of a croissant, and I ate a croissant I didn't want, and I went home and I cried.
+PRIYA: Because in that moment, a voice in my head said something that I think many of you in this room have heard too. It said: "Your English isn't good enough. It's your accent. It's wrong."
+PRIYA: I spent the next ten years [[finding out|find out]] that this voice was wrong. And tonight, I want to tell you why.
 
-# Daily Talk
-SONIA: Now, Ryan, all that talk about food in Zanzibar has made me hungry. So let's talk about street food.
-RYAN: Excellent idea. Imani mentioned a famous night market in Zanzibar, didn't she? I've read about it. Every evening, in a park by the sea in Stone Town, dozens of stalls set up and sell grilled seafood, skewers of meat, and something called Zanzibar pizza.
-SONIA: Zanzibar pizza? Is it like Italian pizza?
-RYAN: Not really. It's more like a thin, folded pancake, filled with meat, egg, onion and cheese, and cooked on a hot plate. There's a sweet version with banana and chocolate, too.
-SONIA: That sounds amazing. I'd like to try both.
-RYAN: Me too. So what's Britain's most famous street food?
-SONIA: It has to be fish and chips. Fish in crispy batter, deep-fried, with thick chips. And you buy it from a chip shop, which people call the chippy.
-RYAN: And in the past, it was wrapped in old newspaper.
-SONIA: That's right. My grandparents always talked about eating fish and chips out of newspaper. It was stopped decades ago, for [[hygiene]] reasons, because of the ink.
-RYAN: Probably a good idea. Now it's paper or a cardboard box. And you have to add salt and vinegar.
-SONIA: Lots of vinegar. The smell of vinegar on hot chips is one of the best smells in Britain. Especially at the seaside.
-RYAN: Eating fish and chips on the beach, with the seagulls watching you.
-SONIA: And trying to steal your chips! Seagulls in British seaside towns are famous for it. They're very bold.
-RYAN: Very bold. One once took a whole sausage out of my hand.
-SONIA: No!
-RYAN: It's true. I was about nine. I still haven't forgiven seagulls.
-SONIA: Poor you. What else is popular?
-RYAN: Well, in London, there's a very old tradition called pie and mash. A meat pie with mashed potato and a green sauce called liquor, made with parsley. And traditionally, you could also order jellied eels.
-SONIA: I've never been brave enough to try jellied eels.
-RYAN: Neither have I, to be honest. They're cold eels in jelly. Not for everyone.
-SONIA: And these days, British cities have amazing food markets, with food from all over the world. Indian, Vietnamese, Mexican, Ethiopian. You can eat around the world in an afternoon.
-RYAN: That's one of the best things about modern Britain. The food has become so much more [[diverse]].
-SONIA: What about Japan? I imagine the street food is incredible.
-RYAN: It is. The most famous is probably at festivals. At summer festivals, the streets are full of stalls selling yakisoba, which are fried noodles, takoyaki, which are little balls of batter with octopus inside, and taiyaki, which is a fish-shaped cake filled with sweet red bean paste.
-SONIA: A fish-shaped cake! Is there fish in it?
-RYAN: No fish at all, just the shape. And in the city of Fukuoka, in the south of Japan, there are famous street stalls called yatai. In the evening, small wooden stalls appear on the street, each with a few seats around a counter, and they serve ramen, grilled food and drinks.
-SONIA: So you sit right next to the cook?
-RYAN: Right next to the cook, and next to strangers. It's very [[sociable]]. You end up chatting with the people beside you, even if you don't speak much Japanese.
-SONIA: That's the magic of street food, isn't it? It brings people together.
-RYAN: Exactly. In a restaurant, you sit with your own group. At a street stall, you eat elbow to elbow with everyone.
-SONIA: And it's usually cheaper, which helps.
-RYAN: Usually. Though prices have been going up everywhere. A [[portion]] of fish and chips isn't cheap anymore.
-SONIA: That's true. It's become a real treat, rather than an everyday meal.
-RYAN: So, Sonia, if you could eat one street food right now, in the car, what would it be?
-SONIA: Right now? Hot chips with salt and vinegar. Even though my car would smell of vinegar for a week.
-RYAN: Mine would be takoyaki. Although eating takoyaki while driving is a terrible idea. They're extremely hot inside.
-SONIA: Please don't eat takoyaki while driving. That's today's safety message.
-RYAN: And today's challenge for our listeners: think of your favourite street food, and try to describe it in English to someone who has never tried it. What's inside? How does it taste? Where do you buy it?
-SONIA: And if you have a seagull story, we'd love to hear it.
+# Everybody Has One
+[bgm piano.51 0.1]
+PRIYA: Let's start with something simple. Put your hand up if you have an accent.
+PRIYA: Okay. About half of you. Interesting. Now put your hand up if you have a mouth.
+PRIYA: Everybody. Good. Then you all have an accent.
+PRIYA: This is the first thing that linguists, people who study language scientifically, will tell you. There is no such thing as speaking without an accent. An accent is just the way your speech sounds. It's the shape of your vowels, the rhythm of your sentences, the way your voice goes up and down. Every single person who speaks, speaks with an accent.
+PRIYA: The queen of England had an accent. A newsreader on the BBC has an accent. A cowboy in Texas has an accent. And the young man in the café in Manchester definitely had an accent. Nobody had ever told him that it was a problem.
+PRIYA: So why do some accents feel like "normal English", and other accents feel like "mistakes"?
+PRIYA: The answer has almost nothing to do with language. It has to do with power. With history. With which accents we hear on television, in films, in the voices of people in charge. The accents that we're used to hearing from powerful people start to sound "correct" to us. And the others start to sound "strange", or "foreign", or "difficult".
+PRIYA: But listen. This is just habit. It's not science. A Scottish accent is not a broken English accent. An Indian accent is not a broken American accent. A Nigerian accent, a Japanese accent, a Brazilian accent, are not broken anything. They're just different. They're the sound of different histories.
+PRIYA: Here's a fact that surprises a lot of people. Today, there are far more people in the world who speak English as a second language than as a first language. Some [[estimates|estimate]] say it's around three to one. Think about that. If you speak English with an accent from somewhere else, you're not the [[exception]]. You're the [[majority]].
+PRIYA: The typical English speaker in the world today is not someone from London or New York. It's someone from Lagos, or Manila, or Mumbai, or Shanghai, talking to someone from São Paulo, or Istanbul, or Tokyo. And they're using English as a bridge.
+[bgm off]
+
+# Englishes
+[bgm piano.58 0.1]
+PRIYA: And when English travels, it doesn't just change its accent. It changes its words. It makes new ones. It [[borrows|borrow]] from the languages around it. Linguists have a word for this. They don't talk about "English" any more. They talk about "Englishes". Plural.
+PRIYA: Let me give you a few of my favourites.
+PRIYA: In India, where I'm from, we have a word that I think the whole world needs. "Prepone." You know "postpone", when you move a meeting to later? Well, if you move it earlier, in India, you "prepone" it. It's [[logical]]. It's useful. And every time I use it in England, someone corrects me. They're wrong. English needs this word.
+PRIYA: In South Africa, if someone says they'll do something "now", it means... at some point. If they say "just now", it means later. Maybe in an hour. Maybe tomorrow. But if they say "now now", it means soon. Really soon. I have a South African colleague, and it took me two years to [[figure out]] when he was actually going to send me his emails.
+PRIYA: In Nigeria, if you phone a friend and they say "I'm coming", they don't mean they're on their way to you. They mean "wait a moment, I'll be right back". A British friend of mine waited outside a restaurant in Lagos for forty minutes, because his friend said "I'm coming" and then went to the toilet.
+PRIYA: In Singapore, you might hear "can" used as a complete answer. "Can you meet at six?" "Can." "Can lah." It's short, it's [[efficient]], and it's absolutely clear.
+PRIYA: In Ireland, if everything is fine, it's "grand". If everything is a disaster, it's also "grand", but said [[slightly]] differently.
+PRIYA: In Australia, the afternoon is the "arvo". Breakfast is "brekkie". A barbecue is a "barbie". Australians look at a long word and think, "No. Too long. Cut it."
+PRIYA: Now. Are these mistakes? Are these people speaking "bad English"?
+PRIYA: Of course not. These are perfectly good, fully grammatical varieties of English, used by millions of people every day. They follow rules. They're [[consistent]]. They do exactly what language is supposed to do. They let people understand each other.
+PRIYA: So when someone tells you there is only one "correct" English, ask them, politely: whose?
+
+# The Research
+[bgm piano.52 0.1]
+PRIYA: Now, I'm a scientist, so I don't want you to just believe me. Let me tell you about some research.
+PRIYA: In the nineteen nineties, two researchers in Canada, Murray Munro and Tracey Derwing, did some very simple but very important experiments. They recorded people who were learning English, speaking short sentences. Then they asked native English speakers to listen, and to judge three different things.
+PRIYA: First: how strong is this person's accent? Second: how much of what they said did you actually understand? You can check this, by asking listeners to write down exactly what they heard. And third: how hard did you have to work to understand them?
+PRIYA: And what they found, again and again, in study after study, was this. Those three things are not the same.
+PRIYA: A person can have a very strong accent, and still be completely understood. Every single word. Their accent is strong, but their speech is clear.
+PRIYA: I want you to really think about that, because it's very different from what most of us were taught at school. We were taught that the goal is to sound like a native speaker. To lose our accent. To hide where we come from.
+PRIYA: But the research says the goal isn't to lose your accent. The goal is to be understood. And those are two very different goals. One is almost impossible for most adults. The other is completely achievable.
+PRIYA: So let me give you some new words. Instead of "accent", let's talk about "intelligibility". It's a long word. It just means: can people understand you? And "comprehensibility": how easy is it for them?
+PRIYA: Those are the things that matter. Not whether you sound like you're from London.
+[bgm off]
+
+# What Actually Matters
+[bgm piano.53 0.1]
+PRIYA: So if it's not about sounding "native", what does make speech easy to understand?
+PRIYA: After years of research, and years of teaching, I've come to believe that a few things matter much more than others. And interestingly, they're not usually the sounds that teachers spend the most time on.
+PRIYA: Many of us spent hours at school practising the "th" sound. Th, th, think, this, that. And it's fine. Practise it if you like. But here's the thing. In many parts of the English-speaking world, native speakers don't use it either. In parts of London, "think" sounds like "fink". In Ireland, "three" can sound like "tree". And everybody understands them perfectly, because the listener knows from the [[context]] what they mean.
+PRIYA: What matters more, much more, is stress and rhythm. Which part of a word is strong, and which words in a sentence are strong.
+PRIYA: Let me show you. Listen. "Photograph." "Photographer." "Photographic." Can you hear it? The strong part of the word moves. And if you put the stress in the wrong place, a listener can get completely lost, even if every single sound is perfect.
+PRIYA: There's a well-known example that teachers love. A speaker says the word "comfortable", but puts the stress in the middle, on "for". And the listener hears... "come for a table". Same sounds. Different music. Completely different meaning.
+PRIYA: The same is true of sentences. English is a language with a strong beat. We hit the important words, and we rush through the small ones. "I want to go to the shop." Not "I. Want. To. Go. To. The. Shop." If every word is equally strong, the listener doesn't know where to look. It's like a page where every single word is underlined.
+PRIYA: So if you're learning English and you want to be understood, here's my advice. Spend less time on making perfect sounds, and more time on the music. Listen to the rhythm. Copy it. Exaggerate it. Sing it, even. You'll be [[amazed]] how much clearer you become, even with exactly the same accent.
+[bgm off]
+
+# Try It
+[bgm piano.59 0.08]
+PRIYA: Let's try it. Right now. Yes, everybody. Even you at the back, pretending to check your phone. And if you're listening to this in your car, you can join in too. Nobody can hear you. Probably.
+PRIYA: I'll say a sentence, and you say it back to me. Don't worry about the sounds. Just copy the beat. The strong words are like steps. The small words are what happens between the steps.
+PRIYA (slow): I need a cup of tea.
+[pause 2.5]
+PRIYA: Good. Again, and this time, make the small words really small. Almost nothing. "I need a cup of tea." "A cup of" becomes "a-cuppa".
+PRIYA (slow): I need a cup of tea.
+[pause 2.5]
+PRIYA: Lovely. Now a longer one.
+PRIYA (slow): I was going to call you, but I forgot.
+[pause 3.0]
+PRIYA: One more time. Listen to how "was going to" becomes almost one word. "I was gonna call you."
+PRIYA (slow): I was going to call you, but I forgot.
+[pause 3.0]
+PRIYA: And one more. This is the most useful sentence in the English language.
+PRIYA (slow): Sorry, could you say that again?
+[pause 3.0]
+PRIYA: Beautiful. You see? Every one of you said that with your own accent. Spanish, Korean, Scottish, Chinese, whatever. And every one of you was completely clear. Because you got the music right.
+PRIYA: And notice something else. The last sentence, "Sorry, could you say that again?", is not a sign of failure. It's a sign of a good conversation. The best communicators in the world use it all the time. They check. They ask. They don't pretend.
+
+# The Other Half of the Conversation
+[bgm piano.54 0.1]
+PRIYA: Now. I have to say something that might make some people in this room a bit uncomfortable.
+PRIYA: Communication is not a one-way street. If two people don't understand each other, it is not automatically the fault of the person with the "foreign" accent.
+PRIYA: Listening is a skill too. And like any skill, it can be trained.
+PRIYA: Remember the young man in the café in Manchester? It [[turns out|turn out]] that the more different accents you hear, the better you get at understanding new ones. Researchers have shown that even a short period of exposure to an unfamiliar accent can make it much easier to understand. Your brain is brilliant at this. It learns the patterns very fast, if you give it the chance.
+PRIYA: So if you are a native speaker of English, and you work with people from other countries, or you're a teacher, or a doctor, or a shopkeeper, here's my request. Do your half of the work. Listen with patience. Don't pretend you've understood when you haven't. Don't shout. Shouting doesn't help anybody understand anything. And don't [[assume]] that someone with an accent is less intelligent, or less educated, than you.
+PRIYA: Because here's the sad truth. Studies have found that people with non-native accents are sometimes judged as less [[trustworthy]], or less competent, even when they say exactly the same thing. Not because of what they say, but because of how it sounds. That's not a language problem. That's a [[prejudice]].
+PRIYA: And in job interviews, in hospitals, in [[courts|court]], that prejudice has real [[consequences|consequence]] for real people. It decides who gets the job. It decides who gets believed.
+PRIYA: So when we talk about accents, we're not just talking about vowels. We're talking about fairness.
+[bgm off]
+
+# My Grandmother's Voice
+[bgm piano.55 0.1]
+PRIYA: I want to tell you about my grandmother.
+PRIYA: My grandmother, my paati, as we say in Tamil, grew up in a small village in Tamil Nadu. She left school at twelve. She spoke Tamil, and a little Hindi, and when she was forty years old, she decided to learn English, because she wanted to be able to read the newspaper and talk to the doctors in the city.
+PRIYA: She learned from the radio. From old textbooks. From her grandchildren, who were not very patient teachers. And she spoke English for the rest of her life with a very, very strong Tamil accent. Every "w" became a "v". Every sentence went up and down like a song.
+PRIYA: And when I was a teenager, I'm ashamed to say this, I was [[embarrassed]] by it. When my friends came to the house, I didn't want her to speak English in front of them. I thought her English was... wrong.
+PRIYA: She died when I was twenty-two. And a few years later, I found some old cassette tapes in a box. My grandfather had recorded her reading to us, when we were small. Children's stories, in English. In that accent.
+PRIYA: I listened to those tapes, sitting on the floor of my flat in Manchester, and I understood something I should have understood years before.
+PRIYA: Her accent wasn't a mistake. It was a map. Every sound in it was a place she had come from. The village. The temple. The radio. The forty-year-old woman who sat down at the kitchen table and decided that it wasn't too late.
+PRIYA: Every accent is like that. When you hear someone speaking English with an accent, you are hearing their journey. You're hearing the other languages they speak, the places they've lived, the effort they've made. You're hearing a person who has done something very difficult, every single day, and is still doing it.
+PRIYA: That's not something to hide. That's something to be proud of.
+[bgm off]
+
+# Back to the Café
+[bgm piano.56 0.1]
+PRIYA: So. Let's go back to the café in Manchester.
+PRIYA: About a year after that first terrible morning, I went back to the same café. The same young man was working there. His name, it turned out, was Danny. And this time, I'd been in Manchester long enough. I knew what "owt" meant. I knew that "love" didn't mean he loved me. I knew that "you alright?" didn't mean "are you sick?", it just meant "hello".
+PRIYA: And Danny, I think, had heard a lot more accents in that year, because the university was full of international students, and half his [[customers|customer]] were from China, or Nigeria, or Brazil.
+PRIYA: So I walked in, and he said, "Alright, love, what can I get you?" And I said, "A flat white, please, and nothing with it, thank you." In my accent. And he understood me perfectly, first time.
+PRIYA: Neither of us had changed our accent. Not one bit. We had both just... learned to listen.
+PRIYA: We became good friends, actually. He still makes my coffee. He still says "owt". And last year, he started learning Tamil, because he's going out with a girl from Chennai.
+PRIYA: His accent is terrible.
+PRIYA: I've never been prouder of anyone.
+[bgm off]
+
+# The Last Thing
+[bgm piano.57 0.1]
+PRIYA: So I want to leave you with three small things.
+PRIYA: If you're learning English, or any language: don't try to delete yourself. Don't waste years trying to sound like somebody else. Work on being clear. Work on the rhythm. Be understood. And then, keep your accent. It's yours. You earned it.
+PRIYA: If you're a native speaker: do your half. Listen generously. Ask again, kindly, if you don't understand. And the next time you hear someone speaking with an accent you don't know, don't think "that's wrong". Think "where has that voice been?"
+PRIYA: And for all of us: remember that the point of language was never to sound the same. The point of language was always to understand each other.
+PRIYA: And that is something we can all get better at. Every single one of us. In every accent there is.
+PRIYA: Thank you.
+[bgm off]
+[sfx applause]

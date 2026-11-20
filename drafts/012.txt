@@ -1,0 +1,192 @@
+title: Pole Pole (2/3)
+date: 2026-11-12
+description: Part 2 – Haruto tells his side. A model that was too confident, an apology to an old farmer, forty-five years of rain written in school exercise books, and a phone that buzzes at two in the morning.
+voice: HARUTO = en-HK-SamNeural
+voice: NEEMA = en-TZ-ImaniNeural
+voice: JOSEPH = en-TZ-ElimuNeural -10% -8Hz
+voice: ZAWADI = en-US-AnaNeural
+voice: GRACE = en-KE-AsiliaNeural -4Hz
+voice: LEMA = en-KE-ChilembaNeural
+voice: ISHIDA = ko-KR-HyunsuMultilingualNeural
+
+# Cold open
+[amb night 0.5]
+HARUTO (calm): In Japanese, we have a word. "Ganbaru."
+HARUTO (calm): It means to try your hardest. To never give up. To keep going, even when it's difficult, even when you're tired. When you're a child, your parents say "ganbatte" before a test. Your teachers say it before a race. Your boss says it every day.
+HARUTO (calm): I was very good at ganbaru. I was the best.
+HARUTO (quiet): That was my problem.
+[amb off]
+[music space.106 16]
+
+# Niigata
+[bgm piano.107 0.12]
+HARUTO: My name is Haruto Mori. I'm twenty-nine. I'm a software engineer. And before I went to Tanzania, I had never been further from Tokyo than Seoul, for a weekend, for a conference.
+HARUTO: Neema has told you about the beginning. The suitcases. The timetable. The ugali in my ear. That's all true. I'm not proud of the timetable.
+HARUTO: But she didn't know why I was there. Not really. So let me tell you.
+HARUTO: My grandfather was a rice farmer, in Niigata, on the west coast of Japan. It's snow country. In winter, the snow is taller than a man. In summer, the rice fields go on and on, green and shining, as far as you can see. Niigata rice is famous. People say it's the best in Japan. My grandfather said it's the best in the world. He was not a modest man.
+HARUTO: When I was a boy, I spent every summer holiday with him. Planting, weeding, watching the water in the paddies. He taught me to look at the sky in the morning and guess the weather. He was usually right. I thought he was a magician.
+HARUTO: But none of his children wanted to be farmers. My father went to Tokyo to work in an office. My aunt went to Osaka. That's the story of rural Japan. All the young people leave. The farmers get older and older. When my grandfather was eighty-one, he couldn't work the fields any more, and there was nobody to take over. So the fields were [[abandoned|abandon]]. Now, they're full of weeds. Wild grass, as tall as my shoulder, where the best rice in the world used to grow.
+HARUTO: When I studied engineering, I had a dream. I wanted to build technology that would help farmers. Make farming easier. So maybe young people would want to do it again. That's why I joined Amagumo. And that's why, when they asked who wanted to go to Tanzania, I put my hand up before anyone else.
+HARUTO: My mother cried. My boss said, "Ganbatte." And I went.
+[bgm off]
+
+# The Numbers
+[bgm spooky.108 0.12]
+HARUTO: So now you know who I was, the night I sat in the guest house in Kisima, looking at the soil sensors going from green, to yellow, to orange. Twenty-five days without rain.
+HARUTO: Two thirds of the village had planted because of my app. Because of me. Because I stood under that fig tree and said, "I believe it's a good time to plant."
+HARUTO: Every morning, I walked past the fields. The young maize had stopped growing. The leaves were curled up, grey-green, like paper. Some of the plants had already died. Women were walking from the well with buckets on their heads, again and again, trying to save a few rows. Children too. Small children, carrying water for plants that I had killed.
+HARUTO: People didn't shout at me. That was the worst part. In Japan, maybe they would be polite and silent. Here, they were polite and kind. Mama Grace still brought me food. The children still followed me. But when I said hello, people looked away a little bit faster.
+HARUTO: Mr Lema, the cooperative chairman, came to see me on the twentieth day.
+LEMA (angry): Mr Mori. People are asking me questions. I told them to trust the machine. I told them it was science. My own brother planted four acres. What do I tell him?
+HARUTO: I didn't know what to tell him. I said, "I'm sorry." He said, "Sorry doesn't buy seed." And he was right.
+HARUTO: So I did what engineers do when they don't know what to say. I opened my laptop, and I looked at the data.
+[bgm off]
+
+# What Went Wrong
+[bgm space.109 0.1]
+HARUTO: I worked for three nights. And slowly, I understood what had happened. I'll try to explain it simply, because it's important.
+HARUTO: A computer model learns from data. It looks at what happened in the past, finds the patterns, and uses them to [[predict]] the future. That's all machine learning is. Very fast pattern-finding.
+HARUTO: But a model is only as good as the data you give it. And my model had learned mostly from satellite data. Satellites are wonderful. They can see the whole world. But they see it from very, very far away. Each little square of satellite data covered an area much bigger than Kisima. It saw the whole region as one place.
+HARUTO: But Kisima isn't the whole region. It's a small village on the edge of a valley, with a mountain on one side and a big dry plain on the other. The wind does strange things there. The rain does strange things there. Things that a satellite, a thousand kilometres up, can't see.
+HARUTO: And there was another problem. The model had seen thousands of normal seasons. It knew what a normal start to the rains looks like. But a false start, when the rain begins and then stops for a month, is rare. It didn't have enough examples to learn it. So when the first rain came, the model saw the pattern it knew, and it said, very confidently, "This is it. Eighty-two percent."
+HARUTO: Eighty-two percent. I'd been so proud of that number. I put it in my presentation in big red letters.
+HARUTO: But here is what I learned, too late. Eighty-two percent is not a promise. It means that in about one case out of five, you're wrong. And for a farmer who can only plant once, one in five is not a small number. It's the difference between eating and not eating.
+HARUTO: I had been [[accurate]] on average. But farmers don't live on average. They live one season at a time.
+HARUTO: My model was confident. I was confident. And confidence is not the same thing as being right.
+[bgm off]
+
+# Pole
+[bgm acoustic.110 0.12]
+HARUTO: I want to tell you something funny, because this part of the story needs something funny.
+HARUTO: For my first three weeks in Kisima, I thought everybody was apologising to me.
+HARUTO: I would trip over a stone, and somebody would say "Pole!" I would hit my head on a low door, "Pole!" I got sunburned, "Pole, pole!" I learned in my first lesson that "pole pole" means "slowly, slowly". So I thought "pole" meant "sorry". And I thought, wow, Tanzanian people are even more polite than Japanese people. They say sorry when it isn't their fault.
+HARUTO: Then Neema explained. "Pole" doesn't mean "I'm sorry, it was my mistake." It means "I'm sorry for what happened to you." It's sympathy. It means: I see that you're hurt, and I feel it with you.
+HARUTO: And when the rain stopped, I heard that word everywhere. Farmers whose seeds were dying in the ground walked past me and said "Pole, Haruto." To me. They were the ones losing everything. And they were saying sorry to me, because they could see I was suffering too.
+HARUTO: I've never been so ashamed, and so grateful, at the same time.
+[bgm off]
+
+# The Apology
+[amb birds 0.5]
+[bgm afro.111 0.1]
+HARUTO: On the twenty-sixth day, I put on a clean shirt, and I walked to Mzee Joseph's house.
+HARUTO: In Japan, when you make a big mistake, you apologise properly. You go to the person, you bow deeply, you say clearly what you did wrong, and you don't make excuses. It's called "owabi". It's very serious.
+HARUTO: Mzee Joseph was sitting outside, on his wooden stool, under a small tree. I stood in front of him and bowed. A real bow. Ninety degrees. And Zawadi translated, although I think he understood my English better than he pretended.
+HARUTO (serious): Mzee. I was wrong. My machine was wrong, and I was wrong to trust it so much. You told us to wait, and I told people to plant. Many families have lost their seed because of me. I'm very sorry. I don't have an excuse.
+[pause 1.0]
+HARUTO: For a long time, he didn't say anything. He just looked at me. Then he said something to Zawadi in Swahili.
+ZAWADI: He says, um, sit down. He says your back will break if you keep bending like that.
+HARUTO: So I sat down on the ground next to him. And he said:
+JOSEPH (calm): In seventy-four years, I have met many experts. People from the government. People from the big organisations. White people, Chinese people, people from Dar es Salaam in nice shoes. They come to tell us how to farm. When things go wrong, they explain. They explain why it was the weather. Why it was the market. Why it was the farmers.
+JOSEPH (calm): You are the first one who came to say, "I was wrong."
+JOSEPH (calm): That is a good beginning. Now, come. Walk with me.
+[bgm off]
+
+# The Signs
+[amb birds 0.6]
+[bgm acoustic.112 0.12]
+HARUTO: We walked very slowly. Pole pole. He stopped every few metres to show me something.
+HARUTO: First, the ants. There was a line of ants crossing the path, from a low place near the dry riverbed up to a higher place under a rock. Each ant was carrying a small white egg.
+JOSEPH: When the ants move their eggs to high ground, the big rain is coming. They don't want their children to drown. Today, they've started. Last month, when your machine said "plant", they didn't move.
+HARUTO: Then a tree. A big tree at the edge of the field, with new green leaves just beginning to open on its dry branches.
+JOSEPH: Many trees here put out their leaves before the rain, not after. They know. They've been doing this for a thousand years. Look at its leaves. Two weeks ago, nothing. Now, look.
+HARUTO: And then he stopped, and held up one finger, and said "Sikiliza." Listen.
+HARUTO: From somewhere in the trees, a bird was calling. Three notes, going down. Over and over. It sounded like it was saying something.
+JOSEPH: That is the rain bird. He comes from far away, every year, before the rains. When he starts calling, the rain is near.
+HARUTO: Later, I looked it up. It's a real bird, a kind of cuckoo, the red-chested cuckoo. It migrates, and in many parts of eastern and southern Africa, people know it as the bird that calls before the rain. In South Africa, some people say its call sounds like "it will rain, it will rain".
+HARUTO: I stood there, listening, and I felt something very strange. I felt like I was back in Niigata. Ten years old. Standing next to my grandfather, at six o'clock in the morning, while he looked at the clouds over the mountains and told me if it was going to rain.
+HARUTO: I had forgotten. I had forgotten that before satellites, before computers, before me, there were people who knew the sky. Not with numbers. With a whole lifetime of watching.
+[amb off]
+[bgm off]
+
+# The Exercise Books
+[bgm piano.113 0.12]
+HARUTO: When we got back to his house, Mzee Joseph said something to Zawadi, and she went inside. She came back with a cardboard box. And inside the box were school exercise books. Old ones. Dozens of them. The covers were faded and soft, and some of them had been eaten a little by insects.
+HARUTO: He opened the first one. On the first page, in neat, careful handwriting, was a date. Nineteen seventy-nine.
+HARUTO: And underneath, a list. Every day. A date, and a number.
+JOSEPH: In nineteen seventy-nine, a teacher at the mission school gave me a rain gauge. A little plastic tube, with numbers on the side. He said, "Joseph, you're a clever man. Every morning, measure the rain, and write it down." So I did.
+HARUTO: Every morning?
+JOSEPH: Every morning. Forty-five years. When I was sick, my wife did it. When I went to my daughter's wedding in Moshi, my neighbour did it. Every morning.
+HARUTO: I turned the pages, and my hands were shaking. Because it wasn't just the rain. In the margins, in smaller writing, he had written other things. "First call of the rain bird." "Ants moving." "Wind from the east." "Mango trees flowering." "Planted maize." "Harvest: good." "Harvest: very bad. Rain stopped after first week."
+HARUTO: Forty-five years of daily rainfall. Measured in one place. In this village. Together with forty-five years of the signs, and what happened afterwards.
+HARUTO: Do you understand what this was? For an engineer, for someone who builds models from data, this was like finding gold. No, better than gold. This was the [[data set]] I had been missing. The local data that the satellite could never see. And it had been sitting in a cardboard box, under a bed, two hundred metres from my guest house, the whole time.
+HARUTO (excited): Mzee. Can I... can I borrow these? Can I put them in the computer?
+JOSEPH: They are for the village. If they help the village, take them.
+[bgm off]
+
+# Zawadi
+[amb night 0.5]
+[bgm lofi.114 0.12]
+HARUTO: For the next five nights, Zawadi and I sat at Mama Grace's kitchen table, with a solar lamp and my laptop. I photographed every page, and Zawadi read the numbers out loud, and I typed them in. Sixteen thousand days.
+ZAWADI: Okay, March fourteenth, nineteen eighty-seven. Twelve millimetres. And it says, like, "the cow called Shida had twins". Do you want the twins?
+HARUTO: Yes. I want everything.
+ZAWADI: Okay, so, March fifteenth, zero. March sixteenth, zero. Oh my gosh, Haruto, this is so boring. How do you do this job?
+HARUTO: It's not boring. Every number is a morning in your grandfather's life.
+ZAWADI: That's actually kind of beautiful. But it's still boring.
+HARUTO: Zawadi is the smartest person I met in Tanzania. Twelve years old. On the third night, she asked me what I was doing on my laptop, so I showed her the code. On the fourth night, she found a bug in it. A real bug. A mistake in my program, that I hadn't seen.
+ZAWADI: You put twenty-nineteen instead of nineteen-ninety-two. See? So it thinks it rained, like, in the future.
+HARUTO: I said, "Zawadi, when you're older, you should be an engineer." And she looked at me like I was very stupid, and said:
+ZAWADI: Uh, obviously? I've been planning that since I was, like, eight.
+HARUTO: And when the data was all in, I built a new model. It used the satellite data, like before. But now it also used Mzee Joseph's forty-five years of local rainfall. And the signs. When the rain bird called. When the ants moved. When the wind changed.
+HARUTO: And the first thing it showed me was something that Mzee Joseph already knew. In Kisima, false starts are not rare at all. They happen about one year in four. And in almost every one of those years, the old signs, the ants, the bird, the trees, were late. The first rain came, but the signs said "not yet".
+HARUTO: The signs had been right all along. My model had just never been taught to listen to them.
+[amb off]
+[bgm off]
+
+# Tokyo Calls
+[sfx ringtone]
+[bgm mystery.115 0.12]
+HARUTO: On the thirtieth day, my boss called from Tokyo. Mr Ishida.
+ISHIDA (serious): Mori-kun. I've seen the reports. The farmers have lost their crops. The development fund is asking questions. The investors are asking questions. This is very bad for the company.
+HARUTO: Ishida-san, I understand. But I've found something important. A local data set, forty-five years, and the new model is much better, and...
+ISHIDA: I'm sorry. The decision has been made. The project is finished. You're coming home. Your flight is booked for next Thursday.
+HARUTO: Next Thursday. Eight days.
+HARUTO: And then, for the first time in my whole working life, I said no to my boss.
+HARUTO (serious): No. I'm sorry, Ishida-san. I can't leave yet. People here lost their seed because of our app. I won't run away. Give me until the end of the season. If I fail, I'll pay for my own flight.
+[pause 1.0]
+ISHIDA: ...You've changed, Mori-kun.
+HARUTO: I'm learning to walk slowly.
+ISHIDA: Two weeks. I can give you two weeks. Don't make me regret it.
+[bgm off]
+
+# Replanting
+[bgm afro.116 0.12]
+HARUTO: There was one more meeting under the fig tree. And this time, I didn't bring a presentation.
+HARUTO: I stood up in front of the whole village, and I told them everything. What went wrong with the model. Why it was too confident. What I had found in Mzee Joseph's exercise books. And what the new model said.
+HARUTO: The new model, and the old signs, said the same thing. The real rains were coming. Soon. Within two weeks.
+HARUTO: The families who had lost their seed had a problem, though. They had no seed left, and no money to buy more. So Neema made about a hundred phone calls. Her organisation, and the cooperative, and a seed company in Arusha, found a way to get new seed for every family that had lost theirs. A special kind of maize that grows faster, so it could still be harvested in time. And it can survive dry spells better.
+LEMA: My brother says thank you. And he says, this time, he will wait for Mzee Joseph to plant first.
+HARUTO: And then Mzee Joseph stood up, and said something that made everybody go quiet.
+JOSEPH (serious): The young man was wrong. And then he did a hard thing. He came and said he was wrong. In my life, I have seen many men who would rather lose their crops than say those words. This one will learn. Let him stay.
+[bgm off]
+
+# The Clouds
+[amb wind]
+[bgm spooky.117 0.12]
+HARUTO: On the fortieth day, the wind changed. It came from the east.
+HARUTO: On the forty-first day, the rain bird called all morning. The ants had finished moving their eggs.
+HARUTO: And on the forty-second day, in the late afternoon, enormous clouds began to build up over the mountain. Grey at the bottom, white at the top, taller than anything I had ever seen in Japan. The air felt heavy. The goats went quiet. Even Data, my chicken, went and sat under the bed.
+HARUTO: Mzee Joseph stood outside his house, with his stick, looking at the mountain. I went and stood next to him.
+JOSEPH (quiet): Tonight.
+HARUTO: Not "maybe". Not "eighty-two percent". Just "tonight".
+HARUTO: Now, there's one more thing you need to know. When we first installed the sensors, I put one in a strange place. Not in a field. In the dry riverbed, above the village. A water-level sensor. Sensor number seventeen. In the dry season, the riverbed is just sand and stones. Children play football in it. I put the sensor there almost as an experiment, because I had one left over.
+HARUTO: I didn't think about it again. Not until that night.
+[amb off]
+[bgm off]
+[amb rain]
+[sfx thunder]
+[bgm mystery.118 0.12]
+HARUTO: The rain started at about ten o'clock. Not soft rain. Heavy, crashing rain, like someone was emptying a swimming pool over the village. The thunder was so loud that the windows shook. I lay in bed, listening, and I felt... happy. It's here. The real rain. The seeds will grow.
+HARUTO: I fell asleep.
+HARUTO: And at two in the morning, my phone woke me up.
+[sfx buzz]
+HARUTO: An alert. From the app. A red one. I'd never seen a red one before. I'd programmed it months ago and forgotten about it.
+HARUTO (quiet): "Sensor seventeen. Water level rising. Rate of rise: very high."
+HARUTO: I looked at the graph. The line was going straight up.
+HARUTO: Somewhere up on the mountain, where the storm had been worst, a huge amount of water was coming down. Down into the dry riverbed. Down towards the village. Towards the low fields, by the river, where three families had built new houses last year, because the land there was cheap.
+HARUTO: I put on my shoes. I didn't tie them. I ran out into the rain.
+HARUTO: I ran to the only person I knew who would understand.
+[sfx knock]
+HARUTO (shout): Mzee! Mzee Joseph! Wake up! The river is coming!
+[amb off]
+[bgm off]
+[music mystery.119 14]

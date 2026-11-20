@@ -1,0 +1,188 @@
+title: Pole Pole (1/3)
+date: 2026-11-11
+description: A three-part story from northern Tanzania. Part 1 – agronomist Neema meets Haruto, a young engineer from Tokyo with three suitcases of sensors and an app that says it can predict the rain.
+voice: NEEMA = en-TZ-ImaniNeural
+voice: HARUTO = en-HK-SamNeural
+voice: JOSEPH = en-TZ-ElimuNeural -10% -8Hz
+voice: ZAWADI = en-US-AnaNeural
+voice: GRACE = en-KE-AsiliaNeural -4Hz
+voice: LEMA = en-KE-ChilembaNeural
+
+# Cold open
+[amb wind 0.6]
+NEEMA (calm): In my [[village]], the old people have a saying. "Haraka haraka haina baraka." Hurry, hurry, has no blessing.
+NEEMA (calm): Haruto Mori arrived in our village in a hurry.
+NEEMA (calm): He left it, six months later, walking slowly. And in between, we all nearly lost everything.
+[amb off]
+[music afro.94 16]
+
+# Kisima
+[bgm acoustic.95 0.14]
+NEEMA: My name is Neema Lyimo. I'm thirty-two years old, and I'm an agronomist. That means I study crops and soil, and I help farmers grow more food. I work for a small organisation in Arusha, in the north of Tanzania. But I didn't grow up in the city. I grew up in a village called Kisima, two hours' drive west, on the edge of the Great Rift Valley.
+NEEMA: If you could see Kisima from the sky, you would see red earth, small green fields, acacia trees shaped like umbrellas, and, far away on a clear morning, the mountains. Most families here are [[smallholders|smallholder]]. They grow maize, beans, a few sunflowers, and they keep some goats and a cow or two.
+NEEMA: And everything, absolutely everything, depends on the rain.
+NEEMA: Here in the north of Tanzania, we have two [[rainy seasons|rainy season]]. The long rains, which we call "masika", come around March. And the short rains, which we call "vuli", come around October or November. When the rain comes at the right time, in the right amount, the maize grows tall and everybody eats. When it doesn't...
+NEEMA: When I was ten years old, the short rains failed completely. Not one good shower, for months. The maize in our shamba... sorry, that's our word for a field... the maize in our field died before it was knee-high. My father sold our two cows to buy food. For most of that year, we ate one meal a day. I remember my mother giving me her portion and telling me she had already eaten. She hadn't.
+NEEMA: That year is the reason I became an agronomist. I wanted to understand the rain. I wanted to help families like mine [[cope with]] years like that.
+NEEMA: And [[these days]], it's getting harder. The old farmers all say the same thing. The rain is not like it used to be. It comes late. It comes early. It comes too much, all at once, and washes the soil away. Or it starts, and then it stops. The seasons have become unpredictable. That's what [[climate change]] looks like, in a village like mine. Not a graph. Just a farmer looking at the sky, and not knowing.
+[bgm off]
+
+# The Project
+[bgm citypop.96 0.12]
+NEEMA: So when my boss told me about the project, I was excited. And a little bit suspicious.
+NEEMA: A [[start-up]] company from Tokyo, called Amagumo, had developed an app. They had small [[sensors|sensor]] that you put in the ground to measure how wet the soil is. They had a little weather station. And they had a computer program, using [[satellite]] data and something called [[machine learning]], that could predict when the rains would really begin. The idea was simple. If farmers know the right day to plant, they waste less seed, and they get better harvests.
+NEEMA: The company had got a [[grant]] from an international development fund to test it in East Africa. And they had chosen Kisima. Partly because my organisation already worked there. And partly, I think, because I told them about my father's two cows.
+NEEMA: They were sending one engineer. His name was Haruto Mori. He was twenty-nine years old. And I was going to be his partner, his translator, and, as it [[turned out|turn out]], his babysitter.
+[bgm off]
+
+# The Airport
+[bgm kitchen.97 0.12]
+NEEMA: I went to meet him at Kilimanjaro International Airport, at eleven o'clock at night.
+NEEMA: I'll be honest, I recognised him immediately. Not because he was Japanese. Because he was the only person in the arrivals hall who was pushing three [[enormous]] silver suitcases, wearing a suit, and reading a printed timetable.
+NEEMA: Mr Mori? Karibu Tanzania! Welcome! I'm Neema.
+HARUTO (nervous): Ah! Neema-san! Hello! Thank you very much for coming. I'm very sorry for being late. The flight from Doha was delayed by forty-two minutes.
+NEEMA: Forty-two minutes is not late. In Tanzania, forty-two minutes is early.
+HARUTO: Ah. Ha ha. Yes. That is... a joke?
+NEEMA: Half a joke.
+NEEMA: In the car, on the way to Arusha, he showed me his timetable. He had planned every single day of the next two weeks. Not just the days. The hours. The minutes.
+HARUTO: Tomorrow, eight a.m., we leave Arusha. Ten a.m., we arrive at Kisima. Ten fifteen, meeting with farmers. Eleven a.m., we begin installation of sensors. I [[calculated|calculate]] that we can install six sensors per hour, so by Friday, all sixty sensors will be...
+NEEMA: Mr Mori.
+HARUTO: Please, call me Haruto.
+NEEMA: Haruto. Can I give you one piece of advice?
+HARUTO: Of course.
+NEEMA: Put the timetable away. Just for tomorrow. Just put it in your bag, and watch.
+NEEMA: He looked at me like I'd asked him to put his heart in his bag. But he did it. Slowly. Very slowly.
+[bgm off]
+
+# The Meeting Tree
+[amb birds 0.6]
+[bgm afro.98 0.12]
+NEEMA: In the middle of Kisima, there's a very old fig tree. It's huge. Its branches cover the whole square, and underneath it, there's cool shade, even at midday. Every important meeting in the village has happened under that tree for longer than anyone can remember.
+NEEMA: When we arrived at ten o'clock the next morning, about sixty farmers were waiting under the tree. Men and women, old and young, sitting on benches and stones and plastic chairs. And at the front, on a wooden stool, was Mzee Joseph Laizer.
+NEEMA: "Mzee" means "elder" in Swahili. It's a word of respect, for an old man. And Mzee Joseph is the most respected farmer in Kisima. He's seventy-four. He's very tall and very thin, and he has a walking stick that he doesn't really need, and he speaks slowly, because he knows everybody will wait.
+NEEMA: Now, in our [[culture]], a meeting doesn't start with business. It starts with greetings. Long greetings. You greet the elders first, one by one. You ask about their health. You ask about their families. You ask about their animals, their fields, their health again. It's a sign of respect. It says: you are a person, not a job.
+NEEMA: The greetings took twenty-five minutes. I watched Haruto. His hand kept moving towards his bag, where the timetable was. I gave him a look. His hand stopped.
+NEEMA: Then I introduced him. And he did something that made the whole village laugh.
+NEEMA: You see, he'd learned some Swahili on the plane. And he'd learned the word "Shikamoo". It's a very respectful greeting, for older people. A young person says "Shikamoo" to an elder, and the elder answers "Marahaba".
+NEEMA: So Haruto walked to the front, and bowed, very low, Japanese style, and said "Shikamoo"... to the person standing next to Mzee Joseph. Who was his granddaughter, Zawadi. Who is twelve.
+[pause 0.5]
+ZAWADI (cheerful): Uh... Marahaba?
+NEEMA: Sixty farmers laughed so hard that the birds flew out of the tree. Even Mzee Joseph smiled. And Haruto went bright red, and bowed again, and said "sorry, sorry, sorry", and somehow, that was the moment the village decided they liked him.
+[amb off]
+[bgm off]
+
+# Can Your Machine Smell the Rain?
+[bgm afro.99 0.12]
+NEEMA: Then Haruto explained the project, and I translated. He had a laptop with a presentation. Graphs. Maps. Satellite photos. Very clever. Very colourful. And about half of it went straight over everybody's heads, including mine.
+NEEMA: But the main idea was clear enough. The sensors would measure the soil. The weather station would measure the air. The computer would look at data from satellites, and from years of weather records. And before each season, the app would send a message to every farmer's phone, even the old simple phones, saying: "Plant now." Or: "Wait."
+LEMA: This is very good. Very modern. Our farmers are ready for this.
+NEEMA: That was Mr Lema, the chairman of the farmers' [[cooperative]]. He loves anything modern. He has two phones and a [[solar panel]] on his roof, and he wears sunglasses even in the rain.
+NEEMA: And then Mzee Joseph raised his hand. And everybody went quiet.
+JOSEPH (calm): Young man. I have one question.
+HARUTO: Yes, of course. Please.
+JOSEPH (calm): Can your machine smell the rain?
+NEEMA: Haruto looked at me. I translated. He looked confused.
+HARUTO: Smell? Ah... no. The sensors measure moisture, temperature, air pressure, wind speed...
+JOSEPH: I can smell the rain. Three days before it comes. I can see it in the ants, when they carry their eggs up to higher ground. I can hear it in the bird we call the rain bird, when he starts calling from the trees. I can see it in the wind, when it turns and comes from the east. My father taught me this. His father taught him. We have been watching this sky for a very long time.
+JOSEPH (calm): Your machine has been watching it for how long?
+NEEMA: Haruto opened his mouth. Then he closed it. Then he bowed his head, and said, very honestly:
+HARUTO (quiet): Not long, Mzee. Not long at all.
+NEEMA: Mzee Joseph nodded. And I saw something in his face. Not anger. Not exactly respect, yet. More like... curiosity.
+JOSEPH: Good. Then you can put your machines in my fields too. We will see who is right.
+[bgm off]
+
+# The Busy Week
+[bgm kitchen.100 0.13]
+NEEMA: For the next two weeks, Haruto worked like a man possessed.
+NEEMA: He started at six every morning and finished after dark. He dug holes for the sensors. He climbed onto roofs to put up the weather station. He walked from field to field in the heat of the day, in a white shirt and a hat that was much too small for the African sun. On the second day, his face and his neck went bright red. On the third day, they started to peel.
+NEEMA: I told him to rest. He wouldn't. I told him to drink water. He drank coffee. I told him that in Kisima, nobody works in the fields between twelve and three, because the sun is too strong. He said that in Japan, people work through lunch to show they are serious.
+NEEMA: That's when I taught him the most important words in Swahili.
+NEEMA: Haruto. "Pole pole."
+HARUTO: Pole pole. Yes. I've heard this. Everybody says it to me. What does it mean?
+NEEMA: It means slowly, slowly. Gently. Take your time.
+HARUTO (tired): But we don't have time. The rains are coming in a few weeks. The sensors must be ready.
+NEEMA: The sensors will be ready. You won't be, if you fall over in a field.
+NEEMA: There were other problems too. On Wednesday, a goat ate the cable of sensor number twelve. On Thursday, a different goat ate the cable of sensor number thirty-one. Haruto stood in the field, holding the chewed cable, looking at the goat, and the goat looked back at him, chewing, with no shame at all.
+HARUTO (dry): In Japan, we have no goats.
+NEEMA: You have no goats?
+HARUTO: We have some goats. In zoos. They are very polite goats.
+NEEMA: And everywhere he went, the children followed him. A long line of small children, giggling, shouting "Mchina! Mchina!"
+HARUTO: What are they saying?
+NEEMA: They're saying "Chinese man".
+HARUTO: But I'm Japanese.
+NEEMA: I know. To them, it's the same. Most of them have never met anyone from East Asia. Except the Chinese engineers who built the new road.
+NEEMA: So the next day, Haruto stood in the road, and gave the children a little lesson. "I am not Mchina. I am Mjapani. Japan." And he showed them Japan on his phone. Mount Fuji. The bullet train. A cat café. After that, they followed him shouting "Mjapani! Mjapani!", which he said was much better.
+[bgm off]
+
+# Ugali
+[amb fire 0.6]
+[bgm acoustic.101 0.12]
+NEEMA: On Friday evening, Mama Grace, Mzee Joseph's wife, invited us for dinner. And this was Haruto's first ugali.
+NEEMA: Ugali is our [[staple food]]. It's maize flour, cooked with water until it's thick and firm, like a soft white cake. You eat it with your right hand. You take a small piece, you roll it into a ball with your fingers, you press your thumb into it to make a little hole, and you use it like a spoon, to [[pick up]] the stew or the greens.
+NEEMA: Haruto watched Zawadi do it. Then he tried. The ugali stuck to his fingers. It stuck to his palm. It stuck to his other hand when he tried to take it off. By the end, he had ugali on his shirt, his trousers, and, somehow, his ear.
+ZAWADI (cheerful): You're doing it wrong! Like this! Look! Roll, press, dip!
+NEEMA: Zawadi, by the way, learned most of her English from watching videos on her uncle's phone. So she sounds like a teenager from California. It's very confusing for visitors.
+ZAWADI: Okay, so basically, you need to, like, not squeeze it so hard? It's not, like, an enemy?
+GRACE (warm): Leave him alone, Zawadi. He's trying. Eat, my son. Eat. You're too thin. You work too much.
+HARUTO: Asante sana, Mama. It's... very delicious.
+NEEMA: He meant it. He ate three plates. And after dinner, sitting by the fire, with ugali still in his ear, he was quiet for a long time.
+NEEMA: Later that night, I walked past the little guest house where he was staying. It was two in the morning, and his light was still on. Through the window, I could see him on a video call. A man in a white office, in Tokyo, where it was already morning. The man was talking. Haruto was bowing. He kept bowing. He looked very tired, and very alone.
+NEEMA: I didn't know then what was on his shoulders. I would [[find out]] later.
+[amb off]
+[bgm off]
+
+# Plant Now, or Wait?
+[bgm mystery.102 0.14]
+NEEMA: By the end of October, everything was ready. Sixty sensors in the ground. The weather station on the roof of the school. The app on every farmer's phone.
+NEEMA: And on the twenty-eighth of October, at six o'clock in the morning, every phone in Kisima buzzed at once.
+[sfx buzz]
+NEEMA (serious): "Short rains expected to begin within five days. Probability eighty-two percent. Recommended action: plant now."
+NEEMA: You have to understand what this means for a farmer. Seed is [[expensive]]. Most families can only afford to plant once. If you plant, and the rain comes, wonderful. If you plant, and the rain doesn't come, your seed dies in the ground, and your money dies with it. There is no second chance.
+NEEMA: So that evening, there was another meeting under the fig tree. A big one. The whole village.
+LEMA (excited): The machine says plant. Eighty-two percent! That's science! The scientists in Japan have checked it. Why are we waiting?
+NEEMA: Many of the younger farmers agreed with him. They were tired of waiting, tired of guessing. They wanted to try something new.
+NEEMA: Then Mzee Joseph stood up. Slowly.
+JOSEPH (serious): The ants have not moved. The rain bird has not called. The wind is still from the south. It is not time. Wait three weeks. Maybe four.
+LEMA: With respect, Mzee, the world has changed. The old signs don't work any more. You said yourself the rain is different now.
+JOSEPH: The rain is different. The rain is not stupid.
+NEEMA: And then everybody turned to look at Haruto. All two hundred people.
+NEEMA: He stood there for a long moment. I could see him thinking. I could see him wanting to say "I'm not sure." But his company had spent a lot of money. His boss in Tokyo was waiting for results. And his computer said eighty-two percent.
+HARUTO (nervous): The model... the model is very [[accurate]]. In our tests, it was correct most of the time. I believe... I believe it is a good time to plant.
+NEEMA: In the end, the village split. About two thirds of the farmers planted that week, with the app. The rest waited, with Mzee Joseph. My own uncle planted. My cousin waited. It was like that in every family.
+[bgm off]
+
+# The Rain
+[bgm afro.103 0.12]
+NEEMA: And on the second of November, four days later, exactly as the app predicted, the sky went dark.
+[sfx thunder]
+[amb rain]
+NEEMA (excited): And the rain came.
+NEEMA: Oh, it was beautiful. Big, heavy drops, hitting the red dust, and that smell. That smell of the first rain on dry ground. It rained all afternoon and all night. Children ran out and danced in it. Old women stood in their doorways with their eyes closed and their hands out, just feeling it.
+NEEMA: The next morning, the soil sensors were all green on Haruto's laptop. Mr Lema walked around the village shaking everybody's hand, as if he had made the rain himself. People came to the guest house to thank Haruto. They brought him eggs, and bananas, and a live chicken, which he didn't know what to do with, so he named it "Data" and it followed him around for a week.
+NEEMA: And a few days later, in the fields that had been planted, the first tiny green shoots of maize came up through the red earth. Thousands of them. In perfect lines.
+NEEMA: Haruto walked through the fields with his phone, taking photos to send to Tokyo. I'd never seen him smile so much.
+NEEMA: Mzee Joseph's fields were still bare. Brown and empty. People walked past them and shook their heads a little. Some of the young men made jokes. Mzee Joseph said nothing. He sat outside his house in the evenings, looking at the sky, and listening.
+[amb off]
+[bgm off]
+
+# And Then
+[bgm spooky.104 0.12]
+NEEMA: The second day after the rain, the sky was clear.
+NEEMA: The third day, clear.
+NEEMA: The fifth day, clear and hot. The sensors on Haruto's laptop started to change colour. Green. Then yellow.
+NEEMA: The tenth day. No rain. No clouds. Just the sun, every day, white and hard, and a hot wind from the south.
+NEEMA: The young maize plants started to curl their leaves, the way maize does when it's thirsty. Like hands closing.
+NEEMA: The fifteenth day. The sensors were orange. The soil was drying out, one centimetre at a time. Farmers were carrying water from the well in buckets, trying to save a few rows of their seedlings. It was hopeless. You can't water a whole field with buckets.
+NEEMA: I found Haruto sitting in the guest house, in the dark, with his laptop open, looking at the numbers. He hadn't slept. He hadn't eaten. Data the chicken was asleep on his shoes.
+HARUTO (quiet): Neema. The model said eighty-two percent.
+NEEMA: I know.
+HARUTO (quiet): I told them to plant.
+NEEMA: I know.
+NEEMA: There's a name for what happened. Scientists call it a "false onset". The rain starts, everybody plants, and then the rain stops again, for weeks. It's one of the most dangerous things that can happen to a farmer. And it was happening to us.
+NEEMA: That night, I walked home past Mzee Joseph's house. He was sitting outside, as always, in the dark, looking at the stars. He didn't look happy that he'd been right. He looked like a man watching his neighbours' children go hungry.
+NEEMA: The twentieth day. Still no rain.
+NEEMA: The twenty-fifth day.
+[pause 1.0]
+NEEMA (quiet): And still, the rain did not come back.
+[bgm off]
+[music mystery.105 14]

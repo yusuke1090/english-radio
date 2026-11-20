@@ -1,125 +1,167 @@
-title: Maize, Rain and Resilience
-date: 2026-11-17
-description: A South African agronomist on maize, drought and small farms in Malawi and Zambia. Then a report on Glastonbury, the music festival on a dairy farm, and Sonia and Ryan look back on ten episodes.
-guest: LUKE=en-ZA-LukeNeural
+title: Stories by the Fire
+date: 2026-11-10
+description: Uncle Femi tells three old West African folktales around the fire – how Anansi the spider bought all the world's stories, why the Sun and the Moon live in the sky, and the pot that held all the wisdom.
+voice: FEMI = en-NG-AbeoNeural -4%
+voice: TOLU = en-NG-EzinneNeural +6% +18Hz
 
-# Farm and Tech
-SONIA: Good morning, and welcome to English Radio. I'm Sonia.
-RYAN: And I'm Ryan. And this is a special one, Sonia. It's our tenth episode.
-SONIA: Ten episodes! [[Time flies|time flies]]. And to celebrate, we're going back to where many of our stories have taken us: the farms of Africa.
-RYAN: This time, we're heading to the south of the continent, to talk about one crop that feeds millions of people: maize.
-SONIA: Our guest is Luke, an agronomist from South Africa who works with small farmers in Malawi and Zambia. Luke, welcome to English Radio.
-LUKE: Thanks, Sonia. Good to be with you both.
-RYAN: Luke, how important is maize in southern Africa?
-LUKE: It's hard to overstate it. In countries like Malawi, Zambia and Zimbabwe, maize is the [[staple food]]. People eat it every day, usually as a thick porridge made from maize flour. In Malawi it's called nsima, in Zimbabwe it's sadza, in South Africa we call it pap, and in East Africa, as your listeners may know, it's ugali.
-SONIA: Imani told us about ugali in our episode on Swahili. You roll it into a ball with your fingers.
-LUKE: Exactly the same idea. And in many homes, if you haven't eaten nsima, you haven't really eaten, even if you've had a big meal of something else.
-RYAN: That's interesting, because maize isn't originally from Africa, is it?
-LUKE: No, it's not. Maize was [[domesticated|domesticate]] in Mexico, thousands of years ago, from a wild grass. It arrived in Africa through Portuguese traders, around the sixteenth century. Over time, it replaced older crops like sorghum and millet in many areas, because it gives high yields when the conditions are good.
-SONIA: When the conditions are good. I sense a but coming.
-LUKE: You're right. The big weakness of maize is water. It's quite sensitive to drought, especially at the moment when the plant is flowering. If it doesn't rain for two or three weeks at that critical time, the harvest can be ruined.
-RYAN: And most farms there depend on rain, rather than [[irrigation]]?
-LUKE: The vast majority, yes. Most farmers in Malawi have small plots, often around one hectare, and they rely completely on the [[rainy season]], which runs roughly from November to April. There's just one main harvest a year. So the whole family's food for the next twelve months depends on a few months of [[rainfall]].
-SONIA: That sounds incredibly [[vulnerable]].
-LUKE: It is. Many families practise what we call [[subsistence farming]]. They grow food mainly to eat themselves, and they sell only a little. If the harvest is poor, there's no savings account to fall back on.
-RYAN: Have there been bad years recently?
-LUKE: Yes. In early twenty twenty-four, southern Africa had one of its worst droughts in decades, linked to a strong El Niño, which is a natural climate pattern in the Pacific Ocean that affects weather around the world. February, which should be one of the wettest months, was extremely dry in many areas. Malawi, Zambia and Zimbabwe all declared national disasters.
-SONIA: That's terrible. What happened to the farmers?
-LUKE: In the worst-hit areas, maize crops simply dried up in the fields. Families lost most of their harvest, and food prices rose sharply. Millions of people needed food aid. And in Zambia and Zimbabwe, which depend on [[hydroelectric]] power from dams, the low water levels also caused long [[power cuts|power cut]].
-RYAN: So the drought hit food and electricity at the same time.
-LUKE: Exactly. That's the thing about [[extreme weather]]. It doesn't just affect one sector. It affects everything.
-SONIA: And climate change is making this more likely?
-LUKE: Scientists expect the region to face more variable rainfall and higher temperatures. Not every year will be a drought, but the extremes are likely to become more frequent. So farmers need to become more resilient, and that's a big part of my work.
-RYAN: What does building [[resilience]] look like on a small farm?
-LUKE: Several things. The first is better seeds. Plant breeders, working with international research centres, have developed drought-tolerant maize varieties. They're not magic, but in a dry year, they can give a much better harvest than older varieties.
-SONIA: Are these [[genetically modified]]?
-LUKE: Most of the ones we use are not. They're developed through conventional breeding, selecting the plants that survive dry conditions best, over many generations. It's slow work, but very effective.
-RYAN: What else?
-LUKE: The second is changing how the soil is managed. We teach something called conservation agriculture. You disturb the soil as little as possible, you cover it with crop residues, like old maize stalks, and you rotate or mix maize with legumes, such as groundnuts, soybeans and pigeon peas.
-SONIA: That sounds very similar to what Liam told us about the Canadian prairies.
-LUKE: It's the same science, just on a much smaller scale. The covering on the soil keeps the moisture in, so the crop can survive a dry spell for longer. And the legumes are wonderful, because they take nitrogen from the air and put it into the soil, which reduces the need for expensive fertiliser. Farmers can also eat or sell the beans and peas, so they're not relying on just one crop.
-RYAN: So diversity is important.
-LUKE: Absolutely. That's the third point. Don't put all your eggs in one basket. Some farmers are going back to traditional crops, like sorghum, millet, cassava and sweet potatoes, which cope much better with drought. A field with five different crops is much safer than a field with only maize.
-SONIA: Are there any new technologies helping?
-LUKE: Quite a few, and most of them run on the mobile phone, like in Kenya. Farmers can receive weather forecasts and planting advice by text message or through local radio programmes. There are apps where you take a photo of a damaged leaf, and the software helps identify the [[pest]] or disease.
-RYAN: What kind of pests are a problem?
-LUKE: The big one in recent years has been the fall armyworm. It's a caterpillar that originally came from the Americas. It was first reported in Africa in twenty sixteen, and within a couple of years it had spread across most of the continent. It loves maize. So catching it early really matters.
-SONIA: You mentioned that families have no savings account to fall back on. Is there anything like insurance for farmers?
-LUKE: Yes, and it's a very interesting idea. It's called index [[insurance]]. Traditional insurance needs someone to visit the farm and inspect the damage, which is far too expensive for millions of tiny farms. With index insurance, the payment is based on data, for example rainfall measurements or satellite images. If the data shows a drought in your area, everyone with a policy gets paid automatically, often through mobile money.
-RYAN: So it's like the cooperative payments in Kenya. Data and phones working together.
-LUKE: Exactly. It's still not widely used, and there are challenges, especially making it [[affordable]]. But it's promising.
-SONIA: What about after the harvest? Is storage an issue?
-LUKE: A big one. A surprising amount of grain is lost after harvest, to insects, rats and mould. One simple and very effective solution is a special airtight bag. You put the dry maize inside, seal it, and the insects run out of oxygen and die. No chemicals needed.
-RYAN: That's beautifully simple.
-LUKE: Often the simplest solutions are the best. A good bag, a good seed, a covered soil, and a phone with a weather forecast. Put those together, and a family can be far more secure.
-RYAN: Luke, you've talked a lot about maize. But is there any farming in Malawi that isn't about maize?
-LUKE: Definitely. For many years, Malawi's most important export has been tobacco. It's a [[cash crop]], which means farmers grow it to sell, not to eat. It has brought in a lot of money, but it's a difficult crop to depend on, because demand for tobacco is falling around the world.
-SONIA: So the country needs to find new crops to sell.
-LUKE: Exactly. People are trying things like macadamia nuts, soybeans, and groundnuts for export. And then there's Lake Malawi, which is enormous. It covers about a fifth of the whole country. Fishing is very important, and the most famous fish is called chambo. It's a kind of tilapia, and grilled chambo with nsima is a classic Malawian meal.
-RYAN: That sounds delicious. Is the lake used for farming too?
-LUKE: More and more. And this is one of the most exciting changes I've seen. Small solar-powered pumps. A farmer near a river or the lake can now pump water onto their fields without paying for diesel. That means they can grow vegetables in the [[dry season]], when prices at the market are high.
-SONIA: So the sun, which causes the drought, can also help solve it.
-LUKE: That's a nice way to put it. Solar pumps aren't cheap, but prices have come down a lot, and some companies let farmers pay in small amounts every month, using mobile money.
-RYAN: Mobile money again! It's been in so many of our stories.
-LUKE: It's one of the most important inventions for African farmers in my lifetime. And young people are getting involved too. I've met young Malawians who run small businesses selling vegetables to hotels and supermarkets in the city, and they're using phones, social media and irrigation to make a real living from farming.
-SONIA: That's very encouraging, after hearing so often that young people are leaving farming.
-LUKE: It's not everywhere, but it's growing. When farming makes money, young people come back.
-SONIA: Luke, what keeps you optimistic?
-LUKE: The farmers themselves. I've met women in Malawi who were growing only maize ten years ago, and now they have groundnuts, pigeon peas, a few goats and a small vegetable garden. When the drought came, they still had something to eat and something to sell. Seeing that change is what gets me out of bed in the morning.
-RYAN: Luke, thank you so much for joining us.
-LUKE: My pleasure. And congratulations on your tenth episode.
+# Evening
+[amb night 0.5]
+[music afro.82 14]
+[amb fire 0.9]
+[bgm afro.83 0.1]
+FEMI (warm): Come, come. Sit down. Closer to the fire. Tolu, move up, let your cousin sit. There's room for everybody.
+FEMI: Good. Is everybody comfortable? Has everybody eaten? Good. Because a story on an empty stomach is like rain on a tin roof. Very loud, and nobody remembers it.
+TOLU: Uncle Femi, are you going to tell the spider story?
+FEMI: Maybe. Maybe. First, let me tell you how we begin.
+FEMI: When I was a small boy, in my grandmother's village, near Abeokuta, in the south-west of Nigeria, there was no television. There was no phone. When the sun went down, it was dark, really dark, and the only light was the fire. So in the evenings, all the children would sit around my grandmother, just like you're sitting around me now. And she would tell us stories.
+FEMI: My grandmother spoke Yoruba. And in Yoruba, when a storyteller wants to begin, she calls out, "Alo o!" And all the children shout back, "Alo!" That means: we are ready. Tell us.
+FEMI: So. Let's try it. Alo o!
+TOLU (excited): Alo!
+FEMI: That was very weak. I've heard louder goats. Alo o!
+TOLU (shout): Alo!
+FEMI (happy): Good! Now we can begin.
+FEMI: These [[folk]] stories are very old. Some of them are [[ancient]]. Nobody wrote them down for hundreds of years. They lived only in people's mouths, and people's memories. They were passed down from [[generation]] to generation. Grandmothers told them to grandchildren, who grew up and told them to their own grandchildren. Every storyteller changed them a little bit. So if you hear these stories somewhere else, they might be a bit different. That's fine. That's how a story stays alive. A story that never changes is a dead story.
+FEMI: This is our [[cultural heritage]]. It doesn't live in a [[museum]]. It lives right here, around this fire. And now you're going to carry it. So listen carefully.
+[bgm off]
 
-# The Report
-RYAN: Now it's time for The Report. Sonia, for our tenth episode, you've chosen a story that brings together two of this show's favourite subjects.
-SONIA: That's right, Ryan: dairy farming and music. Every few summers, one of the most famous music [[festivals|festival]] in the world takes place on a working dairy farm in the south-west of England. It's called Glastonbury.
-SONIA: The festival is held at Worthy Farm, in the village of Pilton, in Somerset, the same county that gave the world cheddar cheese. The farm has been run by the Eavis family for generations. In nineteen seventy, a young dairy farmer called Michael Eavis decided to hold a small music festival on his land. About fifteen hundred people came. The ticket price was one pound, and it included free milk from the farm.
-SONIA: Since then, the festival has grown enormously. Today, around two hundred thousand people attend, making it one of the largest outdoor music festivals in the world. For five days in late June, the fields become a temporary city, with more than a hundred stages, from the famous Pyramid Stage, where the biggest stars perform, to tiny tents for poetry, comedy and theatre. Tickets often sell out within an hour.
-SONIA: Before the festival, the cows are moved off the land. Afterwards, an enormous clean-up begins, and within a few weeks, the cows are back, grazing in the fields where crowds were dancing. Every few years, the organisers take a break, called a fallow year, to let the land recover and to give the village and the farm a rest.
-SONIA: The festival has always had a strong sense of social purpose. It raises millions of pounds for [[charities|charity]], including organisations working on poverty, the environment and clean water. It has also tried to reduce its environmental impact. In twenty nineteen, Glastonbury stopped selling drinks in [[single-use plastic]] bottles, and festival-goers are encouraged to bring reusable bottles and take their tents home with them, rather than leaving them behind.
-SONIA: The weather, of course, is part of the legend. In wet years, the fields turn into a sea of mud, and photos of festival-goers in wellington boots, covered in mud but still smiling, appear in newspapers around the world.
-SONIA: Today, the festival is run by Michael's daughter, Emily Eavis, while Michael, now in his nineties, still lives on the farm. Over fifty years, it has grown from a small gathering in a field into a global event. And yet, at its heart, it is still what it was in nineteen seventy: a farm, a family, and a lot of music. That's the report for today.
-RYAN: Thanks, Sonia. Free milk with your ticket. I love that.
-SONIA: It's the most Somerset thing I've ever heard.
+# Story One: How Anansi Bought the Stories
+[music afro.84 8]
+[bgm afro.85 0.1]
+FEMI: The first story isn't from Nigeria. It comes from our neighbours in Ghana, from the Ashanti people. And it's about the most famous character in all of West Africa.
+TOLU: The spider!
+FEMI: The spider. Kwaku Anansi. Anansi is small. Anansi is weak. Anansi is lazy, and greedy, and he tells lies. But Anansi is also the cleverest creature in the whole forest. He can't win a fight, so he wins with his head.
+FEMI: And the Anansi stories travelled a very long way. Hundreds of years ago, when people from West Africa were taken across the [[ocean]], to the Caribbean and to the Americas, they lost almost everything. Their homes, their families, their names. But they kept their stories. So today, you can hear stories about Anansi in Jamaica, in the Caribbean [[islands|island]], and in America. The little spider crossed the ocean with them.
+FEMI: Now. A long, long time ago, at the beginning of the world, there were no stories on Earth. Not one. People worked, and ate, and slept, and that was all. In the evenings, they just sat in silence and looked at each other. Imagine that. No stories at all.
+TOLU: That's so boring.
+FEMI: Extremely boring. Because all the stories in the world belonged to one person. Nyame, the Sky God. He kept them in a big wooden box, up in the sky, and he didn't share them with anybody.
+FEMI: Anansi wanted those stories. So he spun a long, long thread of silk, all the way up to the sky, and he climbed it, and he went to see Nyame.
+FEMI (serious): "Great Sky God," he said, "I would like to buy your stories."
+FEMI: Nyame laughed so hard that thunder rolled across the sky.
+[sfx thunder 0.5]
+FEMI: "You? A tiny spider? Kings have come to me to buy these stories. Rich men from great cities have come with gold. And all of them went home with nothing. What can you give me?"
+FEMI (serious): "Tell me the price," said Anansi.
+FEMI: So Nyame thought of the most impossible price he could. "Bring me four things. Bring me Onini, the python, the greatest [[predator]] in the forest, who can swallow a goat. Bring me Osebo, the leopard, with teeth like knives. Bring me Mmoboro, the hornets, who sting like fire. And bring me Mmoatia, the fairy whom nobody ever sees. Bring me all four, and the stories are yours."
+FEMI: Anansi bowed. He was [[determined]]. And he climbed back down to Earth. And he went home, and sat down, and thought. And thought. And thought.
+TOLU: How can a spider catch a python?
+FEMI: That is exactly what Anansi asked himself. And this is what he [[came up with|come up with]].
+FEMI: First, the python. Anansi cut a long, straight branch from a palm tree. Then he walked through the forest, very near to where Onini the python lived, arguing loudly with himself.
+FEMI (fast): "He's longer than this branch! No, he's not! Yes, he is! No, he's definitely not! I'm telling you, he's much shorter!"
+FEMI: The python heard this, and he came out of the grass. "Anansi, what are you shouting about?"
+FEMI: "Oh, Onini! Thank goodness. My wife and I are having an argument. She says you're longer than this branch. I say you're much shorter. We can't agree."
+FEMI: Now, the python was very proud of his length. "Shorter? Ridiculous! Put the branch down, and I'll show you."
+FEMI: So the python lay down along the branch. "But, Onini," said Anansi, "when you stretch at one end, you get shorter at the other. Let me tie your head to the branch, just to be fair. There. And your tail. There. And your middle. There."
+FEMI: And when the python was tied up tight, from head to tail, Anansi said, "Well, it looks like my wife was right. You are longer. Now, come with me. Somebody in the sky would like to meet you."
+TOLU (happy): Ha! He tricked him!
+FEMI: He tricked him. That's one.
+FEMI: Next, the leopard. Anansi dug a deep hole in the ground, right on the path where Osebo the leopard walked every night. He covered the hole with leaves and branches. And in the night, the leopard walked along, and... whoosh! Down he fell, into the hole.
+FEMI: In the morning, Anansi came and looked down. "Osebo! My poor friend! What happened? Here, let me help you out. I'll bend down this tree, and tie it to your tail, and pull you up."
+FEMI: The leopard was so [[grateful]]. But as soon as his tail was tied, Anansi let go of the tree, and it sprang back up, and the leopard was hanging upside down by his tail, too high to bite anybody. That's two.
+FEMI: The hornets were next. Anansi filled a dried gourd, a kind of hollow fruit, with water. He walked to the hornets' nest, poured some water over the nest, and poured the rest over his own head. Then he held a big leaf over his head like an umbrella and shouted, "Hornets! Hornets! It's raining! Your nest will be destroyed! Quickly, fly into this gourd, it's dry in here!"
+FEMI: And the hornets, thinking they were being rescued, flew straight into the gourd. And Anansi put a lid on it. That's three.
+FEMI: And the last one, the fairy, Mmoatia. Nobody ever sees her. So how do you catch someone you can't see?
+TOLU: I don't know.
+FEMI: Anansi carved a little wooden doll. He covered it in sticky gum from a tree, so sticky that anything that touched it would never come off. He put the doll at the foot of a tree where the fairies played. And in front of the doll, he put a bowl of the best yams you have ever tasted.
+FEMI: Mmoatia came. She ate all the yams. Then she said to the doll, "Thank you for the yams." The doll said nothing. "I said thank you," said the fairy. The doll said nothing. "How rude!" said the fairy. "Answer me, or I'll slap you!" Still nothing. So she slapped the doll. And her hand stuck. So she slapped it with the other hand. And that stuck too. Then she kicked it, and her foot stuck, and then the other foot, and then she was completely stuck to the doll, and Anansi came out from behind the tree, smiling. That's four.
+[bgm off]
+[bgm afro.86 0.1]
+FEMI: So Anansi climbed back up his silk thread to the sky, with a python, a leopard, a gourd full of hornets, and a very angry fairy. And he put them all down in front of Nyame.
+FEMI: And all the gods and all the elders in the sky were silent. Nobody had ever done this. Kings had tried, and failed. And a tiny spider had done it.
+FEMI: And Nyame stood up, and said, "From today, all the stories in the world belong to Anansi. We will call them Anansi stories."
+FEMI: And Anansi carried the big wooden box down to Earth, and opened it. And the stories flew out, all over the world, into every village and every house. And people never sat in silence in the evenings again.
+FEMI: And that is why, to this day, in many places, all stories, even stories that have nothing to do with spiders, are called Anansi stories.
+TOLU: So this story is an Anansi story too?
+FEMI: Every story is an Anansi story, my child. Even yours.
+[bgm off]
 
-# Daily Talk
-RYAN: So, Sonia, ten episodes. How does it feel?
-SONIA: Honestly, I'm a bit [[nostalgic]] already. Shall we [[look back on]] some of our favourite moments?
-RYAN: Let's do it. What's your [[highlight]]?
-SONIA: Oh, there are so many. But I think my favourite is still the man in the van, from the very first episode.
-RYAN: The man in the van who gave you a round of applause for your car karaoke!
-SONIA: Exactly. I still think about him. If you're listening, sir, thank you for your support.
-RYAN: Mine is probably Natasha and the kangaroo. Walking across a field in Australia to collect a drone, and a kangaroo jumping out of nowhere.
-SONIA: That was brilliant. And Maureen, the bossy cow in Connor's herd.
-RYAN: Maureen! I want to visit Ireland just to meet Maureen.
-SONIA: And Wanjiru's goat, stealing the neighbour's Napier grass.
-RYAN: The goat that started a hundred arguments. And Liam's underwear test, burying cotton underwear in the field to check the soil.
-SONIA: I still can't believe that's a real scientific method.
-RYAN: It is! I've actually buried a pair in my garden. I'll dig them up in January.
-SONIA: You have to tell us the results.
-RYAN: I promise. And then there was Wayne's lettuce nightclub in Singapore.
-SONIA: The pink and purple lights! And his grandmother saying the lettuce was good.
-RYAN: The best review he ever had. What about the food? We've talked about a lot of food.
-SONIA: We have. Cheese, curry, street food, breakfast, Christmas dinner. And tea. So much tea.
-RYAN: I think tea has come up in almost every episode.
-SONIA: Every single one, I think. Milk first or milk last, the tea round, Kenyan chai, a cup of tea with cheddar, the tea tray for sledging…
-RYAN: The tea tray! I'd forgotten about that.
-SONIA: I think tea is the unofficial third presenter of this show.
-RYAN: I agree. What have you learned, Sonia? Anything that surprised you?
-SONIA: I think the biggest surprise for me was how connected everything is. A cow in New Zealand, a cooperative in Kenya, a drone in Australia, a farmer in Malawi. They're all facing similar questions. How do you produce food with less water, less labour, and a changing climate?
-RYAN: And they're using similar tools. Sensors, phones, data, and cooperation.
-SONIA: And also very old wisdom. Making silage, rotating crops, covering the soil. Some of the best solutions are really simple.
-RYAN: That's true. And for me, the surprise was how much music and food tell you about a culture. Afrobeats from Lagos, city pop from Tokyo, the langar in Amritsar. Every one of those stories was really about people and how they live together.
-SONIA: Beautifully put. Now, let's say something to our listeners. If you've been with us for all ten episodes, you've heard a lot of English. Different accents too. New Zealand, Kenya, Australia, Ireland, Nigeria, Canada, Tanzania, Singapore, India and South Africa.
-RYAN: That's ten different accents, which is great practice. In real life, and in exams, you won't only hear British English.
-SONIA: Exactly. And we've given you lots of challenges. Shadowing in the car, describing your breakfast, explaining the British round, singing along to a song.
-RYAN: [[In a nutshell|in a nutshell]], keep listening, keep repeating, and keep talking. Even if it's just to yourself in the car.
-SONIA: Especially in the car. Nobody can hear you.
-RYAN: Except the man in the van.
-SONIA: Except the man in the van. Ryan, what would you like to do in the next ten episodes?
-RYAN: I'd love to visit more places. Maybe South America, or the Middle East. And I'd love to talk about more music.
-SONIA: I'd like to learn more about Japan, since so many of our listeners are there. And maybe some science. Space, or the human brain.
-RYAN: And more cows, obviously.
-SONIA: There will always be more cows.
-RYAN: Well, I'm really [[grateful]] to everyone who's listening. Thank you for spending your mornings with us.
-SONIA: Me too. Ten episodes, and many more to come. Drive carefully, and see you in episode eleven.
-RYAN: And put the kettle on when you get home.
+# Questions
+[bgm acoustic.87 0.1]
+TOLU: Uncle Femi, but Anansi lied to everybody. He's a bad person. Why is he the hero?
+FEMI: Ah. That's a very good question. That's the question a [[curious]] child asks.
+FEMI: Think about it like this. Anansi is small. All the animals he tricked were bigger and stronger than him. The python, the leopard, the hornets. If he fought them, he'd lose. Every time. So he uses the only thing he has. His brain.
+FEMI: For hundreds of years, the people who told these stories were often poor, and often not powerful. Farmers. Ordinary people. People who had kings and chiefs and rich men above them. And they loved a hero who was small, like them, but smarter than the big, strong, important people. When Anansi tricks the leopard, the farmer listening by the fire laughs, because, just for a moment, the little one wins.
+FEMI: But Anansi isn't always the winner. In lots of stories, he's too clever for his own good. He's greedy, or [[selfish]], or [[arrogant]], and in the end, he gets into trouble. So you can laugh at him and learn from him at the same time. He's a hero and a warning, both together.
+TOLU: Like my brother.
+FEMI: Exactly like your brother. Don't tell him I said that.
+FEMI: Now. Let's have another story. Alo o!
+TOLU (shout): Alo!
+[bgm off]
+
+# Story Two: Why the Sun and the Moon Live in the Sky
+[music space.88 8]
+[bgm space.89 0.1]
+FEMI: This story comes from the Efik people, in the south-east of Nigeria, near the sea. And it's a story about why things are the way they are. Why the Sun and the Moon are up in the sky, and not down here with us.
+FEMI: A long time ago, the Sun and the Moon lived on the Earth. They were husband and wife. They had a nice house, with a garden, and lots of friends.
+FEMI: And the Sun's best friend in the whole world was Water. Every day, the Sun would go to visit Water, and they would sit together and talk and laugh for hours.
+FEMI: But Water never came to visit the Sun. Never. Not once.
+FEMI: One day, the Sun said, "My friend, I always come to your house. Why do you never come to mine?"
+FEMI: And Water said, "I'm sorry, my friend. I'd love to come. But my family is very, very big. My people are many. If I came to your house, we'd fill it completely. We'd push you out of your own home."
+FEMI: The Sun laughed. "Don't be silly! I'll build a bigger house. A huge house. Big enough for everybody. Then you'll come?"
+FEMI: Water said, "Then I'll come."
+FEMI: So the Sun went home and told his wife, the Moon. And together, they built a new house. An [[enormous]] compound. With high walls, and many, many rooms. It took them months. It was the biggest house in the whole world.
+FEMI: And when it was finished, they invited Water to visit.
+FEMI: Water came to the gate, and called out, "My friend! Can my people and I come in?"
+FEMI: "Of course! Come in, come in! You're welcome!"
+FEMI: So Water began to flow in through the gate. And with Water came the fish. And the crabs. And the shrimps. And the frogs, and the crocodiles, and the water snakes, and the turtles, and all the creatures of the river and the sea.
+[amb off]
+[amb waves 0.7]
+FEMI: Soon, the water was up to their knees. Water called out, "Is it safe for my people to keep coming in?"
+FEMI: And the Sun, who was a good host, and didn't want to be rude, said, "Yes, yes, come in!"
+FEMI: Soon, the water was up to their waists. "Shall we keep coming?" "Yes! Come!"
+FEMI: Soon, the water was up to their necks. The Sun and the Moon climbed up onto the table. "Should my people keep coming?" said Water.
+FEMI: And the Sun, who had promised, and who was too polite to change his mind, said, "Yes. Come."
+FEMI: So the water rose higher, and higher, until it was right up to the roof. And the Sun and the Moon climbed up onto the top of the roof. And still the water came, and still it rose. Until finally, the Sun and the Moon had to jump. Up, up, off the top of the roof, and into the sky.
+FEMI (calm): And they've lived there ever since.
+[amb off]
+[amb fire 0.9]
+TOLU: But why didn't the Sun just say "Stop"?
+FEMI: Because he'd made a promise. And because he was polite. Sometimes, being too polite can cost you your house.
+FEMI: But I like to think the Sun is happy up there. He can see the whole world. And every day, he looks down at his old friend Water, and he shines on him, and makes him sparkle. And the Water looks up, and reflects him back. They're still friends. They just live in different places now.
+TOLU: Like Auntie Bisi in London.
+FEMI: Just like Auntie Bisi in London. She phones every Sunday. And she sparkles.
+[bgm off]
+
+# Story Three: The Pot of Wisdom
+[music afro.90 8]
+[bgm afro.91 0.1]
+FEMI: One more story. The last one. And then bed.
+TOLU (sad): Noooo.
+FEMI: Yes. But it's a good one. It's Anansi again. Alo o!
+TOLU (shout): Alo!
+FEMI: Once, a long time ago, Anansi had an idea. He thought, "I am the cleverest creature in the world. But I could be even cleverer. What if I had all the wisdom in the world? All of it. Then I would be the wisest, and everybody would have to come to me for advice. And pay me."
+FEMI: So Anansi took a big clay pot, and he went from house to house, from village to village, all over the world. And from every person he met, he took a little bit of their wisdom and put it in the pot. The farmer's wisdom about when to plant. The fisherman's wisdom about the tides. The grandmother's wisdom about children. The doctor's wisdom about medicine. The chief's wisdom about people. Everything that anybody knew, Anansi collected.
+FEMI: Until finally, the pot was full. All the wisdom in the world was in one pot. And Anansi held it in his arms, very carefully.
+FEMI: Now, he had a problem. Where could he hide it? If he kept it in his house, someone might steal it. So he decided to hide it at the top of the tallest tree in the forest. A great silk-cotton tree, taller than anything else, where nobody could ever reach it.
+FEMI: So he tied the pot to the front of his body, on his stomach, and he started to climb.
+FEMI: But it was impossible. The pot was big and round, and it was in the way. Every time he reached up, the pot bumped against the tree. He slipped. He fell. He tried again. He slipped. He fell again. He was getting very angry and very tired.
+FEMI: And down at the bottom of the tree, his young son, Ntikuma, was watching.
+FEMI (cheerful): "Father," said the little boy. "Why don't you tie the pot on your back? Then you could [[hold on]] to the tree, and climb easily."
+[pause 1.0]
+FEMI: Anansi stopped. He looked down at his son. He looked at the pot. He realised that his little boy was right.
+FEMI: And he realised something much worse. He had all the wisdom in the world, in a pot, tied to his own stomach. And he still hadn't thought of that simple idea. A small child had.
+FEMI: Anansi was so angry, and so [[embarrassed]], that he threw the pot down onto the ground.
+[sfx slam 0.5]
+FEMI: And the pot broke into a thousand pieces. And all the wisdom flew out, into the wind. The wind carried it everywhere. Over the forest, across the rivers, over the mountains and the seas. And a little bit of wisdom landed on every single person in the world.
+FEMI (calm): And that, children, is why nobody has all the wisdom. Everybody has a little. The farmer, the fisherman, the grandmother, the child. Even you. Even me.
+[bgm off]
+
+# The Last Word
+[bgm acoustic.92 0.1]
+TOLU: Uncle Femi, what does it mean?
+FEMI: What do you think it means?
+TOLU: Um... that you shouldn't be greedy?
+FEMI: Good. What else?
+TOLU: That... small children can be clever too?
+FEMI (happy): Very good! I like that one. What else?
+TOLU: That... you should listen to other people? Even if they're younger than you?
+FEMI: Yes. That's the one I like best. The wisest person is not the one who knows everything. Nobody knows everything. Even the spider couldn't carry it all up one tree. The wisest person is the one who knows that everybody else knows something too. And who listens.
+FEMI: My grandmother used to say that. She couldn't read or write. But she knew a hundred stories, and she knew every plant in the forest, and she knew exactly what every child was thinking, before they knew it themselves. She was the wisest person I ever knew.
+FEMI: And she gave her stories to me. And tonight, I gave them to you.
+FEMI (warm): So now you have to promise me something. One day, when you're old, and you have grandchildren of your own, you will sit them down by a fire, and you will say...
+TOLU (shout): Alo o!
+FEMI (happy): And they will say...
+TOLU (shout): Alo!
+FEMI (warm): That's it. That's how stories live forever. They're [[passed on|pass on]], one fire at a time.
+FEMI: Now. Bed. All of you. Go on. And if you hear a little spider in the corner of your room tonight... be nice to it. You never know. It might be Anansi, looking for a new story.
+[amb off]
+[bgm off]
+[music afro.93 14]

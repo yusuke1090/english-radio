@@ -1,151 +1,216 @@
-title: Smart Collars for Dairy Cows
-date: 2026-11-17
-description: A vet from New Zealand explains how sensors on cows spot illness and heat early. Then Sonia and Ryan talk about the daily commute.
-guest: MOLLY=en-NZ-MollyNeural
+title: Duchess Is Missing (1/3)
+date: 2026-11-01
+description: A three-part mystery in the Yorkshire Dales. Part 1 – the night a champion cow vanished, told by 14-year-old Ellie.
+voice: ELLIE = en-GB-MaisieNeural
+voice: TOM = en-GB-ThomasNeural
+voice: WALTER = en-IE-ConnorNeural -12% -10Hz
+voice: VICTOR = en-GB-RyanNeural -4% -6Hz
+voice: DELANEY = en-US-SteffanNeural
+voice: PRICE = en-AU-NatashaNeural
+voice: AGNES = en-GB-LibbyNeural -6% -5Hz
+voice: JOSH = en-CA-LiamNeural +4% +6Hz
 
-# Farm and Tech
-SONIA: Good morning, and welcome to English Radio. I'm Sonia.
-RYAN: And I'm Ryan. Whether you're stuck in traffic or cruising along an empty road, thanks for joining us.
-SONIA: Today, we're starting on the farm. Or, to be more precise, around the neck of a cow.
-RYAN: Around the neck of a cow? That sounds a bit odd.
-SONIA: It does, doesn't it? But more and more dairy farmers are putting smart collars on their cows. These are [[wearable]] devices, a bit like a fitness tracker for animals.
-RYAN: So, a smartwatch for cows.
-SONIA: More or less. And to explain how they work, we're joined by Molly, a vet from New Zealand who works with dairy farms every day. Molly, welcome to the show.
-MOLLY: Thanks, Sonia. Lovely to be here.
-RYAN: Molly, let's start with the basics. What's actually inside one of these collars?
-MOLLY: The most important part is a small [[sensor]] called an accelerometer. It's the same kind of sensor you'd find in your phone. It measures movement, so it knows whether the cow is walking, standing still, lying down, or moving her head up and down.
-RYAN: And why would a farmer want to know that?
-MOLLY: Because the way a cow moves tells you a lot about how she's feeling. Take chewing, for example. Cows spend a huge part of the day ruminating, which basically means chewing the cud. They bring food back up from the stomach and chew it again.
-SONIA: Lovely.
-MOLLY: It's not glamorous, I know. But it's really important. A healthy cow ruminates for something like seven to nine hours a day. If that number suddenly drops, it's often the very first sign that something's wrong.
-RYAN: So the collar is, in a sense, listening to the cow chewing?
-MOLLY: In a way, yes. Some collars pick up the movement of the jaw and the neck. Others use a tiny microphone. Either way, the system counts the minutes of rumination and builds up a picture of what's normal.
-SONIA: Normal for cows in general, or for each individual cow?
-MOLLY: For each cow, and that's the clever part. Every animal is different, so the software compares a cow with her own history rather than with the average of the [[herd]]. If one cow normally chews for nine hours and today it's only five, the farmer gets an alert on their phone.
-RYAN: Before anyone notices anything with their own eyes?
-MOLLY: Often, yes. Cows are actually quite good at hiding pain. It's an [[instinct]] from their wild ancestors, because an animal that looks weak attracts predators. So by the time you see obvious [[symptoms|symptom]], like a cow standing on her own with her head down, the problem may have been developing for a day or two.
-SONIA: That's fascinating. So the cow is basically pretending to be fine.
-MOLLY: Exactly. A bit like some people I know.
-RYAN: I think we all know someone like that.
-SONIA: You mentioned alerts. What other kinds of things can the collar warn the farmer about?
-MOLLY: The big one is heat detection. Heat is the short period when a cow is ready to become pregnant. For a dairy farm, that matters enormously, because a cow only produces milk after she's had a calf.
-RYAN: Right. So no calf, no milk.
-MOLLY: That's it. And the window is short. A cow is only in heat for around twelve to eighteen hours, and if you miss it, you have to wait about three weeks for the next chance. Every missed chance costs the farmer money.
-SONIA: And how does the collar know she's in heat?
-MOLLY: When a cow comes into heat, she becomes restless. She walks a lot more than usual, sometimes two or three times as much. So the collar spots that sudden jump in activity and sends a message, something like, cow number two hundred and fourteen is probably in heat, now's the time.
-RYAN: That's amazing. So how did farmers manage before all this?
-MOLLY: By watching very carefully. Traditionally, farmers would [[monitor]] the cows several times a day, looking for changes in behaviour. Some used tail paint. You put a strip of chalky paint on the top of the cow's tail, and if it's been rubbed off, it's a sign that other cows have been mounting her.
-SONIA: That's wonderfully low-tech.
-MOLLY: It is, and it still works. But on a farm with four hundred cows, you simply can't watch everyone all the time. That's where the technology helps. It doesn't get tired, and it's watching at three in the morning too.
-RYAN: Let's go back to health for a moment. Can the collar actually [[diagnose]] a disease?
-MOLLY: No, and this is a really important point. The collar can tell you that something is unusual. It can't tell you what it is. That's still the job of the farmer and the vet. I always say the collar asks the question, and we answer it.
-SONIA: So it's more like a smoke alarm than a doctor.
-MOLLY: That's a great way to put it. A smoke alarm doesn't know whether it's burnt toast or a real fire. It just tells you to go and have a look.
-RYAN: What sort of problems does it help with most?
-MOLLY: The weeks just after calving are the riskiest time for a dairy cow. Her body is suddenly producing a lot of milk, and she can't always eat enough to keep up. That can lead to problems like ketosis, which is a kind of energy shortage, or mastitis, which is an infection of the udder. With rumination data, we often catch these a day or so earlier. And earlier treatment usually means a faster recovery and fewer antibiotics.
-SONIA: Fewer antibiotics sounds like good news for everyone.
-MOLLY: Definitely. And it's better for [[animal welfare]], too. Nobody wants a cow to suffer for two days before someone notices.
-RYAN: I've also read that some collars can tell you when a cow is about to give birth.
-MOLLY: Yes, some systems do that. Before calving, a cow's behaviour changes. She gets up and lies down more often, and her rumination drops. The system can send a calving alert, so the farmer knows to keep an eye on her. That's especially useful at night.
-SONIA: Molly, you keep mentioning the software. How much of this is really about the data?
-MOLLY: Almost all of it, honestly. The sensor itself is fairly simple. The real value comes from the [[algorithm]], the set of rules that turns millions of tiny movements into a simple message, like eating normally, in heat, or check this cow. Companies develop these algorithms using data from thousands of cows.
-RYAN: And how [[accurate]] are they?
-MOLLY: For heat detection, the good systems are very accurate, often better than a person watching. For health alerts, it varies. You do get false alarms. A cow might eat less because it's a very hot day, or because she's been moved to a new group and she's a bit stressed.
-SONIA: So the farmer might rush out to check a cow that's perfectly fine.
-MOLLY: It happens. And that's one of the main [[drawbacks|drawback]]. If you get too many false alarms, people start ignoring them. It's like the boy who cried wolf.
-RYAN: How does the data actually get from the cow to the farmer's phone?
-MOLLY: Usually there's an antenna on the farm, often on the roof of the milking shed. The collars send their data by radio to the antenna, and from there it goes over the internet to the cloud. In New Zealand, where most cows graze outside on large paddocks, you need antennas that can reach a long way.
-SONIA: I imagine the battery is a problem.
-MOLLY: Less than you'd think. Many collars run for several years on one battery, because they only send small amounts of data. Some newer ones even have a little solar panel.
-RYAN: Speaking of New Zealand, I heard there's something called virtual fencing.
-MOLLY: Yes, it's a fascinating idea. Instead of building a fence, the farmer draws a line on a map on their phone. When a cow gets close to that line, her collar plays a sound, and if she keeps going, it vibrates. The cows learn very quickly to turn around.
-SONIA: So the farmer can move the whole herd from one field to another without leaving the kitchen?
-MOLLY: More or less. It can save a lot of time, especially on hilly farms where building fences is hard work.
-RYAN: That brings us to the people. Does all this technology make farming easier?
-MOLLY: In many ways, yes. Dairy farming has a very heavy [[workload]]. Cows need milking every single day, including Christmas Day. Lots of farms struggle to find staff, so anything that saves time is welcome. A farmer once told me the collars gave him his Sunday mornings back.
-SONIA: That's lovely.
-MOLLY: But there's another side. Some farmers feel they're now staring at a screen instead of looking at their animals. And a phone that buzzes all night can be stressful. You have to set it up so that only the really important alerts wake you up.
-RYAN: And what about the cost? Is this only for big farms?
-MOLLY: At the moment, it's mostly medium and large farms. You pay for each collar, plus the antenna, plus usually a monthly fee for the software. For a small family farm with thirty cows, the numbers can be hard to justify. But prices are coming down, and there are simpler ear tags now that are much more [[affordable]].
-SONIA: Could a small farmer build something themselves?
-MOLLY: People do experiment. I've met young engineers who've built their own sensors with cheap microcontroller boards and a bit of programming. It's a great way to learn, though making something that survives a whole year on a cow is harder than it looks. Cows are very good at breaking things.
-RYAN: I can believe that.
-SONIA: Molly, one last question. If you had one piece of advice for a farmer who's thinking about collars, what would it be?
-MOLLY: Start with the problem, not the gadget. Ask yourself, what am I struggling with? Missed heats? Sick cows after calving? Then choose the technology that solves that problem. And remember, the collar doesn't [[look after]] the cows. You do. It's a tool that helps good farmers become even better.
-RYAN: Molly, thank you so much for joining us.
-MOLLY: My pleasure. Thanks for having me.
+# Cold open
+[amb night]
+ELLIE (quiet): The thing about cows is, they don't just disappear.
+ELLIE (quiet): They're big. They're slow. They're about as good at hiding as a sofa.
+ELLIE (quiet): So when my dad woke me up at five o'clock on Wednesday morning and said, "Ellie, Duchess is gone," I thought he was joking.
+ELLIE (serious): He wasn't.
+[amb off]
+[music mystery.1 16]
 
-# The Report
-SONIA: Next, it's time for The Report, where we take a closer look at one story. Ryan?
-RYAN: Thanks, Sonia. Today's report comes from Japan, where farming faces a quiet but serious challenge. The people who grow the country's food are getting older, and there aren't enough young people to replace them.
-RYAN: According to government figures, Japan now has only around one point one million people whose main job is farming. In the year two thousand, there were more than twice as many. Their average age is close to seventy.
-RYAN: The reasons are familiar to rural areas all over the world. Young people move to the cities for education and better-paid work. Farming is physically hard, the hours are long, and income can be unpredictable. As a result, the countryside is facing a serious [[labour shortage]].
-RYAN: When older farmers retire, their land is often left unused. Fields that were carefully looked after for generations slowly fill with weeds. This matters not only for the [[rural economy]], but for the country as a whole. Japan already imports most of its food. On a calorie basis, its food [[self-sufficiency]] rate is only around thirty-eight per cent, one of the lowest among large developed countries.
-RYAN: So can technology help? The government believes it can. In twenty twenty-four, Japan passed a new law to encourage what it calls smart agriculture: farming that uses robots, sensors and data to do more work with fewer people.
-RYAN: Some of this technology is already familiar. Japan has used remote-controlled helicopters to spray rice fields since the late nineteen eighties, and today small drones do much of that work. Several Japanese manufacturers now sell self-driving tractors that can plough a field while the farmer watches from the edge. On dairy farms, milking robots allow cows to be milked when they choose, rather than at fixed times, which can reduce the farmer's workload considerably.
-RYAN: Supporters say [[automation]] could make farming attractive to a new generation. A young person who grew up with a smartphone may be more interested in a farm that runs on data than in one that runs on long hours and heavy lifting.
-RYAN: But there are doubts. The machines are expensive, and many Japanese farms are small, with fields divided into narrow plots on hillsides. A robot tractor that works perfectly on a large, flat field in Hokkaido may be far less useful on a tiny rice paddy in the mountains. There are also concerns that some older farmers may find the technology difficult to use.
-RYAN: Some experts argue that technology alone is not enough. They say small plots of farmland need to be combined into larger units, and that young farmers need support with land, training and loans. In other words, the robots can help, but only if there are still people who want to farm.
-RYAN: For now, the picture is mixed. In some villages, young farmers with drones and data are breathing new life into old fields. In others, the land is simply going quiet. What happens in the next ten years may decide what Japanese farming looks like for the rest of the century. That's the report for today.
-SONIA: Thanks, Ryan. That was really interesting. I had no idea the average age was that high.
-RYAN: It surprised me too. And it isn't just Japan. Plenty of countries, including Britain, are facing the same problem.
+# Part 1: The Night Before
+[bgm acoustic.3]
+ELLIE: My name is Ellie Hartley. I'm fourteen, and I live on a dairy farm in the Yorkshire Dales, in the north of England.
+ELLIE: If you've never been to the Dales, imagine green hills, stone walls, sheep everywhere, and rain. Mostly rain.
+ELLIE: We've got eighty cows. Dad milks them twice a day, at half past five in the morning and half past four in the afternoon, every single day of the year. Christmas Day included. Cows don't care about Christmas.
+ELLIE: And of all our cows, the most famous one is Duchess.
+ELLIE (proud): Duchess is a Dairy Shorthorn. That's a [[breed]], an old English one. She's six years old, she's a lovely red and white colour that farmers call "roan", and last summer she won Supreme Champion at the Thornby Show.
+ELLIE: That's the biggest prize at our local agricultural show. It's like the Oscars, but for cows.
+ELLIE: Dad was [[over the moon]]. Before Duchess, the same farmer had won it five years in a row. Victor Crane, from the farm next to ours. Victor [[can't stand]] losing. He was not happy.
+ELLIE: This year's show was on Saturday. And everybody said Duchess would win again.
+[pause 0.6]
+ELLIE: On Tuesday evening, I was in the yard, filling the water troughs, when a shiny black car came up our lane.
+[sfx car]
+ELLIE: Nobody drives a car like that up our lane. Our lane eats cars like that for breakfast.
+ELLIE: A man got out. Grey suit, white teeth, very clean shoes. He looked at the mud like it had insulted his mother.
+DELANEY (cheerful): Good evening! You must be Ellie. I'm Grant Delaney, from Northstar Genetics. Is your father around?
+ELLIE: He's in the milking parlour.
+DELANEY: Wonderful. And is that her? Is that the famous Duchess?
+ELLIE: Duchess was standing by the gate, chewing, the way she always does. She looked at Mr Delaney. Mr Delaney looked at her. I've never seen a grown man look at a cow like that. Like she was made of gold.
+DELANEY (whisper): Beautiful. Just beautiful.
+ELLIE: Then Dad came out, wiping his hands on his overalls, and the two of them went into the house and shut the kitchen door.
+ELLIE: I'm not proud of what I did next. To be honest, I'm a bit [[embarrassed]] about it. I stood by the kitchen window and listened.
+ELLIE: I couldn't hear much. The window was only open a tiny bit. But I heard Mr Delaney say:
+DELANEY (quiet): It's a very generous offer, Mr Hartley. And after the show, if she wins, it's even better.
+ELLIE: And I heard my dad say something I didn't catch. And then:
+TOM (tired): I'll think about it. Not a word to anyone. Not yet.
+ELLIE: Then somebody coughed behind me, and I nearly jumped out of my wellies.
+ELLIE: It was Walter.
+[bgm off]
 
-# Daily Talk
-SONIA: Now, Ryan, for today's chat, I want to talk about something that most of our listeners are probably doing right now.
-RYAN: Driving?
-SONIA: Close. The [[commute]]. The journey to work.
-RYAN: Ah, my favourite subject. How long is yours?
-SONIA: On a good day, about thirty minutes. On a bad day, an hour, and I arrive at work in a terrible mood.
-RYAN: What makes it a bad day?
-SONIA: Usually [[heavy traffic]] on the ring road. There's one roundabout near my office where everything just stops. You can sit there for ten minutes and move about fifty metres.
-RYAN: I know the feeling. Although I take the train these days, so I have different problems.
-SONIA: Such as?
-RYAN: Such as leaves on the line.
-SONIA: Ah, the famous British excuse.
-RYAN: For our listeners who aren't in Britain, every autumn, trains are delayed because of leaves on the line. It sounds like a joke, but it's real. The leaves get crushed on the rails and make them slippery, a bit like ice.
-SONIA: It still sounds like a joke to me.
-RYAN: It does, and every year people complain about it. But honestly, I like the train. I can read, I can look out of the window, and I don't have to concentrate on the road.
-SONIA: That's the thing I miss. In the car, I can't do anything except drive. Well, and listen.
-RYAN: So what do you listen to?
-SONIA: It changes. Sometimes the radio, sometimes podcasts, and sometimes, I have to admit, I sing.
-RYAN: Loudly?
-SONIA: Very loudly. Car karaoke is one of life's great pleasures. Nobody can hear you, and the acoustics are surprisingly good.
-RYAN: Except the person in the car next to you at the traffic lights.
-SONIA: Yes, that has happened. A man in a van gave me a round of applause once.
-RYAN: That's brilliant. So, what time do you [[set off]] in the morning?
-SONIA: Around seven fifteen. If I leave at seven thirty, the journey takes twice as long. Those fifteen minutes make a huge difference.
-RYAN: That's the strange thing about rush hour. A tiny change in when you leave can completely change how long it takes.
-SONIA: Exactly. So I've learnt to get up a bit earlier. I'm not happy about it, but it's better than sitting in a queue.
-RYAN: Do you think people will always have to [[put up with]] long commutes?
-SONIA: I'm not sure. A few years ago, lots of companies started allowing [[flexible working]]. Some people work from home two or three days a week now, and they only commute on the other days.
-RYAN: That's what my sister does. She works from home on Mondays and Fridays. She says it's improved her [[work-life balance]] enormously, because she gets back almost two hours on those days.
-SONIA: Two hours is a lot of time. What does she do with it?
-RYAN: She goes for a run in the morning, and she actually has breakfast sitting down, instead of eating toast in the car.
-SONIA: I've definitely eaten toast in the car.
-RYAN: Haven't we all? But here's the interesting thing. She says she sometimes misses the commute.
-SONIA: Really? Why?
-RYAN: Because it gave her time to switch off. When you work from home, you close the laptop and suddenly you're in the kitchen, still thinking about work. The commute was a kind of buffer between work and home.
-SONIA: That makes sense. Some people even go for a short walk around the block before and after work, just to create a fake commute.
-RYAN: A fake commute! I love that.
-SONIA: I think the key is to use the time well. If you have to spend an hour a day in the car, why not [[take advantage of]] it?
-RYAN: Like learning a language.
-SONIA: Exactly. Like what our listeners are doing right now. And here's a tip. If you're alone in the car, try repeating sentences out loud. It's called shadowing. You listen to a sentence and say it straight after the speaker, copying the rhythm and the intonation.
-RYAN: And it doesn't matter how silly you sound, because nobody can hear you.
-SONIA: Apart from the man in the van.
-RYAN: Apart from the man in the van. Now, I have to ask about Japan, because I know many of our listeners are there. Sonia, you've been to Tokyo, haven't you?
-SONIA: I have, a few years ago. And the first thing I noticed was that they drive on the left, just like us. So I felt quite at home.
-RYAN: And the trains?
-SONIA: Incredible. They arrive exactly on time, to the second. And when a train is a few minutes late, they apologise. Sometimes the railway company even gives you a little certificate to show your boss.
-RYAN: A certificate for being late? We need that in Britain. I'd have a whole drawer full of them.
-SONIA: The trains in Tokyo were very crowded, though. In the morning, staff on the platform sometimes help to push people in, so the doors can close.
-RYAN: I've seen videos of that. It looks quite stressful.
-SONIA: It was an experience. But everyone was very calm and polite about it. Nobody was shouting. In London, there would definitely be some shouting.
-RYAN: There would be a lot of sighing, at least. The British commuter's favourite sound is a long, heavy sigh.
-SONIA: That's so true. And a lot of tutting.
-RYAN: For listeners who don't know, tutting is that little clicking sound you make with your tongue when you're annoyed. Very British.
-SONIA: So, Ryan, what's your perfect commute?
-RYAN: My perfect commute? A quiet train, a window seat, a hot cup of coffee, and no leaves on the line.
-SONIA: That's a dream. Mine would be an empty road, a sunny morning, and a really good song on the radio.
-RYAN: And no man in a van.
-SONIA: And no man in a van. Although, to be fair, he was very supportive.
-RYAN: Well, whatever your commute looks like today, we hope it's a smooth one.
+# Walter
+[bgm acoustic.5]
+ELLIE: Walter Dent has worked on our farm for fifty years. He's [[stubborn]], he's grumpy, and I love him. He worked for my grandad before he worked for my dad. He's seventy-three, he has a bad hip, and he walks with a stick, and he still knows more about cows than anyone in Yorkshire.
+ELLIE: He came over from Ireland when he was fifteen, and he still talks like it.
+WALTER: Listening at windows, Ellie? Your grandad would've had something to say about that.
+ELLIE (nervous): I wasn't listening. I was... checking the window. For... cracks.
+WALTER: Cracks, is it.
+ELLIE: He put his hand in his coat pocket and gave me a ginger biscuit. Walter always has ginger biscuits in his pocket. I don't know where he gets them. I think his coat produces them naturally, like a tree produces apples.
+WALTER: Who's the fella in the suit?
+ELLIE: Somebody from a company called Northstar Genetics. I think he wants to buy something.
+ELLIE: Walter didn't say anything. He just looked over at Duchess for a long time.
+ELLIE: You need to know something about Walter and Duchess.
+ELLIE: Six years ago, in the worst snowstorm anyone could remember, one of our cows [[calved|calve]] in the middle of the night. The calf was tiny and weak, and she couldn't stand up. The vet said she probably wouldn't survive till morning.
+ELLIE: Walter carried her into his own cottage, put her in front of the fire, and fed her with a bottle every two hours, all night long.
+ELLIE: In the morning, she was standing up in his kitchen, eating his newspaper.
+ELLIE: That calf was Duchess.
+ELLIE: Even now, when Walter walks across the [[pasture]], she follows him like a dog. She doesn't do that for anybody else. Not even me, and I've tried. I've tried with apples.
+WALTER (quiet): She's a good girl, that one.
+ELLIE: Then he walked off down the lane to his cottage, slowly, with his stick going tap, tap, tap on the stones.
+[bgm off]
+
+# The Collar
+[bgm mystery.2]
+ELLIE: Now, there's one more thing you need to know before I tell you about the night, and it's the collar.
+ELLIE: In the spring, I persuaded Dad to try something new. Smart collars. A company lent us twenty of them for free, to test.
+ELLIE: They're a bit like a fitness tracker, but for cows. There's a [[sensor]] in the collar that measures how much the cow moves, how long she lies down, and how much she chews.
+ELLIE: Chewing is really important. Cows bring their food back up from their stomach and chew it again. It's called chewing the cud. It sounds disgusting, but if a cow suddenly stops chewing, it's often the first sign that she's ill.
+ELLIE: And Duchess's collar was the newest kind. It had GPS. So I could see exactly where she was, on a map, on my phone.
+ELLIE: Dad thought it was a waste of time. He said, "I know where my cows are, Ellie. They're in the field. Where they've been for two hundred years."
+ELLIE: But I loved it. Every night, before I went to sleep, I checked the app. It was a bit like saying goodnight.
+ELLIE: On Tuesday night, at ten o'clock, the app said Duchess was in the big barn, lying down, chewing happily.
+ELLIE: Outside, it started to rain. [[Heavy rain]]. Then the thunder came.
+[sfx thunder]
+ELLIE: I fell asleep listening to the rain on the roof.
+ELLIE: I didn't hear anything else. And that's the strange part, because our dog, Bess, barks at everything. She barks at the postman. She barks at the wind. Once, she barked at a carrot for twenty minutes.
+ELLIE: But that night, Bess didn't bark at all.
+[bgm off]
+
+# Wednesday Morning
+[sfx knock]
+TOM (nervous): Ellie. Ellie, wake up. Have you got your phone? Where's that cow app?
+ELLIE (tired): Dad? What time is it?
+TOM: Five o'clock. Duchess isn't in the barn.
+ELLIE: I was out of bed so fast I put my jumper on backwards.
+[bgm mystery.3]
+ELLIE: The big barn was open at one end, where the cows walk out into the yard. But the door at the back, the one that leads to the lane, was shut. And bolted. From the outside.
+ELLIE: Seventy-nine cows were standing there looking at us, waiting for breakfast. One space was empty.
+TOM (angry): I locked this [[barn]] myself last night. I checked it. I always check it.
+ELLIE: The yard was all mud after the rain. Dad walked up and down with his torch, looking at the ground.
+TOM: No tyre marks. If somebody had brought a lorry up here, you'd see it. You'd see it a mile off in this mud.
+ELLIE: So how did they take her?
+TOM: I don't know, love. I don't know.
+ELLIE: I opened the app. My hands were shaking.
+ELLIE: The map loaded. And there she was. A little blue dot.
+ELLIE (excited): Dad! She's moving! Look!
+ELLIE: The app showed her whole journey. At eight minutes to two in the morning, she'd left the barn. Then, for about half an hour, nothing. The signal just disappeared. That happens sometimes down at the bottom of the valley, where there's hardly any phone signal. Then, at twenty-five past two, the dot came back. Halfway up the fell. Moving up the hill.
+ELLIE: The fell is the open hill above our farm. It's wild up there. Rough [[terrain]]. Heather, rocks, sheep, and wind.
+ELLIE: And now the blue dot was right at the top, near the old quarry. On Victor Crane's land.
+TOM (angry): Crane.
+ELLIE: Dad said the name the way you'd say the name of a disease.
+[bgm off]
+
+# Up the Fell
+[bgm mystery.4]
+ELLIE: By six o'clock, four of us had [[set off]] up the hill. Me, Dad, Walter, and a police officer called PC Natalie Price.
+ELLIE: PC Price is the only police officer in Thornby. She moved here from Australia three years ago, and she says she's still not used to the cold. She was wearing two coats.
+PRICE: Right. So the cow walked out of a locked barn, in a thunderstorm, closed the door behind her, and went for a hike.
+TOM: Somebody took her.
+PRICE: I know, mate. I'm just saying it out loud so I can hear how strange it sounds. Look, [[livestock]] [[theft]] happens more than people think. Sheep, mostly. Quad bikes. But a single champion cow? That's new.
+ELLIE: Walter was slow, because of his hip. He kept stopping to rest on his stick.
+WALTER: Go on, go on. Don't wait for me. She'll not have gone far.
+ELLIE: I remember thinking that was a strange thing to say. How could he know that?
+ELLIE: The path up the fell was steep and rocky, and the wind was pushing us backwards. I kept looking at my phone. The blue dot wasn't still. It kept moving. Up the rocks. Down again. Up again. Then it moved really fast for a few seconds, then stopped.
+ELLIE (nervous): Dad, something's wrong. Cows don't move like that.
+TOM: What do you mean?
+ELLIE: Look. In ten seconds, she's gone up a slope that's nearly vertical. Duchess can't do that. Duchess can't even get up the step into the milking parlour without a rest.
+ELLIE: The data didn't look like Duchess. The steps were too quick. The movements were too small. It didn't look like any cow I'd ever seen. I couldn't [[figure out]] what was going on.
+ELLIE: We reached the edge of the old quarry just as the sun was coming up. It's a big hole in the hill where they used to cut stone, a hundred years ago. There are rocks and ledges all the way down.
+ELLIE: And standing on a rock, right in the middle, looking extremely pleased with himself, was a goat.
+[pause 1.0]
+ELLIE: A big white goat with a long beard and yellow eyes.
+ELLIE: And around his neck, too big for him, hanging down like a necklace, was Duchess's collar.
+[bgm off]
+[pause 0.8]
+PRICE (dry): Well. That's not a cow.
+TOM: That's Napoleon.
+PRICE: Who?
+ELLIE: Everybody in Thornby knows Napoleon. He belongs to Victor Crane, and he's the worst goat in Yorkshire. He escapes about twice a week. He's eaten a vicar's hat. He once got into the village shop and ate forty packets of crisps, and the plastic.
+ELLIE: And there, on the other side of the quarry, came Victor Crane himself. Big man, red face, expensive coat, and a long wooden shepherd's crook in his hand.
+[bgm mystery.5]
+VICTOR (angry): Hartley! What is the meaning of this? What is my goat doing in your collar?
+TOM (angry): Funny. I was going to ask you the same question.
+VICTOR: Are you accusing me of something?
+TOM: My champion cow vanishes three days before the show, and her collar turns up on your goat, on your land. You tell me, Victor.
+VICTOR (shout): That is outrageous! I am a respected member of the Agricultural Society!
+PRICE: Okay, okay. Gentlemen. Nobody's accusing anybody of anything. Yet.
+ELLIE: Napoleon chose that moment to jump down from his rock, walk straight past Victor, past Dad, past PC Price, and stop in front of Walter.
+ELLIE: He pushed his nose into Walter's coat pocket.
+WALTER (quiet): Get away with you.
+ELLIE: Walter pushed him off. Napoleon looked offended and wandered away, chewing something.
+ELLIE: At the time, I didn't think anything of it.
+[bgm off]
+
+# The Clues
+[bgm mystery.6]
+ELLIE: We spent the whole morning looking for Duchess. Half the village came to help. Farmers in their tractors. Kids on bikes. Mrs Bell from the post office, who is eighty-one, walked up and down the lane shouting "Duchess!" like she was calling a cat.
+ELLIE: And Josh Crane came up with his drone.
+ELLIE: Josh is Victor's son. He's fifteen, he's in the year above me at school, and he's basically the opposite of his dad. Victor is loud. Josh hardly says anything. Victor wears tweed. Josh wears the same black hoodie every day. Victor loves prizes. Josh loves space. He's got a telescope, and he takes photos of the stars.
+ELLIE: He flew the drone over every field, every wood, and every stone wall for two miles. We found sheep, rabbits, a lost football, and a very surprised couple having a picnic. But no Duchess.
+ELLIE: When the battery ran out, he landed the drone on the wall next to me.
+JOSH (quiet): Sorry, Ellie. I really thought we'd find her.
+ELLIE: Thanks for trying. Did you... did you hear anything last night? From your house? You're closer to the fell than we are.
+ELLIE: He went a bit red.
+JOSH (nervous): Me? No. I was asleep. All night. Obviously. Why would I be awake?
+ELLIE: I didn't say you were awake.
+JOSH: No. Right. Yeah. I was asleep.
+ELLIE: Then he picked up his drone and walked off very quickly.
+ELLIE: I looked at the drone as he went. There was a little sticker on the side, with tiny writing. It said: "Night camera. Do not use in rain."
+ELLIE: I didn't know what that meant. Not then.
+ELLIE: PC Price wrote everything down in her notebook, and said she would [[look into]] it. She said she couldn't [[rule out]] anybody yet. Then she went back to the village because somebody had reported a suspicious man near the post office. It was the new vicar.
+ELLIE: At lunchtime, I sat on the wall by the barn, and I took out my own notebook. I want to be a vet when I'm older, and vets write everything down. So I wrote down everything I knew.
+ELLIE (serious): One. The barn door was bolted from the outside. So whoever took Duchess closed it behind them.
+ELLIE (serious): Two. There were no tyre marks. So she wasn't taken away in a lorry. She walked.
+ELLIE (serious): Three. Bess didn't bark. Bess barks at carrots.
+ELLIE (serious): Four. Somebody took off Duchess's collar and put it on a goat. Which is the weirdest thing anyone has ever done.
+ELLIE (serious): Five. A man in a suit wants to buy something from my dad. And Dad said, "Not a word to anyone."
+ELLIE: I looked at that last one for a long time.
+ELLIE: Then Dad came out of the house with two mugs of tea and sat next to me on the wall. He looked about a hundred years old. He looked [[exhausted]].
+TOM (tired): You alright, love?
+ELLIE: Dad, who was that man last night? Mr Delaney?
+ELLIE: He went very quiet.
+TOM: Just a businessman. Nothing for you to worry about.
+ELLIE: Was he here to buy Duchess?
+TOM (sad): Ellie... The farm's not doing well. You know that. The milk price is down, the feed's gone up, we're [[in debt]], and the bank keeps phoning. Some months I can barely [[make ends meet]]. I've got to think about all of us.
+ELLIE: So you were going to sell her.
+TOM: I didn't say that.
+ELLIE (angry): You didn't say no, either.
+ELLIE: He opened his mouth. Then he closed it again. Then he just stood up and went back to the cows.
+ELLIE: I was so [[frustrated]]. I'll be honest, I cried a bit. Then I did something useful.
+[bgm off]
+
+# Help
+[bgm acoustic.7]
+ELLIE: I took a photo of Duchess from my phone, the best one I had, from last year's show, with her red rosette. And I posted it online.
+ELLIE (serious): "Have you seen this cow? Her name is Duchess. She was taken from our farm near Thornby in the night. She is gentle and she likes apples. Please share."
+ELLIE: By the evening, it had been shared two thousand times. By the next morning, it had [[gone viral|go viral]]. Fifty thousand shares. People were sending messages from Canada, from Japan, from New Zealand. Somebody in Brazil had drawn a picture of her. A radio station in Leeds phoned Dad and asked for an interview.
+ELLIE: But nobody had actually seen her.
+ELLIE: That evening I made a decision. I was [[determined]] to find her. If the police couldn't find Duchess, I knew somebody who could.
+[sfx steps]
+ELLIE: In the middle of Thornby, next to the church, there's a little tea room called The Copper Kettle. It does the best scones in the Dales, and it's run by a woman called Agnes Pike.
+ELLIE: Agnes is sixty-seven. She keeps bees, she wears enormous glasses, and she never, ever forgets anything you tell her.
+ELLIE: And before she came to Thornby and started making scones, she was a detective. A real one. A Detective Inspector with West Yorkshire Police, for thirty years.
+ELLIE: People in the [[neighbourhood]] say she once caught a bank robber with nothing but a teapot. [[Believe it or not]], some of them say it was a very small teapot. I don't know if that's true. I've never asked. I'm a bit scared of her.
+[sfx doorbell]
+ELLIE: The tea room was closed, but the light was on. I rang the bell.
+ELLIE: The door opened. Agnes Pike looked down at me through her enormous glasses.
+ELLIE: I was going to say a lot of things. I had a whole speech ready. But all that came out was:
+ELLIE (nervous): Mrs Pike, somebody stole our cow, and they put her collar on a goat.
+[pause 1.0]
+ELLIE: She looked at me for a long moment. Then she opened the door a little wider.
+ELLIE: And she said the four words that changed everything.
+[bgm off]
+[pause 0.6]
+AGNES (dry): You'd better come in.
+[music mystery.8 14]

@@ -1,135 +1,192 @@
-title: Drones on the Farm
-date: 2026-11-17
-description: An Australian agronomist on mapping and spraying crops with drones. Then a report on the four-day working week, and a chat about winter weather.
-guest: NATASHA=en-AU-NatashaNeural
+title: Duchess Is Missing (3/3)
+date: 2026-11-03
+description: Part 3 – the thief tells his side of the story. An old farmhand, a goat, a long night by the beck, and the morning of the Thornby Show.
+voice: WALTER = en-IE-ConnorNeural -12% -10Hz
+voice: AGNES = en-GB-LibbyNeural -6% -5Hz
+voice: ELLIE = en-GB-MaisieNeural
+voice: TOM = en-GB-ThomasNeural
+voice: VICTOR = en-GB-RyanNeural -4% -6Hz
+voice: DELANEY = en-US-SteffanNeural
+voice: PRICE = en-AU-NatashaNeural
+voice: JUDGE = en-NZ-MollyNeural
 
-# Farm and Tech
-SONIA: Good morning, and welcome to English Radio. I'm Sonia.
-RYAN: And I'm Ryan. Thanks for spending part of your journey with us.
-SONIA: Today, we're looking up at the sky. Because on farms around the world, there's a new kind of worker, and it flies.
-RYAN: The [[drone]]. A few years ago, most people thought of drones as toys, or as something used for filming weddings.
-SONIA: But now they're becoming a serious farming tool. To find out how, we're joined by Natasha, an agronomist from Western Australia. An agronomist is a scientist who helps farmers grow better crops. Natasha, welcome.
-NATASHA: G'day, and thanks for having me. Good to be here.
-RYAN: Natasha, first of all, tell us about the farms where you work.
-NATASHA: Well, they're big. Very big. A typical grain farm in Western Australia might be three or four thousand hectares, growing wheat, barley and canola. Some are much larger. You can drive for half an hour and still be on the same farm.
-SONIA: That's hard to imagine for those of us in Britain, or in Japan.
-NATASHA: It is. And that size is exactly why drones are so useful. You simply can't walk across four thousand hectares to check every field. Even driving around takes days.
-RYAN: So what do the drones actually do?
-NATASHA: There are two main jobs. The first is what I call eyes in the sky. You send a drone up to take pictures of the crop, so you can see problems early. The second is doing the work, which means spraying or spreading things directly onto the field.
-SONIA: Let's start with the eyes. How does a drone take a picture of a whole field?
-NATASHA: It's mostly automatic. On a tablet, you draw the outline of the field on a map. The software then plans a flight path, a bit like mowing a lawn, up and down in straight lines. The drone takes off, flies the whole pattern by itself, takes hundreds of photos, and comes back to land.
-RYAN: And you don't need to control it with a joystick?
-NATASHA: Not usually. The pilot is there to watch and to take control if something goes wrong. The flight itself is handled by the autopilot. In fact, a lot of farm drones run on open-source autopilot software, which was developed by a community of volunteers and engineers around the world.
-SONIA: And then what happens to all those photos?
-NATASHA: The computer stitches them together into one large, very detailed map of the field. But the clever part is the camera. Many farm drones use a special camera that can see light our eyes can't see, especially near-infrared light.
-RYAN: Why does that matter?
-NATASHA: Because healthy plants reflect a lot of near-infrared light, and stressed plants reflect less. So with that camera, you can make a map that shows which parts of the field are growing well and which parts are struggling, often before you can see any difference with your own eyes.
-SONIA: A bit like the cow collars we talked about earlier this week. The technology notices the problem before the human does.
-NATASHA: Yes, that's a great comparison. And once you see a weak patch on the map, you go and look. It might be a [[pest]], like insects eating the leaves. It might be [[weeds|weed]], or the soil might be too wet, or the plants might be short of nitrogen.
-RYAN: And then you fix it.
-NATASHA: Then you fix it, but only where it's needed. That's the idea behind [[precision agriculture]]. Instead of treating the whole field the same, you treat each part according to what it needs. You might put more [[fertiliser]] on one area and less on another.
-SONIA: That must save money.
-NATASHA: It saves money, and it's better for the environment. Fertiliser and chemicals are expensive, and if you use too much, they can wash into rivers. So using less, in the right place, is a win for everyone. And over time, it can improve your [[crop yield]] too.
-RYAN: Now let's talk about the second job, the spraying. How big are these spraying drones?
-NATASHA: Bigger than people expect. A large spraying drone is about the size of a dining table, with a tank that can hold around forty litres or more. It flies just a few metres above the crop and sprays as it goes.
-SONIA: Forty litres doesn't sound like much for a huge farm.
-NATASHA: You're right. On the big wheat farms, tractors with enormous sprayers are still much faster. Drones are best for particular situations. For example, after heavy rain, when the ground is too wet for a tractor to drive on without getting stuck. Or on hilly land. Or for spot spraying, where the drone only sprays individual weeds rather than the whole field.
-RYAN: Can the drone really find individual weeds?
-NATASHA: Increasingly, yes. With mapping and some clever software, the system can identify green weeds on bare ground, mark their positions, and then send the spraying drone straight to those spots. In some trials, that has cut the amount of herbicide by a huge amount, because you're no longer spraying the empty ground in between.
-SONIA: I've heard that in Asia, drones are used a lot on rice farms.
-NATASHA: Absolutely. Japan was a pioneer with remote-controlled helicopters, and now China and Japan use spraying drones on huge areas of rice. Rice paddies are flooded with water, so tractors can't easily go in. A drone just flies over the top. It's a perfect match.
-RYAN: What about the rules? I imagine you can't just fly a big drone wherever you like.
-NATASHA: Definitely not. In Australia, as in Britain and Japan, drones are carefully controlled. For the larger farm drones, you need a pilot licence, and if you're spraying chemicals, you need another licence for that. You have to keep away from airports and people, and usually you must keep the drone within sight. [[Regulations|regulation]] differ between countries, but every country takes safety seriously, and they should.
-SONIA: What are the biggest limitations at the moment?
-NATASHA: Battery life is the main one. A heavy spraying drone might only fly for ten or fifteen minutes before it needs a new battery. So you often see a farmer with a small generator in the back of a truck, charging batteries all day. Wind is another problem. If it's too windy, the spray can drift onto the neighbour's crops, or into a creek, so you have to stop.
-RYAN: And I suppose things can go wrong with the technology itself.
-NATASHA: Oh, of course. A sensor can [[malfunction]], the GPS signal can drop out, a propeller can crack. That's why the pilot is still essential. Machines are great, but you need someone who knows what to do when they're not great.
-RYAN: So who are these pilots? Are they farmers, or specialists?
-NATASHA: Both. Some farmers buy their own drone and get licensed themselves. But a lot of farmers prefer to hire a contractor, a specialist who comes with the drone, the batteries and the know-how, does the job, and leaves. It's a bit like hiring someone to shear your sheep.
-SONIA: Is it a popular job with young people?
-NATASHA: Increasingly, yes, and that's one of the exciting things about it. For years, young people in the country left for the cities because there weren't many interesting jobs. Now you've got young people running drone businesses, [[analysing|analyse]] maps and writing software. They can stay in their home town and still have a high-tech career.
-RYAN: That links nicely with what we heard earlier this week about Japan's farmers getting older.
-NATASHA: It's the same story everywhere. Technology on its own won't save rural communities, but it can make farming look like a job with a future.
-SONIA: How long does it take to learn to fly one?
-NATASHA: The basics, not long. A few days of training and you can fly safely in good conditions. But becoming really good takes much longer. You need to understand the weather, the chemicals, the crops and the law. And you need to stay calm when something unexpected happens, like a flock of birds, or a kangaroo.
-RYAN: A kangaroo?
-NATASHA: They don't attack drones, don't worry. But they do jump out of nowhere when you're walking to collect a drone from the far end of the paddock. Gave me a real fright the first time.
-SONIA: Only in Australia.
-SONIA: You mentioned GPS. How accurate does the positioning need to be?
-NATASHA: For mapping, normal GPS is often fine. But for some jobs, we use a correction system that makes the position accurate to a couple of centimetres. That means the drone can come back next week and fly exactly the same path, and you can compare the maps precisely.
-RYAN: Natasha, do drones work on their own, or with other technology?
-NATASHA: That's a great question, because the drone only sees the surface. It can tell you that a plant looks stressed, but not always why. So we combine it with sensors in the ground. A soil moisture sensor, for example, tells you how much water there is down at the roots. Put the two together, and you can make much better decisions about [[irrigation]], about when and where to water.
-SONIA: So the drone is the eyes, and the soil sensor is a bit like feeling the ground with your hand.
-NATASHA: I like that. And a lot of these soil sensors are surprisingly cheap now. They run on small batteries and send their readings by radio, even from very [[remote]] paddocks, miles from the nearest house.
-RYAN: Last question, Natasha. Where do you think this is heading in the next ten years?
-NATASHA: I think we'll see drones working in teams, several of them covering a field together. I think the software for spotting weeds and diseases will get much smarter. And I think we'll see more small robots on the ground as well. But I'll say what I always say to young farmers. The technology is only as good as the person using it. You still need to understand your soil, your crops and your weather.
-SONIA: Natasha, thank you so much.
-NATASHA: No worries. Thanks, guys.
+# Cold open
+[amb fire]
+WALTER (calm): My name is Walter Dent. I'm seventy-three years old.
+WALTER (calm): I have a bad hip, a bad back, and a bad habit of talking to cows.
+WALTER (calm): And on Tuesday night, I stole one.
+[amb off]
+[music mystery.13 16]
 
-# The Report
-RYAN: Now it's time for The Report. Sonia, over to you.
-SONIA: Thanks, Ryan. Imagine working four days a week, for the same pay. For many people, it sounds like a dream. But in recent years, it has become a serious experiment for companies around the world, including in Britain and Japan.
-SONIA: The idea is simple. Employees work around thirty-two hours a week instead of forty, and their salary stays the same. In return, they're expected to keep the same level of output. Supporters call it the one hundred, eighty, one hundred model: one hundred per cent of the pay, for eighty per cent of the time, in exchange for one hundred per cent of the [[productivity]].
-SONIA: In twenty twenty-two, one of the largest trials in the world took place in Britain. Sixty-one companies, with nearly three thousand employees, tried a four-day week for six months. They came from a wide range of sectors, including marketing, finance, software, and even a fish and chip shop.
-SONIA: The results attracted a great deal of attention. At the end of the trial, the vast majority of the companies, fifty-six out of sixty-one, decided to continue with the four-day week, and eighteen made it permanent. Researchers reported that the number of sick days fell sharply, and fewer staff left their jobs. Most employees said they felt less stressed, and many reported lower levels of [[burnout]].
-SONIA: How did the companies manage to do the same work in less time? Many of them looked carefully at how time was being spent. They cut down on long meetings, reduced interruptions, and created quiet periods for focused work. Some managers said the trial forced them to get rid of tasks that had never really been necessary.
-SONIA: Interest has spread to Japan as well, a country famous for long working hours. In twenty twenty-five, the Tokyo Metropolitan Government began allowing its staff to choose a four-day week. One of the main reasons it gave was to support parents, and to help people balance work with raising children, in a country where the birth rate is very low.
-SONIA: However, critics say the four-day week isn't suitable for every job. A hospital, a school or a dairy farm can't simply close on Fridays. In these workplaces, a shorter week means hiring more staff, which costs money. Some [[employers|employer]] also worry that the benefits may fade once the excitement of a trial has passed.
-SONIA: There are also different versions of the idea. In some cases, people work the same forty hours, but in four longer days. That is not really a shorter week, and some workers find ten-hour days exhausting.
-SONIA: So, will the five-day working week disappear? Probably not soon. But the debate has made many organisations ask a useful question: are we measuring work by the hours people spend at their desks, or by what they actually achieve? That's the report for today.
-RYAN: Thanks, Sonia. I'd happily try a four-day week, by the way. Just so you know.
-SONIA: I'll pass that on to the boss.
+# Mayo
+[bgm acoustic.11]
+WALTER: You've heard this story from young Ellie, and you've heard it from Agnes Pike, who misses nothing, God help us all. Now you'll hear it from me. And I'll tell you the truth, because I'm too old to remember lies.
+WALTER: I was born in County Mayo, in the west of Ireland, in nineteen fifty-three. We had a small farm. Twelve cows, a few sheep, and a lot of rocks. There were nine of us children, and there wasn't enough land for all of us, so when I was fifteen, my mother packed my clothes into a cardboard suitcase, gave me a kiss and a loaf of bread, and put me on the boat to England.
+WALTER: Thousands of young Irish lads [[emigrated|emigrate]] in those days. Most of them went to London to build roads. I [[ended up|end up]] in Yorkshire, by accident, because a man on the train told me there was work on a farm near Thornby.
+WALTER: The farmer was Jack Hartley. Ellie's grandad. He was a hard man and a fair one, and he taught me everything. How to milk by hand. How to [[look after|look after]] a sick calf. How to read the sky in the morning.
+WALTER: Ellie tells people I've worked on that farm for fifty years. It's fifty-eight. But who's counting.
+WALTER: I never married. I nearly did, once. She married the postman. I don't blame her. He had a car.
+WALTER: So the farm became my family. Jack, and then his son Tom, and then little Ellie. And the cows. Always the cows.
+WALTER: People say cows are stupid. Those people have never spent time with cows. A cow knows who's kind to her. She remembers. She has friends in the [[herd]], and enemies too. And if you raise one from a calf, the way I raised Duchess, she'll follow you to the end of the earth.
+[bgm off]
 
-# Daily Talk
-RYAN: Now, Sonia, before we started the show, you were complaining about the cold.
-SONIA: I was. It's freezing this morning! I had to scrape ice off my windscreen before I could drive to work.
-RYAN: The first proper [[frost]] of the year.
-SONIA: Exactly. I went outside in my slippers, in the dark, with a credit card, scraping away at the glass. Not my finest moment.
-RYAN: A credit card? Don't you have an ice scraper?
-SONIA: I do. It's somewhere in the garage. I just couldn't find it at six thirty in the morning.
-RYAN: That's the problem with the first frost. It always comes as a surprise, even though it happens every single year.
-SONIA: Every year. And the darkness is the other thing. Since the clocks went back in October, it's dark when I leave home and nearly dark when I go home.
-RYAN: For listeners outside Britain, we change our clocks twice a year. In spring, they go forward one hour, and in autumn, they go back one hour. So in winter, it gets dark very early. By half past four in the afternoon, it's pretty much night.
-SONIA: It's quite depressing. I think that's why the British talk about the weather so much. It's always changing, and it's usually a bit disappointing.
-RYAN: That's true. Talking about the weather is basically our national sport. If you meet a stranger at a bus stop, you don't talk about politics. You say, cold today, isn't it?
-SONIA: And they say, freezing. Apparently, it's going to rain later.
-RYAN: And then you both feel a little bit better. It's a way of being friendly without getting personal.
-SONIA: So, what's the [[forecast]] for this week?
-RYAN: Cold and bright today, then cloudy, then rain from Thursday. Then a little bit [[milder|mild]] at the weekend.
-SONIA: That's a very British forecast. A bit of everything, and nothing too exciting.
-RYAN: Well, Britain has a [[temperate]] climate. Our winters aren't as cold as places like Canada or northern Japan, and our summers aren't as hot as Spain. But it can rain at any time of the year.
-SONIA: Which is why every British person owns at least three umbrellas, and can never find any of them.
-RYAN: Next to the ice scraper, probably.
-SONIA: Probably. And what about snow? We don't get much in most of Britain, but when we do, the whole country seems to stop.
-RYAN: It's true. Five centimetres of snow, and schools close, trains are cancelled, and it's on the front page of every newspaper.
-SONIA: People in Canada or Hokkaido must laugh at us.
-RYAN: I'm sure they do. But the problem is that we don't get snow often enough to be prepared for it. Most people don't have winter tyres, and many councils only have a few gritters.
-SONIA: A gritter, for our listeners, is a lorry that spreads salt and grit on the roads, so they don't get icy.
-RYAN: And when the forecast says snow, everyone rushes to the supermarket and buys bread and milk, as if we're going to be trapped for a month.
-SONIA: And then it melts by lunchtime.
-RYAN: And then it melts by lunchtime. But I have to say, a snow day was the best thing in the world when I was a child. Waking up, seeing everything white, and hearing on the radio that your school was closed.
-SONIA: Oh, the excitement! Building a snowman, having snowball fights, sliding down the hill on a plastic tray.
-RYAN: A plastic tray? Not a proper sledge?
-SONIA: We didn't have a proper sledge. A tea tray from the kitchen worked surprisingly well.
-RYAN: Back to tea again. Everything on this show comes back to tea.
-SONIA: It always does. Anyway, Ryan, what's your favourite thing about winter?
-RYAN: Honestly? The food. When it's cold outside, I want something warm and heavy. A big shepherd's pie, with minced lamb and mashed potato on top.
-SONIA: Ooh, yes. Or a crumble for dessert. Apple crumble with hot custard.
-RYAN: Now you're talking. Hot custard is one of Britain's greatest gifts to the world.
-SONIA: I'm not sure the rest of the world agrees.
-RYAN: They will one day. What about winter in Japan? You were there in winter, weren't you?
-SONIA: I was there in February, and it was fascinating, because the weather was so different depending on where you were. In Tokyo, it was cold but very sunny and dry. Clear blue skies almost every day. But on the other side of the mountains, facing the Sea of Japan, there was enormous snow. Metres of it.
-RYAN: Metres?
-SONIA: Metres. Some of the snowiest places on earth with large towns are in Japan. I saw houses where people had to climb onto the roof to clear the snow, because it was so heavy.
-RYAN: That's [[severe]] weather. That makes my frosty windscreen sound like nothing.
-SONIA: It really does. But the Japanese have some brilliant ways of staying warm. Have you heard of a kotatsu?
-RYAN: I don't think so.
-SONIA: It's a low table with a heater underneath and a thick blanket around the sides. You sit on the floor with your legs under the blanket, and it's so warm and cosy that you never want to get up again.
-RYAN: That sounds dangerous. I'd never get anything done.
-SONIA: That's the problem. People say the kotatsu is a trap. And then there are hot springs, onsen, where you sit in hot natural water outside while snow is falling around you.
-RYAN: Now that sounds perfect. Much better than a British bus stop in the rain.
-SONIA: Much better. And the food, again. In winter, people eat nabe, which is a hot pot. Everyone sits around one big pot on the table, full of vegetables, tofu, fish or meat, and you cook and eat together.
-RYAN: That sounds wonderful. Warm food, good company, and no ice to scrape.
-SONIA: So for our listeners who are driving this morning, maybe on a cold road, please take it easy. Leave a little extra time, and watch out for ice on the bridges.
-RYAN: And find your ice scraper tonight, not tomorrow morning.
-SONIA: Advice I will definitely be taking.
+# The Window
+[bgm mystery.14]
+WALTER: On Tuesday evening I was in the yard when that man in the suit arrived. Delaney. Shiny shoes. Teeth like a toilet advert.
+WALTER: I saw Ellie listening at the kitchen window, and I'll admit it, I listened too. I was standing behind her, so I heard more than she did, because my ears are older but my head was nearer the gap.
+WALTER: I heard him say the price. That was bad enough. But then I heard him say something else.
+DELANEY (quiet): She'd go to our centre in Cheshire. It's all indoors. Very efficient. She'd never need to see a field again.
+WALTER: Never need to see a field again.
+WALTER: Do you know what a cow is like in spring, when you let her out on the grass for the first time after a long winter inside? She runs. A big heavy cow, six hundred kilos, running and jumping like a lamb. Kicking her back legs in the air. Every farmer has seen it. It makes grown men laugh out loud.
+WALTER: And this fella wanted to put her in a shed for the rest of her life, and call it efficient.
+WALTER: I'm not against progress. I've seen [[intensive farming|intensive farming]] up close, and I know why some farms do it. The world wants cheap milk. Somebody has to pay. But not her. Not Duchess.
+WALTER: I walked home. I didn't eat my tea. I sat by the fire, and I listened to the storm, and I thought about it for three hours.
+WALTER: At half past one, the rain stopped.
+WALTER: And I stood up, and I put on my coat.
+[bgm off]
+
+# The Night
+[amb night]
+[bgm spooky.15 0.12]
+WALTER: I took my lantern, because I don't trust those little torches. I took my stick, because I can't walk far without it. And I took a packet of ginger biscuits, because I always do.
+WALTER: Bess came out of her kennel when she heard me. She didn't bark. Why would she? She's known me since the day she was born. I gave her a scratch behind the ears and told her to go back to bed, and she did.
+WALTER: I slid back the bolt on the back door of the barn, and I went in, and I said, very quietly, "Duchess."
+WALTER: She got up straight away. She came to me in the dark like she'd been waiting.
+WALTER: Now, I'm old, but I'm not daft. I knew about the collar. Ellie had shown me that app a hundred times. "Look, Walter, this is how much she chewed today. Look, Walter, this is where she is on the map." So I knew that if I walked off with Duchess, the little blue dot would walk off with us.
+WALTER: But I also knew that down at the bottom of the valley, by the beck, there's no phone signal at all. Ellie complains about it every single day. So the collar would go quiet down there. And that would give me a bit of time.
+WALTER: I led her out, and I bolted the door behind us. Habit. Fifty-eight years of closing gates. And we walked down the field to the water.
+[amb off]
+[amb waves 0.6]
+WALTER: Walking a cow along a stream in the middle of the night, with a bad hip and a lantern, is not something I'd recommend. The water was cold and fast after the storm. Twice I nearly fell. Duchess waited for me both times. She's more [[patient]] than I am.
+WALTER: And then I heard a splashing behind us. And there, in the moonlight, with water up to his knees and a face like the devil himself, was Napoleon.
+WALTER: That goat had escaped again. Of course he had. And he'd smelled my biscuits from half a mile away.
+WALTER: I said, "Go home, you terrible animal." He did not go home. He followed us all the way along the beck, making a noise like a rusty door every time I didn't give him a biscuit.
+WALTER: And that's when I had my idea.
+[amb off]
+WALTER: Low Gill is an old stone barn at the bottom of the fell. Nobody uses it any more. It's [[derelict]]. Half the roof is gone. But one end is still dry, and I'd been keeping a few bales of hay in there for years, for emergencies. Don't ask me what emergencies. I'm Irish. We prepare for things.
+WALTER: I got Duchess inside. Then I took the collar off her. It was hard work, with cold fingers. And I put it on Napoleon.
+WALTER: It was far too big for him. It hung round his neck like a mayor's chain.
+WALTER: Then I walked out of the barn and up the path towards the fell, and every ten steps, I dropped a ginger biscuit. All the way up the hill. Half a packet.
+WALTER: And Napoleon followed the biscuits, the way a [[politician]] follows money. Up and up and up, towards the old quarry. On Victor Crane's land.
+WALTER: The minute he got up there, out of the valley, the collar found a signal again. Twenty-five past two. And the little blue dot appeared on Ellie's phone, climbing up the fell like a mountain goat. Because it was one.
+WALTER: I'm not proud of it. Well. I'm a little bit proud of it.
+[bgm off]
+
+# Two Days
+[bgm piano.16]
+WALTER: For two days, I lived a double life. Like a spy. A spy with a bad hip.
+WALTER: In the daytime, I was on the fell with everybody else, shouting "Duchess!", pretending to search. Every time I looked at Ellie's face, I felt sick. I'd never seen that girl cry before. Not even when her grandad died. She was too busy looking after everybody else.
+WALTER: And in the dark, at five in the morning and again at five in the evening, I walked down to Low Gill to milk her.
+WALTER: People forget about that part. A dairy cow can't just stand in a barn and wait. She makes thirty litres of milk a day. If she isn't milked, it hurts her. So twice a day, I sat on an old bucket, the way Jack Hartley taught me sixty years ago, and I milked her by hand.
+WALTER: Then I poured the milk away into the beck. That broke my heart a little bit. Thirty litres of the best milk in Yorkshire, going down the stream for the fish.
+WALTER: On Thursday, Ellie showed me her phone. Her picture of Duchess had [[gone viral|go viral]]. Fifty thousand people. A hundred thousand. People in Japan, in Canada, in Brazil, all looking for a cow that was eating hay in a barn two fields away from them.
+WALTER: That night I sat in my kitchen, and I asked myself the question I should have asked on Tuesday. What exactly was I going to do?
+WALTER: Hide her at Low Gill for the next ten years? Milk her by hand till I'm ninety? Go to prison at seventy-three, for [[theft]]?
+WALTER: I didn't have a plan. I'd only had a feeling. And a feeling isn't a plan. It's just a feeling with wet boots.
+WALTER: Then, on Friday afternoon, Agnes Pike knocked on my door, and drank my tea, and looked at my boots, and looked at my stick, and looked at my biscuit tin. And she didn't say a word about any of it.
+WALTER: That's when I knew I was in real trouble.
+[bgm off]
+
+# Saturday, Six A.M.
+[sfx knock]
+WALTER: She came back at six o'clock on Saturday morning. Show day. She was holding a flask.
+AGNES: Morning, Walter. I've brought my own tea, so you needn't bother.
+WALTER: You'd better come in, so.
+[bgm acoustic.17]
+WALTER: She sat in my chair by the fire, and she poured two cups, and she gave me one. And then she told me exactly what I'd done. Every bit of it. The bolt. The beck. The boots. The goat. She even knew about the biscuits on the path. She'd gone up there on Friday evening and found three of them that Napoleon had missed.
+AGNES: There was only one thing I couldn't [[work out|work out]] at first. Why would a thief walk a cow down a freezing stream in the middle of the night, at seventy-three, with a hip like yours?
+WALTER: And?
+AGNES: And then I realised. You weren't stealing her. You were saving her. You heard what that man said about the shed.
+WALTER: I didn't answer for a long time. Then I said, "Are you going to [[arrest]] me, Agnes?"
+AGNES (warm): I'm retired, Walter. I couldn't arrest a bus. But I'll tell you what I think. You can't keep a dairy cow hidden in a barn forever. And you can't keep a secret like this in a village like Thornby. The truth is like a cow, Walter. Sooner or later, it always comes home.
+WALTER: So what do I do?
+AGNES: The show starts at ten. Duchess is entered in the cattle class at eleven. You've got four hours to wash a cow.
+[bgm off]
+
+# The Thornby Show
+[music sports.18 10]
+[bgm sports.19 0.12]
+WALTER: If you've never been to a country show in England, I'll try to [[describe]] it. Picture a big green field full of white tents. A brass band playing. Sheepdogs. Tractors, old and new. Prize vegetables. A tent full of cakes, where very serious women judge other women's sponge cakes, and nobody ever forgives anybody. Ice cream. Mud. Thousands of people in wellies.
+WALTER: And at the centre of it all, the main ring, where the animals are judged.
+WALTER: I walked Duchess from Low Gill to the showground. Two miles, along the road. She was washed and brushed and shining like a new penny. Agnes walked beside us with her flask. Napoleon followed behind, wearing nothing at all, thank God.
+WALTER: And the funny thing was, people recognised her. On the road. A car slowed down, and a woman put her head out of the window and screamed, "It's her! It's the cow from the internet!"
+WALTER: By the time we reached the gate of the showground, there were about fifty people walking behind us, taking photos. It was like a royal wedding. With a goat.
+JUDGE: Ladies and gentlemen, we have a late entry in the Dairy Shorthorn class... Well, I never. Ladies and gentlemen, I believe that's Duchess!
+[sfx applause]
+WALTER: The noise. I've never heard anything like it. People cheering for a cow.
+WALTER: And then I saw them. Tom and Ellie, standing by the ring. They'd only come because Ellie didn't want Victor Crane to win without someone watching.
+WALTER: Ellie ran. Straight under the rope, across the ring, and threw her arms round Duchess's neck. Duchess licked her hair. Ellie was laughing and crying at the same time. I've never seen anybody so [[relieved]].
+ELLIE (excited): Walter! You found her! Where was she? Where did you find her?
+WALTER: And I looked at Tom. And Tom looked at me. Tom Hartley has known me since he was born. I taught him to ride a bike. I taught him to drive a tractor. He knew me better than anybody.
+WALTER: I watched his face change. He understood.
+[bgm off]
+
+# The Truth
+[bgm piano.20]
+WALTER: Behind the cattle tent, where nobody could hear, I told him everything. He didn't say a word until I'd finished.
+TOM (angry): You stole my cow.
+WALTER: I did.
+TOM (angry): You let my daughter cry for three days.
+WALTER: I did. I'm sorry for that. More sorry than I can say.
+TOM: Why, Walter? Why?
+WALTER: Because I heard him, Tom. I heard him say she'd never see a field again. And I thought of your father. Jack Hartley would never in his life have sold her to a man like that. And neither would you. Not if the bank wasn't at your throat.
+WALTER: Tom didn't say anything for a long time. He looked at the ground. Then he looked at the sky. Then he made a sound that was half a laugh and half something else.
+TOM (sad): You daft old man.
+WALTER: And he put his arms round me. In fifty-eight years, that's the first time he's ever done that.
+WALTER: Now, PC Price was standing quite near, eating an ice cream, and I'm fairly sure she heard every word.
+PRICE: Right. So, technically, this is a [[theft]].
+TOM: No, it isn't. He took her for a walk.
+PRICE: For two days.
+TOM: She needed the exercise.
+PRICE (dry): Mate, I've got a lost child, two drunk farmers, and a pig in the cake tent. If you're not pressing charges, this isn't my problem.
+WALTER: But I wanted to [[take responsibility for]] what I'd done. A man should pay for his mistakes. So Agnes suggested a sort of [[community service]]. I volunteered to clean the portable toilets at the show. All day. All forty of them.
+WALTER: I've done some terrible jobs on farms. I've been kicked by horses and chased by bulls. That was worse.
+[bgm off]
+
+# Supreme Champion
+[bgm orchestral.21]
+WALTER: At three o'clock, it was time for the final judging. The Supreme Champion. The best animal in the whole show.
+WALTER: The judge that year was a woman from New Zealand, with forty years of experience and a hat like a [[satellite]] dish. She walked round the animals for a long time. She felt their backs. She looked at their legs. She looked at their udders, which is not a polite thing to say on the radio, but it's very important in a dairy cow.
+WALTER: Victor Crane was there with Lady Penelope, in his best tweed suit, with his crook, looking extremely confident.
+VICTOR: May the best cow win, Hartley.
+TOM: She usually does, Victor.
+JUDGE: Ladies and gentlemen. This year's Supreme Champion of the Thornby Show... has had a very busy week. Duchess, from Hartley Farm!
+[sfx applause]
+WALTER: And I'll say this for Victor Crane. He's a [[competitor]], but he's not a bad man. He's [[arrogant]], he's loud, and he owns a portrait of himself. But he walked across that ring, and he shook Tom's hand, and he said, "Well done. She deserves it." And then, quietly, "Next year, though."
+WALTER: Some people say there's no such thing as [[fair play]] any more. They're wrong. It's just rare.
+WALTER: And then the judge did something nobody expected. She took one more rosette out of her bag, a big green one, and she walked over to the fence, and pinned it on Napoleon.
+JUDGE: Special prize. Most helpful goat.
+WALTER: Napoleon ate it.
+[bgm off]
+
+# The Deal
+[bgm acoustic.22]
+WALTER: There's one more part of the story, and it belongs to Ellie, not to me.
+WALTER: While the rest of us were busy stealing cows and finding cows and arguing about cows, that girl had been sitting up every night with her laptop, doing sums.
+WALTER: After the show, Mr Delaney came over with his contract in his hand. Sixty thousand pounds. Tom looked at it. Tom looked at Ellie.
+ELLIE: Dad. Before you sign anything. Look at this.
+WALTER: She held up her phone. On Thursday night, she'd made a little website. "Adopt Duchess." For thirty pounds a year, you get a certificate, a photo every month, and a weekly report from Duchess's collar. How far she walked, how long she slept, how much she chewed.
+ELLIE: Nine hundred and forty people have signed up. Since Thursday. That's twenty-eight thousand pounds a year. That's a proper [[income]]. And it's still going up. People want to visit. They want to buy her milk. Somebody in Tokyo wants a Duchess T-shirt.
+WALTER: Tom just stared at her.
+WALTER: And then Mr Delaney, who I'll admit was not as bad as I'd thought, did something clever. He tore it up... no, I'll not lie. He didn't tear it up. He's a businessman. But he made a new offer.
+DELANEY: What if we don't buy Duchess at all? What if she stays right here, on her own farm, and we just buy the embryos? We pay you for every one. You keep the cow. Everybody wins.
+ELLIE: And she can stay outside? In the field?
+DELANEY: Honestly? After this week, she's more valuable as a famous cow on a Yorkshire hillside than as a cow in a shed in Cheshire. Our [[marketing]] people are going to love her.
+WALTER: So the farm got its money. The bank got paid. And Duchess got her field. I believe young people call that [[the best of both worlds]].
+[bgm off]
+
+# Home
+[amb birds]
+[bgm acoustic.23]
+WALTER: That was a month ago now.
+WALTER: This evening I walked up to the top field, slowly, with my stick, the way I do. The sun was going down over the fell, and the whole valley was gold.
+WALTER: Duchess saw me from the other side of the field, and she came over, the way she always does. Not running. She's too dignified for that now. She's a Supreme Champion, two years in a row. But she came.
+WALTER: Ellie was sitting on the wall, reading the collar data on her phone, and telling me that Duchess had chewed for nine hours and twelve minutes that day, which is apparently excellent.
+WALTER: Agnes Pike has gone back to her bees and her scones. She says she's retired again. I don't believe her. I saw her reading a newspaper on Tuesday, and she was underlining things.
+WALTER: And Napoleon escaped twice this week. Both times, he came straight to my cottage. I've had to start buying two packets of biscuits.
+[amb off]
+WALTER (warm): So that's my story. I'm not a hero, and I'm not a criminal. I'm just an old man who loves a cow.
+WALTER (warm): And if there's a lesson in it, [[I suppose]] it's this. Old men shouldn't steal cows.
+WALTER (warm): But if you ever do... take a goat.
+[bgm off]
+[music acoustic.24 16]

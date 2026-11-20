@@ -1,120 +1,153 @@
-title: Food and Faith
-date: 2026-11-17
-description: A food writer from Mumbai explains how religion shapes what people eat in India and around the world. Then a report on Britain's love of curry, and a chat about listening to music while you work.
-guest: NEERJA=en-IN-NeerjaNeural
+title: Voice Notes to Gran
+date: 2026-11-09
+description: Luke from Cape Town spends a year teaching English in a small mountain town in Japan. He sends voice messages to his grandmother. She sends them back. A year of rice fields, karaoke, snow – and family.
+voice: LUKE = en-ZA-LukeNeural
+voice: GRAN = en-ZA-LeahNeural -10% -6Hz
 
-# Food and Culture
-RYAN: Good morning, and welcome to English Radio. I'm Ryan.
-SONIA: And I'm Sonia. Thanks for joining us again on your way to work.
-RYAN: Today, we're going to talk about food. But not about recipes or restaurants. We're going to talk about why people eat what they eat, and especially, how [[religion]] shapes our food.
-SONIA: It's a fascinating subject, because food is often much more than fuel. It's connected to identity, family, and [[belief]]. Our guest is Neerja, a food writer from Mumbai, in India. Neerja, welcome to English Radio.
-NEERJA: Thank you so much, Sonia and Ryan. It's lovely to be with you.
-RYAN: Neerja, India seems like the perfect place to start. Why is that?
-NEERJA: Because India is home to so many religions. The [[majority]] of people are Hindu, but there are also large Muslim, Christian and Sikh communities, as well as Buddhists, Jains and others. Each of these traditions has its own ideas about food. So in one Indian city, you can find an incredible range of food customs, sometimes in the same street, or even in the same office canteen.
-SONIA: Let's start with Hinduism. Many people associate India with [[vegetarian]] food. Is that accurate?
-NEERJA: Partly. India has more vegetarians than any other country. In one large survey, around four in ten Indian adults described themselves as vegetarian. But that also means most Indians do eat meat, at least sometimes. It really depends on the region, the community and the family.
-RYAN: And the cow is sacred in Hinduism, isn't it?
-NEERJA: Yes. For many Hindus, the cow is a symbol of motherhood and generosity, because she gives milk, which nourishes people. So most Hindus don't eat beef, even those who eat chicken or fish. In many Indian states, it's actually illegal to [[slaughter]] cows.
-SONIA: So the cow is protected, but her milk is very important.
-NEERJA: Extremely important. Dairy is everywhere in Indian food. Ghee, which is clarified butter, is used in cooking and in religious ceremonies. Paneer, a fresh cheese, is a favourite for vegetarians. And then there's yoghurt, lassi, sweets made from milk, and of course chai.
-RYAN: Of course chai. This show can't escape tea.
-NEERJA: Nobody in India can escape tea, either! And here's something your listeners might find interesting, after your episode on Kenya. India is the largest milk producer in the world. And a big part of that success came from dairy cooperatives.
-SONIA: Just like Wanjiru's cooperative in Kenya.
-NEERJA: Very similar. In the nineteen seventies, India started a huge programme to organise small dairy farmers into cooperatives. Millions of farmers with just one or two buffaloes or cows could sell their milk together, get fair prices, and reach the cities. People call it the White Revolution. It changed the lives of millions of rural families.
-RYAN: That's a great connection. Now, what about other religions in India?
-NEERJA: Let's take Jainism, which is a smaller religion but very interesting when it comes to food. The central idea of Jainism is non-violence towards all living beings. So Jains are strictly vegetarian, and many of them go further. They avoid root vegetables, like onions, garlic, potatoes and carrots.
-SONIA: Why root vegetables?
-NEERJA: Because when you pull a root vegetable out of the ground, you kill the whole plant, and you may also harm many tiny creatures living in the soil. So a lot of Jain cooking is done without onion or garlic, which is quite a challenge for a cook. Some very devout Jains also don't eat after sunset.
-RYAN: That's an [[ethical]] position taken very seriously.
-NEERJA: It is. And it's not just about rules. For many people, food is a daily way of practising their values.
-SONIA: What about Islam?
-NEERJA: Muslims eat food that is halal, which means permitted. Pork is not allowed, and neither is alcohol. Meat has to come from animals slaughtered in a specific way, with a prayer. And of course, there's Ramadan, the holy month when Muslims fast from dawn until sunset every day. No food, and not even water, during daylight hours.
-RYAN: Not even water? That must be very hard, especially in hot weather.
-NEERJA: It is very hard. But the evening meal, called iftar, when people break their fast, is a beautiful time. Families and neighbours eat together, and traditionally the fast is broken with dates and water. In Mumbai, during Ramadan, some streets fill with food stalls in the evening, and people of all religions come to enjoy the food.
-SONIA: That sounds wonderful. And the Sikh community has a famous food tradition too, doesn't it?
-NEERJA: Yes, the langar. This is my favourite example of food and faith. Every Sikh temple, which is called a gurdwara, has a free community kitchen. Anyone can come in and eat a simple vegetarian meal, whatever their religion, background or social class. Everyone sits together on the floor, side by side, to show that all people are equal.
-RYAN: Anyone at all?
-NEERJA: Anyone at all. At the Golden Temple in Amritsar, the most important Sikh temple, [[volunteers|volunteer]] cook and serve free meals for tens of thousands of people every day. It's one of the largest free kitchens in the world. I volunteered there once, making chapatis, and it was an unforgettable experience.
-SONIA: That's a truly [[generous]] tradition. And there are langars in Britain too, aren't there?
-NEERJA: Yes, in many British cities with Sikh communities. During the pandemic, many gurdwaras in Britain delivered free meals to people who were [[isolated]] or struggling.
-RYAN: Let's widen the picture. What about religions beyond India?
-NEERJA: Every religion has its food customs. In Judaism, people who keep kosher don't mix meat and [[dairy products]] in the same meal. In Christianity, some people give up certain foods during Lent, the weeks before Easter. In Britain, the tradition of eating fish on Fridays, and the popularity of fish and chips on a Friday, comes partly from Christian customs.
-SONIA: I didn't know that. Fish and chips Friday has a religious history!
-NEERJA: Many everyday habits do. And in Japan, there's shojin ryori, the vegetarian cooking of Buddhist temples. It's beautiful food, very seasonal, made with tofu, vegetables, seaweed and mountain plants, and no meat or fish at all.
-RYAN: I've heard that some temples in Kyoto serve it to visitors.
-NEERJA: Yes, and I highly recommend it. It's a very peaceful way to eat.
-RYAN: Neerja, many religious festivals have special foods too, don't they?
-NEERJA: Oh, absolutely. Festivals are when food becomes really exciting. During Diwali, the Hindu festival of lights, families make and share huge amounts of sweets, which we call mithai. People visit each other's homes with boxes of sweets, and by the end of the festival, everyone has eaten far too much sugar.
-SONIA: That sounds a bit like Christmas in Britain.
-NEERJA: Very similar! And at Eid, the festival at the end of Ramadan, Muslim families prepare big feasts. Biryani, which is a fragrant rice dish with meat, and a sweet milky dessert made with thin noodles, dates and nuts.
-RYAN: That sounds delicious.
-NEERJA: It is. And in the south of India, there's a harvest festival called Pongal. The name comes from a dish of rice cooked in milk with jaggery, which is a kind of unrefined sugar. Families cook it outdoors in a new clay pot, and they let it boil over on purpose.
-SONIA: On purpose? Why?
-NEERJA: Because the milk overflowing from the pot is a symbol of abundance, of having more than enough. When it boils over, everyone shouts pongalo pongal! It's a wonderful moment.
-RYAN: I love that. In my kitchen, when milk boils over, it's a disaster. In India, it's a [[celebration]].
-NEERJA: Exactly! It's all about how you look at it. And Christmas is celebrated in India too, especially in states like Kerala and Goa, where there are large Christian communities. People make rich fruit cakes, a bit like a British Christmas cake.
-SONIA: That's a lovely example of [[cultural exchange]].
-NEERJA: Yes. And in a big city like Mumbai, people from different religions often celebrate each other's festivals together. My Hindu neighbours bring us sweets at Diwali, and my Muslim friends invite everyone for food at Eid. Food is how we share our festivals.
-SONIA: Neerja, for people who travel, or who invite guests from different backgrounds, what advice would you give?
-NEERJA: The most important thing is simply to ask. If you're inviting someone to dinner, ask, is there anything you don't eat? It's polite, and nobody will be offended by the question. And when you travel, learn a few basic customs. In India, for example, people traditionally eat with their right hand, and many restaurants are labelled pure veg, which means they serve no meat or eggs at all.
-RYAN: That's useful to know. Are there any signs on food packaging too?
-NEERJA: Yes! In India, packaged food has a small symbol: a green dot in a square means it's vegetarian, and a brown or red one means it's not. It makes shopping much easier for vegetarians. I wish every country had it.
-SONIA: That's a really simple and clever system. Neerja, thank you so much for this.
-NEERJA: Thank you both. And remember, sharing food is the oldest way of making friends.
+# April
+[music acoustic.65 12]
+[sfx beep]
+[bgm acoustic.66 0.12]
+LUKE (excited): Hi Gran! It's me. It's Luke. I made it! I'm here! I'm in Japan!
+LUKE: Sorry it's taken a few days to send this. It's been mad. The flight from Cape Town was, like, twenty-six hours, with a change in Dubai, and then a [[train]] from the airport, and then another train, and then a smaller train, and then a bus. And then a man from the town office picked me up in this tiny little truck. Japan has these tiny trucks, Gran. They're like toy trucks. Farmers use them for everything.
+LUKE: So the town is called... well, I'll send you the name, you'll never remember it. It's in the mountains, in a part of Japan called Gifu. It's really [[rural]]. There are about eight thousand people, mostly old farmers, a river, a lot of rice fields, and one convenience store, which is open twenty-four hours, and which I have already visited eleven times.
+LUKE: And Gran, the cherry blossoms. You won't believe it. All along the river, there are these trees, and they're completely covered in pink flowers. And when the wind blows, the petals come down like snow. Everyone goes out and sits under the trees and has picnics. They call it "hanami". It means "flower watching". A whole country, stopping to look at flowers. I love it already.
+LUKE: Okay, I start at the schools on Monday. I'm a bit nervous. Send me a voice note when you can. Love you. Bye.
+[bgm off]
+[sfx beep]
+[bgm piano.67 0.12]
+GRAN: Hello? Hello, Luke? Is this thing working? Your cousin Thandi showed me how to do this, but she talks so fast. Am I pressing the right button? The little microphone? Oh, I think it's going. Okay.
+GRAN (warm): Hello, my boy. I'm so happy you're safe. I listened to your message four times. I don't understand why it takes four trains to get anywhere in Japan, but I'm glad you got there.
+GRAN: Everything is fine here. Cape Town is beautiful, as always. The wind has been blowing like mad, of course. I've been in the garden. The roses are finished, but the lemons are lovely this year. I gave a big bag of them to Mrs Daniels next door, and she gave me a cake, so I think I won that one.
+GRAN: We had load-shedding again last night. Three hours with no electricity. So I sat in the dark with a candle and Biscuit on my lap, and I thought about you, on the other side of the world, sitting under a pink tree.
+GRAN: Don't worry about the schools. You'll be wonderful. Just be kind, and be yourself, and learn their names. People always remember the teachers who learned their names.
+GRAN: Okay. How do I stop this? Is it the red button? Oh... Biscuit, get down.
+[bgm off]
 
-# The Report
-SONIA: Time now for The Report. Ryan, I think you're keeping the food theme going.
-RYAN: I am, Sonia. In two thousand and one, the British Foreign Secretary, Robin Cook, gave a speech about British [[identity]]. In it, he said that chicken tikka masala was now a true British national dish. It was a surprising statement, but many people agreed.
-RYAN: Chicken tikka masala is pieces of grilled, spiced chicken in a creamy, orange-coloured tomato sauce. It's one of the most popular dishes in Britain. But where does it come from? Its origins are disputed. One of the most popular stories says that it was invented in the nineteen seventies in a restaurant in Glasgow, in Scotland, when a customer complained that his chicken tikka was too dry, and the chef created a sauce to go with it. Others say similar dishes existed in India long before. Nobody can prove it either way.
-RYAN: What is certain is that Britain's love of curry has a long history. The first Indian restaurant in London opened in eighteen ten, more than two hundred years ago. But the real boom came after the Second World War, when many [[immigrants|immigrant]] arrived from South Asia. Many of the curry houses that opened across Britain from the nineteen sixties onwards were started by families from Bangladesh, especially from the region of Sylhet.
-RYAN: These restaurants [[adapted|adapt]] their cooking to British tastes. Dishes became milder, or much hotter, than in South Asia, and new dishes were created especially for British customers. In this way, the British curry house developed its own style, related to, but different from, the food of India, Pakistan and Bangladesh.
-RYAN: Going out for a curry became a British tradition, especially on a Friday night. For many towns, the local curry house became as familiar as the pub or the fish and chip shop. Robin Cook's point in his speech was that chicken tikka masala showed how Britain absorbs and adapts outside influences, making a [[multicultural]] society.
-RYAN: Today, however, many curry houses are facing difficult times. Rising costs for energy and ingredients have put pressure on small restaurants. Owners also report staff shortages, as stricter [[immigration]] rules have made it harder to bring in experienced chefs. And many of the founders' children and grandchildren, who grew up in Britain, have chosen other careers, such as medicine, law or business, rather than taking over the family restaurant.
-RYAN: At the same time, the way Britain eats South Asian food is changing. A new generation of restaurants focuses on regional dishes, home-style cooking, and street food from cities like Mumbai and Kolkata. Many diners now want a more [[authentic]] experience, and supermarkets sell a huge range of spices and ready-made sauces for cooking at home.
-RYAN: Whatever the future holds, the story of curry in Britain is a story of migration, hard work and adaptation. It shows how food can become a bridge between cultures, and how what counts as national [[cuisine]] can change over time. That's the report for today.
-SONIA: Thanks, Ryan. Now I really want a curry.
-RYAN: It's eight o'clock in the morning, Sonia.
-SONIA: A curry is always a good idea.
+# May
+[sfx beep]
+[bgm kitchen.68 0.12]
+LUKE: Hi Gran! Okay, I've been teaching for a month, and I have so much to tell you.
+LUKE: So, first of all, Japanese schools are so different from ours. When you walk in, you take off your outdoor shoes and put on indoor shoes. Everyone does it. The students, the teachers, the head teacher. There's a whole wall of little lockers just for shoes. On my first day, I forgot, and I walked into the staff room in my trainers, and the whole room went silent. Like I'd walked in with a horse.
+LUKE: And the students clean the school themselves. Every day, after lunch, there's a cleaning time. There are no cleaners. The kids sweep the floors, wash the windows, clean the toilets. Even the little ones. And they actually do it properly! I've been trying to get my brother to clean his room for fifteen years.
+LUKE: And lunch! Lunch is amazing. Everybody eats the same lunch, in the classroom, together. The students serve it themselves, wearing little white hats and masks, like tiny chefs. Rice, soup, fish, vegetables, a carton of milk. And before anyone eats, everybody says "itadakimasu" together. It's a way of saying thank you for the food. I really like that. It's a nice [[custom]].
+LUKE: Oh, and this week was rice planting! The whole town goes out to the fields. They flood the fields with water from the river, it's this clever old [[irrigation]] system, and then the rice goes in, in long, perfect lines. Most farmers use little machines now, but my school did it the [[traditional]] way, by hand, with the kids. So I spent a whole morning standing in mud up to my knees, planting rice, with forty ten-year-olds laughing at me.
+LUKE: I fell over. Twice. One girl told me, in very careful English, "Mr Luke, you are very bad farmer." Which was fair.
+[bgm off]
+[sfx beep]
+[bgm piano.69 0.12]
+GRAN (warm): Oh, Luke, I laughed so much at you falling in the rice. Your grandfather would have loved that. He always said you had two left feet.
+GRAN: You know, your great-grandmother grew up on a farm in the Eastern Cape. Maize, not rice. But it's the same, isn't it? The whole family out in the fields, everyone helping. That's how it was. People don't do that so much any more. It's a pity.
+GRAN: I like the idea of the children cleaning the school. I think we should do that here. I think we should do that in [[Parliament]].
+GRAN: My bridge club says hello. I told them all about you. Mrs Pillay asked if you've met any nice Japanese girls. I told her to mind her own business. But... have you?
+[bgm off]
 
-# Daily Talk
-RYAN: Now, Sonia, for our chat today, I want to ask you a question about your working habits.
-SONIA: Go on.
-RYAN: Do you listen to music while you work?
-SONIA: It depends what I'm doing. If I'm answering emails or doing something simple, then yes, I have music on. But if I need to read something carefully, or write something important, I need silence.
-RYAN: Interesting. I'm the opposite. I can't [[concentrate]] in silence. It's too quiet. I start noticing every tiny sound, like someone eating crisps three desks away.
-SONIA: The crisp eater. Every office has one.
-RYAN: Every office has one. So I put on headphones and listen to music without words. Usually something calm, like piano music, or those long videos of relaxing beats.
-SONIA: Lo-fi music?
-RYAN: Exactly. Very popular with students too. There's a famous livestream that plays it all day and all night, with a cartoon of a girl studying.
-SONIA: I think the key thing for me is the lyrics. If a song has words, especially in English, my brain starts listening to them, and I lose track of what I'm reading.
-RYAN: I think a lot of people find that. When you're reading or writing, your brain is already busy with language, so words in the music compete with the words on the page.
-SONIA: That makes sense. And what about the famous Mozart effect? I remember people saying that listening to Mozart makes you more intelligent.
-RYAN: Ah, that's a bit of a myth. It started with a small study in the nineteen nineties, where people did slightly better on one type of puzzle after listening to Mozart for a few minutes. But the effect was small and short. Then the idea got exaggerated, and people started playing Mozart to babies to make them geniuses.
-SONIA: So it doesn't make babies smarter?
-RYAN: There's no good [[evidence]] that it does. But listening to music you enjoy can put you in a better mood, and a better mood can help you work. So in a way, any music you like can have a small Mozart effect.
-SONIA: I like that. What about in the car? What do you listen to when you drive?
-RYAN: When I drive, which isn't often these days, I like something with energy. Rock music, usually.
-SONIA: I've read that fast music can make people drive faster.
-RYAN: Some studies have suggested that, yes. So maybe calm music is safer in heavy traffic.
-SONIA: Or a nice, calm English radio show.
-RYAN: Exactly. The perfect choice for safe driving.
-SONIA: Now, what about when a song gets stuck in your head? That happens to me all the time.
-RYAN: An earworm! That's a great word, by the way. It comes from German.
-SONIA: Another borrowed word! Like the ones in your report last time.
-RYAN: Exactly. An earworm is a song, or usually just a short part of a song, that repeats in your head again and again, and you can't stop it.
-SONIA: The worst is when it's a song you don't even like. An advert jingle, or a children's song.
-RYAN: There's actually a strange cure that one study found. Chewing gum.
-SONIA: Chewing gum? Really?
-RYAN: Apparently, chewing keeps the parts of your brain that you use for speaking and singing busy, so it's harder for the song to keep playing in your head.
-SONIA: I'm going to try that. And that makes me think of Japan, actually. When I was there, I noticed that music is everywhere. In shops, in stations, everywhere.
-RYAN: Yes! Many train stations in Japan have their own short melody that plays when a train is about to leave. Different stations have different tunes, and some of them are famous local songs.
-SONIA: That's lovely. So commuters hear the same little tune every morning.
-RYAN: Exactly. Some train fans can tell which station they're at just by the melody. And the convenience stores have a famous chime when you walk through the door.
-SONIA: I bet those are serious earworms for commuters.
-RYAN: I'm sure they are. Imagine hearing the same station melody twice a day for thirty years.
-SONIA: That would definitely stay in your head. So, Ryan, if you had to choose one piece of music to help you work, what would it be?
-RYAN: Probably some quiet piano music. Something that's there in the background, but doesn't ask for my attention.
-SONIA: Mine would be the sound of rain. No music at all. Just rain on a window. It's very calming.
-RYAN: Which is lucky, since you live in Britain.
-SONIA: Exactly. Free background sound, most days of the year. And here's today's challenge for our listeners. Think about what kind of sound helps you concentrate. Music, silence, or something else? And try to explain why, in English.
-RYAN: And if you have an earworm right now, try some chewing gum. But maybe not while you're talking to your boss.
+# June
+[sfx beep]
+[amb rain 0.6]
+[bgm lofi.70 0.12]
+LUKE (tired): Hi Gran. No, I haven't met any nice Japanese girls. Please tell Mrs Pillay to stop.
+LUKE: It's raining. It's been raining for two weeks. This is the [[rainy season]]. They call it "tsuyu". Basically from the middle of June to the middle of July, it just rains. All day. Every day. Not big storms, like at home. Just endless, soft, warm rain.
+LUKE: And it's so [[humid]], Gran. You know Durban in February? It's like that, but everywhere, all the time. My clothes don't dry. My towels don't dry. My shoes have started growing something green. I'm a bit worried about my shoes.
+LUKE: I'll be honest, this month has been a bit hard. The excitement of the first weeks has worn off, and now it's just... normal life, but in a language I don't understand. I can't read most of the signs. I can't read my post. Last week I put the rubbish out on the wrong day, and an old lady from next door brought it back to my door, very politely, with a little chart showing which rubbish goes out on which day. There are about six kinds. I think I'm in trouble with the whole street.
+LUKE: Some evenings I sit in my apartment and it's very quiet, and I miss home. I miss the noise. I miss braais on Sunday. I miss you, Gran.
+LUKE: Sorry. That's a bit of a sad message. I'm okay. Really. It's just the rain.
+[amb off]
+[bgm off]
+[sfx beep]
+[bgm piano.71 0.13]
+GRAN (warm): My boy. Listen to me.
+GRAN: What you're feeling is completely normal. Everybody who goes far away from home has a month like this. The first month is a holiday. The second month is real life. It's supposed to be hard. It means you're really living there now, not just visiting.
+GRAN: When I was young, I went to Johannesburg to train as a nurse. I was nineteen. I'd never been away from home. And for the first few months, I cried in the bathroom every night, so the other girls wouldn't hear me. And then one day, I stopped. I don't even remember when. It just got better. It will get better for you too.
+GRAN: And here's my advice. Go and say thank you to that old lady next door. Take her something. A little cake. In my experience, old ladies who complain about your rubbish are just old ladies who are fighting [[loneliness]] and want someone to talk to.
+GRAN: Trust me. I know. I am one.
+[bgm off]
+
+# August
+[sfx beep]
+[amb night 0.5]
+[bgm citypop.72 0.12]
+LUKE (excited): Gran! Gran, you were right! You were so right!
+LUKE: So I took a cake to the old lady next door. Her name is Mrs Kato. She's eighty-four. And she invited me in for tea, and we had a whole conversation, using my terrible Japanese, her four words of English, and a lot of pointing. And now she's basically adopted me. She brings me vegetables from her garden every week. Cucumbers, aubergines, tomatoes. So many cucumbers, Gran. I've eaten more cucumbers this month than in my whole life.
+LUKE: And she told me something really sad, actually. Most of the young people in the town have moved away to the cities. Tokyo, Osaka, Nagoya. Her own children live in Tokyo, and they only visit once a year. Lots of the houses on our street are empty now. The town has an [[ageing population]]. The school I teach at had three hundred students when Mrs Kato's kids were there. Now it has sixty. It's happening all over rural Japan. The [[countryside]] is slowly emptying.
+LUKE: But anyway! The reason I'm sending this. Last night was the summer [[festival]]. Oh, Gran, I wish you'd seen it. The whole town came out. Everybody was wearing yukata, which are these light cotton summer kimonos. Mrs Kato lent me one that belonged to her husband. It was too short. I looked like a giant in a dressing gown.
+LUKE: There were food stalls everywhere. Grilled squid on sticks, little octopus balls, shaved ice with strawberry syrup. There were drums. Huge drums, played by these old men with towels on their heads, and the sound went right through your chest. And then everybody danced in a big circle. A slow, simple dance, the same steps again and again, round and round, young people and old people together, for hours.
+LUKE: And at the end, fireworks over the river. Just... [[enormous]]. Gold and red and green, reflected in the water. And Mrs Kato held my arm and said, in English, very slowly, "Luke-san. You are... our town... boy." I nearly cried.
+[amb off]
+[bgm off]
+[sfx beep]
+[bgm piano.73 0.13]
+GRAN: Oh, Luke. "Our town boy." Do you know how proud I am of you?
+GRAN: I played your message to Biscuit. She wagged her tail, so I think she's proud too.
+GRAN: I've been thinking about what you said, about the young people leaving. It's the same here, you know. All the young people from the small towns go to Joburg or Cape Town for work, and the old people stay behind. Everywhere in the world it's the same story now. The cities get bigger and the villages get quieter.
+GRAN: So be good to Mrs Kato. Eat all her cucumbers. Even if you're sick of them.
+GRAN: I've been a bit [[under the weather]] this week. Just a cough. Nothing to worry about. The doctor gave me some medicine. I'm fine. Thandi's coming on Sunday to help me in the garden.
+[bgm off]
+
+# November
+[sfx beep]
+[bgm acoustic.74 0.12]
+LUKE: Hi Gran. How's your cough? Are you taking the medicine? Thandi said you went back to the doctor. Please tell me if anything's wrong, okay? Promise?
+LUKE: Okay. News from here. [[Time flies]], Gran. I've been here seven months already. It's autumn, and the mountains have gone completely red and orange and yellow. The Japanese love the autumn leaves almost as much as the cherry blossoms. People drive for hours just to look at a particular [[valley]].
+LUKE: And this area is famous for persimmons. You know, those orange fruits, a bit like tomatoes, but sweet? Every house has a persimmon tree, and right now, everyone is peeling them, tying them on strings, and hanging them outside to dry in the sun. So the whole town is decorated with these long curtains of orange fruit hanging from the roofs. It looks like Christmas, but made of fruit.
+LUKE: Oh, and I had my first "enkai". That's a work party. All the teachers from my school went to a restaurant, and we had this huge dinner, and drank a lot of beer, and then we went to karaoke. Gran, Japanese karaoke is serious. It's a private room, with a big screen and a menu, and everyone takes turns.
+LUKE: And the head teacher, who is this very strict, very serious man, who has said maybe ten words to me since April, took the microphone and sang this incredibly sad, old Japanese love song. With his eyes closed. Beautifully. Everyone went quiet. It was like watching a completely different person.
+LUKE: Then they made me sing. I chose "Bohemian Rhapsody". That was a mistake. It's six minutes long. Halfway through, the head teacher was asleep.
+LUKE: But on Monday morning, he stopped me in the corridor, and said, in English, "Luke-sensei. Good singing. Very long." And he smiled. Which I think means we're friends now.
+[bgm off]
+[sfx beep]
+[bgm piano.75 0.14]
+GRAN (tired): Hello, my boy. I'm sorry I took so long to answer. I'll be honest with you, because you asked me to. I was in hospital for a few days. It was pneumonia. My chest. But I'm home now, and I'm much better, and Thandi is staying with me, so please don't panic.
+GRAN (tired): I didn't tell you before, because I didn't want you to get on a plane. You have your work there, and your students, and your Mrs Kato. I'm an old woman with a cough. That's all.
+GRAN: But I'll tell you something. When I was lying in that hospital bed, the nurses let me listen to your messages on my phone. The cherry blossoms. The rice. The festival. The head teacher singing. I listened to them over and over, and it was like I was there with you. One of the nurses started listening too. She wants to know if you've met a nice Japanese girl yet.
+GRAN: Now go and eat a persimmon for me.
+[bgm off]
+
+# January
+[amb wind 0.5]
+[sfx beep]
+[bgm spooky.76 0.1]
+LUKE (quiet): Hi Gran. Happy New Year.
+LUKE: I'm sorry I didn't come home for Christmas. I really wanted to. But the flights were so [[expensive]], and you told me not to, and Thandi said you were doing well. Are you still doing well? Tell me the truth.
+LUKE: It's snowing here. Properly snowing. There's about a metre of snow outside my door. I had to dig my way out this morning with a shovel. The whole town is white and silent, and the river is half frozen. I've never seen anything like it. In Cape Town I'd only ever seen snow on Table Mountain, from far away, once.
+LUKE: The Japanese have this thing called a "kotatsu". It's a low table with a heater underneath it and a thick blanket over the top. You sit on the floor, you put your legs under the blanket, and you never, ever want to move again. I've been living under my kotatsu for a week. I eat under it. I mark homework under it. I think I might die under it, happy.
+LUKE: On New Year's Day, Mrs Kato took me to the shrine at the top of the hill. It's a New Year [[tradition]]. Everybody goes, on the first days of the year, to pray for good luck. We stood in a long queue in the snow, and then you throw a coin, and clap your hands twice, and make a wish.
+[bgm off]
+[bgm piano.77 0.14]
+LUKE (quiet): I wished for you, Gran. I wished for you to get better. I wished really hard.
+LUKE: And then Mrs Kato bought me a little paper fortune, and it said "great luck". She said that's the best one. So I think it's going to work.
+[amb off]
+[bgm off]
+[sfx beep]
+[bgm acoustic.78 0.13]
+GRAN (cheerful): Happy New Year, my darling boy!
+GRAN (cheerful): Well, your wish worked. I went to the doctor on Friday, and he says my chest is completely clear. Completely! He said I'm doing better than he is. Ha!
+GRAN: And because I'm feeling so well, and because your grandfather always said I was a [[stubborn]] old woman who never listens to doctors, I've made a decision.
+GRAN: Thandi has been helping me on the computer. And we've booked something.
+GRAN (excited): Luke, I'm coming to Japan. In April. For the cherry blossoms. Thandi's coming with me, to carry the bags.
+GRAN: Don't [[argue]] with me. I'm eighty-one years old. I've never been further than London, and that was in nineteen seventy-eight, and it rained the whole time. I want to see the pink trees. I want to meet Mrs Kato. I want to hear the head teacher sing. And I want to see my grandson, the famous rice farmer.
+GRAN: Now, you'll have to explain the trains to me. All four of them.
+[bgm off]
+
+# April Again
+[amb birds 0.7]
+[sfx beep]
+[bgm citypop.79 0.12]
+LUKE (excited): Gran! Gran, where are you? I'm at the airport! I'm in arrivals! I'm standing by the... there's a big sign with a cartoon dog on it. Are you through passport control yet? Did Thandi find the bags?
+LUKE (excited): Oh wait. Wait, I can see you. I can see you! You're wearing the yellow hat! Okay, I'm coming! I'm stopping this message, I'm coming!
+[amb off]
+[bgm off]
+[pause 1.0]
+[sfx beep]
+[amb birds 0.6]
+[bgm acoustic.80 0.12]
+GRAN (warm): Hello, Luke. I'm recording this one for you to keep. For later.
+GRAN (warm): I'm sitting on a blanket, under a cherry tree, next to a river, in a little town in the mountains of Japan. Mrs Kato is sitting next to me. She doesn't speak English and I don't speak Japanese, but she's been holding my hand for twenty minutes, so I think we understand each other perfectly. I've never known such [[hospitality]].
+GRAN: The petals are coming down like snow. Just like you said. There's one in my tea.
+GRAN: You're over there with your students. They made a banner that says "Welcome Luke Grandmother". Somebody told me the head teacher has been practising a song.
+GRAN: I just wanted to say... thank you for all the messages. All year. You didn't know it, but you carried me through a very hard winter. Every time I was scared, I listened to your voice, and I was in Japan with you.
+GRAN: And now I really am.
+GRAN: Okay. How do I stop this? Is it the red button? Mrs Kato, is it the red one?
+[amb off]
+[bgm off]
+[music acoustic.81 14]

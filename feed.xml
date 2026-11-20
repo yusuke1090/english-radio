@@ -4,9 +4,9 @@
 <title>English Radio</title>
 <link>https://yusuke1090.github.io/english-radio/</link>
 <atom:link href="https://yusuke1090.github.io/english-radio/feed.xml" rel="self" type="application/rss+xml"/>
-<language>en-gb</language>
-<description>A British English radio show for the commute: farming and technology, everyday chat, and IELTS words in context.</description>
-<lastBuildDate>Wed, 18 Nov 2026 21:04:14 +0900</lastBuildDate>
+<language>en</language>
+<description>English for the commute: stories in three parts, talks, vlogs, comedy, radio drama and music shows, with a different voice every time.</description>
+<lastBuildDate>Fri, 20 Nov 2026 22:34:08 +0900</lastBuildDate>
 <itunes:author>English Radio</itunes:author>
 <itunes:image href="https://yusuke1090.github.io/english-radio/cover.jpg"/>
 <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -14,113 +14,103 @@
 <itunes:type>serial</itunes:type>
 <itunes:block>Yes</itunes:block>
 <item>
-<title>1. Smart Collars for Dairy Cows</title>
-<description>A vet from New Zealand explains how sensors on cows spot illness and heat early. Then Sonia and Ryan talk about the daily commute.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep001.mp3?v=99343eb224" length="9786438" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-001</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1631</itunes:duration>
+<title>1. Duchess Is Missing (1/3)</title>
+<description>A three-part mystery in the Yorkshire Dales. Part 1 – the night a champion cow vanished, told by 14-year-old Ellie.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep001.mp3?v=b23fd1a200" length="11763506" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-001</guid>
+<pubDate>Sun, 01 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1470</itunes:duration>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>2. Milk and Mobile Money in Kenya</title>
-<description>How small dairy farms in Kenya feed their cows, sell their milk and get paid by phone. Then a report on plant-based milk, and a chat about tea.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep002.mp3?v=caec208f80" length="9601544" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-002</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1600</itunes:duration>
+<title>2. Duchess Is Missing (2/3)</title>
+<description>Part 2 – retired detective Agnes Pike takes the case. Boot prints, a goat who loves ginger biscuits, and a drone that saw something at two in the morning.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep002.mp3?v=23d17e21b5" length="12783602" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-002</guid>
+<pubDate>Mon, 02 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1598</itunes:duration>
 <itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>3. Drones on the Farm</title>
-<description>An Australian agronomist on mapping and spraying crops with drones. Then a report on the four-day working week, and a chat about winter weather.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep003.mp3?v=c9ee5c25ea" length="9031004" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-003</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1505</itunes:duration>
+<title>3. Duchess Is Missing (3/3)</title>
+<description>Part 3 – the thief tells his side of the story. An old farmhand, a goat, a long night by the beck, and the morning of the Thornby Show.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep003.mp3?v=c3c5245c74" length="12728594" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-003</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1591</itunes:duration>
 <itunes:episode>3</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>4. From Milk to Cheese</title>
-<description>An Irish cheesemaker explains how milk becomes cheese. Then a report on the global rise of Japanese city pop, and a chat about breakfast.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep004.mp3?v=97b269238e" length="8389485" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-004</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1398</itunes:duration>
+<title>4. Drive Time with Maya</title>
+<description>A music show for the drive home. Maya plays six tracks made for this show – city pop, bossa nova, highlife, synthwave, swing and lo-fi – and tells the stories behind each sound.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep004.mp3?v=95393e9477" length="14466094" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-004</guid>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1808</itunes:duration>
 <itunes:episode>4</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>5. The Sound of Africa</title>
-<description>A music journalist from Lagos explains how Afrobeats went global. Then a report on the vinyl revival, and a chat about the British pub.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep005.mp3?v=127d7fa270" length="8247213" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-005</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1374</itunes:duration>
+<title>5. A Day on a Kiwi Dairy Farm (Vlog)</title>
+<description>Sam runs a dairy farm in the Waikato, New Zealand. Come along from the 4 a.m. alarm to the last cow of the day – calves, a rotary shed, a cow in trouble, and a lot of mud.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep005.mp3?v=7a7c61c713" length="12109691" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-005</guid>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1514</itunes:duration>
 <itunes:episode>5</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>6. The Life Under Our Feet</title>
-<description>A Canadian soil scientist on what soil really is, how farmers protect it, and how to measure soil moisture. Then a report on British allotments, and a chat about Christmas.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep006.mp3?v=e8e6238ea5" length="8643649" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-006</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1441</itunes:duration>
+<title>6. Planet Office</title>
+<description>A nature documentary about the strangest habitat on Earth – the open-plan office. Watch the morning migration, the battle for the window desk, and the mystery of the missing yoghurt.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep006.mp3?v=b4331fdcb3" length="12487527" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-006</guid>
+<pubDate>Fri, 06 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1561</itunes:duration>
 <itunes:episode>6</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>7. Swahili and the Spice Island</title>
-<description>A teacher from Zanzibar talks about the Swahili language, greetings, food and the history of the Spice Island. Then a report on words English borrowed from other languages, and a chat about street food.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep007.mp3?v=dfec84505f" length="8756550" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-007</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1459</itunes:duration>
+<title>7. Your Accent Is Not a Mistake (Talk)</title>
+<description>A talk in the style of TED. Linguist Priya Raman explains why being understood matters more than sounding "native" – and why every accent tells a story.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep007.mp3?v=a80a53e09f" length="12442045" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-007</guid>
+<pubDate>Sat, 07 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1555</itunes:duration>
 <itunes:episode>7</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>8. Farms in the Sky</title>
-<description>An urban farmer from Singapore explains rooftop farms, vertical farms and food security in a small city. Then a report on the global matcha boom, and a chat about karaoke.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep008.mp3?v=dd92cc01cd" length="8981034" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-008</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1497</itunes:duration>
+<title>8. An Aussie in London (Stand-up)</title>
+<description>Stand-up comedy. Australian comedian Nick Walsh explains what the British really mean when they say "not bad" – plus queues, tea, the weather, and a bowing contest in Tokyo.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep008.mp3?v=e28131071a" length="10459160" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-008</guid>
+<pubDate>Sun, 08 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1307</itunes:duration>
 <itunes:episode>8</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>9. Food and Faith</title>
-<description>A food writer from Mumbai explains how religion shapes what people eat in India and around the world. Then a report on Britain's love of curry, and a chat about listening to music while you work.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep009.mp3?v=3c57149a09" length="8972104" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-009</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1495</itunes:duration>
+<title>9. Voice Notes to Gran</title>
+<description>Luke from Cape Town spends a year teaching English in a small mountain town in Japan. He sends voice messages to his grandmother. She sends them back. A year of rice fields, karaoke, snow – and family.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep009.mp3?v=74358187fc" length="11734701" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-009</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1467</itunes:duration>
 <itunes:episode>9</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
-<title>10. Maize, Rain and Resilience</title>
-<description>A South African agronomist on maize, drought and small farms in Malawi and Zambia. Then a report on Glastonbury, the music festival on a dairy farm, and Sonia and Ryan look back on ten episodes.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep010.mp3?v=b89b497849" length="8440758" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-010</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1407</itunes:duration>
+<title>10. Stories by the Fire</title>
+<description>Uncle Femi tells three old West African folktales around the fire – how Anansi the spider bought all the world's stories, why the Sun and the Moon live in the sky, and the pot that held all the wisdom.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep010.mp3?v=5a906cd8e6" length="11713391" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-010</guid>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1464</itunes:duration>
 <itunes:episode>10</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>11. Late Night Special: The Queue That Wasn't</title>
-<description>A comedy special. Embarrassing stories, brutal nicknames, silly listener mail, and a crash course in British sarcasm.</description>
-<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep011.mp3?v=0b09d814f3" length="8689029" type="audio/mpeg"/>
-<guid isPermaLink="false">english-radio-011</guid>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0900</pubDate>
-<itunes:duration>1448</itunes:duration>
-<itunes:episode>11</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel>

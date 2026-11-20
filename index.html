@@ -33,7 +33,7 @@ summary{cursor:pointer;color:var(--accent);font-size:.9rem}
 <main>
 <header>
   <img src="cover.jpg" alt="">
-  <div><h1>English Radio</h1><div class="sub">通勤で聞くイギリス英語のラジオ</div></div>
+  <div><h1>English Radio</h1><div class="sub">通勤で聞く英語のラジオ</div></div>
 </header>
 <a class="follow" id="follow">Podcast アプリで登録</a>
 <button class="feed" id="feed" title="押すとコピー"></button>
@@ -51,7 +51,7 @@ feedBtn.onclick = () => navigator.clipboard?.writeText(FEED).then(() => {
 
 const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const mark = s => esc(s).replace(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g, '<b>$1</b>');
-const name = s => s[0] + s.slice(1).toLowerCase();
+const name = s => s.split('_').map(w => w[0] + w.slice(1).toLowerCase()).join(' ');
 
 async function script(ep, box) {
   const txt = await (await fetch(`episodes/${String(ep.n).padStart(3, '0')}.txt`)).text();
@@ -59,7 +59,7 @@ async function script(ep, box) {
   for (const line of txt.split('\n')) {
     let m;
     if (line.startsWith('# ')) html += `<h3>${esc(line.slice(2))}</h3>`;
-    else if ((m = line.match(/^([A-Z]+):\s*(.+)/))) html += `<p><span class="who">${name(m[1])}</span>${mark(m[2])}</p>`;
+    else if ((m = line.match(/^([A-Z][A-Z_]*)(?:\s*\([a-z ]+\))?:\s*(.+)/))) html += `<p><span class="who">${name(m[1])}</span>${mark(m[2])}</p>`;
   }
   html += '<h3>Words</h3><div class="words">' +
     ep.words.map(w => `<b>${esc(w.word)}</b><span>${esc(w.ja)}</span>`).join('') + '</div>';

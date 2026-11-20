@@ -6,7 +6,7 @@
 <atom:link href="https://yusuke1090.github.io/english-radio/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en</language>
 <description>English for the commute: stories in three parts, talks, vlogs, comedy, radio drama and music shows, with a different voice every time.</description>
-<lastBuildDate>Sat, 21 Nov 2026 02:26:57 +0900</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 02:37:52 +0900</lastBuildDate>
 <itunes:author>English Radio</itunes:author>
 <itunes:image href="https://yusuke1090.github.io/english-radio/cover.jpg"/>
 <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
@@ -181,6 +181,36 @@
 <pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
 <itunes:duration>1407</itunes:duration>
 <itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>18. A Saturday in Lagos (Vlog)</title>
+<description>Ada, a food vlogger, takes you through a Saturday in Lagos, Nigeria – a yellow minibus, a bridge across the lagoon, the biggest market you've ever seen, the great jollof argument, and Afrobeats until late.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep018.mp3?v=c029111357" length="12393654" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-018</guid>
+<pubDate>Wed, 18 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1549</itunes:duration>
+<itunes:episode>18</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>19. Midnight FM</title>
+<description>A late-night music show for night drivers, night workers and anyone who can't sleep. Leo plays six new tracks, takes calls from a nurse and a truck driver, and talks about the Moon, the stars, and 3 a.m. thoughts.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep019.mp3?v=7385790d87" length="14532903" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-019</guid>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1817</itunes:duration>
+<itunes:episode>19</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>20. The Joy of Being Bad at Things (Talk)</title>
+<description>A talk in the style of TED. Hannah Brooks took up the cello at 47, surfing at 49 and Korean at 50 – and was terrible at all of them. Why being a beginner again might be the best thing an adult can do.</description>
+<enclosure url="https://yusuke1090.github.io/english-radio/audio/ep020.mp3?v=ea5d568b1f" length="10974689" type="audio/mpeg"/>
+<guid isPermaLink="false">english-radio-v2-020</guid>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0900</pubDate>
+<itunes:duration>1372</itunes:duration>
+<itunes:episode>20</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel>

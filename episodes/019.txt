@@ -1,0 +1,122 @@
+title: Midnight FM
+date: 2026-11-19
+description: A late-night music show for night drivers, night workers and anyone who can't sleep. Leo plays six new tracks, takes calls from a nurse and a truck driver, and talks about the Moon, the stars, and 3 a.m. thoughts.
+voice: LEO = en-US-AndrewMultilingualNeural -4%
+voice: ANITA = en-IN-NeerjaNeural
+voice: MIKE = en-US-RogerNeural -6% -4Hz
+outro: synthwave.201
+
+# Midnight
+[sfx static]
+[music synthwave.201 12]
+[bgm space.202 0.14]
+LEO (calm): It's midnight. And this is Midnight FM.
+LEO (calm): I'm Leo. And if you're listening to me right now, you're probably awake when most of the world is asleep. Maybe you're driving home after a late shift. Maybe you're just starting one. Maybe you're a long-distance driver, and you've got four hundred miles of dark road in front of you. Or maybe you're lying in bed, staring at the ceiling, and you just couldn't sleep.
+LEO (calm): Whoever you are, wherever you are, welcome. You're not alone out there. There are a lot of us awake tonight.
+LEO: For the next half hour, I've got six new pieces of music for you, made especially for this show. Nothing too loud. Nothing too fast. Music for the hours after midnight. And in between, we'll talk a little. About the night. About the people who work through it. And about the Moon, because I can see it from the studio window right now, and it's beautiful.
+LEO: Let's start with something for the road. This is called "City Lights at One A.M."
+[bgm off]
+[music synthwave.203 120]
+
+# The Night Shift
+[bgm lofi.204 0.13]
+LEO: "City Lights at One A.M." I love that one. It sounds like driving through a city when all the traffic lights are green, just for you.
+LEO: You know, we don't think about it much, but a huge part of the world keeps going all night. Somebody is always awake. Nurses and doctors in hospitals. Police officers. Firefighters. Bakers, making tomorrow's bread. Cleaners, in empty offices. [[Security]] guards. Taxi drivers. Lorry drivers, bringing food to the supermarkets before the doors open. Factory workers. Call centres, answering phones for people on the other side of the world, where it's daytime.
+LEO: In a lot of countries, something like one in five workers does some kind of [[shift]] work. Early mornings, evenings, nights. And night work is hard on the body. Humans aren't [[nocturnal]] animals. We're built to be awake in the light and asleep in the dark.
+LEO: Inside each of us, there's a kind of clock. A twenty-four-hour rhythm that tells the body when to feel sleepy, when to feel hungry, when to feel alert. Light is what sets that clock. That's not just a theory, it's been shown in [[experiments|experiment]] again and again. So when you work all night and try to sleep in the day, you're fighting your own biology. It causes a lot of [[stress]] for the body. People who work nights for many years have a higher risk of all kinds of health problems. Sleep problems, stomach problems, heart problems. It affects your [[well-being]], and your [[mental health]] too.
+LEO: So if you're one of those people working tonight, I just want to say, from me, thank you. The world works because you're awake. We don't say that enough.
+LEO: And speaking of people who are awake... I think we've got a call. Hello, you're on Midnight FM.
+[sfx ringtone]
+[bgm off]
+
+# Anita
+[bgm piano.205 0.12]
+ANITA: Hi, Leo! Oh my goodness, I can't believe I got through. I listen every night.
+LEO: Welcome, welcome. Who am I talking to, and where are you?
+ANITA: My name's Anita. I'm a nurse. I'm on my break, in the staff room, at the hospital. Just me, a cup of tea, and a vending machine that's been broken since March.
+LEO: Anita, how's the night going?
+ANITA (tired): Oh, you know. Busy. We had three people come in at once around eleven. A car [[accident]]. Everyone's okay, thank God. But it's been non-stop since then. This is my first chance to sit down.
+LEO: How long have you been working nights?
+ANITA: Eight years now. Four nights on, four nights off. You get used to it. Sort of. My body still doesn't know what time it is. I eat breakfast at seven in the evening. I eat dinner at four in the morning. My kids think I'm a vampire.
+LEO: Does it get lonely?
+ANITA: Sometimes. Not at work, because there's always somebody. But afterwards. When I drive home at eight in the morning, everyone else is going to work, and I'm going to bed. My friends are having lunch, and I'm asleep. It's like living in a different time zone, in your own city.
+LEO: What gets you through?
+ANITA: Honestly? The patients. At three or four in the morning, when the ward is quiet, that's when people talk. An old man who can't sleep tells you about his wife, who died twenty years ago. A young mother, scared about her baby. In the daytime, everyone's rushing. At night, there's time. Some of the best conversations of my life happened at four in the morning, holding someone's hand.
+LEO: That's beautiful, Anita.
+ANITA: And also, this show. On the drive home. I'm serious. It helps me [[unwind]] before I sleep.
+LEO: Then this next track's for you. And for every nurse on a break tonight, with a cup of tea that's gone cold. It's called "Empty Platform".
+ANITA: Thank you, Leo! I have to go, my buzzer's going! Bye!
+[bgm off]
+[music piano.206 120]
+
+# Three A.M. Thoughts
+[bgm space.207 0.12]
+LEO: "Empty Platform". A little piano for a quiet moment.
+LEO: Can I talk about something? Something I think a lot of us know, but don't talk about much?
+LEO: Three a.m. thoughts.
+LEO: You know the ones. You wake up in the middle of the night, for no reason, and suddenly your brain decides it's the perfect time to think about everything. That embarrassing thing you said at a party in two thousand and twelve. Whether you locked the door. Money. Work. Your health. Whether you're wasting your life. And in the dark, at three in the morning, every problem looks ten times bigger than it is.
+LEO: Here's the strange thing. In the morning, when the sun comes up, most of those thoughts just... shrink. You have a coffee, and you look at the problem again, and it's normal size. Annoying, maybe. But manageable.
+LEO: I read once that there's something real behind this. At night, when you're tired, the parts of your brain that keep your emotions in balance don't work quite as well. So your worries get louder, and your calm, sensible voice gets quieter. It's not that your life is worse at three a.m. It's that your brain is too tired to see it clearly.
+LEO: So, if you're lying awake right now, with your mind going round and round... here's my advice. And I'm not a doctor. I'm a guy with a microphone. But. Don't trust your three a.m. thoughts. Write them down, if you need to. Then tell them, very politely, that you'll [[deal with]] them in the morning. Most of them won't even turn up.
+[bgm off]
+[bgm space.208 0.12]
+LEO: And now, something to look at. If you're out on the road, or near a window, look up for a second. Not if you're driving. Passengers only. Drivers, I'll [[describe]] it for you.
+LEO: Tonight, the Moon is almost full. Big and white and very bright, above the city.
+LEO: Here are some things I love about the Moon. First: we only ever see one side of it. The same face, always looking at us. That's because it turns exactly once for every trip it makes around the Earth. So there's a whole side of the Moon that no human saw at all, until spacecraft flew around it in the twentieth century.
+LEO: Second: the Moon is slowly moving away from us. About four centimetres a year. That's about as fast as your fingernails grow. So millions of years from now, it'll look a little smaller in the sky.
+LEO: And third: the Moon doesn't make its own light. It's just a big grey rock, reflecting the Sun. Which means that right now, at midnight, the Sun is still shining on you. Just indirectly. Bouncing off the Moon. I find that weirdly comforting.
+LEO: This next one is for everyone looking up tonight. It's called "Satellite Lullaby".
+[bgm off]
+[music space.209 120]
+
+# Big Mike
+[bgm bossa.210 0.12]
+LEO: "Satellite Lullaby". Let's take another call. Hello, you're on Midnight FM.
+[sfx ringtone]
+MIKE: Leo! Big Mike here. How you doing, buddy?
+LEO: Big Mike! Everybody, Big Mike is a regular. He's a truck driver, and he calls about once a week. Where are you tonight, Mike?
+MIKE: Just pulled into a truck stop, couple hundred miles north. Got a full load of fresh vegetables in the back. Lettuce, tomatoes, peppers. Gotta be at the distribution centre by five a.m., so they're in the stores by breakfast.
+LEO: So when somebody makes a salad tomorrow lunchtime...
+MIKE: That's my salad, Leo. You're welcome, America.
+LEO: How many years have you been driving, Mike?
+MIKE: Twenty-six years. Started when I was twenty-two. I've driven, I don't know, three million miles? Something like that. I've seen every sunrise in this country. [[Deserts|desert]], mountains, cornfields. Snowstorms in Wyoming. Thunderstorms in Kansas, where the whole sky goes purple.
+LEO: What's the best part of the job?
+MIKE: The quiet. At three in the morning, on an empty highway, with the stars out, and the radio on. There's nothing like it. Nobody bothering you. Just you and the road. Some people would hate it. I love it.
+LEO: And the worst part?
+MIKE: Being away from home. And the [[sedentary lifestyle]]. You sit for eleven hours a day. My doctor's always telling me to walk more. My daughter's twelve. I've missed a lot of birthdays. A lot of school plays. That's the price. My [[work-life balance]] is not great. We video call every night, before she goes to bed. She shows me her homework. I show her the truck stop. Very glamorous.
+LEO: Is she going to be a truck driver?
+MIKE: She wants to be an astronaut. She says the view is better.
+LEO: She's not wrong.
+MIKE: She's not wrong. Hey, Leo, can you play something for her? She's asleep, but I'll tell her in the morning.
+LEO: What's her name?
+MIKE: Rosie.
+LEO: This one's for Rosie, the future astronaut, and her dad, Big Mike, bringing the salad to America. It's called "Last Bus to Nowhere". Drive safe, Mike.
+MIKE: Always, buddy. Always.
+[bgm off]
+[music bossa.211 120]
+
+# Light Pollution
+[bgm space.212 0.12]
+LEO: "Last Bus to Nowhere". A little bossa nova for the long road.
+LEO: Mike's talk about the stars made me think of something. When was the last time you saw the Milky Way? I mean really saw it. That big, cloudy river of light across the sky.
+LEO: For most of human history, everybody could see it, every clear night. It was just there. It's in the stories and the myths of almost every [[culture]] on Earth. But today, about [[a third]] of all the people on Earth can't see it from where they live. In Europe and North America, it's most people. Not because it's gone. Because of us.
+LEO: It's called [[light pollution]]. All the street lights, and car parks, and buildings, and [[advertising]] signs, send light up into the sky, and it bounces around in the air, and it creates a sort of glow over every city. And that glow is brighter than the faint stars. It washes them out.
+LEO: Scientists have studied this. They've found that the night sky has been getting brighter every year, as cities grow, and as more lights go up. In a big city today, you might see a few dozen stars, at most. In a truly dark place, far from any town, you can see thousands.
+LEO: And it's not just about the view. A lot of animals depend on the dark. Birds that [[migrate]] at night use the stars to find their way, and city lights can confuse them. Baby sea turtles, when they hatch on the beach, head towards the brightest light, which used to be the moon over the sea. Now, sometimes, it's a hotel.
+LEO: The good news is that this is one kind of pollution that's easy to fix. Turn lights off when you don't need them. Point them down, not up. Some towns are doing exactly that, and some places have even become official "dark sky" areas, where the night is protected. And people travel there, just to see the stars, the way their great-grandparents saw them every night.
+LEO: So, a challenge for you. Sometime this year, go somewhere dark. Really dark. Lie on your back. Wait twenty minutes for your eyes to adjust. And look up. I promise, it'll change something in you.
+LEO: Here's a track for the city at night, with all its lights on. It's called "Convenience Store at Three A.M.", and it's inspired by a friend of mine in Tokyo, who says the most peaceful place in the world is a Japanese convenience store at three in the morning. Bright and clean and quiet, with soft music playing, and one sleepy guy behind the counter, and rice balls.
+[bgm off]
+[music lofi.213 120]
+
+# Goodnight
+[bgm jazz.214 0.12]
+LEO: "Convenience Store at Three A.M." I want to go there right now. I want a rice ball.
+LEO: We're nearly at the end of the show. And I always like to finish with something, a little thought, to take with you into the rest of the night.
+LEO: Tonight, it's this. The night isn't just the empty part between two days. For a lot of people, it's where life actually happens. Nurses holding hands at four a.m. Truck drivers watching the sunrise. Bakers. Cleaners. New parents, feeding a baby in the dark, half asleep. Students, finishing an essay. Lovers, talking for hours. Lonely people, listening to the radio.
+LEO: If you're one of them tonight, I hope you feel a little less alone. Because you're not. There are thousands of us out here, awake together, under the same Moon.
+LEO: To Anita, the nurse, with her cold tea. To Big Mike, and Rosie, the future astronaut. To everyone driving home. To everyone who can't sleep. Thank you for spending your midnight with me.
+LEO: Here's the last track. It's called "After Hours". Close your eyes, if you're not driving. And if you are... keep them on the road. I'll see you tomorrow night.
+LEO (calm): This has been Midnight FM. I'm Leo. Goodnight.
+[bgm off]
+[music jazz.215 120]

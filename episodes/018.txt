@@ -1,0 +1,168 @@
+title: A Saturday in Lagos (Vlog)
+date: 2026-11-18
+description: Ada, a food vlogger, takes you through a Saturday in Lagos, Nigeria – a yellow minibus, a bridge across the lagoon, the biggest market you've ever seen, the great jollof argument, and Afrobeats until late.
+voice: ADA = en-NG-EzinneNeural
+voice: AUNTY = en-KE-AsiliaNeural -6% -4Hz
+voice: KOFI = en-KE-ChilembaNeural +4%
+voice: CONDUCTOR = en-NG-AbeoNeural +12%
+
+# Good Morning, Lagos
+[amb birds 0.5]
+[music afro.185 10]
+[bgm afro.186 0.12]
+ADA (cheerful): Good morning, good morning, my people! How far? It's your girl Ada, and welcome back to the channel!
+ADA: If you're new here, hi, welcome, I'm Ada, I'm twenty-seven, I live in Lagos, Nigeria, and I make videos about food, music, and this crazy, beautiful, exhausting city I call home. Today is Saturday. And on Saturday in Lagos, we don't rest. We move.
+ADA: So the plan for today is big. We're going to take a danfo to the Island. We're going to cross the Third Mainland Bridge. We're going to visit my aunty at Balogun Market. We're going to eat, eat, eat, and eat again. My friend Kofi from Ghana is joining us, which means there will be a fight about jollof rice. And tonight, we're going to a live Afrobeats show. You're going to love it. Let's go!
+[bgm off]
+
+# NEPA Took Light
+[amb off]
+[bgm lofi.187 0.1]
+ADA: Okay, first, small problem. Can you hear that noise? That rumbling?
+ADA: That's my neighbour's generator. Because, as usual, NEPA has taken light.
+ADA: Let me explain for my international people. In Nigeria, the electricity is... not [[reliable]]. We have [[power cuts|power cut]] all the time. Sometimes for an hour. Sometimes for a whole day. The national electricity company used to be called NEPA, a long time ago. It's had different names since then, but everybody still says "NEPA". So when the power goes off, we say "NEPA has taken light". And when it comes back, the whole street shouts "Up NEPA!" Like we scored a goal.
+ADA: So almost everybody who can afford one has a generator. Small ones, big ones, all running on petrol or diesel. The whole city hums. It's noisy, it's [[expensive]], it's bad for the air. But that's life here. We adapt. Lagosians are experts at adapting. If you can survive Lagos, you can survive anywhere.
+ADA: Anyway. My phone is charged, my camera is charged, my power bank is charged. Ada is prepared. Let's go and find a danfo.
+[bgm off]
+
+# The Danfo
+[bgm afro.188 0.12]
+ADA: Okay, so this is a danfo. You've probably seen them in photos. These yellow minibuses, with the black stripes, are the heart of Lagos transport. They go everywhere. They're cheap. They're crowded. They have no fixed timetable. And they are driven by men who believe the rules of the road are just suggestions.
+CONDUCTOR (shout): Obalende! Obalende! CMS! Enter with your change o! Enter with your change!
+ADA: That's the conductor. Every danfo has one. He hangs out of the open door, shouting the [[destinations|destination]], collecting the money, and arguing with everybody. He's saying we're going to Obalende, on the Island, and that we should have the exact money. Because if you give him a big note, he will not have change. He will never have change. He has never, in the history of Lagos, had change.
+ADA: Okay, we're in. I'm squeezed between a woman with a huge bag of tomatoes and a man in a suit reading his Bible. The seat is meant for three people. There are five of us. This is normal.
+CONDUCTOR (shout): Owa! Owa! Move, move! Shift small, madam!
+ADA: "Shift small" means move over a little bit. It's the most-used phrase in Lagos transport. Even when there's no space left to shift into, you shift small.
+ADA: Lagos is a [[metropolis]]. It's the biggest city in Nigeria, and one of the biggest in Africa. Nobody knows exactly how many people live here. Some say fifteen million, some say over twenty. It's growing so fast that nobody can count. Every day, people arrive from every part of the country, looking for work, looking for [[opportunity]]. That's [[urbanisation]], my people. Live, in real time, in a yellow bus.
+[bgm off]
+
+# Third Mainland Bridge
+[amb wind 0.4]
+[bgm citypop.189 0.12]
+ADA: Okay, look out of the window. This is the Third Mainland Bridge. It's one of the longest bridges in Africa. Almost twelve kilometres. It goes right across the lagoon, from the Mainland, where most people live, to the Island, where a lot of the offices and the business are.
+ADA: On one side, you can see the water. And on the water, look, there's Makoko. Houses built on wooden poles, standing in the lagoon, with people moving between them in canoes. A whole [[community]] on water. Very beautiful from the bridge. A very hard life, if you live there.
+ADA: And on a weekday morning, this bridge is one of the worst [[traffic jams|traffic jam]] on earth. We call it "go-slow". You can be on this bridge for two hours. People do their make-up in the car. They eat breakfast. They make business calls. They have whole relationships. I know a couple who met in go-slow. They got married.
+ADA: But it's Saturday. So we're moving. Look at us. Flying. Well. Moving at the speed of a fast goat. But for Lagos on a bridge, that's flying.
+ADA: The [[traffic congestion]] here is a big topic. The [[government]] has been building a new rail system, and there are new train lines now, which is great. But the city is growing faster than the roads and the trains can be built. The [[infrastructure]] is always trying to catch up.
+[amb off]
+[bgm off]
+
+# Pidgin Lesson
+[bgm comedy.200 0.1]
+ADA: While we're crossing, let me teach you some Pidgin. Because if you come to Lagos, you'll hear it everywhere.
+ADA: Nigeria has more than five hundred languages. Five hundred! Yoruba, Igbo, Hausa, and hundreds more. So how do people from different places talk to each other? English, officially. But on the street, in the market, in the danfo, it's Pidgin. It's a language that grew out of English, mixed with words from Nigerian languages, and it has its own grammar. Millions of people speak it every day. It's a real language, not "broken English". Don't let anybody tell you different.
+ADA: Lesson one. "How far?" This means "How are you?" or "What's up?" And you answer, "I dey." Which means, "I'm fine. I'm here. I exist."
+ADA: Lesson two. "Wetin dey happen?" That's "What's happening?"
+ADA: Lesson three. "Abeg." That means "please". As in, "Abeg, shift small." Please, move over.
+ADA: Lesson four, the most important one. "No wahala." No problem. Somebody steps on your foot in the market? No wahala. The danfo breaks down on the bridge? No wahala. NEPA takes light in the middle of your favourite film? Okay, that one's a bit of wahala. But mostly, no wahala.
+ADA: And lesson five. "Na wa o!" This is what you say when something is shocking, or amazing, or too much. Like, "You waited three hours in go-slow? Na wa o!"
+ADA: Okay. Try it with me. How far?
+[pause 2.0]
+ADA: Now answer me. I dey.
+[pause 2.0]
+ADA: Very good! You're practically a Lagosian now. Abeg, don't try to [[bargain]] with my aunty in Pidgin, though. She will destroy you.
+[bgm off]
+
+# Balogun Market
+[bgm afro.190 0.12]
+ADA: We have arrived! Welcome to Balogun Market, on Lagos Island. Oh my God. Look at this. Can you see this?
+ADA: Balogun is one of the biggest markets in West Africa. It's not one building. It's a whole area. Street after street after street. Fabrics, shoes, phones, bags, jewellery, electronics, wedding clothes, everything. Thousands and thousands of traders. If it exists, someone in Balogun is selling it. If it doesn't exist, someone in Balogun can get it for you by Tuesday.
+ADA: And it's loud. Traders calling you. Music from speakers. Wheelbarrows pushing through the crowd. "Excuse me! Excuse me! Fine girl, come and see!" It's [[overcrowded]], it's hot, and I love it.
+ADA: My aunty has a fabric stall here. She's been selling here for thirty years. Aunty! Aunty, say hello to my [[followers|follower]]!
+AUNTY (cheerful): Ah, Ada! You've brought your camera again! Hello, everybody! Welcome to Lagos! Come and buy my fabric! Very good price!
+ADA: My aunty sells Ankara. That's the printed cotton fabric with the bright patterns. You see it everywhere in West Africa. People buy it and take it to a tailor to make clothes. For a wedding, a whole family will choose one fabric, and everybody wears it, all in matching outfits. It's called aso ebi.
+AUNTY: Ada, why are you wearing that boring black top? Take this green one. With the yellow fish. It will look fine on you.
+ADA: Aunty, I'm vlogging.
+AUNTY: Then vlog in the fish. Take it. I won't charge you. Okay, I'll charge you a little.
+ADA: My aunty is a businesswoman to her bones. Thirty years in this market. She sent four children to university with this stall. She's a proper [[entrepreneur]], before anybody used that word.
+AUNTY: And when are you getting married, Ada?
+ADA: Okay! That's enough of my aunty! Bye, Aunty! Love you!
+AUNTY: I'm only asking!
+[amb off]
+[bgm off]
+
+# Street Food
+[amb sizzle 0.6]
+[bgm kitchen.191 0.12]
+ADA: Okay, it's lunchtime. Kofi is meeting us by the market, and we are going on a street food tour. This is my favourite part of the day. This is the part I've been waiting for since I woke up.
+KOFI (cheerful): Ada! How are you? Hello, everybody. I'm Kofi. I'm from Accra, in Ghana. I'm the handsome one.
+ADA: Kofi is my friend from university. He moved to Lagos for work two years ago. He still hasn't learned to cross the road.
+KOFI: Nobody can cross the road in Lagos. You just pray and walk.
+ADA: First stop. Puff-puff! These are little balls of fried dough. Sweet, soft, round, and dangerous, because you can't eat just one. My record is fourteen.
+KOFI: Ghana has the same thing. We call it bofrot.
+ADA: Kofi, every time I show you a Nigerian food, you say "Ghana has the same thing".
+KOFI: Because Ghana has the same thing. But better.
+ADA: You see what I'm [[dealing with|deal with]]?
+[bgm off]
+[bgm afro.192 0.12]
+ADA: Second stop. Boli! This is roasted plantain. Plantain is like a big banana, but you cook it. Here, they roast it on a grill over charcoal until the outside is black and the inside is soft and sweet and smoky. And you eat it with roasted groundnuts, peanuts. It's the perfect cheap lunch.
+ADA: And third stop, the king of all street food. Suya!
+ADA: Suya is spicy grilled meat on sticks. Usually beef. The meat is sliced very thin, covered in a spice mix called yaji, made from ground peanuts, chilli, ginger, and other spices, and then grilled over fire. It comes from the north of Nigeria, from the Hausa people. And the suya men, the ones who make it, often learned from their fathers, who learned from their fathers.
+ADA: They wrap it in newspaper, with raw onions and tomatoes and more spice on the side. Kofi, try it.
+KOFI (excited): Oh. Oh. Okay. Okay, I'll admit it. This one, Ghana doesn't have. Not like this.
+ADA (excited): Did you hear that? Did everybody hear that? Kofi said something nice about Nigerian food! Mark the date! Write it down!
+KOFI: I said it's good. I didn't say the jollof is good.
+ADA: Oh, here we go.
+[amb off]
+[bgm off]
+
+# The Jollof War
+[bgm sports.193 0.12]
+ADA: Okay. For those of you who don't know, I need to explain the most serious [[conflict]] in West Africa.
+ADA: Jollof rice. It's rice cooked in a sauce of tomatoes, peppers, onions, and spices, until it's red and rich and full of flavour. Every West African country makes it. And every country thinks theirs is the best. But the biggest rivalry, the one that never ends, is Nigeria against Ghana.
+KOFI: There's no rivalry. Ghana's is better. That's not a rivalry. That's a fact.
+ADA: You see? This argument has been going on for years. Online, mostly. There are memes. There are songs. There are cooking competitions on television. Families have stopped speaking. Okay, maybe not families. But Twitter, definitely.
+KOFI: The difference is the rice. Ghanaians use jasmine rice, which is fragrant. Nigerians use long-grain parboiled rice, which is... fine. If you like fine.
+ADA: Nigerian jollof is smokier. Especially party jollof. At a Nigerian party, they cook it in huge pots over a wood fire, and the rice at the bottom gets a little bit burned, and the smoke goes into everything. That smoky taste is the best taste in the world. People fight over the bottom of the pot.
+KOFI: You're celebrating burned rice.
+ADA: I'm celebrating flavour, Kofi!
+KOFI: Okay, let's be serious for a moment. Honestly? The truth is, the jollof war is a love story. We only argue because we're so close. Same food, same music, same jokes. We're like brother and sister.
+ADA: Aww. That's actually very sweet, Kofi.
+KOFI: But Ghana's is still better.
+ADA: And he's ruined it.
+[bgm off]
+
+# Japa
+[bgm piano.194 0.1]
+ADA: Okay, while we walk to the car, I want to talk about something a bit more serious. Because a lot of you ask me about it in the comments.
+ADA: There's a word that every young Nigerian knows right now. "Japa." It's Yoruba, and it means something like "to run away". But now, everybody uses it to mean leaving Nigeria to live abroad. To the UK, to Canada, to America, to anywhere.
+ADA: In the last few years, a lot of young people have japa-ed. Doctors, nurses, engineers, programmers. The economy has been tough. Prices have gone up so fast. The [[cost of living]] is crazy. A bag of rice costs so much more than it did a few years ago. And when you're young and educated and you can't find a good job, or you can't [[afford]] a flat, and the power keeps going off, you start to think about leaving.
+ADA: Half of my university friends are abroad now. My best friend is a nurse in Manchester. My cousin is in Toronto. We video call, and they show me their clean streets and their electricity that never goes off, and I'm happy for them. I really am.
+ADA: People ask me, "Ada, why haven't you left?"
+ADA: And honestly? Some days, I think about it. When I've been in go-slow for three hours, and NEPA has taken light again, and the generator is broken, believe me, I think about it.
+ADA: But then I go to the market, and my aunty tries to sell me a fish shirt. And I eat suya on the street with my friends. And I hear the music. And I think, there's nowhere else on earth like this. Lagos is hard. But Lagos is alive. Everybody here is hustling, creating, building something. There's an energy here that you can't find anywhere else.
+ADA: So for now, I'm staying. Maybe one day I'll japa too. But I hope, if I do, I'll come back. A lot of people do come back, and they bring new ideas with them. That's how a city grows.
+[bgm off]
+
+# Music
+[amb night 0.4]
+[bgm afro.195 0.12]
+ADA: Okay! It's nine p.m., and we're in Ikeja, on the Mainland, at a small live music club. The band is setting up. The place is filling up. Kofi has changed his shirt three times.
+KOFI: I want to look good for the music.
+ADA: Before the show starts, a tiny bit of history, because this [[neighbourhood]] is special.
+ADA: In the nineteen seventies, here in Lagos, a musician called Fela Kuti created a sound called Afrobeat. It mixed highlife, from Ghana...
+KOFI: From Ghana! Thank you!
+ADA: ...from Ghana, yes, Kofi, with jazz, and funk, and traditional Yoruba rhythms. Long songs, big bands, horns, and lyrics that [[criticised|criticise]] the government. He was arrested many times for his music. Today, his children still play at a venue here in Ikeja called the New Afrika Shrine. And every year, there's a festival in his honour, called Felabration.
+ADA: And today's Afrobeats, with an "s", the music you hear on every radio from London to Tokyo, grew out of all of that. Nigerian artists are now some of the biggest stars in the world. Their songs are streamed billions of times. When I was a teenager, I never imagined that people in Japan would be singing along to music from Lagos.
+ADA: Okay, the band is starting. I'm going to stop talking. Just listen.
+[amb off]
+[bgm off]
+[music afro.196 50]
+[bgm afro.197 0.12]
+ADA (excited): Oh my God. Did you hear that? The talking drum! The horns! Kofi is dancing! Kofi, you can't dance!
+KOFI (excited): I'm Ghanaian! We invented dancing!
+ADA: Okay, I'll let him have that one. It's too late to argue.
+[bgm off]
+
+# Home
+[amb night 0.5]
+[bgm lofi.198 0.1]
+ADA (tired): Okay. It's two a.m. I'm in a taxi on the way home. My feet hurt. My voice is gone. I've got suya spice on my new fish shirt. And the generator next door is still running.
+ADA: So that's a Saturday in Lagos. I hope you enjoyed coming along. I hope you saw a bit of what I love about this city. Not just the traffic and the noise, which, yes, okay, there's a lot of. But the people. The food. The music. The way everybody keeps going, no matter what.
+ADA: There's a phrase in Lagos. "Lagos no dey carry last." It's Pidgin, and it means "Lagos never comes last." Whatever happens, this city finds a way to be first. First to dance. First to laugh. First to the front of the danfo.
+ADA: Next week, I'm going to try to cook party jollof, on a real wood fire, and Kofi is going to judge it. Wish me luck. I'll need it.
+ADA: If you enjoyed this video, like it, share it, and drop a comment telling me where you're watching from. I read all of them. Even Kofi's.
+ADA: Goodnight, my people. Lagos loves you.
+[amb off]
+[bgm off]
+[music afro.199 14]

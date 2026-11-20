@@ -1,0 +1,141 @@
+title: The Joy of Being Bad at Things (Talk)
+date: 2026-11-20
+description: A talk in the style of TED. Hannah Brooks took up the cello at 47, surfing at 49 and Korean at 50 – and was terrible at all of them. Why being a beginner again might be the best thing an adult can do.
+voice: HANNAH = en-US-EmmaMultilingualNeural
+voice: HOST = en-US-AriaNeural
+outro: piano.216
+
+# Welcome
+[music piano.217 12]
+HOST: Our next speaker is a [[lawyer]], a mother of three, and, in her own words, "the worst cellist in Bristol". Please welcome Hannah Brooks.
+[sfx applause]
+[pause 0.5]
+
+# The Worst Cellist in Bristol
+HANNAH: Thank you. Thank you. I'd like to start by playing something for you.
+HANNAH: No, I'm joking. I would never do that to you. You seem like nice people.
+HANNAH: But it's true. I am the worst cellist in Bristol. Possibly in the whole of England. I have the paperwork to prove it. My teacher, who is twenty-three years old and has the patience of a saint, once listened to me play a simple piece, and when I finished, she was quiet for a long time, and then she said, very kindly, "Hannah... was that the right piece?"
+HANNAH: It was.
+HANNAH: I started learning the cello five years ago, when I was forty-seven. I had never played an instrument in my life. I can't read music very well. My fingers are slow. My bow arm shakes. When I practise at home, my teenage son puts on headphones and the dog leaves the room. Literally. The dog gets up and leaves.
+HANNAH: And I want to tell you tonight that it's one of the best things I have ever done.
+HANNAH: Not because I'm getting good. I'm getting a tiny bit less bad. Very slowly. No, it's because of what it's taught me about being bad at things. And about why so many of us, as adults, have stopped trying.
+
+# When Did We Stop?
+[bgm piano.218 0.1]
+HANNAH: Think about a small child. A two-year-old. A two-year-old is bad at everything. They're bad at walking. They fall over all the time. They're bad at talking. They say "spaghetti" as "pasketti". They're bad at eating. Half of it goes on the floor, and some of it goes in their hair.
+HANNAH: And do they care? Not at all. They fall over, they laugh, and they get up again. They try a new word, they get it wrong, and they try it again. They're terrible, and they're completely happy about it. And because of that, they learn at an incredible speed.
+HANNAH: Now think about yourself. When was the last time you did something you were truly bad at? Not "a bit rusty". Actually bad. In front of other people.
+HANNAH: For most adults, the answer is: a long time ago. Years. Maybe [[decades|decade]].
+HANNAH: Somewhere along the way, most of us made a deal with ourselves. We found a few things we were good at. Our job. A sport, maybe. Cooking. And we decided to only do those things. We built our whole lives around the things we already knew how to do. Because being good at things feels safe. And being bad at things feels... dangerous.
+HANNAH: As a lawyer, I was good at my job. I'd been doing it for twenty years. I knew what I was doing every minute of every day. People asked me for advice. They paid me a lot of money for it. And I realised, at forty-seven, that I hadn't felt like a beginner at anything since I was about fifteen.
+HANNAH: And I was bored. Not of my job. Of myself.
+[bgm off]
+
+# The Fear
+[bgm piano.219 0.1]
+HANNAH: So why do we stop? I think the answer is fear. Specifically, the fear of looking stupid.
+HANNAH: As adults, we've spent years building an [[identity]]. A version of ourselves that we show the world. Competent. [[Confident]]. In control. Being a beginner threatens all of that. When you're a beginner, you can't hide. Everybody can see that you don't know what you're doing.
+HANNAH: The first time I went to my cello lesson, I sat in the car outside the music school for twenty minutes, because I was too [[embarrassed]] to go in. There were children going in. Seven-year-olds. With cello cases bigger than they were. And I thought, I can't do this. I'm a forty-seven-year-old lawyer. What am I doing here, with the seven-year-olds?
+HANNAH: And then I thought about my daughter, who was nine at the time, and who was terrified of swimming. I'd spent the whole summer telling her, "It's okay to be scared. Everyone's bad at the beginning. Just try." And I thought, Hannah, you hypocrite. Get out of the car.
+HANNAH: So I got out of the car.
+HANNAH: And the lesson was awful. Absolutely awful. I couldn't even hold the bow properly. The sound I made was like a cat stepping on another cat. I left with sore fingers and a red face.
+HANNAH: And on the drive home, I was singing. Out loud. In the car. I don't sing in the car. I felt more awake than I had in years.
+[bgm off]
+
+# Beginner's Mind
+[bgm space.220 0.1]
+HANNAH: There's an idea from Zen Buddhism, from Japan, that I love. It's called "shoshin". It means "beginner's mind".
+HANNAH: A Zen teacher called Shunryu Suzuki, who taught Zen in America from the late nineteen fifties, wrote this. "In the beginner's mind there are many possibilities, but in the expert's there are few."
+HANNAH: Think about what that means. When you're an expert, you know how things work. You know the rules. You know what's possible and what isn't. And that's useful. But it also means you stop seeing. You stop asking questions. You stop being surprised.
+HANNAH: A beginner sees everything. Every note on the cello was a surprise to me. Every time I got something right, it felt like magic. When I finally played a whole scale without stopping, after three months, I cried. In front of my twenty-three-year-old teacher. She gave me a tissue. She was very [[professional]] about it.
+HANNAH: When was the last time something you did at work made you cry with happiness? For me, honestly, never. I'm good at my job. Good doesn't make you cry. Learning does.
+[bgm off]
+
+# What the Science Says
+[bgm piano.221 0.1]
+HANNAH: Now, I'm a lawyer, not a scientist. But I've read a lot about this since I started, because I wanted to understand what was happening to me. And here are three things that researchers have found that I think everyone should know.
+HANNAH: First. Your brain can keep learning, all your life. For a long time, people believed that the adult brain was fixed. That after a certain age, you couldn't really learn new skills. We now know that's not true. That's why [[lifelong learning]] is possible. The brain keeps changing and making new connections, at every age, especially when you learn something new and difficult. It's slower than when you're a child, yes. But it never stops. There's no age where you're too old to learn the cello. Or a language. Or anything.
+HANNAH: Second. Struggle is good. A psychologist in California called Robert Bjork has a wonderful phrase for this. He calls them "desirable difficulties". When learning feels easy, you often forget it quickly. When learning feels hard, when you struggle, and make mistakes, and have to try again, that's often when it sticks. The struggle isn't a sign that you're failing to learn. The struggle is the learning.
+HANNAH: And third, and this is the one that changed my life. Another psychologist, Carol Dweck, at Stanford, spent years studying how people think about their own abilities. Some people believe that talent is fixed. You're either "musical" or you're not. You're either "good at languages" or you're not. She calls that a "fixed mindset". And other people believe that abilities can grow, with effort and practice. She calls that a "growth mindset".
+HANNAH: And she found that the way you think about it makes a huge difference to how much you actually learn. If you believe you can't improve, you lose your [[motivation]], and you [[give up]] the first time it's hard. If you believe you can, you keep going.
+HANNAH: For forty-seven years, I believed I wasn't musical. My music teacher told me so when I was eight. "Hannah, you're not a musical child. Try drawing." And I believed her. For forty years. One sentence, from one tired teacher, on one bad day.
+HANNAH: Who told you that you weren't good at something? And are you still believing them?
+[bgm off]
+
+# The Sea and Korean
+[bgm bossa.222 0.1]
+HANNAH: Once I'd started being bad at things, I couldn't stop. It became a bit of a problem, [[to be honest]].
+HANNAH: At forty-nine, I took up surfing. In Cornwall. In April. If you don't know the sea in Cornwall in April, imagine a bath full of ice cubes that hates you.
+HANNAH: For the first three days, I didn't stand up on the board once. Not once. I fell off the board, I fell off the board, and I fell off the board. A wave hit me in the face so hard my sunglasses [[ended up|end up]] in the car park. Small children on tiny boards were surfing past me, laughing.
+HANNAH: On the fourth day, I stood up. For about two seconds. I still haven't really [[got the hang of|get the hang of]] it. And then I fell off again. But for those two seconds, I was flying. And I screamed so loudly that the instructor thought I was drowning.
+HANNAH: And at fifty, I started learning Korean. Because I'd got completely addicted to Korean dramas, and I was tired of reading the [[subtitles]].
+HANNAH: Learning a language as an adult is probably the most humbling thing you can do. Your whole life, you've been able to express yourself. You can be funny, clever, persuasive. In court, I can talk for an hour. And suddenly, you're a person who can only say "Hello", "Thank you", and "Where is the toilet?" You become a child again. In front of everyone.
+HANNAH: Last year, I went to Seoul for the first time. And I went into a little restaurant, and I ordered, very proudly, in Korean. And the waiter smiled, and nodded, and brought me... a large bowl of something I definitely did not order. It [[turned out|turn out]] I'd asked for "the spicy one", when I meant to say "not the spicy one". One small word.
+HANNAH: I ate it anyway. I cried, but that time it wasn't happiness. It was chilli.
+HANNAH: But here's what happened next. The waiter, who had been watching me suffer, came back with a glass of milk, and sat down at my table, and taught me the right word. Slowly. Laughing. And then he asked where I was from, and we talked for twenty minutes, in terrible Korean and terrible English, and it was one of the best conversations I had on the whole trip.
+HANNAH: He wouldn't have sat down with a perfect speaker. He sat down with me because I was bad. Because I was trying. Being a beginner made me human to him. It opened a door.
+[bgm off]
+
+# What Being Bad Taught Me
+[bgm acoustic.225 0.1]
+HANNAH: There's one more thing being a beginner did for me. Something I didn't expect at all. It made me kinder.
+HANNAH: At work, I'm [[responsible]] for [[training|train]] the young lawyers who join our firm. And for years, I'll be honest, I was not a patient teacher. When they made mistakes, I sighed. I corrected them quickly. I thought, how can you not know this? It's so [[obvious]].
+HANNAH: Of course it was obvious. To me. I'd been doing it for twenty years.
+HANNAH: Then I spent a year being the worst person in every room I walked into. At the music school. On the beach. In the Korean class, where I sit between a nineteen-year-old student and a retired bus driver, and both of them are better than me.
+HANNAH: And I remembered what it actually feels like. The confusion. The embarrassment. The way your brain goes blank when somebody is watching you. The way one kind word from a teacher can keep you going for a week, and one impatient sigh can make you want to quit forever.
+HANNAH: So now, when a young lawyer makes a mistake, I think of my cello teacher. Twenty-three years old, listening to me play the wrong piece, and saying, "Okay! Let's try that again." Not "That was terrible." Just, "Let's try that again."
+HANNAH: I'm a much better [[mentor]] now. My junior lawyers have noticed. One of them asked me last month if I'd been on some kind of course. I said, "Yes. It's called surfing."
+HANNAH: It's the same at home. My mother is eighty-one, and last year she decided to learn how to use a smartphone. And there was a time when I would have been so impatient. "Mum, you just [[press]] the button. No, the other button. No, Mum, the other one." But now, I sit with her, and I go slowly, and when she gets it wrong, I tell her about the time I fell off a surfboard fourteen times in one morning. And she laughs. And she tries again.
+HANNAH: She sends me voice messages now. Very long ones. Mostly about the neighbour's cat. I love every single one.
+HANNAH: When you're always the expert, it's easy to forget how hard it is to be new. Being a beginner again reminds you. And that makes you better at helping everyone else who's still learning. Which is, when you think about it, everyone.
+[bgm off]
+
+# For You, in the Car
+[bgm piano.223 0.1]
+HANNAH: Now, I know that some of you, hearing this, are learning something right now. Maybe you're learning a language. Maybe you're listening to this in your car, on the way home, trying to understand every word in a language that isn't yours.
+HANNAH: If that's you, I want to say something directly to you.
+HANNAH: What you're doing is one of the bravest things an adult can do. Every day, you choose to be a beginner. You choose to not understand everything. You choose to make mistakes, in front of people, in a language that makes you feel smaller than you really are. That takes more courage than most people will ever know.
+HANNAH: When you get a word wrong, and someone laughs, that's not failure. That's the struggle. That's the learning, happening, right there.
+HANNAH: And when you understand a joke, for the first time, in your new language, and you laugh at exactly the right moment, without having to think about it... I promise you, that feeling is better than anything an expert ever feels.
+[bgm off]
+
+# The Recording
+[bgm piano.226 0.1]
+HANNAH: Let me tell you about the most embarrassing piece of audio in the world.
+HANNAH: On my very first day with the cello, my teacher said something I thought was very strange. She said, "Before you go home, record yourself playing. Just one minute. Anything. Then put it away, and don't listen to it for a year."
+HANNAH: So I did. I sat in that little practice room, with my phone on the music stand, and I played the only thing I could play, which was one long, terrible note, over and over, like a sad cow in a field. Then I saved it, and I forgot about it.
+HANNAH: A year later, on the same day, she reminded me. "Hannah. The recording. Listen to it now."
+HANNAH: And I sat in my kitchen, and I pressed play.
+HANNAH: Oh. It was so much worse than I remembered. The sound was scratchy and thin and wobbly. You could hear me breathing, very nervously. At one point, you could hear me whisper "oh no".
+HANNAH: And then I picked up my cello, in the kitchen, and I played the piece I was working on that week. A simple piece. Slow. Still full of mistakes. But it was music. Actual music. With a melody, and a beginning, and an end.
+HANNAH: And I realised that I had [[made progress|make progress]]. A lot of progress. I just hadn't been able to see it. Because when you practise every day, you don't notice yourself changing. Every day feels the same. Every day, you feel bad. The progress is too slow to see, until you look back a whole year.
+HANNAH: So that's my first practical tip for you. Whatever you start, record yourself on day one. Your voice speaking the new language. A photo of your first drawing. A video of your first dance class. Put it away. And in a year, look at it. You'll be amazed. You'll also be horrified. But mostly amazed.
+HANNAH: I do it every year now. I have five recordings. I listen to them all on the same day, one after the other, every year. It's like watching a plant grow, in fast motion. My family calls it "Hannah's Annual Concert of Shame". They refuse to attend.
+[bgm off]
+
+# How to Start
+[bgm acoustic.227 0.1]
+HANNAH: People often ask me, "Hannah, I'd love to try something new, but where do I start? How do I actually do it?" So here are a few things I've learned, the hard way.
+HANNAH: One. Start very, very small. Not "I'm going to become fluent in Spanish this year". That's a big, scary goal, and big, scary goals are very easy to give up. Instead, try "I'm going to do ten minutes a day". Ten minutes is nothing. You can do ten minutes on a bad day. And ten minutes a day, every day, for a year, is more than sixty hours. That's a lot of cello.
+HANNAH: Two. Find other beginners. This is so important. When I joined a Korean class, I was terrified that everyone else would be better than me. And some of them were. But some of them were just as bad, and we became friends, and we laugh at our mistakes together. Being bad alone is lonely. Being bad together is a party.
+HANNAH: Three. Find a good teacher. Not necessarily the most famous, or the most expensive. The kindest. A teacher who makes you feel like mistakes are normal. My cello teacher is twenty-three, and she's taught me more about patience than any judge I've ever stood in front of.
+HANNAH: Four. Expect the middle to be boring. Everybody tells you the beginning is hard. And it is, but it's also exciting, because everything is new. The really hard part is the middle. Month three. Month six. When the excitement has gone, and you're still not good, and you've stopped noticing any improvement. That's when most people quit. If you know it's coming, you can get through it. Just keep going. It ends.
+HANNAH: And five. Be bad on purpose, sometimes. This sounds strange, but it really helps. Once a week, I play something far too difficult for me. On purpose. I know it'll be awful. And because I've already decided it'll be awful, there's no pressure. I just enjoy the sound of my own disaster. It's surprisingly relaxing. And sometimes, just sometimes, a few notes come out right, and it feels like a gift.
+[bgm off]
+
+# You Don't Have to Be Good
+[bgm piano.224 0.1]
+HANNAH: Let me finish with the most important thing. The thing that took me the longest to learn.
+HANNAH: You don't have to be good at it.
+HANNAH: We live in a world that wants everything to be [[productive]]. If you like baking, people say you should start a bakery. If you like painting, you should sell your paintings online. If you run, you should be training for a marathon. Every [[hobby]] has to become a business, or a competition, or a goal. We even have a word for it: a "side hustle".
+HANNAH: But some things are worth doing just because they make you feel alive. Not because you'll ever be good. Not because you'll ever make money. Not because anyone will ever be impressed.
+HANNAH: I will never play the cello in a concert hall. I will never win a surfing competition. My Korean will probably always make waiters in Seoul laugh. And that's okay. That's more than okay. That's the point.
+HANNAH: Because being bad at something, and doing it anyway, and loving it anyway, is a kind of freedom. It's freedom from having to be impressive. Freedom from always having to know the answer. Freedom to just... play. The way we did when we were two years old, with spaghetti in our hair.
+HANNAH: So here's my challenge to you. In the next month, start something you're bad at. Something you've always wanted to try, and never did, because you were scared of looking stupid. Take a dance class. Join a choir. Learn to draw a cat. [[Pick up]] an instrument. Learn ten words of a new language.
+HANNAH: Be terrible at it. Be terrible at it in front of people. And notice how it feels.
+HANNAH: I think you'll find, like I did, that the person who's bad at something new is a lot more interesting than the person who's good at the same old things.
+HANNAH: And who knows? In five years, you might be the second-worst cellist in Bristol.
+HANNAH: The position of the worst is taken. I'm keeping it.
+HANNAH: Thank you.
+[bgm off]
+[sfx applause]

@@ -36,4 +36,3 @@ ELLIE (whisper): 気分をつけると速さ・高さ・大きさが変わる（
 - 曲調: lofi citypop acoustic mystery afro space comedy orchestral jazz synthwave piano spooky sports kitchen bossa
 - `[[語]]`・`[[文の中の形|単語帳の形]]` は `~/apps/textbooks/books/ielts/words` にある言葉だけ使える。`tools/mark.py N --dry` で候補を探せる（意味がずれるものは `--skip=語,語` で外す）
 - 大文字だけの強調（CUP など）は読み上げで1文字ずつ読まれることがあるので書かない
-- `drafts/` は書きかけの回（ビルドされない）
